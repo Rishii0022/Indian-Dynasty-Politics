@@ -1,0 +1,545 @@
+#,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Unnamed: 8_level_0,Unnamed: 9_level_0,Unnamed: 10_level_0,Unnamed: 11_level_0,ACs
+#,PC Name,No,Type,State,Winning Candidate,Party,Electors,Votes,Turnout,Margin,Margin %,ACs
+1,Adilabad,35,GEN,Andhra Pradesh,Dr. S. Venugopal Chary,Telugu Desam,1094868,770154,70.3 %,109723,14.2%,AC View
+2,Adoor,17,GEN,Kerala,Kodikunnil Suresh,Indian National Congress,1007138,703008,69.8 %,22006,3.1%,AC View
+3,Agra,73,GEN,Uttar Pradesh [1947 - 1999],Raj Babbar,Samajwadi Party,1250278,642572,51.4 %,112982,17.6%,AC View
+4,Ahmedabad,10,GEN,Gujarat,Harin Pathak,Bharatiya Janta Party,1320165,527744,40.0 %,52968,10.0%,AC View
+5,Ahmednagar,39,GEN,Maharashtra,Dilipkumar Mansukhlal Gandhi,Bharatiya Janta Party,1147112,775866,67.6 %,28457,3.7%,AC View
+6,Ajmer,12,GEN,Rajasthan,Rasa Singh Rawat,Bharatiya Janta Party,1106811,594384,53.7 %,87674,14.8%,AC View
+7,Akbarpur,27,SC,Uttar Pradesh [1947 - 1999],Mayawati,Bahujan Samaj Party,1230232,749450,60.9 %,53386,7.1%,AC View
+8,Akola,19,GEN,Maharashtra,Ambedkar Prakash Yashwant,Bharipa Bahujan Mahasangh,1145140,698216,61.0 %,8716,1.2%,AC View
+9,Aligarh,76,GEN,Uttar Pradesh [1947 - 1999],Sheela Gautam,Bharatiya Janta Party,1253174,564618,45.1 %,80817,14.3%,AC View
+10,Alipurduars,2,ST,West Bengal,Joachim Baxla,Revolutionary Socialist Party,1039377,777585,74.8 %,153133,19.7%,AC View
+11,Allahabad,56,GEN,Uttar Pradesh [1947 - 1999],Dr. Murli Manohar Joshi,Bharatiya Janta Party,1410588,648551,46.0 %,70331,10.8%,AC View
+12,Alleppey,15,GEN,Kerala,V.M. Sudheeran,Indian National Congress,1033539,793041,76.7 %,35094,4.4%,AC View
+13,Almora,3,GEN,Uttar Pradesh [1947 - 1999],Bachi Singh Rawat,Bharatiya Janta Party,965628,403872,41.8 %,11459,2.8%,AC View
+14,Alwar,8,GEN,Rajasthan,Dr. Jaswant Singh Yadav,Bharatiya Janta Party,1156697,619741,53.6 %,57928,9.3%,AC View
+15,Amalapuram,9,SC,Andhra Pradesh,Ganti Mohanachandra Balayogi,Telugu Desam,908257,685230,75.4 %,118879,17.3%,AC View
+16,Ambala,1,SC,Haryana,Rattan Lal Kataria,Bharatiya Janta Party,1091846,698854,64.0 %,124478,17.8%,AC View
+17,Amethi,25,GEN,Uttar Pradesh [1947 - 1999],Sonia Gandhi,Indian National Congress,1110623,638178,57.5 %,300012,47.0%,AC View
+18,Amravati,21,GEN,Maharashtra,Gudhe Anant Mahadeoappa,Shiv Sena,1124886,698233,62.1 %,73652,10.5%,AC View
+19,Amreli,7,GEN,Gujarat,Dileep Sanghani,Bharatiya Janta Party,874521,416598,47.6 %,36324,8.7%,AC View
+20,Amritsar,2,GEN,Punjab,Raghunandan Lal Bhatia,Indian National Congress,1244316,596536,47.9 %,31999,5.4%,AC View
+21,Amroha,6,GEN,Uttar Pradesh [1947 - 1999],Rashid Alvi,Bahujan Samaj Party,1222239,778257,63.7 %,93225,12.0%,AC View
+22,Anakapalli,6,GEN,Andhra Pradesh,Ganta Srinivasa Rao,Telugu Desam,1035708,764079,73.8 %,58464,7.7%,AC View
+23,Anand,20,GEN,Gujarat,Patel Dipakbhai Chimanbhai (Sathi),Bharatiya Janta Party,1047272,560573,53.5 %,3661,0.7%,AC View
+24,Anantapur,25,GEN,Andhra Pradesh,Kalava Srinivasulu,Telugu Desam,1226314,772471,63.0 %,21102,2.7%,AC View
+25,Anantnag,3,GEN,Jammu & Kashmir,Ali Mohd Naik,Jammu & Kashmir National Conference,804911,115243,14.3 %,13492,11.7%,AC View
+26,Andaman & Nicobar Islands,1,GEN,Andaman & Nicobar Islands,Bishnu Pada Ray,Bharatiya Janta Party,247384,147102,59.5 %,13947,9.5%,AC View
+27,Aonla,11,GEN,Uttar Pradesh [1947 - 1999],Kunwar Sarvraj Singh,Samajwadi Party,1008983,592306,58.7 %,17626,3.0%,AC View
+28,Arakkonam,6,SC,Tamil Nadu,"Jagathrakshakan, S. Dr.",Dravida Munetra Kazhagam,1120043,742796,66.3 %,95644,12.9%,AC View
+29,Arambagh,28,GEN,West Bengal,Anil Basu,Communist Party Of India (MARXIST),1143407,944408,82.6 %,116721,12.4%,AC View
+30,Araria,22,SC,Bihar [1947 - 1999],Sukdeo Paswan,Rashtriya Janata Dal,1043070,648975,62.2 %,2169,0.3%,AC View
+31,Arrah,36,GEN,Bihar [1947 - 1999],Ram Prasad Singh,Rashtriya Janata Dal,1121825,689472,61.5 %,92282,13.4%,AC View
+32,Arunachal East,2,GEN,Arunachal Pradesh,Wangcha Rajkumar,Indian National Congress,265446,196263,73.9 %,41403,21.1%,AC View
+33,Arunachal West,1,GEN,Arunachal Pradesh,Jarbom Gamlin,Indian National Congress,346126,244968,70.8 %,60723,24.8%,AC View
+34,Asansol,38,SC,West Bengal,Bikash Chowdhury,Communist Party Of India (MARXIST),1265480,829147,65.5 %,37864,4.6%,AC View
+35,Aska,10,GEN,Orissa,Naveen Patnaik,Biju Janata Dal,1175865,485324,41.3 %,256736,52.9%,AC View
+36,Aurangabad,40,GEN,Bihar [1947 - 1999],Shyama Singh,Indian National Congress,1091472,683925,62.7 %,70416,10.3%,AC View
+37,Aurangabad,33,GEN,Maharashtra,Chandrakant Khaire,Shiv Sena,1372209,906465,66.1 %,55889,6.2%,AC View
+38,Autonomous District,3,ST,Assam,Dr Jayanta Rongpi,Communist Party Of India (MARXIST-LENINIST) (LIBERATION),535818,396516,74.0 %,59875,15.1%,AC View
+39,Azamgarh,45,GEN,Uttar Pradesh [1947 - 1999],Rama Kant Yadav,Samajwadi Party,1215261,661604,54.4 %,26979,4.1%,AC View
+40,Badagara,3,GEN,Kerala,A.K. Premajam,Communist Party Of India (MARXIST),1155934,861933,74.6 %,25844,3.0%,AC View
+41,Bagaha,1,SC,Bihar [1947 - 1999],Mahendra Baitha,Janata Dal (United),1028588,579180,56.3 %,54751,9.5%,AC View
+42,Bagalkot,27,GEN,Karnataka,R.S. Patil,Indian National Congress,1127960,783829,69.5 %,76434,9.8%,AC View
+43,Baghpat,81,GEN,Uttar Pradesh [1947 - 1999],Ajit Singh,Rashtriya Lok Dal,1321056,754521,57.1 %,154419,20.5%,AC View
+44,Bahraich,31,GEN,Uttar Pradesh [1947 - 1999],Padamsen Chaudhary,Bharatiya Janta Party,1226445,604614,49.3 %,5751,1.0%,AC View
+45,Balaghat,23,GEN,Madhya Pradesh [1947 - 1999],Prahladsingh Patel,Bharatiya Janta Party,916432,583843,63.7 %,20678,3.5%,AC View
+46,Balasore,2,ST,Orissa,Mahameghabahan Aira Kharabela Swain,Bharatiya Janta Party,1242578,775874,62.4 %,136372,17.6%,AC View
+47,Balia,19,GEN,Bihar [1947 - 1999],Ramjivan Singh,Janata Dal (United),996579,506250,50.8 %,12032,2.4%,AC View
+48,Ballia,43,GEN,Uttar Pradesh [1947 - 1999],Chandra Shekhar,Samajwadi Janata Party (RASHTRIYA),1287826,619524,48.1 %,55675,9.0%,AC View
+49,Balrampur,32,GEN,Uttar Pradesh [1947 - 1999],Rizvan Zaheer Alias Rijju Bhaiya,Samajwadi Party,1164886,677854,58.2 %,20157,3.0%,AC View
+50,Balurghat,6,GEN,West Bengal,Barman Ranen,Revolutionary Socialist Party,1107468,851433,76.9 %,62921,7.4%,AC View
+51,Banaskantha,14,GEN,Gujarat,Chaudhary Haribhai Parthibhai,Bharatiya Janta Party,1106766,603174,54.5 %,25976,4.3%,AC View
+52,Banda,59,GEN,Uttar Pradesh [1947 - 1999],Ram Sajiwan,Bahujan Samaj Party,1158052,589303,50.9 %,28631,4.9%,AC View
+53,Bangalore North,12,GEN,Karnataka,C.K Jaffar Sharief,Indian National Congress,1827941,1028370,56.3 %,175605,17.1%,AC View
+54,Bangalore South,13,GEN,Karnataka,Ananth Kumar,Bharatiya Janta Party,1487215,805034,54.1 %,66054,8.2%,AC View
+55,Banka,29,GEN,Bihar [1947 - 1999],Digvijay Singh,Janata Dal (United),1064049,635956,59.8 %,21408,3.4%,AC View
+56,Bankura,35,GEN,West Bengal,Acharia Basudeb,Communist Party Of India (MARXIST),1041325,741303,71.2 %,106998,14.4%,AC View
+57,Bansgaon,37,SC,Uttar Pradesh [1947 - 1999],Raj Narayan Pasi,Bharatiya Janta Party,1279729,608738,47.6 %,9688,1.6%,AC View
+58,Banswara,16,GEN,Rajasthan,Tara Chand Bhagora,Indian National Congress,1182232,657518,55.6 %,116264,17.7%,AC View
+59,Bapatla,16,GEN,Andhra Pradesh,D. Rama Naidu,Telugu Desam,1077815,727105,67.5 %,92457,12.7%,AC View
+60,Bara Banki,29,SC,Uttar Pradesh [1947 - 1999],Ram Sagar,Samajwadi Party,1089797,631347,57.9 %,55278,8.8%,AC View
+61,Baramati,43,GEN,Maharashtra,Pawar Sharadchandra Govindrao,Nationalist Congress Party,1462248,923036,63.1 %,298903,32.4%,AC View
+62,Baramulla,1,GEN,Jammu & Kashmir,Abdul Rashid Shaheen,Jammu & Kashmir National Conference,763639,212180,27.8 %,36113,17.0%,AC View
+63,Barasat,13,SC,West Bengal,Dr.Ranjit Kumar Panja,All India Trinamool Congress,1303217,1043590,80.1 %,96900,9.3%,AC View
+64,Bareilly,12,GEN,Uttar Pradesh [1947 - 1999],Santosh Gangwar,Bharatiya Janta Party,1133481,663548,58.5 %,134700,20.3%,AC View
+65,Barh,18,GEN,Bihar [1947 - 1999],Nitish Kumar,Janata Dal (United),1081353,759663,70.3 %,1335,0.2%,AC View
+66,Barmer,23,GEN,Rajasthan,Col. Sonaram Choudhary,Indian National Congress,1418389,841359,59.3 %,32140,3.8%,AC View
+67,Baroda,22,GEN,Gujarat,Jayaben Thakkar,Bharatiya Janta Party,1438964,596790,41.5 %,92649,15.5%,AC View
+68,Barpeta,6,GEN,Assam,A F Golam Osmani,Indian National Congress,1023625,767914,75.0 %,89362,11.6%,AC View
+69,Barrackpore,19,SC,West Bengal,Tarit Baran Topdar,Communist Party Of India (MARXIST),1040220,845189,81.3 %,40775,4.8%,AC View
+70,Basirhat,14,SC,West Bengal,Ajoy Chakraborty,Communist Party Of India,1071134,866835,80.9 %,82587,9.5%,AC View
+71,Bastar,20,ST,Madhya Pradesh [1947 - 1999],Baliram Kashyap,Bharatiya Janta Party,954405,375604,39.4 %,20737,5.5%,AC View
+72,Basti,34,SC,Uttar Pradesh [1947 - 1999],Shriram Chauhan,Bharatiya Janta Party,1181116,593932,50.3 %,1832,0.3%,AC View
+73,Bayana,10,SC,Rajasthan,Bahadur Singh,Bharatiya Janta Party,1092622,498957,45.7 %,33332,6.7%,AC View
+74,Beed,34,GEN,Maharashtra,Jaysingrao Gaikwad Patil,Bharatiya Janta Party,1175871,851591,72.4 %,51190,6.0%,AC View
+75,Begusarai,33,GEN,Bihar [1947 - 1999],Rajo Singh,Indian National Congress,1110888,641348,57.7 %,19950,3.1%,AC View
+76,Belgaum,25,GEN,Karnataka,Amarsinh Vasantarao Patil,Indian National Congress,1230574,824061,67.0 %,49898,6.1%,AC View
+77,Bellary,5,SC,Karnataka,Sonia Gandhi,Indian National Congress,1213055,847219,69.8 %,56100,6.6%,AC View
+78,Berhampore,10,GEN,West Bengal,Adhir Ranjan Chowdhury,Indian National Congress,1212554,937646,77.3 %,95391,10.2%,AC View
+79,Berhampur,11,GEN,Orissa,Anadicharan Sahu,Bharatiya Janta Party,1159468,580577,50.1 %,54123,9.3%,AC View
+80,Bettiah,2,GEN,Bihar [1947 - 1999],Dr Madan Prasad Jaiswal,Bharatiya Janta Party,1098637,696181,63.4 %,39650,5.7%,AC View
+81,Betul,28,GEN,Madhya Pradesh [1947 - 1999],"Vijay Kumar Khandelwal "" Munni Bhaiya""",Bharatiya Janta Party,1021086,546338,53.5 %,64472,11.8%,AC View
+82,Bhadrachalam,5,ST,Andhra Pradesh,Dumpa Mary Vijaya Kumari,Telugu Desam,1085536,759883,70.0 %,37103,4.9%,AC View
+83,Bhadrak,3,GEN,Orissa,Arjun Charan Sethi,Biju Janata Dal,1195146,684329,57.3 %,122433,17.9%,AC View
+84,Bhagalpur,30,GEN,Bihar [1947 - 1999],Subodh Ray,Communist Party Of India (MARXIST),1232833,679321,55.1 %,45540,6.7%,AC View
+85,Bhandara,24,GEN,Maharashtra,Chunnilalbhau Thakur,Bharatiya Janta Party,938648,663106,70.6 %,3819,0.6%,AC View
+86,Bharatpur,9,SC,Rajasthan,Vishvendra Singh,Bharatiya Janta Party,1060582,577462,54.5 %,97018,16.8%,AC View
+87,Bhatinda,11,GEN,Punjab,Bhan Singh Bhaura,Communist Party Of India,1217731,656684,53.9 %,61317,9.3%,AC View
+88,Bhavnagar,8,SC,Gujarat,Rana Rajendrasinh Ghanshyamsinh (Rajubhai Rana),Bharatiya Janta Party,1023921,445277,43.5 %,101353,22.8%,AC View
+89,Bhilwara,20,ST,Rajasthan,Vijayendra Pal Singh,Bharatiya Janta Party,1136950,607664,53.5 %,14229,2.3%,AC View
+90,Bhind,2,GEN,Madhya Pradesh [1947 - 1999],Dr. Ramlakhan Singh,Bharatiya Janta Party,1305016,667131,51.1 %,53574,8.0%,AC View
+91,Bhiwani,8,GEN,Haryana,Ajay Singh Chautala,Indian National Lok Dal,1053603,740347,70.3 %,203406,27.5%,AC View
+92,Bhopal,30,GEN,Madhya Pradesh [1947 - 1999],Uma Bharti,Bharatiya Janta Party,1578355,976686,61.9 %,168864,17.3%,AC View
+93,Bhubaneswar,9,GEN,Orissa,Prasanna Kumar Patasani,Biju Janata Dal,1318560,625351,47.4 %,233961,37.4%,AC View
+94,Bidar,1,GEN,Karnataka,Ramchandra Veerappa,Bharatiya Janta Party,1200598,761460,63.4 %,152033,20.0%,AC View
+95,Bijapur,28,SC,Karnataka,Basangouda Ramangouda Patil(Yatnal),Bharatiya Janta Party,1182826,746290,63.1 %,36639,4.9%,AC View
+96,Bijnor,5,SC,Uttar Pradesh [1947 - 1999],Sheeshram Singh Ravi,Bharatiya Janta Party,1276433,711282,55.7 %,23700,3.3%,AC View
+97,Bikaner,2,SC,Rajasthan,Rameshwar Lal Dudi,Indian National Congress,1762589,946682,53.7 %,94509,10.0%,AC View
+98,Bikramganj,39,GEN,Bihar [1947 - 1999],Kanti Singh,Rashtriya Janata Dal,1128738,742514,65.8 %,34768,4.7%,AC View
+99,Bilaspur,15,SC,Madhya Pradesh [1947 - 1999],Punnulal Mohale,Bharatiya Janta Party,1107061,534333,48.3 %,75333,14.1%,AC View
+100,Bilhaur,64,GEN,Uttar Pradesh [1947 - 1999],Shyam Bihari Mishra,Bharatiya Janta Party,1261013,638771,50.7 %,3223,0.5%,AC View
+101,Birbhum,42,GEN,West Bengal,Ram Chandra Dome,Communist Party Of India (MARXIST),1043876,734173,70.3 %,157156,21.4%,AC View
+102,Bobbili,3,GEN,Andhra Pradesh,Botcha Satyanarayana,Indian National Congress,949773,716703,75.5 %,3821,0.5%,AC View
+103,Bolangir,16,SC,Orissa,Sangeeta Kumari Singh Deo,Bharatiya Janta Party,1051199,642761,61.2 %,180979,28.2%,AC View
+104,Bolpur,41,SC,West Bengal,Somnath Chatterjee,Communist Party Of India (MARXIST),1037427,792871,76.4 %,186389,23.5%,AC View
+105,Broach,23,ST,Gujarat,Mansukhbhai Vasava,Bharatiya Janta Party,1096772,591461,53.9 %,47140,8.0%,AC View
+106,Budaun,10,GEN,Uttar Pradesh [1947 - 1999],Saleem Iqbal Shervani,Samajwadi Party,1108847,610270,55.0 %,41314,6.8%,AC View
+107,Bulandshahr,78,GEN,Uttar Pradesh [1947 - 1999],Chhatra Pal,Bharatiya Janta Party,1098334,499074,45.4 %,61929,12.4%,AC View
+108,Buldhana,18,GEN,Maharashtra,Adsul Anandrao Vithoba,Shiv Sena,1039128,743613,71.6 %,45007,6.1%,AC View
+109,Bulsar,26,ST,Gujarat,Manibhai Ramjibhai Chaudhari,Bharatiya Janta Party,1151087,596510,51.8 %,26786,4.5%,AC View
+110,Burdwan,39,GEN,West Bengal,Sar Nikhilananda,Communist Party Of India (MARXIST),1216764,984678,80.9 %,301683,30.6%,AC View
+111,Buxar,37,GEN,Bihar [1947 - 1999],Lal Muni Choubey,Bharatiya Janta Party,1029419,609414,59.2 %,11606,1.9%,AC View
+112,Calcutta North East,22,GEN,West Bengal,Ajit Kumar Panja,All India Trinamool Congress,924613,658740,71.2 %,41574,6.3%,AC View
+113,Calcutta North West,21,GEN,West Bengal,Sudip Bandyopadhyay,All India Trinamool Congress,704009,444043,63.1 %,94170,21.2%,AC View
+114,Calcutta South,23,GEN,West Bengal,Mamata Banerjee,All India Trinamool Congress,1202607,805268,67.0 %,214008,26.6%,AC View
+115,Calicut,4,GEN,Kerala,K. Muraleedharan,Indian National Congress,1124640,826901,73.5 %,50402,6.1%,AC View
+116,Cannanore,2,GEN,Kerala,A.P. Abdullakkutty,Communist Party Of India (MARXIST),1121192,886354,79.1 %,10247,1.2%,AC View
+117,Chail,57,SC,Uttar Pradesh [1947 - 1999],Suresh Pasi,Bahujan Samaj Party,1310550,515937,39.4 %,29285,5.7%,AC View
+118,Chamarajanagar,15,GEN,Karnataka,V.Sreenivasaprasad,Janata Dal (United),1101851,811900,73.7 %,16146,2.0%,AC View
+119,Chandauli,51,GEN,Uttar Pradesh [1947 - 1999],Jawahar Lal Jaiswal,Samajwadi Party,1340398,738159,55.1 %,73529,10.0%,AC View
+120,Chandigarh,1,GEN,Chandigarh,Pawan Kumar Bansal,Indian National Congress,585006,282879,48.4 %,5449,1.9%,AC View
+121,Chandni Chowk,5,SC,Delhi [1977 Onwards],Vijay Goel,Bharatiya Janta Party,376654,204453,54.3 %,1995,1.0%,AC View
+122,Chandrapur,26,GEN,Maharashtra,Puglia Nareshkumar Chunnalal,Indian National Congress,1224338,828220,67.7 %,2837,0.3%,AC View
+123,Chapra,7,GEN,Bihar [1947 - 1999],Rajiv Pratap Rudi,Bharatiya Janta Party,1003426,778714,77.6 %,43553,5.6%,AC View
+124,Chatra,44,GEN,Bihar [1947 - 1999],Nagmani,Rashtriya Janata Dal,1015184,426241,42.0 %,55099,12.9%,AC View
+125,Chengalpattu,5,GEN,Tamil Nadu,"Moorthy, A.K.",Pattali Makkal Katchi,1200040,699911,58.3 %,12811,1.8%,AC View
+126,Chhindwara,27,GEN,Madhya Pradesh [1947 - 1999],Kamal Nath,Indian National Congress,1055697,636741,60.3 %,188928,29.7%,AC View
+127,Chhota Udaipur,21,ST,Gujarat,Ramsinh Rathawa,Bharatiya Janta Party,962525,525505,54.6 %,1198,0.2%,AC View
+128,Chidambaram,12,GEN,Tamil Nadu,"Ponnuswamy, E.",Pattali Makkal Katchi,1110229,732994,66.0 %,119563,16.3%,AC View
+129,Chikballapur,9,ST,Karnataka,R.L. Jalappa,Indian National Congress,1189272,850230,71.5 %,211186,24.8%,AC View
+130,Chikkodi,26,GEN,Karnataka,Jigajinagi Rameshchandappa,Janata Dal (United),1094053,768685,70.3 %,84590,11.0%,AC View
+131,Chikmagalur,20,GEN,Karnataka,D.C.Srikantappa,Bharatiya Janta Party,1050838,741895,70.6 %,30277,4.1%,AC View
+132,Chimur,25,GEN,Maharashtra,Diwathe Namdeo Harbaji,Bharatiya Janta Party,1013322,780721,77.1 %,70040,9.0%,AC View
+133,Chirayinkil,19,GEN,Kerala,Varkala Radhakrishnan,Communist Party Of India (MARXIST),1096417,691113,63.0 %,3128,0.5%,AC View
+134,Chitradurga,7,GEN,Karnataka,Shashi Kumar,Janata Dal (United),1177238,868544,73.8 %,11178,1.3%,AC View
+135,Chittoor,21,GEN,Andhra Pradesh,Noothana Kalva Ramakrishna Reddy,Telugu Desam,1140219,853778,74.9 %,18638,2.2%,AC View
+136,Chittorgarh,19,ST,Rajasthan,Shrichand Kriplani,Bharatiya Janta Party,1248906,820674,65.7 %,37377,4.6%,AC View
+137,Churu,3,GEN,Rajasthan,Ram Singh Kaswan,Bharatiya Janta Party,1239736,685792,55.3 %,46809,6.8%,AC View
+138,Coimbatore,20,GEN,Tamil Nadu,"Radhakrishnan, C.P.",Bharatiya Janta Party,1571475,874136,55.6 %,54077,6.2%,AC View
+139,Contai,31,GEN,West Bengal,Neetish Sengupta,All India Trinamool Congress,990917,823941,83.2 %,12133,1.5%,AC View
+140,Cooch Behar,1,SC,West Bengal,Amar Roy Pradhan,All India Forward Bloc,1116523,902487,80.8 %,108165,12.0%,AC View
+141,Cuddalore,11,GEN,Tamil Nadu,"Sankar, Adhi",Dravida Munetra Kazhagam,1136122,724354,63.8 %,73953,10.2%,AC View
+142,Cuddapah,23,GEN,Andhra Pradesh,Vivekananda Reddy Y.S.,Indian National Congress,1090670,739109,67.8 %,26597,3.6%,AC View
+143,Cuttack,6,GEN,Orissa,Bhartruhari Mahtab,Biju Janata Dal,1215249,624984,51.4 %,205317,32.9%,AC View
+144,Dadra & Nagar Haveli,1,GEN,Dadra & Nagar Haveli,Delkar Mohanbhai Sanjibhai,Independent,98376,73507,74.7 %,14878,20.2%,AC View
+145,Dahanu,11,GEN,Maharashtra,Adv Chintaman Wanaga,Bharatiya Janta Party,1434678,708881,49.4 %,62270,8.8%,AC View
+146,Dahod,17,GEN,Gujarat,Katara Babubhai Khimabhai,Bharatiya Janta Party,1028979,477887,46.4 %,12431,2.6%,AC View
+147,Daman And Diu,1,GEN,Daman & Diu,Patel Dahyabhai Vallabhbhai,Indian National Congress,72216,51811,71.7 %,3226,6.2%,AC View
+148,Damoh,7,GEN,Madhya Pradesh [1947 - 1999],Dr. Ramkrishna Kusmaria,Bharatiya Janta Party,1240626,571868,46.1 %,13719,2.4%,AC View
+149,Darbhanga,15,GEN,Bihar [1947 - 1999],Kirti Azad,Bharatiya Janta Party,1043388,766168,73.4 %,55548,7.3%,AC View
+150,Darjeeling,4,GEN,West Bengal,S.P. Lepcha,Communist Party Of India (MARXIST),1276753,590023,46.2 %,111969,19.0%,AC View
+151,Dausa,7,GEN,Rajasthan,Rajesh Pilot,Indian National Congress,1261758,752241,59.6 %,6902,0.9%,AC View
+152,Davangere,6,ST,Karnataka,G.Mallikarjunappa,Bharatiya Janta Party,1217506,882717,72.5 %,16269,1.8%,AC View
+153,Delhi Sadar,6,GEN,Delhi [1977 Onwards],Madan Lal Khurana,Bharatiya Janta Party,529646,278297,52.5 %,13870,5.0%,AC View
+154,Deogarh,18,GEN,Orissa,Debendra Pradhan,Bharatiya Janta Party,1168931,690605,59.1 %,86869,12.6%,AC View
+155,Deoria,41,GEN,Uttar Pradesh [1947 - 1999],Shri Prakash Mani,Bharatiya Janta Party,1275208,704710,55.3 %,42141,6.0%,AC View
+156,Dhanbad,47,GEN,Bihar [1947 - 1999],Rita Verma,Bharatiya Janta Party,1433645,771044,53.8 %,14226,1.8%,AC View
+157,Dhandhuka,9,GEN,Gujarat,Varma Ratilal Kalidas,Bharatiya Janta Party,1029877,472898,45.9 %,5223,1.1%,AC View
+158,Dhar,36,ST,Madhya Pradesh [1947 - 1999],Gajendra Singh Rajukhedi,Indian National Congress,1157368,698901,60.4 %,34105,4.9%,AC View
+159,Dharmapuri,13,SC,Tamil Nadu,"Elangovan, P.D.",Pattali Makkal Katchi,1226879,728960,59.4 %,25540,3.5%,AC View
+160,Dharwad North,24,GEN,Karnataka,Vijay Sankeshwar,Bharatiya Janta Party,1121461,752900,67.1 %,41602,5.5%,AC View
+161,Dharwad South,23,GEN,Karnataka,Prof. I.G. Sanadi,Indian National Congress,1088328,799552,73.5 %,39198,4.9%,AC View
+162,Dhenkanal,19,GEN,Orissa,Kamakhya Prasad Singh Deo,Indian National Congress,1118853,611061,54.6 %,3674,0.6%,AC View
+163,Dhubri,4,GEN,Assam,Abdul Hamid,Indian National Congress,1050547,825531,78.6 %,21340,2.6%,AC View
+164,Dhule,14,GEN,Maharashtra,Ramdas Rupla Gavit,Bharatiya Janta Party,1102845,626353,56.8 %,12985,2.1%,AC View
+165,Diamond Harbour,17,GEN,West Bengal,Samik Lahiri,Communist Party Of India (MARXIST),1136879,858209,75.5 %,71163,8.3%,AC View
+166,Dibrugarh,13,GEN,Assam,Paban Singh Ghatowar,Indian National Congress,945785,578810,61.2 %,67116,11.6%,AC View
+167,Dindigul,23,GEN,Tamil Nadu,"Sreenivaasan, C.",All India Anna Dravida Munnetra Kazhagam,1194616,686477,57.5 %,20343,3.0%,AC View
+168,Domariaganj,35,GEN,Uttar Pradesh [1947 - 1999],Ram Pal Singh,Bharatiya Janta Party,1146572,624312,54.5 %,35567,5.7%,AC View
+169,Dum Dum,20,SC,West Bengal,Tapan Sikdar,Bharatiya Janta Party,1598044,1209926,75.7 %,134561,11.1%,AC View
+170,Dumka,27,ST,Bihar [1947 - 1999],Babu Lal Marandi,Bharatiya Janta Party,951280,554237,58.3 %,4648,0.8%,AC View
+171,Durg,21,GEN,Madhya Pradesh [1947 - 1999],Tara Chand Sahu,Bharatiya Janta Party,1329978,772240,58.1 %,44518,5.8%,AC View
+172,Durgapur,37,SC,West Bengal,Sunil Khan,Communist Party Of India (MARXIST),1212641,885335,73.0 %,117963,13.3%,AC View
+173,East Delhi,4,GEN,Delhi [1977 Onwards],Lal Bihari Tiwari,Bharatiya Janta Party,2393813,1038278,43.4 %,82760,8.0%,AC View
+174,Eluru,11,GEN,Andhra Pradesh,Bolla Bulli Ramaiah,Telugu Desam,1147205,852429,74.3 %,62231,7.3%,AC View
+175,Erandol,16,GEN,Maharashtra,Annasaheb M K Patil,Bharatiya Janta Party,1082958,679754,62.8 %,104456,15.4%,AC View
+176,Ernakulam,11,GEN,Kerala,Adv. George Eden,Indian National Congress,1180911,776933,65.8 %,111305,14.3%,AC View
+177,Etah,71,GEN,Uttar Pradesh [1947 - 1999],Kr. Devendra Singh Yadav,Samajwadi Party,1036859,595040,57.4 %,52524,8.8%,AC View
+178,Etawah,66,GEN,Uttar Pradesh [1947 - 1999],Raghuraj Singh Shakya,Samajwadi Party,1148723,608768,53.0 %,83683,13.7%,AC View
+179,Faizabad,28,GEN,Uttar Pradesh [1947 - 1999],Vinay Katiyar,Bharatiya Janta Party,1228752,666543,54.3 %,57562,8.6%,AC View
+180,Faridabad,6,GEN,Haryana,Ram Chander Bainda,Bharatiya Janta Party,1330157,755003,56.8 %,34248,4.5%,AC View
+181,Faridkot,12,GEN,Punjab,Jagmeet Singh Brar,Indian National Congress,1224531,871755,71.2 %,5148,0.6%,AC View
+182,Farrukhabad,68,GEN,Uttar Pradesh [1947 - 1999],Chandra Bhushan Singh (Munnoo Babu),Samajwadi Party,1241968,640642,51.6 %,62562,9.8%,AC View
+183,Fatehpur,58,GEN,Uttar Pradesh [1947 - 1999],Ashok Patel,Bharatiya Janta Party,1171111,545594,46.6 %,1063,0.2%,AC View
+184,Ferozepur,13,GEN,Punjab,Zora Singh,Shiromani Akali Dal,1214129,756925,62.3 %,14861,2.0%,AC View
+185,Firozabad,72,SC,Uttar Pradesh [1947 - 1999],Ram Jilal Suman,Samajwadi Party,1157680,583195,50.4 %,83368,14.3%,AC View
+186,Gandhinagar,11,GEN,Gujarat,Lal Krishna Advani,Bharatiya Janta Party,1833844,741283,40.4 %,188944,25.5%,AC View
+187,Ganganagar,1,SC,Rajasthan,Nihal Chand,Bharatiya Janta Party,1269075,670032,52.8 %,95886,14.3%,AC View
+188,Garhwal,2,GEN,Uttar Pradesh [1947 - 1999],Maj Gen. (Rtd) Bhuwan Chandra Khanduri(A.V.S.M.),Bharatiya Janta Party,1036876,481176,46.4 %,29682,6.2%,AC View
+189,Gauhati,7,GEN,Assam,Bijoya Chakravarty,Bharatiya Janta Party,1354869,858028,63.3 %,75238,8.8%,AC View
+190,Gaya,43,SC,Bihar [1947 - 1999],Ramji Manjhi,Bharatiya Janta Party,1056530,647985,61.3 %,20783,3.2%,AC View
+191,Ghatampur,63,SC,Uttar Pradesh [1947 - 1999],Pyare Lal Sankhwar,Bahujan Samaj Party,1112727,563152,50.6 %,105,0.0%,AC View
+192,Ghazipur,50,GEN,Uttar Pradesh [1947 - 1999],Manoj,Bharatiya Janta Party,1300013,743074,57.2 %,11033,1.5%,AC View
+193,Ghosi,44,GEN,Uttar Pradesh [1947 - 1999],Bal Krishna,Bahujan Samaj Party,1216056,686389,56.4 %,36501,5.3%,AC View
+194,Giridih,46,GEN,Bihar [1947 - 1999],Ravindra Kumar Pandey,Bharatiya Janta Party,1115417,540501,48.5 %,19824,3.7%,AC View
+195,Gobichettipalayam,19,SC,Tamil Nadu,"Kaliappan, K.K.",All India Anna Dravida Munnetra Kazhagam,1066362,642800,60.3 %,30012,4.7%,AC View
+196,Godda,28,GEN,Bihar [1947 - 1999],Jagdambi Prasad Yadav,Bharatiya Janta Party,1087573,642006,59.0 %,79892,12.4%,AC View
+197,Godhra,18,GEN,Gujarat,Solanki Bhupendrasinh Prabhatsinh,Bharatiya Janta Party,1020262,483245,47.4 %,95022,19.7%,AC View
+198,Gonda,33,GEN,Uttar Pradesh [1947 - 1999],Braj Bhushan Sharan Singh,Bharatiya Janta Party,1159190,587726,50.7 %,59197,10.1%,AC View
+199,Gopalganj,4,GEN,Bihar [1947 - 1999],Raghunath Jha,Janata Dal (United),1176915,750762,63.8 %,36124,4.8%,AC View
+200,Gorakhpur,38,GEN,Uttar Pradesh [1947 - 1999],Aditya Nath,Bharatiya Janta Party,1261260,658471,52.2 %,7339,1.1%,AC View
+201,Gulbarga,2,GEN,Karnataka,Iqbal Ahemed Saradgi,Indian National Congress,1280563,773746,60.4 %,69837,9.0%,AC View
+202,Guna,4,GEN,Madhya Pradesh [1947 - 1999],Madhav Rao Scindia,Indian National Congress,1280953,689219,53.8 %,214428,31.1%,AC View
+203,Guntur,15,GEN,Andhra Pradesh,Yemparala Venkateswararao,Telugu Desam,1239626,794709,64.1 %,40330,5.1%,AC View
+204,Gurdaspur,1,GEN,Punjab,Vinod Khanna,Bharatiya Janta Party,1122008,677041,60.3 %,1399,0.2%,AC View
+205,Gwalior,3,GEN,Madhya Pradesh [1947 - 1999],Jaibhan Singh Pavaiya,Bharatiya Janta Party,1280141,616741,48.2 %,83116,13.5%,AC View
+206,Hajipur,8,SC,Bihar [1947 - 1999],Ram Vilas Paswan,Janata Dal (United),1064323,790448,74.3 %,105504,13.3%,AC View
+207,Hamirpur,4,SC,Himachal Pradesh,Suresh Chandel,Bharatiya Janta Party,937500,559673,59.7 %,129247,23.1%,AC View
+208,Hamirpur,60,GEN,Uttar Pradesh [1947 - 1999],Ashok Kumar Singh Chandel,Bahujan Samaj Party,1057352,622575,58.9 %,11664,1.9%,AC View
+209,Hanamkonda,38,GEN,Andhra Pradesh,Chada Suresh Reddy,Telugu Desam,1118951,756778,67.6 %,85781,11.3%,AC View
+210,Hapur,79,GEN,Uttar Pradesh [1947 - 1999],Ramesh Chand Tomar,Bharatiya Janta Party,1568097,736839,47.0 %,11958,1.6%,AC View
+211,Hardoi,19,SC,Uttar Pradesh [1947 - 1999],Jai Prakash,Akhil Bhartiya Lok Tantrik Congress,1083894,560331,51.7 %,5404,1.0%,AC View
+212,Hardwar,85,SC,Uttar Pradesh [1947 - 1999],Harpal Singh Sathi,Bharatiya Janta Party,1183770,673563,56.9 %,32847,4.9%,AC View
+213,Hassan,19,GEN,Karnataka,G.Putta Swamy Gowda,Indian National Congress,1217049,892801,73.4 %,141757,15.9%,AC View
+214,Hathras,75,SC,Uttar Pradesh [1947 - 1999],Kishan Lal Diler,Bharatiya Janta Party,1138146,467558,41.1 %,68407,14.6%,AC View
+215,Hazaribagh,48,GEN,Bihar [1947 - 1999],Yashwant Sinha,Bharatiya Janta Party,1213735,600310,49.5 %,182642,30.4%,AC View
+216,Hindupur,24,GEN,Andhra Pradesh,B.K. Parthasarathi,Telugu Desam,1151606,792868,68.9 %,134636,17.0%,AC View
+217,Hingoli,29,GEN,Maharashtra,Mane Shivaji Gyanbarao,Shiv Sena,1033944,732626,70.9 %,80655,11.0%,AC View
+218,Hissar,9,GEN,Haryana,Surender Singh Barwala,Indian National Lok Dal,1025344,646513,63.1 %,160452,24.8%,AC View
+219,Hooghly,27,GEN,West Bengal,Rupchand Pal,Communist Party Of India (MARXIST),1160870,930831,80.2 %,12485,1.3%,AC View
+220,Hoshangabad,29,GEN,Madhya Pradesh [1947 - 1999],Sundar Lal Patwa,Bharatiya Janta Party,1153365,687218,59.6 %,44447,6.5%,AC View
+221,Hoshiarpur,6,GEN,Punjab,Charanjit Singh Channi,Indian National Congress,1112971,585901,52.6 %,34206,5.8%,AC View
+222,Howrah,24,GEN,West Bengal,Swadesh Chakraborty,Communist Party Of India (MARXIST),1381960,995422,72.0 %,103449,10.4%,AC View
+223,Hyderabad,30,GEN,Andhra Pradesh,Sultan Salahuddin Owaisi,All India Majlis-E-Ittehadul Muslimoon,1567225,1083678,69.2 %,60821,5.6%,AC View
+224,Ichalkaranji,47,GEN,Maharashtra,Mane Nivedita Sambhajirao,Nationalist Congress Party,1116659,810963,72.6 %,12812,1.6%,AC View
+225,Idukki,14,GEN,Kerala,K. Francis George,Kerala Congress,1121484,778940,69.5 %,9298,1.2%,AC View
+226,Indore,37,GEN,Madhya Pradesh [1947 - 1999],Sumitra Mahajan,Bharatiya Janta Party,1478108,834579,56.5 %,131315,15.7%,AC View
+227,Inner Manipur,1,GEN,Manipur,Th. Chaoba,Manipur State Congress Party,657928,446627,67.9 %,8195,1.8%,AC View
+228,Jabalpur,25,GEN,Madhya Pradesh [1947 - 1999],Jaishree Banerjee ( Bhabhi Ji),Bharatiya Janta Party,1241478,533865,43.0 %,109754,20.6%,AC View
+229,Jadavpur,18,GEN,West Bengal,Krishna Bose,All India Trinamool Congress,1403413,1005286,71.6 %,66765,6.6%,AC View
+230,Jagatsinghpur,7,SC,Orissa,Trilochan Kanungo,Biju Janata Dal,1233063,763694,61.9 %,149282,19.5%,AC View
+231,Jahanabad,41,GEN,Bihar [1947 - 1999],Arun Kumar,Janata Dal (United),1105202,786107,71.1 %,17287,2.2%,AC View
+232,Jaipur,6,GEN,Rajasthan,Girdhari Lal Bhargava,Bharatiya Janta Party,1753765,808579,46.1 %,141790,17.5%,AC View
+233,Jajpur,4,ST,Orissa,Jagannath Mallik,Biju Janata Dal,1171211,599079,51.2 %,113984,19.0%,AC View
+234,Jalaun,62,SC,Uttar Pradesh [1947 - 1999],Brij Lal Khabri,Bahujan Samaj Party,1164371,581802,50.0 %,13352,2.3%,AC View
+235,Jalesar,70,GEN,Uttar Pradesh [1947 - 1999],Prof. S.P. Singh Baghel,Samajwadi Party,1122770,678248,60.4 %,8062,1.2%,AC View
+236,Jalgaon,17,GEN,Maharashtra,Y G Mahajan Sir,Bharatiya Janta Party,1101166,743542,67.5 %,89795,12.1%,AC View
+237,Jalna,32,GEN,Maharashtra,Danve Raosaheb Dadarao Patil,Bharatiya Janta Party,1106131,801751,72.5 %,123909,15.5%,AC View
+238,Jalore,22,GEN,Rajasthan,Buta Singh,Indian National Congress,1245605,654432,52.5 %,35924,5.5%,AC View
+239,Jalpaiguri,3,SC,West Bengal,Minati Sen,Communist Party Of India (MARXIST),1101898,844223,76.6 %,108937,12.9%,AC View
+240,Jammu,6,GEN,Jammu & Kashmir,Vishno Datt Sharma,Bharatiya Janta Party,1446792,676708,46.8 %,142019,21.0%,AC View
+241,Jamnagar,3,GEN,Gujarat,Koradiya Chandreshbhai Valjibhai (Chandresh Patel),Bharatiya Janta Party,958418,361582,37.7 %,35769,9.9%,AC View
+242,Jamshedpur,50,GEN,Bihar [1947 - 1999],Abha Mahato,Bharatiya Janta Party,1160562,635251,54.7 %,121488,19.1%,AC View
+243,Jangipur,8,GEN,West Bengal,Abul Hasnat Khan,Communist Party Of India (MARXIST),1087203,785797,72.3 %,61317,7.8%,AC View
+244,Janjgir,14,GEN,Madhya Pradesh [1947 - 1999],Dr. Charandas Mahant,Indian National Congress,1243772,672665,54.1 %,14233,2.1%,AC View
+245,Jaunpur,48,GEN,Uttar Pradesh [1947 - 1999],Chinmayanand,Bharatiya Janta Party,1274445,702988,55.2 %,8635,1.2%,AC View
+246,Jhabua,39,ST,Madhya Pradesh [1947 - 1999],Kantilal Bhuriya,Indian National Congress,1112482,620445,55.8 %,149377,24.1%,AC View
+247,Jhalawar,15,GEN,Rajasthan,Vansundhara Raje,Bharatiya Janta Party,1069430,688049,64.3 %,152415,22.2%,AC View
+248,Jhanjharpur,14,GEN,Bihar [1947 - 1999],Devendra Prasad Yadav,Janata Dal (United),1053943,684147,64.9 %,127814,18.7%,AC View
+249,Jhansi,61,GEN,Uttar Pradesh [1947 - 1999],Sujan Singh Bundela,Indian National Congress,1319184,762984,57.8 %,82521,10.8%,AC View
+250,Jhargram,33,ST,West Bengal,Rupchand Murmu,Communist Party Of India (MARXIST),991504,803200,81.0 %,108681,13.5%,AC View
+251,Jhunjhunu,4,GEN,Rajasthan,Sisram Ola,Indian National Congress,1183184,674380,57.0 %,76348,11.3%,AC View
+252,Jodhpur,24,GEN,Rajasthan,Jaswant Singh Vishnoi,Bharatiya Janta Party,1403850,663728,47.3 %,113297,17.1%,AC View
+253,Jorhat,12,GEN,Assam,Bijoy Krishna Handique,Indian National Congress,1003470,649489,64.7 %,99360,15.3%,AC View
+254,Joynagar,15,GEN,West Bengal,Sanat Kumar Mondal,Revolutionary Socialist Party,1116858,815915,73.1 %,112301,13.8%,AC View
+255,Jullundur,4,SC,Punjab,Balbir Singh,Indian National Congress,1142090,568257,49.8 %,34566,6.1%,AC View
+256,Junagadh,6,GEN,Gujarat,Chikhaliya Bhavnaben Devrajbhai,Bharatiya Janta Party,1079568,503628,46.7 %,46848,9.3%,AC View
+257,Kaira,19,ST,Gujarat,Dinsha Patel,Indian National Congress,1054781,494780,46.9 %,33717,6.8%,AC View
+258,Kairana,83,GEN,Uttar Pradesh [1947 - 1999],Amir Alam,Rashtriya Lok Dal,1099503,700065,63.7 %,38272,5.5%,AC View
+259,Kaiserganj,30,GEN,Uttar Pradesh [1947 - 1999],Beni Prasad Verma,Samajwadi Party,1116997,646538,57.9 %,51559,8.0%,AC View
+260,Kakinada,7,GEN,Andhra Pradesh,Mudragada Padmanabham,Telugu Desam,1171987,836085,71.3 %,121435,14.5%,AC View
+261,Kalahandi,14,GEN,Orissa,Bikram Keshari Deo,Bharatiya Janta Party,1060990,654739,61.7 %,116519,17.8%,AC View
+262,Kaliabor,11,GEN,Assam,Tarun Gogoi,Indian National Congress,1111536,779525,70.1 %,167392,21.5%,AC View
+263,Kanakapura,11,GEN,Karnataka,M.V.Chandrashekara Murthy,Indian National Congress,2110629,1275773,60.5 %,34017,2.7%,AC View
+264,Kanara,22,SC,Karnataka,Margaret Alva,Indian National Congress,1101130,773556,70.3 %,10591,1.4%,AC View
+265,Kangra,3,GEN,Himachal Pradesh,Shanta Kumar,Bharatiya Janta Party,935090,557018,59.6 %,100742,18.1%,AC View
+266,Kanker,19,ST,Madhya Pradesh [1947 - 1999],Sohan Potai,Bharatiya Janta Party,1036799,586231,56.5 %,88191,15.0%,AC View
+267,Kannauj,67,GEN,Uttar Pradesh [1947 - 1999],Mulayam Singh Yadav,Samajwadi Party,1157142,693752,60.0 %,79139,11.4%,AC View
+268,Kanpur,65,GEN,Uttar Pradesh [1947 - 1999],Sriprakash Jaiswal,Indian National Congress,1417761,635651,44.8 %,34459,5.4%,AC View
+269,Kapadvanj,16,GEN,Gujarat,Vaghela Shankarsinh Laxmansinh,Indian National Congress,1124201,674876,60.0 %,165381,24.5%,AC View
+270,Karad,45,GEN,Maharashtra,Shriniwas Dadasaheb Patil (Marulkar),Nationalist Congress Party,1034700,760075,73.5 %,122961,16.2%,AC View
+271,Karimganj,1,SC,Assam,Nepal Chandra Das,Indian National Congress,943163,695538,73.8 %,42259,6.1%,AC View
+272,Karimnagar,37,GEN,Andhra Pradesh,Chennamaneni Vidyasagar Rao,Bharatiya Janta Party,1259045,840556,66.8 %,19370,2.3%,AC View
+273,Karnal,3,SC,Haryana,I.D. Swami,Bharatiya Janta Party,1131448,771194,68.2 %,147854,19.2%,AC View
+274,Karol Bagh,7,GEN,Delhi [1977 Onwards],Anita Arya,Bharatiya Janta Party,571657,258309,45.2 %,12454,4.8%,AC View
+275,Karur,26,GEN,Tamil Nadu,"Chinnasamy, M.",All India Anna Dravida Munnetra Kazhagam,1170582,736708,62.9 %,2847,0.4%,AC View
+276,Kasaragod,1,GEN,Kerala,T. Govindan,Communist Party Of India (MARXIST),1199964,931632,77.6 %,31578,3.4%,AC View
+277,Katihar,25,GEN,Bihar [1947 - 1999],Nikhil Kumar Choudhary,Bharatiya Janta Party,1039500,647219,62.3 %,136852,21.1%,AC View
+278,Katwa,40,GEN,West Bengal,Mahboob Zahedi,Communist Party Of India (MARXIST),1183616,933089,78.8 %,108362,11.6%,AC View
+279,Kendrapara,5,ST,Orissa,Prabhat Kumar Samantray,Biju Janata Dal,1121183,624939,55.7 %,102139,16.3%,AC View
+280,Keonjhar,21,ST,Orissa,Ananta Nayak,Bharatiya Janta Party,1092055,630104,57.7 %,222553,35.3%,AC View
+281,Khagaria,31,GEN,Bihar [1947 - 1999],Renu Kumari,Janata Dal (United),1044431,672123,64.4 %,31822,4.7%,AC View
+282,Khajuraho,6,GEN,Madhya Pradesh [1947 - 1999],Satyavrat Chaturvedi ( Vinod Bhaiya ),Indian National Congress,1379871,746829,54.1 %,81137,10.9%,AC View
+283,Khalilabad,36,GEN,Uttar Pradesh [1947 - 1999],Bhal Chandra Yadav,Samajwadi Party,1215811,672974,55.4 %,30028,4.5%,AC View
+284,Khammam,40,GEN,Andhra Pradesh,Renuka Chowdhury,Indian National Congress,1228365,948088,77.2 %,8398,0.9%,AC View
+285,Khandwa,34,GEN,Madhya Pradesh [1947 - 1999],Nandkumarsingh Chouhan ( Nandu Bhaiya ),Bharatiya Janta Party,1110180,631109,56.9 %,126103,20.0%,AC View
+286,Khargone,35,GEN,Madhya Pradesh [1947 - 1999],Tarachand Patel,Indian National Congress,1156862,698922,60.4 %,38146,5.5%,AC View
+287,Khed,41,SC,Maharashtra,Ashok Namdeorao Mohol,Nationalist Congress Party,1070409,690884,64.5 %,57018,8.3%,AC View
+288,Kheri,15,GEN,Uttar Pradesh [1947 - 1999],Ravi Prakash Verma,Samajwadi Party,1260158,717933,57.0 %,4515,0.6%,AC View
+289,Khunti,52,ST,Bihar [1947 - 1999],Kariya Munda,Bharatiya Janta Party,832168,412090,49.5 %,26262,6.4%,AC View
+290,Khurja,77,SC,Uttar Pradesh [1947 - 1999],Ashok Kumar Pradhan,Bharatiya Janta Party,1271984,489206,38.5 %,110298,22.5%,AC View
+291,Kishanganj,23,GEN,Bihar [1947 - 1999],Syed Shahnawaz Hussain,Bharatiya Janta Party,1129430,727839,64.4 %,8648,1.2%,AC View
+292,Kodarma,45,GEN,Bihar [1947 - 1999],Tilakdhari Pd Singh,Indian National Congress,1137548,602557,53.0 %,10178,1.7%,AC View
+293,Kokrajhar,5,ST,Assam,Sansuma Khunggur Bwismuthiary,Independent,1168480,910953,78.0 %,87425,9.6%,AC View
+294,Kolaba,3,GEN,Maharashtra,Ramsheth Thakur,Peasants And Workers Party Of India,1156456,710896,61.5 %,43097,6.1%,AC View
+295,Kolar,10,GEN,Karnataka,K.H. Muniyappa,Indian National Congress,1145553,862812,75.3 %,82782,9.6%,AC View
+296,Kolhapur,48,GEN,Maharashtra,Mandlik Sadashivrao Dadoba,Nationalist Congress Party,1071598,775000,72.3 %,108910,14.1%,AC View
+297,Kopargaon,40,GEN,Maharashtra,E V Alias Balasaheb Vikhe Patil,Shiv Sena,952408,688637,72.3 %,47415,6.9%,AC View
+298,Koppal,4,SC,Karnataka,H.G.Ramulu,Indian National Congress,1243426,799066,64.3 %,12512,1.6%,AC View
+299,Koraput,12,ST,Orissa,Hema Gamang,Indian National Congress,1120784,567490,50.6 %,12154,2.1%,AC View
+300,Kota,14,GEN,Rajasthan,Raghuveer Singh Koushal,Bharatiya Janta Party,1219405,636456,52.2 %,24769,3.9%,AC View
+301,Kottayam,13,GEN,Kerala,Suresh Kurup,Communist Party Of India (MARXIST),1018385,733725,72.1 %,10599,1.4%,AC View
+302,Krishnagar,11,GEN,West Bengal,Satyabrata Mookherjee,Bharatiya Janta Party,1084449,845489,78.0 %,22234,2.6%,AC View
+303,Krishnagiri,14,GEN,Tamil Nadu,"Vetriselvan, V.",Dravida Munetra Kazhagam,1163690,697903,60.0 %,31824,4.6%,AC View
+304,Kurnool,26,GEN,Andhra Pradesh,Kambhalapati E. Krishna Murthy,Telugu Desam,1163375,773629,66.5 %,24487,3.2%,AC View
+305,Kurukshetra,2,GEN,Haryana,Prof Kailasho Devi,Indian National Lok Dal,1073147,730566,68.1 %,163610,22.4%,AC View
+306,Kutch,1,SC,Gujarat,Gadhvi Pushpadan Sambhudan,Bharatiya Janta Party,872937,393586,45.1 %,4315,1.1%,AC View
+307,Ladakh,4,GEN,Jammu & Kashmir,Hassan Khan,Jammu & Kashmir National Conference,143719,117671,81.9 %,2090,1.8%,AC View
+308,Lakhimpur,14,GEN,Assam,Ranee Narah,Indian National Congress,1060744,767004,72.3 %,54523,7.1%,AC View
+309,Lakshadweep,1,ST,Lakshadweep,P.M. Sayeed,Indian National Congress,37619,30174,80.2 %,3189,10.6%,AC View
+310,Lalganj,46,SC,Uttar Pradesh [1947 - 1999],Dr. Bali Ram,Bahujan Samaj Party,1313973,698220,53.1 %,30999,4.4%,AC View
+311,Latur,35,GEN,Maharashtra,Patil Shivraj Vishwanath,Indian National Congress,1097040,794945,72.5 %,40290,5.1%,AC View
+312,Lohardaga,53,ST,Bihar [1947 - 1999],Dukha Bhagat,Bharatiya Janta Party,938658,369875,39.4 %,3823,1.0%,AC View
+313,Lucknow,20,GEN,Uttar Pradesh [1947 - 1999],Atal Bihari Vajpayee,Bharatiya Janta Party,1552441,753961,48.6 %,123624,16.4%,AC View
+314,Ludhiana,9,SC,Punjab,Gurcharan Singh Galib,Indian National Congress,1471530,674419,45.8 %,105246,15.6%,AC View
+315,Machhlishahr,47,GEN,Uttar Pradesh [1947 - 1999],Chandra Nath Singh,Samajwadi Party,1263202,663055,52.5 %,21159,3.2%,AC View
+316,Machilipatnam,12,GEN,Andhra Pradesh,Ambati Brahmanaiah,Telugu Desam,1006429,730278,72.6 %,82996,11.4%,AC View
+317,Madhepura,21,GEN,Bihar [1947 - 1999],Sharad Yadav,Janata Dal (United),997210,660906,66.3 %,30320,4.6%,AC View
+318,Madhubani,13,GEN,Bihar [1947 - 1999],Hukumdeo Narayan Yadav,Bharatiya Janta Party,1101089,717312,65.2 %,62615,8.7%,AC View
+319,Madras Central,2,GEN,Tamil Nadu,Murasoli Maran,Dravida Munetra Kazhagam,1275067,617919,48.5 %,136949,22.2%,AC View
+320,Madras North,1,SC,Tamil Nadu,"Kuppusamy, C.",Dravida Munetra Kazhagam,2041341,893936,43.8 %,159789,17.9%,AC View
+321,Madras South,3,GEN,Tamil Nadu,"Baalu, T.R.",Dravida Munetra Kazhagam,2074130,936541,45.2 %,240184,25.6%,AC View
+322,Madurai,24,GEN,Tamil Nadu,"Mohan, P.",Communist Party Of India (MARXIST),1429975,749441,52.4 %,37223,5.0%,AC View
+323,Mahabubnagar,29,GEN,Andhra Pradesh,A.P.Jitender Reddy,Bharatiya Janta Party,1249455,830725,66.5 %,50895,6.1%,AC View
+324,Maharajganj,6,GEN,Bihar [1947 - 1999],Prabhunath Singh,Janata Dal (United),981566,710396,72.4 %,104063,14.6%,AC View
+325,Maharajganj,39,GEN,Uttar Pradesh [1947 - 1999],Akhilesh Singh,Samajwadi Party,1129627,685963,60.7 %,10644,1.6%,AC View
+326,Mahasamund,18,GEN,Madhya Pradesh [1947 - 1999],Shyama Charan Shukla,Indian National Congress,1071547,692070,64.6 %,15435,2.2%,AC View
+327,Mahendragarh,7,GEN,Haryana,Dr. Sudha Yadav,Bharatiya Janta Party,1236918,752654,60.9 %,139140,18.5%,AC View
+328,Mainpuri,69,GEN,Uttar Pradesh [1947 - 1999],Balram Singh Yadav,Samajwadi Party,1109097,580084,52.3 %,28026,4.8%,AC View
+329,Malda,7,GEN,West Bengal,Abul Barkat Ataul Ghani Khan Choudhury,Indian National Congress,1047279,819770,78.3 %,24553,3.0%,AC View
+330,Malegaon,13,GEN,Maharashtra,Mahale Haribahu Shankar,Janata Dal (Secular),1083181,698630,64.5 %,4392,0.6%,AC View
+331,Mandi,2,GEN,Himachal Pradesh,Maheshwar Singh,Bharatiya Janta Party,968826,528637,54.6 %,131025,24.8%,AC View
+332,Mandla,24,ST,Madhya Pradesh [1947 - 1999],Faggan Singh Kulaste,Bharatiya Janta Party,1001537,494306,49.4 %,6572,1.3%,AC View
+333,Mandsaur,40,GEN,Madhya Pradesh [1947 - 1999],Dr. Lakshaminarayan Pandey,Bharatiya Janta Party,1243364,754129,60.7 %,55485,7.4%,AC View
+334,Mandvi,25,GEN,Gujarat,Patel Mansinhbhai Kalyanji,Bharatiya Janta Party,1063704,616960,58.0 %,56831,9.2%,AC View
+335,Mandya,14,GEN,Karnataka,Ambareesh @ Amaranatha .M.H,Indian National Congress,1099732,832028,75.7 %,152180,18.3%,AC View
+336,Mangaldoi,8,GEN,Assam,Madhab Rajbangshi,Indian National Congress,1180131,858529,72.8 %,16434,1.9%,AC View
+337,Mangalore,17,GEN,Karnataka,V.Dhananjaya Kumar,Bharatiya Janta Party,1002419,733255,73.2 %,8469,1.2%,AC View
+338,Manjeri,5,GEN,Kerala,E. Ahamed,Muslim League Kerala State Committee,1217888,816573,67.1 %,123411,15.1%,AC View
+339,Mathura,74,GEN,Uttar Pradesh [1947 - 1999],Ch. Tejvir Singh,Bharatiya Janta Party,1176548,540511,45.9 %,41727,7.7%,AC View
+340,Mathurapur,16,GEN,West Bengal,Radhika Ranjan Pramanik,Communist Party Of India (MARXIST),1076730,828886,77.0 %,51725,6.2%,AC View
+341,Mavelikara,16,SC,Kerala,Ramesh Chennithala,Indian National Congress,936952,667157,71.2 %,33443,5.0%,AC View
+342,Mayiladuturai,29,SC,Tamil Nadu,Manishankar Aiyar,Indian National Congress,1030626,655586,63.6 %,40131,6.1%,AC View
+343,Mayurbhanj,1,GEN,Orissa,Salkhan Murmu,Bharatiya Janta Party,964354,577766,59.9 %,148082,25.6%,AC View
+344,Medak,33,GEN,Andhra Pradesh,A. Narendra,Bharatiya Janta Party,1219960,868547,71.2 %,22083,2.5%,AC View
+345,Meerut,80,GEN,Uttar Pradesh [1947 - 1999],Avtar Singh Bhadana,Indian National Congress,1269454,756275,59.6 %,24836,3.3%,AC View
+346,Mehsana,12,GEN,Gujarat,Patel Atmaram Maganbhai,Indian National Congress,1104439,636573,57.6 %,55735,8.8%,AC View
+347,Midnapore,32,GEN,West Bengal,Indrajit Gupta,Communist Party Of India,1099512,862567,78.5 %,28773,3.3%,AC View
+348,Miryalguda,42,GEN,Andhra Pradesh,Jaipal Reddy Sudini,Indian National Congress,1206229,931826,77.3 %,52077,5.6%,AC View
+349,Mirzapur,54,GEN,Uttar Pradesh [1947 - 1999],Phoolan Devi,Samajwadi Party,1356017,782304,57.7 %,84476,10.8%,AC View
+350,Misrikh,18,SC,Uttar Pradesh [1947 - 1999],Sushila Saroj,Samajwadi Party,1089677,619588,56.9 %,4207,0.7%,AC View
+351,Mizoram,1,ST,Mizoram,Vanlalzawma,Independent,449406,293513,65.3 %,68659,23.4%,AC View
+352,Mohanlalganj,21,SC,Uttar Pradesh [1947 - 1999],Reena Chowdhary,Samajwadi Party,1149478,618329,53.8 %,35358,5.7%,AC View
+353,Monghyr,32,GEN,Bihar [1947 - 1999],Brahma Nand Mandal,Janata Dal (United),1147663,712195,62.1 %,21815,3.1%,AC View
+354,Moradabad,7,GEN,Uttar Pradesh [1947 - 1999],Chandra Vijay Singh Alias Baby Raja,Akhil Bhartiya Lok Tantrik Congress,1156172,647988,56.1 %,96450,14.9%,AC View
+355,Morena,1,SC,Madhya Pradesh [1947 - 1999],Ashok Chhaviram Argal,Bharatiya Janta Party,1258860,500327,39.7 %,62226,12.4%,AC View
+356,Mormugao,2,GEN,Goa,Angle Ramakant Soiru,Bharatiya Janta Party,495208,218851,44.2 %,14457,6.6%,AC View
+357,Motihari,3,GEN,Bihar [1947 - 1999],Radha Mohan Singh,Bharatiya Janta Party,1112639,685679,61.6 %,21670,3.2%,AC View
+358,Mukundapuram,10,GEN,Kerala,K. Karunakaran,Indian National Congress,1083445,792212,73.1 %,52463,6.6%,AC View
+359,Mumbai North,9,SC,Maharashtra,Ram Naik,Bharatiya Janta Party,2222240,954260,42.9 %,154136,16.2%,AC View
+360,Mumbai North Central,6,GEN,Maharashtra,Manohar Gajanan Joshi,Shiv Sena,1148316,528342,46.0 %,168995,32.0%,AC View
+361,Mumbai North East,7,SC,Maharashtra,Kirit Somaiya,Bharatiya Janta Party,1990340,929549,46.7 %,7276,0.8%,AC View
+362,Mumbai North West,8,GEN,Maharashtra,Sunil Dutt,Indian National Congress,1553015,713586,46.0 %,85539,12.0%,AC View
+363,Mumbai South,4,GEN,Maharashtra,Jayawanti Mehta,Bharatiya Janta Party,719281,303022,42.1 %,10243,3.4%,AC View
+364,Mumbai South Central,5,GEN,Maharashtra,Mohan Vishnu Rawale,Shiv Sena,812576,369130,45.4 %,79036,21.4%,AC View
+365,Murshidabad,9,GEN,West Bengal,Moinul Hassan,Communist Party Of India (MARXIST),1172830,836120,71.3 %,123360,14.8%,AC View
+366,Muvattupuzha,12,GEN,Kerala,Adv. P.C. Thomas,Kerala Congress(M),1020153,692278,67.9 %,76939,11.1%,AC View
+367,Muzaffarnagar,82,GEN,Uttar Pradesh [1947 - 1999],Saiduzzaman,Indian National Congress,1217407,691547,56.8 %,25751,3.7%,AC View
+368,Muzaffarpur,10,GEN,Bihar [1947 - 1999],Captain Jai Na. Pd. Nishad,Janata Dal (United),1067836,730490,68.4 %,60720,8.3%,AC View
+369,Mysore,16,GEN,Karnataka,Srikantadatta Narasimharaja Wadiyar,Indian National Congress,1302736,899492,69.1 %,13431,1.5%,AC View
+370,Nabadwip,12,GEN,West Bengal,Ananda Mohan Biswas,All India Trinamool Congress,1320358,1014379,76.8 %,39135,3.9%,AC View
+371,Nagaland,1,ST,Nagaland,K. Asungba Sangtam,Indian National Congress,955914,728843,76.3 %,353598,48.5%,AC View
+372,Nagapattinam,30,GEN,Tamil Nadu,"Vijayan, A.K.S.",Dravida Munetra Kazhagam,1054666,696288,66.0 %,22466,3.2%,AC View
+373,Nagarkurnool,28,SC,Andhra Pradesh,Dr.Manda Jagannath,Telugu Desam,1212569,843025,69.5 %,66900,7.9%,AC View
+374,Nagaur,25,GEN,Rajasthan,Ram Raghunath Choudhary,Indian National Congress,1233531,711267,57.7 %,48469,6.8%,AC View
+375,Nagercoil,39,GEN,Tamil Nadu,"Radhakrishnan,p.",Bharatiya Janta Party,1057712,621860,58.8 %,145643,23.4%,AC View
+376,Nagpur,23,GEN,Maharashtra,Vilas Muttemwar,Indian National Congress,1551380,829946,53.5 %,72695,8.8%,AC View
+377,Nainital,4,GEN,Uttar Pradesh [1947 - 1999],Narayan Datt Tiwari,Indian National Congress,1368193,803947,58.8 %,112407,14.0%,AC View
+378,Nalanda,34,GEN,Bihar [1947 - 1999],George Fernandes,Janata Dal (United),1180008,878611,74.5 %,105821,12.0%,AC View
+379,Nalgonda,41,GEN,Andhra Pradesh,Gutha Sukender Reddy,Telugu Desam,1417182,980671,69.2 %,79735,8.1%,AC View
+380,Nanded,30,GEN,Maharashtra,Khatgaonkar Bhaskarrao Bapurao,Indian National Congress,1191427,784001,65.8 %,32575,4.2%,AC View
+381,Nandurbar,15,GEN,Maharashtra,Gavit Manikrao Hodlya,Indian National Congress,1079466,710789,65.9 %,130771,18.4%,AC View
+382,Nandyal,27,GEN,Andhra Pradesh,Bhuma Nagi Reddy,Telugu Desam,1116553,749179,67.1 %,72609,9.7%,AC View
+383,Narasapur,10,GEN,Andhra Pradesh,Uppalapati Venkata Krishnam Raju,Bharatiya Janta Party,1020409,733626,71.9 %,165948,22.6%,AC View
+384,Narasaraopet,17,GEN,Andhra Pradesh,Janardhanareddy Nedurumalli,Indian National Congress,1262560,878186,69.6 %,13882,1.6%,AC View
+385,Nashik,12,ST,Maharashtra,Dhikale Uttamrao Nathuji,Shiv Sena,1344755,778284,57.9 %,36812,4.7%,AC View
+386,Nawada,42,SC,Bihar [1947 - 1999],Sanjay Paswan,Bharatiya Janta Party,1173989,859271,73.2 %,84085,9.8%,AC View
+387,Nellore,19,SC,Andhra Pradesh,Rajeswaramma Vukkala,Telugu Desam,1165144,786565,67.5 %,40453,5.1%,AC View
+388,New Delhi,1,GEN,Delhi [1977 Onwards],Jag Mohan,Bharatiya Janta Party,543037,226866,41.8 %,27893,12.3%,AC View
+389,Nilgiris,18,GEN,Tamil Nadu,"Mathan, M. (Alias) Master Mathan, M.",Bharatiya Janta Party,1348475,742727,55.1 %,23959,3.2%,AC View
+390,Nizamabad,34,GEN,Andhra Pradesh,Ganga Reddy Gaddam,Telugu Desam,1129947,778332,68.9 %,3436,0.4%,AC View
+391,Nowgong,10,GEN,Assam,Rajen Gohain,Bharatiya Janta Party,1113339,781105,70.2 %,35428,4.5%,AC View
+392,Nowrangpur,13,GEN,Orissa,Parsuram Majhi,Bharatiya Janta Party,1085575,676874,62.4 %,16151,2.4%,AC View
+393,Ongole,18,GEN,Andhra Pradesh,Karanam Balarama Krishna Murthy,Telugu Desam,1190279,792803,66.6 %,21948,2.8%,AC View
+394,Osmanabad,36,GEN,Maharashtra,Kamble Shivaji Vithalrao,Shiv Sena,936324,667062,71.2 %,59073,8.9%,AC View
+395,Ottapalam,8,GEN,Kerala,S. Ajayakumar,Communist Party Of India (MARXIST),1103327,784584,71.1 %,13715,1.7%,AC View
+396,Outer Delhi,3,GEN,Delhi [1977 Onwards],Sahib Singh Verma,Bharatiya Janta Party,3103525,1287504,41.5 %,202472,15.7%,AC View
+397,Outer Manipur,2,ST,Manipur,Holkhomang,Nationalist Congress Party,714411,454615,63.6 %,28809,6.3%,AC View
+398,Padrauna,40,GEN,Uttar Pradesh [1947 - 1999],Ram Nagina Mishra,Bharatiya Janta Party,1210405,708154,58.5 %,26738,3.8%,AC View
+399,Palamau,54,SC,Bihar [1947 - 1999],Braj Mohan Ram,Bharatiya Janta Party,1080153,516668,47.8 %,85125,16.5%,AC View
+400,Palani,22,GEN,Tamil Nadu,"Kumarasamy, P.",All India Anna Dravida Munnetra Kazhagam,1159677,682853,58.9 %,28717,4.2%,AC View
+401,Palghat,7,GEN,Kerala,N.N.Krishnadas,Communist Party Of India (MARXIST),1132416,815882,72.1 %,30767,3.8%,AC View
+402,Pali,21,GEN,Rajasthan,Pusp Jain,Bharatiya Janta Party,1080520,540250,50.0 %,104666,19.4%,AC View
+403,Panaji,1,GEN,Goa,Shripad Yasso Naik,Bharatiya Janta Party,413641,191093,46.2 %,36721,19.2%,AC View
+404,Pandharpur,38,SC,Maharashtra,Athawale Ramdas Bandu,Independent,1106361,827541,74.8 %,259505,31.4%,AC View
+405,Panskura,29,SC,West Bengal,Gita Mukherjee,Communist Party Of India,986955,824564,83.6 %,46858,5.7%,AC View
+406,Parbhani,31,GEN,Maharashtra,Jadhav Suresh Ramrao,Shiv Sena,1055193,705781,66.9 %,43665,6.2%,AC View
+407,Parvathipuram,2,ST,Andhra Pradesh,Dadichiluka Veera Gouri Sankara Rao,Telugu Desam,911609,637051,69.9 %,13281,2.1%,AC View
+408,Patan,13,GEN,Gujarat,Rashtrapal Pravinchandra Somabhai,Indian National Congress,1003829,486048,48.4 %,17127,3.5%,AC View
+409,Patiala,8,SC,Punjab,Preneet Kaur,Indian National Congress,1310354,781794,59.7 %,78908,10.1%,AC View
+410,Patna,35,GEN,Bihar [1947 - 1999],C P Thakur,Bharatiya Janta Party,1470372,812307,55.2 %,46892,5.8%,AC View
+411,Peddapalli,36,SC,Andhra Pradesh,Dr.Smt.C. Suguna Kumari,Telugu Desam,1330759,896723,67.4 %,15889,1.8%,AC View
+412,Perambalur,28,GEN,Tamil Nadu,Raja. A.,Dravida Munetra Kazhagam,1064321,696057,65.4 %,68051,9.8%,AC View
+413,Periyakulam,25,GEN,Tamil Nadu,"Dhinakaran,",All India Anna Dravida Munnetra Kazhagam,1121725,665824,59.4 %,45806,6.9%,AC View
+414,Phillaur,5,SC,Punjab,Santosh Chowdhary,Indian National Congress,1144089,619793,54.2 %,26578,4.3%,AC View
+415,Phulbani,15,GEN,Orissa,Padmanava Behera,Biju Janata Dal,1126908,641041,56.9 %,102215,15.9%,AC View
+416,Phulpur,55,GEN,Uttar Pradesh [1947 - 1999],Dharam Raj Singh Patel,Samajwadi Party,1183537,690973,58.4 %,20039,2.9%,AC View
+417,Pilibhit,13,GEN,Uttar Pradesh [1947 - 1999],Maneka Gandhi,Independent,1139217,756275,66.4 %,239855,31.7%,AC View
+418,Pollachi,21,GEN,Tamil Nadu,"Krishnan, Dr.C.",Marumalarchi Dravida Munnetra Kazhagam,1074230,613288,57.1 %,9515,1.6%,AC View
+419,Pondicherry,1,GEN,Pondicherry,M O H Farook,Indian National Congress,701990,444174,63.3 %,24188,5.4%,AC View
+420,Ponnani,6,GEN,Kerala,G.M. Banatwalla,Muslim League Kerala State Committee,1146335,694990,60.6 %,129478,18.6%,AC View
+421,Porbandar,5,GEN,Gujarat,Javiya Gordhanbhai Jadavbhai,Bharatiya Janta Party,894299,331994,37.1 %,101360,30.5%,AC View
+422,Pratapgarh,24,GEN,Uttar Pradesh [1947 - 1999],Rajkumari Ratna Singh,Indian National Congress,1189143,575741,48.4 %,6003,1.0%,AC View
+423,Pudukkottai,32,GEN,Tamil Nadu,Thirunavukarasu,M.G.R.Anna D.M.Kazhagam,1218297,780964,64.1 %,64302,8.2%,AC View
+424,Pune,42,SC,Maharashtra,Pradeep Rawat,Bharatiya Janta Party,1435101,749454,52.2 %,91285,12.2%,AC View
+425,Puri,8,SC,Orissa,Braja Kishore Tripathy,Biju Janata Dal,1176817,666936,56.7 %,131745,19.8%,AC View
+426,Purnea,24,GEN,Bihar [1947 - 1999],Rajesh Ranjan,Independent,1085356,702553,64.7 %,252566,35.9%,AC View
+427,Purulia,34,GEN,West Bengal,Birsingh Mahato,All India Forward Bloc,1008066,692271,68.7 %,174870,25.3%,AC View
+428,Quilon,18,GEN,Kerala,P. Rajendran,Communist Party Of India (MARXIST),1088597,740869,68.1 %,19284,2.6%,AC View
+429,Rae Bareli,23,GEN,Uttar Pradesh [1947 - 1999],Satish Sharma,Indian National Congress,1174548,696302,59.3 %,73549,10.6%,AC View
+430,Raichur,3,GEN,Karnataka,A. Venkatesh Naik,Indian National Congress,1226104,722982,59.0 %,172206,23.8%,AC View
+431,Raiganj,5,GEN,West Bengal,Priya Ranjan Dasmunsi,Indian National Congress,1144667,885408,77.4 %,75255,8.5%,AC View
+432,Raigarh,13,ST,Madhya Pradesh [1947 - 1999],Vishnudeo Sai,Bharatiya Janta Party,975987,579632,59.4 %,5773,1.0%,AC View
+433,Raipur,17,GEN,Madhya Pradesh [1947 - 1999],Ramesh Bais,Bharatiya Janta Party,1177144,669287,56.9 %,80060,12.0%,AC View
+434,Rajahmundry,8,GEN,Andhra Pradesh,Satyanarayana Rao S.B.P.B.K,Bharatiya Janta Party,1137225,823798,72.4 %,60031,7.3%,AC View
+435,Rajampet,22,GEN,Andhra Pradesh,Gunipati Ramaiah,Telugu Desam,946311,678817,71.7 %,27170,4.0%,AC View
+436,Rajapur,1,ST,Maharashtra,Suresh Prabhu,Shiv Sena,790537,456224,57.7 %,112850,24.7%,AC View
+437,Rajgarh,32,GEN,Madhya Pradesh [1947 - 1999],Laxman Singh,Indian National Congress,1115072,673637,60.4 %,65693,9.8%,AC View
+438,Rajkot,4,GEN,Gujarat,Dr Kathiriya Vallabhbhai Ramjibhai,Bharatiya Janta Party,1379914,558569,40.5 %,86747,15.5%,AC View
+439,Rajmahal,26,ST,Bihar [1947 - 1999],Thomas Hansda,Indian National Congress,950593,569344,59.9 %,62099,10.9%,AC View
+440,Rajnandgaon,22,GEN,Madhya Pradesh [1947 - 1999],Dr. Raman,Bharatiya Janta Party,1016713,603640,59.4 %,26715,4.4%,AC View
+441,Ramanathapuram,34,GEN,Tamil Nadu,Malaisamy.K.,All India Anna Dravida Munnetra Kazhagam,1115127,641057,57.5 %,6646,1.0%,AC View
+442,Rampur,8,GEN,Uttar Pradesh [1947 - 1999],Begum Noor Bano Urf Mahtab Zamani Begum,Indian National Congress,1322470,820796,62.1 %,115471,14.1%,AC View
+443,Ramtek,22,ST,Maharashtra,Subodh Mohite,Shiv Sena,1050833,689771,65.6 %,11689,1.7%,AC View
+444,Ranchi,49,GEN,Bihar [1947 - 1999],Ram Tahal Choudhary,Bharatiya Janta Party,1131760,583745,51.6 %,241177,41.3%,AC View
+445,Rasipuram,15,GEN,Tamil Nadu,"Saroja, V. Dr.",All India Anna Dravida Munnetra Kazhagam,1161452,643060,55.4 %,38405,6.0%,AC View
+446,Ratnagiri,2,GEN,Maharashtra,Anant Gangaram Geete,Shiv Sena,872359,558229,64.0 %,115343,20.7%,AC View
+447,Rewa,9,GEN,Madhya Pradesh [1947 - 1999],Sunder Lal Tiwari,Indian National Congress,1369793,748500,54.6 %,64151,8.6%,AC View
+448,Robertsganj,53,SC,Uttar Pradesh [1947 - 1999],Ram Shakal,Bharatiya Janta Party,1443487,755019,52.3 %,15928,2.1%,AC View
+449,Rohtak,5,GEN,Haryana,Inder Singh,Indian National Lok Dal,938878,634235,67.6 %,144693,22.8%,AC View
+450,Ropar,7,GEN,Punjab,Shamsher Singh,Indian National Congress,1266744,718970,56.8 %,77381,10.8%,AC View
+451,Rosera,16,SC,Bihar [1947 - 1999],Ram Chandra Paswan,Janata Dal (United),1077267,734151,68.2 %,142916,19.5%,AC View
+452,Sabarkantha,15,GEN,Gujarat,Nisha Amarsinh Chaudhary,Indian National Congress,1119855,672849,60.1 %,14376,2.1%,AC View
+453,Sagar,5,SC,Madhya Pradesh [1947 - 1999],Virendra Kumar,Bharatiya Janta Party,1122464,543932,48.5 %,60473,11.1%,AC View
+454,Saharanpur,84,GEN,Uttar Pradesh [1947 - 1999],Mansoor Ali Khan,Bahujan Samaj Party,1261896,778805,61.7 %,22307,2.9%,AC View
+455,Saharsa,20,GEN,Bihar [1947 - 1999],Dinesh Chandra Yadav,Janata Dal (United),1142103,732053,64.1 %,94493,12.9%,AC View
+456,Saidpur,49,SC,Uttar Pradesh [1947 - 1999],Tufani Saroj,Samajwadi Party,1309952,714660,54.6 %,31371,4.4%,AC View
+457,Salem,16,GEN,Tamil Nadu,"Selvaganapathi, T.M.",All India Anna Dravida Munnetra Kazhagam,1257383,743934,59.2 %,25411,3.4%,AC View
+458,Salempur,42,GEN,Uttar Pradesh [1947 - 1999],Babban Rajbhar,Bahujan Samaj Party,1265863,647355,51.1 %,9050,1.4%,AC View
+459,Salumber,17,GEN,Rajasthan,Bheru Lal Meena,Indian National Congress,1117315,577100,51.7 %,52408,9.1%,AC View
+460,Samastipur,17,GEN,Bihar [1947 - 1999],Manjay Lal,Janata Dal (United),1219110,801021,65.7 %,12688,1.6%,AC View
+461,Sambalpur,17,GEN,Orissa,Prasanna Acharya,Biju Janata Dal,1190344,702356,59.0 %,126963,18.1%,AC View
+462,Sambhal,9,GEN,Uttar Pradesh [1947 - 1999],Mulayam Singh Yadav,Samajwadi Party,1081421,629490,58.2 %,115834,18.4%,AC View
+463,Sangli,46,GEN,Maharashtra,Prakash (Bapu) Vasantrao Patil,Indian National Congress,1031607,735459,71.3 %,160560,21.8%,AC View
+464,Sangrur,10,GEN,Punjab,Simranjit Singh Mann,Shiromani Akali Dal (SIMRANJIT SINGH MANN),1145315,716182,62.5 %,86317,12.1%,AC View
+465,Sarangarh,16,SC,Madhya Pradesh [1947 - 1999],P. R. Khute,Bharatiya Janta Party,1087904,685971,63.1 %,51759,7.5%,AC View
+466,Sasaram,38,SC,Bihar [1947 - 1999],Muni Lall,Bharatiya Janta Party,1144324,662269,57.9 %,18676,2.8%,AC View
+467,Satara,44,GEN,Maharashtra,Laxmanrao Pandurang Jadhav Patil,Nationalist Congress Party,984469,703027,71.4 %,124771,17.7%,AC View
+468,Satna,8,GEN,Madhya Pradesh [1947 - 1999],Ramanand Singh,Bharatiya Janta Party,1189692,625644,52.6 %,3405,0.5%,AC View
+469,Sawai Madhopur,11,ST,Rajasthan,Jaskaur,Bharatiya Janta Party,1177950,515834,43.8 %,58881,11.4%,AC View
+470,Secunderabad,31,GEN,Andhra Pradesh,Bandaru Dattatraya,Bharatiya Janta Party,1770024,970791,54.9 %,97626,10.1%,AC View
+471,Seoni,26,GEN,Madhya Pradesh [1947 - 1999],Ram Naresh Tripathi,Bharatiya Janta Party,1115422,597615,53.6 %,15934,2.7%,AC View
+472,Serampore,26,GEN,West Bengal,Akbor Ali Khandoker,All India Trinamool Congress,1325375,925995,69.9 %,47764,5.2%,AC View
+473,Shahabad,16,GEN,Uttar Pradesh [1947 - 1999],Daud Ahmad,Bahujan Samaj Party,1128503,649856,57.6 %,42132,6.5%,AC View
+474,Shahdol,11,ST,Madhya Pradesh [1947 - 1999],Dalpat Singh,Bharatiya Janta Party,1198264,596288,49.8 %,19901,3.3%,AC View
+475,Shahjahanpur,14,GEN,Uttar Pradesh [1947 - 1999],Kr. Jitendra Prasad,Indian National Congress,1130852,683859,60.5 %,17992,2.6%,AC View
+476,Shajapur,33,SC,Madhya Pradesh [1947 - 1999],Thavarchand Gehlot,Bharatiya Janta Party,1199025,763797,63.7 %,34666,4.5%,AC View
+477,Sheohar,12,GEN,Bihar [1947 - 1999],Md Anwarul Haque,Rashtriya Janata Dal,1083123,726559,67.1 %,2535,0.3%,AC View
+478,Shillong,1,ST,Meghalaya,Paty Ripple Kyndiah,Indian National Congress,724389,369010,50.9 %,37823,10.2%,AC View
+479,Shimoga,21,GEN,Karnataka,S.Bangarappa,Indian National Congress,1133307,832101,73.4 %,95038,11.4%,AC View
+480,Sholapur,37,GEN,Maharashtra,Shinde Sushilkumar Sambhajirao,Indian National Congress,1026006,630769,61.5 %,76995,12.2%,AC View
+481,Siddipet,32,SC,Andhra Pradesh,M. Rajaiah,Telugu Desam,1622094,1075422,66.3 %,153721,14.3%,AC View
+482,Sidhi,10,ST,Madhya Pradesh [1947 - 1999],Chandra Pratap Singh ( Baba Sahab),Bharatiya Janta Party,1263213,615212,48.7 %,4855,0.8%,AC View
+483,Sikar,5,GEN,Rajasthan,Subhash Maharia,Bharatiya Janta Party,1290220,755202,58.5 %,28173,3.7%,AC View
+484,Sikkim,1,GEN,Sikkim,Bhim Pd. Dahal,Sikkim Democratic Front,255377,208670,81.7 %,21362,10.2%,AC View
+485,Silchar,2,GEN,Assam,Sontosh Mohan Dev,Indian National Congress,827760,608528,73.5 %,107752,17.7%,AC View
+486,Simla,1,GEN,Himachal Pradesh,Lt. Col. Dhani Ram Shandil,Himachal Vikash Congress,945063,504488,53.4 %,46930,9.3%,AC View
+487,Singhbhum,51,ST,Bihar [1947 - 1999],Laxman Gilua,Bharatiya Janta Party,846629,482318,57.0 %,82311,17.1%,AC View
+488,Sirsa,10,GEN,Haryana,Dr. Sushil Kumar Indora,Indian National Lok Dal,1100439,641063,58.3 %,219726,34.3%,AC View
+489,Sitamarhi,11,GEN,Bihar [1947 - 1999],Nawal Kishore Rai,Janata Dal (United),1126989,756016,67.1 %,101257,13.4%,AC View
+490,Sitapur,17,GEN,Uttar Pradesh [1947 - 1999],Rajesh Verma,Bahujan Samaj Party,1113415,644865,57.9 %,36362,5.6%,AC View
+491,Sivaganga,33,GEN,Tamil Nadu,"Sudarsana Natchiappan,e.M.",Indian National Congress,1117223,624047,55.9 %,23811,3.8%,AC View
+492,Sivakasi,35,GEN,Tamil Nadu,Vaiko,Marumalarchi Dravida Munnetra Kazhagam,1257935,790751,62.9 %,74781,9.5%,AC View
+493,Siwan,5,GEN,Bihar [1947 - 1999],M Sahabuddin,Rashtriya Janata Dal,989004,709984,71.8 %,129840,18.3%,AC View
+494,Sonepat,4,GEN,Haryana,Kishan Singh Sangwan,Bharatiya Janta Party,1057175,659535,62.4 %,266138,40.4%,AC View
+495,South Delhi,2,GEN,Delhi [1977 Onwards],Vijay Kumar Malhotra,Bharatiya Janta Party,1194198,499990,41.9 %,29999,6.0%,AC View
+496,Srikakulam,1,GEN,Andhra Pradesh,Yerrannaidu Kinjarapu,Telugu Desam,985232,676413,68.7 %,96882,14.3%,AC View
+497,Srinagar,2,GEN,Jammu & Kashmir,Omer Abdullah,Jammu & Kashmir National Conference,854081,101933,11.9 %,36859,36.2%,AC View
+498,Sriperumbudur,4,GEN,Tamil Nadu,"Krishnaswamy, A.",Dravida Munetra Kazhagam,1353858,744852,55.0 %,75002,10.1%,AC View
+499,Sultanpur,26,GEN,Uttar Pradesh [1947 - 1999],Jai Bhadra Singh,Bahujan Samaj Party,1220728,622094,51.0 %,14599,2.3%,AC View
+500,Sundargarh,20,GEN,Orissa,Jual Oram,Bharatiya Janta Party,1198357,630650,52.6 %,152514,24.2%,AC View
+501,Surat,24,GEN,Gujarat,Kashiram Rana,Bharatiya Janta Party,1950958,629334,32.3 %,249197,39.6%,AC View
+502,Surendranagar,2,GEN,Gujarat,Makwana Savshibhai Kanjibhai,Indian National Congress,970544,478887,49.3 %,25905,5.4%,AC View
+503,Surguja,12,ST,Madhya Pradesh [1947 - 1999],Khel Sai Singh,Indian National Congress,1089910,591901,54.3 %,61426,10.4%,AC View
+504,Tamluk,30,GEN,West Bengal,Lakshman Chandra Seth,Communist Party Of India (MARXIST),1098196,919886,83.8 %,54826,6.0%,AC View
+505,Tarn Taran,3,GEN,Punjab,Tarlochan Singh Tur,Shiromani Akali Dal,1101496,594943,54.0 %,75617,12.7%,AC View
+506,Tehri Garhwal,1,GEN,Uttar Pradesh [1947 - 1999],Manabendra Shah,Bharatiya Janta Party,1161284,490531,42.2 %,15771,3.2%,AC View
+507,Tenali,14,GEN,Andhra Pradesh,Ummareddy Venkateswarlu,Telugu Desam,960447,659306,68.7 %,73029,11.1%,AC View
+508,Tenkasi,37,SC,Tamil Nadu,"Murugesan,s.",All India Anna Dravida Munnetra Kazhagam,1044090,677352,64.9 %,887,0.1%,AC View
+509,Tezpur,9,GEN,Assam,Moni Kumar Subba,Indian National Congress,971406,705449,72.6 %,25706,3.6%,AC View
+510,Thane,10,GEN,Maharashtra,Prakash Paranjpe,Shiv Sena,2772750,934027,33.7 %,99683,10.7%,AC View
+511,Thanjavur,31,GEN,Tamil Nadu,Palanimanickam.S.S.,Dravida Munetra Kazhagam,1049837,662025,63.1 %,33014,5.0%,AC View
+512,Tindivanam,10,GEN,Tamil Nadu,Ramachandran N. Gingee.,Marumalarchi Dravida Munnetra Kazhagam,1128742,695793,61.6 %,9350,1.3%,AC View
+513,Tiruchendur,38,GEN,Tamil Nadu,"Jayaseelan, A.D.K.",Dravida Munetra Kazhagam,1040627,544782,52.4 %,59666,11.0%,AC View
+514,Tiruchengode,17,GEN,Tamil Nadu,"Kannappan, M.",Marumalarchi Dravida Munnetra Kazhagam,1527064,846112,55.4 %,4556,0.5%,AC View
+515,Tiruchirappalli,27,SC,Tamil Nadu,Arangarajan Kumaramangalam,Bharatiya Janta Party,1245971,702752,56.4 %,89197,12.7%,AC View
+516,Tirunelveli,36,GEN,Tamil Nadu,"Pandian, P.H.",All India Anna Dravida Munnetra Kazhagam,1121877,610963,54.5 %,26494,4.3%,AC View
+517,Tirupathi,20,SC,Andhra Pradesh,Dr.N.Venkataswamy,Bharatiya Janta Party,1199710,824694,68.7 %,12497,1.5%,AC View
+518,Tiruppattur,8,GEN,Tamil Nadu,"Venugopal, D.",Dravida Munetra Kazhagam,1144891,746109,65.2 %,23613,3.2%,AC View
+519,Tonk,13,GEN,Rajasthan,Shyam Lal Bansiwal,Bharatiya Janta Party,1138478,546453,48.0 %,48358,8.8%,AC View
+520,Trichur,9,SC,Kerala,A.C. Jose,Indian National Congress,1071266,737054,68.8 %,11632,1.6%,AC View
+521,Tripura East,2,ST,Tripura,Baju Ban Riyan,Communist Party Of India (MARXIST),854764,564376,66.0 %,150500,26.7%,AC View
+522,Tripura West,1,GEN,Tripura,Samar Chowdhury,Communist Party Of India (MARXIST),941291,659408,70.1 %,198399,30.1%,AC View
+523,Trivandrum,20,GEN,Kerala,Advocate V.S. Sivakumar,Indian National Congress,1198918,757497,63.2 %,14485,1.9%,AC View
+524,Tumkur,8,GEN,Karnataka,G.S.Basavaraj,Indian National Congress,1086936,800907,73.7 %,63937,8.0%,AC View
+525,Tura,2,ST,Meghalaya,Purno Agitok Sangma,Nationalist Congress Party,453861,292647,64.5 %,113579,38.8%,AC View
+526,Udaipur,18,GEN,Rajasthan,Girija Vyas,Indian National Congress,1256888,709780,56.5 %,54091,7.6%,AC View
+527,Udhampur,5,GEN,Jammu & Kashmir,Prof. Chaman Lal Gupta,Bharatiya Janta Party,1016952,403210,39.7 %,118307,29.3%,AC View
+528,Udupi,18,SC,Karnataka,Vinay Kumar Sorake,Indian National Congress,1023798,697132,68.1 %,31587,4.5%,AC View
+529,Ujjain,38,SC,Madhya Pradesh [1947 - 1999],Dr. Satyanarayan Jatiya,Bharatiya Janta Party,1107836,673742,60.8 %,68038,10.1%,AC View
+530,Uluberia,25,GEN,West Bengal,Hannan Mollah,Communist Party Of India (MARXIST),1101065,818915,74.4 %,67577,8.3%,AC View
+531,Unnao,22,GEN,Uttar Pradesh [1947 - 1999],Deepak Kumar,Samajwadi Party,1201204,599503,49.9 %,37775,6.3%,AC View
+532,Vaishali,9,GEN,Bihar [1947 - 1999],Raghuvansh Prasad Singh,Rashtriya Janata Dal,1049006,721601,68.8 %,45392,6.3%,AC View
+533,Vandavasi,9,GEN,Tamil Nadu,"Durai, M.",Pattali Makkal Katchi,1104886,679992,61.5 %,59197,8.7%,AC View
+534,Varanasi,52,GEN,Uttar Pradesh [1947 - 1999],Shankar Prasad Jaiswal,Bharatiya Janta Party,1407844,633826,45.0 %,52859,8.3%,AC View
+535,Vellore,7,GEN,Tamil Nadu,"Shanmugam, N.T.",Pattali Makkal Katchi,1152421,702639,61.0 %,25685,3.7%,AC View
+536,Vidisha,31,GEN,Madhya Pradesh [1947 - 1999],Shivraj Singh Chauhan,Bharatiya Janta Party,1171691,655686,56.0 %,82397,12.6%,AC View
+537,Vijayawada,13,GEN,Andhra Pradesh,Gadde Rama Mohan,Telugu Desam,1384393,947325,68.4 %,87066,9.2%,AC View
+538,Visakhapatnam,4,GEN,Andhra Pradesh,M.V.V.S.Murthy,Telugu Desam,1420606,914936,64.4 %,38919,4.3%,AC View
+539,Vishnupur,36,GEN,West Bengal,Sandhya Bauri,Communist Party Of India (MARXIST),1071817,846339,79.0 %,181570,21.5%,AC View
+540,Warangal,39,GEN,Andhra Pradesh,Bodakunti Venkateshwarlu,Telugu Desam,1132718,855702,75.5 %,13366,1.6%,AC View
+541,Wardha,27,GEN,Maharashtra,Prabha Rao,Indian National Congress,1079969,682935,63.2 %,7062,1.0%,AC View
+542,Washim,20,ST,Maharashtra,Bhawana Pundlikrao Gawali,Shiv Sena,1004211,678010,67.5 %,39595,5.8%,AC View
+543,Yavatmal,28,GEN,Maharashtra,Uttamrao Deorao Patil,Indian National Congress,1007605,648805,64.4 %,15226,2.3%,AC View

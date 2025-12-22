@@ -1,0 +1,71 @@
+#,AC Name,AC No.,Type,District,Winning Candidate,Party,Total Electors,Total Votes,Poll%,Margin,Margin %,Father/Husband Name,Gender,Age
+1,Nerela,1,GEN,North West,Raj Karan Khatri,Bharatiya Janta Party,280893,173765,61.9 %,8596,4.9%,Meer Singh,male,59
+2,Burari,2,GEN,North,Sanjeev Jha,Aam Aadmi Party,426260,252189,59.2 %,20601,8.2%,SUSHIL JHA,male,45
+3,Timarpur,3,GEN,North,Surya Prakash Khatri,Bharatiya Janta Party,216131,120878,55.9 %,1168,1.0%,SUKH LAL,male,62
+4,Adarsh Nagar,4,GEN,North,Raj Kumar Bhatia,Bharatiya Janta Party,177398,100083,56.4 %,11482,11.5%,LATE SHIV DAYAL BHATIA,male,59
+5,Badli,5,GEN,North West,Aahir Deepak Chaudharyy,Bharatiya Janta Party,238770,150174,62.9 %,15163,10.1%,NARAYAN SINGH,male,40
+6,Rithala,6,GEN,North West,Kulwant Rana,Bharatiya Janta Party,322190,185929,57.7 %,29616,15.9%,DEVENDER RANA,male,55
+7,Bawana,7,SC,North West,Ravinder Indraj Singh,Bharatiya Janta Party,384849,228510,59.4 %,31475,13.8%,INDRAJ SINGH,male,50
+8,Mundka,8,GEN,North West,Gajender Drall,Bharatiya Janta Party,314763,189765,60.3 %,10550,5.6%,JASWANT SINGH,male,48
+9,Kirari,9,GEN,North West,Anil Jha,Aam Aadmi Party,323916,201047,62.1 %,21871,10.9%,ANAND MOHAN JHA,male,50
+10,Sultanpur Majra,10,SC,North West,Mukesh Kumar Ahlawat,Aam Aadmi Party,186917,112331,60.1 %,17126,15.2%,KARAN SINGH,male,49
+11,Nangloi Jat,11,GEN,West,Manoj Kumar Shokeen,Bharatiya Janta Party,268760,158398,58.9 %,26251,16.6%,LATE SHRI ZILE SINGH,male,58
+12,Mangol Puri,12,SC,West,Raj Kumar Chauhan,Bharatiya Janta Party,189978,122688,64.6 %,6255,5.1%,LATE SH MAKHAN LAL,male,67
+13,Rohini,13,GEN,North West,Vijender Gupta,Bharatiya Janta Party,173133,107202,61.9 %,37816,35.3%,MAHAVIR PRASAD,male,61
+14,Shalimar Bagh,14,GEN,North,Rekha Gupta,Bharatiya Janta Party,194294,112994,58.2 %,29595,26.2%,MANISH GUPTA,female,50
+15,Shakur Basti,15,GEN,North,Karnail Singh,Bharatiya Janta Party,156904,98979,63.1 %,20998,21.2%,LATE SH. TELU RAM SINGH,male,57
+16,Tri Nagar,16,GEN,North,Tilak Ram Gupta,Bharatiya Janta Party,177354,110009,62.0 %,15896,14.4%,LATE SH ASHA RAM,male,73
+17,Wazirpur,17,GEN,North,Poonam Sharma,Bharatiya Janta Party,191089,106136,55.5 %,11425,10.8%,ASHOK SHARMA,female,40
+18,Model Town,18,GEN,North,Ashok Goel,Bharatiya Janta Party,178947,95633,53.4 %,13415,14.0%,R L GOEL,male,57
+19,Sadar Bazar,19,GEN,Central,Som Dutt,Aam Aadmi Party,195143,117814,60.4 %,6307,5.4%,RAM KUMAR,male,49
+20,Chandni Chowk,20,GEN,Central,Punardeep Singh Sawhney (SABBY),Aam Aadmi Party,126909,70920,55.9 %,16572,23.4%,PARLAD SINGH SAWHNEY,male,44
+21,Matia Mahal,21,GEN,Central,Aaley Mohammed Iqbal,Aam Aadmi Party,129522,84258,65.1 %,42724,50.7%,SHOAIB IQBAL,male,34
+22,Ballimaran,22,GEN,Central,Imran Hussain,Aam Aadmi Party,153556,97976,63.8 %,29823,30.4%,Abrar Hussain,male,43
+23,Karol Bagh,23,SC,Central,Vishesh Ravi,Aam Aadmi Party,187915,102246,54.4 %,7430,7.3%,SH. KISHAN CHAND RAVI,male,41
+24,Patel Nagar,24,SC,Central,Pravesh Ratn,Aam Aadmi Party,201535,116598,57.9 %,4049,3.5%,RAMESH CHANDRA RATN,male,39
+25,Moti Nagar,25,GEN,Central,Harish Khurana,Bharatiya Janta Party,185554,108672,58.6 %,11657,10.7%,,,
+26,Madipur,26,SC,West,Kailash Gangwal,Bharatiya Janta Party,177814,112112,63.1 %,10899,9.7%,LATE SH. RAMJI LAL,male,53
+27,Rajouri Garden,27,GEN,West,Manjinder Singh Sirsa,Bharatiya Janta Party,181452,114023,62.8 %,18190,16.0%,JASBIR SINGH SIRSA,male,52
+28,Hari Nagar,28,GEN,West,Shyam Sharma,Bharatiya Janta Party,169323,102327,60.4 %,6632,6.5%,RATAN CHAND,male,60
+29,Tilak Nagar,29,GEN,West,Jarnail Singh,Aam Aadmi Party,159923,95896,60.0 %,11656,12.2%,HARBHAJAN SINGH,male,43
+30,Janakpuri,30,GEN,West,Ashish Sood,Bharatiya Janta Party,198204,124128,62.6 %,18766,15.1%,MADAN GOPAL SOOD,male,58
+31,Vikaspuri,31,GEN,West,Pankaj Kumar Singh,Bharatiya Janta Party,464344,272188,58.6 %,12876,4.7%,RAJ MOHAN SINGH,male,48
+32,Uttam Nagar,32,GEN,South-West,Pawan Sharma,Bharatiya Janta Party,316788,194876,61.5 %,29740,15.3%,RAMESHWAR DUTT SHARMA,male,65
+33,Dwarka,33,GEN,South-West,Parduymn Singh Rajput,Bharatiya Janta Party,224288,138775,61.9 %,7829,5.6%,LATE SH B S RAJPUT,male,60
+34,Matiala,34,GEN,South-West,Sandeep Sehrawat,Bharatiya Janta Party,454833,276876,60.9 %,28723,10.4%,JAGDISH SEHRAWAT,male,32
+35,Najafgarh,35,GEN,South-West,Neelam Pahalwan,Bharatiya Janta Party,277322,178988,64.5 %,29009,16.2%,KRISHAN KUMAR,female,43
+36,Bijwasan,36,GEN,South-West,Kailash Gahlot,Bharatiya Janta Party,212415,129748,61.1 %,11276,8.7%,LT. RAM CHANDER GAHLOT,male,50
+37,Palam,37,GEN,South-West,Kuldeep Solanki,Bharatiya Janta Party,259338,161496,62.3 %,8952,5.5%,RAM ROOP SOLANKI,male,58
+38,Delhi Cantt,38,GEN,South-West,Virender Singh Kadian,Aam Aadmi Party,79667,47128,59.2 %,2029,4.3%,RATI RAM,male,49
+39,Rajinder Nagar,39,GEN,South-West,Umang Bajaj,Bharatiya Janta Party,157953,96640,61.2 %,1231,1.3%,UMESH BAJAJ,male,31
+40,New Delhi,40,GEN,New Delhi,Parvesh Sahib Singh,Bharatiya Janta Party,108574,61322,56.5 %,4089,6.7%,LATE SAHIB SINGH VERMA,male,47
+41,Jangpura,41,GEN,New Delhi,Tarvinder Singh Marwah,Bharatiya Janta Party,148182,85070,57.4 %,675,0.8%,LATE L SINGH,male,64
+42,Kasturba Nagar,42,GEN,New Delhi,Neeraj Basoya,Bharatiya Janta Party,155405,84011,54.1 %,11048,13.2%,BALBIR SINGH,male,49
+43,Malviya Nagar,43,GEN,New Delhi,Satish Upadhyay,Bharatiya Janta Party,156271,84503,54.1 %,2131,2.5%,N P SHARMA,male,62
+44,R. K. Puram,44,GEN,New Delhi,Anil Kumar Sharma,Bharatiya Janta Party,140736,75954,54.0 %,14453,19.0%,Madan Lal Sharma,male,53
+45,Mehrauli,45,GEN,South,Gajender Singh Yadav,Bharatiya Janta Party,217674,115188,52.9 %,1782,1.5%,MOHLAD SINGH,male,48
+46,Chhatarpur,46,GEN,South,Kartar Singh Tanwar,Bharatiya Janta Party,260666,163431,62.7 %,6239,3.8%,HORAM SINGH,male,62
+47,Deoli,47,SC,South,Prem Chauhan,Aam Aadmi Party,264240,155604,58.9 %,36680,23.6%,RAM DAYAL,male,37
+48,Ambedkar Nagar,48,SC,South,Dr. Ajay Dutt,Aam Aadmi Party,162748,96691,59.4 %,4230,4.4%,Banwari Lal,male,49
+49,Sangam Vihar,49,GEN,South,Chandan Kumar Choudhary,Bharatiya Janta Party,205580,125177,60.9 %,344,0.3%,Rasho Choudhary,male,44
+50,Greater Kailash,50,GEN,New Delhi,Shikha Roy,Bharatiya Janta Party,188364,103213,54.8 %,3188,3.1%,SANJEEV KUMAR PABBI,female,60
+51,Kalkaji,51,GEN,South,Atishi,Aam Aadmi Party,195264,106320,54.4 %,3521,3.3%,VIJAY KUMAR SINGH,female,43
+52,Tughlakabad,52,GEN,South,Sahi Ram,Aam Aadmi Party,204802,114402,55.9 %,14711,12.9%,SURAJ MAL,male,65
+53,Badarpur,53,GEN,South,Ram Singh Netaji,Aam Aadmi Party,364721,207180,56.8 %,25888,12.5%,KUNDAN SINGH,male,69
+54,Okhla,54,GEN,New Delhi,Amanatullah Khan,Aam Aadmi Party,380268,208918,54.9 %,23639,11.3%,LATE WALIULLAH KHAN,male,51
+55,Trilokpuri,55,SC,East,Ravi Kant,Bharatiya Janta Party,192856,125600,65.1 %,392,0.3%,MAHESH,male,32
+56,Kondli,56,SC,East,Kuldeep Kumar (MONU),Aam Aadmi Party,203546,127954,62.9 %,6293,4.9%,SRI PRAKASH,male,35
+57,Patparganj,57,GEN,East,Ravinder Singh Negi (Ravi Negi),Bharatiya Janta Party,227213,137960,60.7 %,28072,20.3%,P S NEGI,male,48
+58,Laxmi Nagar,58,GEN,East,Abhay Verma,Bharatiya Janta Party,206783,125696,60.8 %,11542,9.2%,LATE SH BANKEY BIHARI VERMA,male,52
+59,Vishwas Nagar,59,GEN,East,Om Prakash Sharma,Bharatiya Janta Party,204780,123975,60.5 %,25042,20.2%,SHIV LAL SHARMA,male,71
+60,Krishna Nagar,60,GEN,East,Dr Anil Goyal,Bharatiya Janta Party,223198,142709,63.9 %,19498,13.7%,LATE SH. SITA RAM,male,67
+61,Gandhi Nagar,61,GEN,East,Arvinder Singh Lovely,Bharatiya Janta Party,172322,105002,60.9 %,12748,12.1%,BALVINDER SINGH,male,56
+62,Shahdara,62,GEN,East,Sanjay Goyal,Bharatiya Janta Party,201358,125959,62.6 %,5178,4.1%,LATE SH. C. P. AGGARWAL,male,56
+63,Seemapuri,63,SC,North-East,Veer Singh Dhingan,Aam Aadmi Party,209221,136499,65.2 %,10368,7.6%,Bhagat Ram,male,71
+64,Rohtas Nagar,64,GEN,North-East,Jitender Mahajan,Bharatiya Janta Party,219713,143687,65.4 %,27902,19.4%,KEWAL KRISHAN,male,55
+65,Seelam Pur,65,GEN,North-East,Chaudhary Zubair Ahmad,Aam Aadmi Party,193699,133085,68.7 %,42477,31.9%,CHAUDHARY MATEEN AHMAD,male,44
+66,Ghonda,66,GEN,North-East,Ajay Mahawar,Bharatiya Janta Party,229416,139832,61.0 %,26058,18.6%,J. P. MAHAWAR,male,53
+67,Babarpur,67,GEN,North-East,Gopal Rai,Aam Aadmi Party,216543,142770,65.9 %,18994,13.3%,VIJAY SHANKAR RAI,male,49
+68,Gokalpur,68,SC,North-East,Surendra Kumar,Aam Aadmi Party,241510,165450,68.5 %,8207,5.0%,MANGAT RAM,male,57
+69,Mustafabad,69,GEN,North-East,Mohan Singh Bisht,Bharatiya Janta Party,290724,200706,69.0 %,17578,8.8%,KHUSHAL SINGH BISHT,male,67
+70,Karawal Nagar,70,GEN,North-East,Kapil Mishra,Bharatiya Janta Party,311279,200375,64.4 %,23355,11.7%,RAMESHWAR PRASAD,male,44
