@@ -82,10 +82,14 @@ Father/husband name: VENKATESHWAR REDDY CHITTEM
 )
 
 # print(response.choices[0].message.content)
-print(response.output_text)
-print(json.dumps(response.model_dump(), indent=2))
 
-# for item in response.output:
-#     if item.type == "web_search_call":
-#         print(item.action.sources)
+# main working 2 lines below
+# print(response.output_text)
+# print(json.dumps(response.model_dump(), indent=2))
+
+from StructuredOutput import CandidateFamilyResponse
+
+raw_text = response.output_text
+parsed_json = json.loads(raw_text)
+validated_output = CandidateFamilyResponse(**parsed_json)
 

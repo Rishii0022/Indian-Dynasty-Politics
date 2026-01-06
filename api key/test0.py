@@ -1,6 +1,7 @@
 import os
 from openai import AzureOpenAI
 from dotenv import load_dotenv
+import json
 
 load_dotenv()
 
@@ -36,8 +37,10 @@ If any detail (years held, constituency, district, or state) is not publicly ava
 If none of the candidates direct or extended family members have held any political role, output exactly:
 No family
 Add all URL citations/sources so the user can verify the information provided.
+
 Output Structure:
 Relation - Relative Name — Political role/position - {Years held} — {[constituency name, district name, State name](if applicable / if known)}
+Think carefully step by step about what documents are needed to answer the query.
             """,
         },
         {
@@ -47,9 +50,9 @@ Relation - Relative Name — Political role/position - {Years held} — {[consti
             Return only a list of direct and extended family members of elected political candidate Chittem Parnika Reddy who are involved in politics, The details of Chittem Parnika Reddy are added below as context.
 
 Context:
-State Name: Telangana
-Election Name: Telangana Assembly Elections 2023
-Constituency Name: Narayanpet
+State Name: Telangana 
+Election Name: Telangana Assembly Elections 2023 
+Constituency Name: Narayanpet 
 District Name: Mahbubnagar
 Father/husband name: VENKATESHWAR REDDY CHITTEM
 
@@ -66,9 +69,11 @@ Father/husband name: VENKATESHWAR REDDY CHITTEM
             }
         }
     ],
+    # tool_choice= "required",
+    include=["web_search_call.action.sources"],
 
 
-    # max_completion_tokens=13107,
+    # max_completion_tokens=2500,
     temperature=0.55,
     top_p=1.0,
 
@@ -78,3 +83,8 @@ Father/husband name: VENKATESHWAR REDDY CHITTEM
 
 # print(response.choices[0].message.content)
 print(response.output_text)
+print(json.dumps(response.model_dump(), indent=2))
+
+# for item in response.output:
+#     if item.type == "web_search_call":
+#         print(item.action.sources)
