@@ -33,13 +33,34 @@ Output only direct and extended family members who meet the inclusion criteria f
 You must exhaustively identify and include all publicly known direct and extended family members (including parents, siblings, grandparents, aunts, uncles, cousins, and in-laws) of the candidate who have held or contested any political office. Do not stop after listing one relative.
 Before responding, internally verify that no other qualifying relatives are omitted.
 use a web search before returning results
-If any detail (years held, constituency, district, or state) is not publicly available, use “Unknown” instead of omitting the relative.
-If none of the candidates direct or extended family members have held any political role, output exactly:
-No family
-Add all URL citations/sources so the user can verify the information provided.
-
-Output Structure:
-Relation - Relative Name — Political role/position - {Years held} — {[constituency name, district name, State name](if applicable / if known)}
+Output ONLY valid JSON.
+Do NOT include text, numbering, explanations, sources, or URLs.
+The response MUST start with '{' and end with '}'.
+The JSON MUST follow this schema exactly:
+{
+  "candidate_key": <candidate name>_<constituency>_,<district>_<election name>,
+  "family": [
+    {
+      "Relation": "string",
+      "Name": "string",
+      "PoliticalRole": "string",
+      "YearsHeld": "string"
+      "ConstituencyName": "string",
+      "DistrictName": "string",
+      "StateName": "string"
+    }
+  ]
+}
+Rules:
+- Use EXACT key names and capitalization as shown.
+- Do NOT add extra keys.
+- If a value is unknown, use "Unknown".
+- If no family members qualify, return:
+{
+  "candidate_key": "<candidate name>_<constituency>_,<district>_<election name>",
+  "family": []
+}
+- Output nothing except this JSON.
 Think carefully step by step about what documents are needed to answer the query.
             """,
         },
@@ -84,12 +105,25 @@ Father/husband name: VENKATESHWAR REDDY CHITTEM
 # print(response.choices[0].message.content)
 
 # main working 2 lines below
-# print(response.output_text)
-# print(json.dumps(response.model_dump(), indent=2))
+print(response.output_text)
+print(json.dumps(response.model_dump(), indent=2))
 
-from StructuredOutput import CandidateFamilyResponse
+# from StructuredOutputRelatives import CandidateFamilyResponse
+#
+# raw_text = response.output_text
+# parsed_json = json.loads(raw_text)
+# validated_output = CandidateFamilyResponse(**parsed_json)
 
-raw_text = response.output_text
-parsed_json = json.loads(raw_text)
-validated_output = CandidateFamilyResponse(**parsed_json)
+# To get all Family Names
+# for member in validated_output.family:
+#     print(member)
+
+#JSON formatted
+# print(json.dumps(validated_output.model_dump(), indent=4))
+
+#JSON directly
+# print(validated_output.model_dump_json(indent=4))
+
+
+
 
