@@ -33,12 +33,11 @@ Output only direct and extended family members who meet the inclusion criteria f
 You must exhaustively identify and include all publicly known direct and extended family members (including parents, siblings, grandparents, aunts, uncles, cousins, and in-laws) of the candidate who have held or contested any political office. Do not stop after listing one relative.
 Before responding, internally verify that no other qualifying relatives are omitted.
 use a web search before returning results
-Output ONLY valid JSON.
-Do NOT include text, numbering, explanations, sources, or URLs.
-The response MUST start with '{' and end with '}'.
+Add all URL citations/sources so the user can verify the information provided.
+
 The JSON MUST follow this schema exactly:
 {
-  "candidate_key": <candidate name>_<constituency>_,<district>_<election name>,
+  "candidate_key": <candidate name>_<constituency>_<district>_<election name>,
   "family": [
     {
       "Relation": "string",
@@ -54,13 +53,13 @@ The JSON MUST follow this schema exactly:
 Rules:
 - Use EXACT key names and capitalization as shown.
 - Do NOT add extra keys.
-- If a value is unknown, use "Unknown".
+- If any detail (years held, constituency, district, or state) is not publicly available, use “Unknown” instead of omitting the relative.
 - If no family members qualify, return:
 {
-  "candidate_key": "<candidate name>_<constituency>_,<district>_<election name>",
+  "candidate_key": "<candidate name>_<constituency>_<district>_<election name>",
   "family": []
 }
-- Output nothing except this JSON.
+The response MUST start with '{' and end with '}'.
 Think carefully step by step about what documents are needed to answer the query.
             """,
         },
@@ -108,15 +107,21 @@ Father/husband name: VENKATESHWAR REDDY CHITTEM
 print(response.output_text)
 print(json.dumps(response.model_dump(), indent=2))
 
-# from StructuredOutputRelatives import CandidateFamilyResponse
-#
+from StructuredOutputRelatives import CandidateFamilyResponse
+from StructuredOutputURL import CitationResponse
+
 # raw_text = response.output_text
 # parsed_json = json.loads(raw_text)
 # validated_output = CandidateFamilyResponse(**parsed_json)
+# validated_output2 = CitationResponse(**parsed_json)
 
 # To get all Family Names
 # for member in validated_output.family:
 #     print(member)
+
+#TO get all URLs
+# for citation in validated_output2.citations:
+#     print(citation)
 
 #JSON formatted
 # print(json.dumps(validated_output.model_dump(), indent=4))

@@ -1,9 +1,9 @@
 from pydantic import BaseModel, Field
 from typing import Dict, List, Union
 
+#extra="forbid"
 
-
-class Relatives(BaseModel, extra="forbid"):
+class Relatives(BaseModel):
     Relation:str = Field(description = "Relation with the relative")
     Name:str = Field(description = "Name of the relative")
     PoliticalRole:str = Field(description="Political role/position")
