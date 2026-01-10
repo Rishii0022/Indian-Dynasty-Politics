@@ -4,9 +4,9 @@ from typing import Dict, List, Union
 #extra="forbid"
 
 class Relatives(BaseModel):
-    Relation:str = Field(description = "Relation with the winning elected candidate")
+    Relation:str = Field(description = "Relation with the relative")
     Name:str = Field(description = "Name of the relative")
-    PoliticalRole:str = Field(description="Political role/position of the relative")
+    PoliticalRole:str = Field(description="Political role/position")
     YearsHeld:  Union[str, int] = Field(description="Years held")
     ConstituencyName: str = Field(description="Constituency name")
     DistrictName: str = Field(description="District name")
