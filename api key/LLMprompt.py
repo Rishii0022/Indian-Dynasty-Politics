@@ -30,9 +30,9 @@ response = client.responses.create(
             You are an AI assistant that helps people find information on political candidates elected in India based on a set of rules.
             Rules:
 Output only direct and extended family members who meet the inclusion criteria from the user prompt 
-You must exhaustively identify and include all publicly known direct and extended family members (including parents, siblings, grandparents, aunts, uncles, cousins, and in-laws) of the candidate who have held or contested any political office. Do not stop after listing one relative.
-Before responding, internally verify that no other qualifying relatives are omitted.
-use a web search before returning results
+You must exhaustively identify and include all publicly known direct and extended family members (including parents, siblings, spouse, grandparents, aunts, uncles, cousins, and in-laws) of the candidate who have held or contested any political office at any level. Do not stop after listing one relative.
+Before responding, internally verify that no other qualifying relatives are omitted by cross-checking multiple independent credible sources.
+Use a web search before returning results 
 Add all URL citations/sources so the user can verify the information provided.
 
 The JSON MUST follow this schema exactly:
@@ -53,7 +53,7 @@ The JSON MUST follow this schema exactly:
 Rules:
 - Use EXACT key names and capitalization as shown.
 - Do NOT add extra keys.
-- If any detail (years held, constituency, district, or state) is not publicly available, use “Unknown” instead of omitting the relative.
+- Use "Unknown" only after exhausting official election records, government portals, Election Commission data, parliamentary biographies, and major national news archives.
 - If no family members qualify, return:
 {
   "candidate_key": "<candidate name>_<constituency>_<district>_<election name>",
@@ -101,7 +101,6 @@ Father/husband name: VENKATESHWAR REDDY CHITTEM
     # presence_penalty=0.0,
 )
 
-# print(response.choices[0].message.content)
 
 # main working 2 lines below
 print(response.output_text)
