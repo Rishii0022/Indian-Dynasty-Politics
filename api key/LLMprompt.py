@@ -48,7 +48,7 @@ The JSON MUST follow this schema exactly:
       "DistrictName": "string",
       "StateName": "string"
     }
-  ]
+  ],
 }
 Rules:
 - Use EXACT key names and capitalization as shown.
@@ -104,7 +104,7 @@ Father/husband name: VENKATESHWAR REDDY CHITTEM
 
 # main working 2 lines below
 print(response.output_text)
-print(json.dumps(response.model_dump(), indent=2))
+# print(json.dumps(response.model_dump(), indent=2))
 
 from StructuredOutputRelatives import CandidateFamilyResponse
 
