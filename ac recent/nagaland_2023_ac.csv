@@ -1,61 +1,61 @@
-AC Name,Type,District,Winning Candidate,Party,Total Electors,Total Votes,Poll %,Margin,Margin %,Father/Husband Name,Gender,Age
-Dimapur I,,Dimapur,H. Tovihoto Ayemi,BJP,,"13,325",67.01,,,LT. HEJETO AYEMI,male,44.0
-Dimapur II,ST,Dimapur,Moatoshi Longkumer,NDPP,,"23,856",53.19,,,LATE TONGPANG IMTI AO,male,65.0
-Dimapur III,ST,Chümoukedima,Hekani Jakhalu Kense,NDPP,,"14,395",45.16,,,,,
-Ghaspani I,ST,Chümoukedima,Jacob Zhimomi,BJP,,"32,037",55.95,,,IHEZHE ZHIMOMI,male,42.0
-Ghaspani II,ST,Chümoukedima,Zhaleo Rio,NDPP,,"11,405",46.48,,,LT. GUOLHOULIE RIO,male,69.0
-Tening,ST,Peren,Namri Nchang,NCP,,"6,736",29.39,,,Lt. Alabo Nchang,male,56.0
-Peren,ST,Peren,T. R. Zeliang,NDPP,,"16,800",67.36,,,,,
-Western Angami,ST,Kohima,Salhoutuonuo Kruse,NDPP,,"7,078",49.74,,,Lt. Kevisekho Kruse,female,56.0
-Kohima Town,ST,Kohima,Tseilhoutuo Rhütso,NPP,,"9,682",49.56,,,Kehodepi Rhutso,male,49.0
-Northern Angami I,ST,Kohima,Kekhrielhoulie Yhome,NDPP,,"7,724",55.85,,,Shri.Vio Yhome,male,46.0
-Northern Angami II,ST,Kohima,Neiphiu Rio,NDPP,,"17,045",92.87,,,Late Guolhoulie,male,72.0
-Tseminyü,ST,Tseminyü,Jwenga Seb,JD(U),,"8,096",35.9,,,SHUNI SEB,male,45.0
-Pughoboto,ST,Zünheboto,Sukhato A. Sema,LJP(RV),,"7,808",52.8,,,AKHAVI SEMA,male,65.0
-Southern Angami I,ST,Kohima,Kevipodi Sophie,IND,,"6,643",50.53,,,Zelul Sophie,male,59.0
-Southern Angami II,ST,Kohima,Kropol Vitsü,BJP,,"5,985",36.97,,,Late Thuse Vitsu,male,58.0
-Pfütsero,ST,Phek,Neisatuo Mero,IND,,"7,995",42.06,,,LT. DITSOZU MERO,male,49.0
-Chizami,ST,Phek,K. G. Kenye,NDPP,,"7,088",43.28,,,,,
-Chozuba,ST,Phek,Küdecho Khamo,NDPP,,"9,485",41.15,,,,,
-Phek,ST,Phek,Kuzholuzo Nienu,NPF,,"9,485",48.92,,,Late. K.K. Chire,male,57.0
-Meluri,ST,Phek,Z. Nyusietho Nyuthe,NDPP,,"11,256",58.04,,,,,
-Tuli,ST,Mokokchung,A. Pangjung Jamir,BJP,,"10,319",58.47,,,Alienba,male,56.0
-Arkakong,ST,Mokokchung,Nuklutoshi,NPP,,"9,387",53.36,,,Late Suzutemjen,male,56.0
-Impur,ST,Mokokchung,T. M. Mannen,NDPP,,"6,825",54.24,,,,,
-Angetyongpang,ST,Mokokchung,Tongpang Ozüküm,NDPP,,"8,046",51.14,,,LATE TEMSULEPDEN,male,42.0
-Mongoya,ST,Mokokchung,Imkongmar,NDPP,,"6,818",41.91,,,LATE. ALEMJONGSHI,male,47.0
-Aonglenden,ST,Mokokchung,Sharingain Longkümer,NDPP,,"7,074",72.24,,,LATE. I. NUNGSHIZENBA LONGKUMER,male,42.0
-Mokokchung Town,ST,Mokokchung,Metsübo Jamir,NDPP,,"5,318",78.66,,,N.I JAMIR,male,63.0
-Koridang,ST,Mokokchung,Imkong L. Imchen,BJP,,"8,340",43.56,,,LATE LONGRISANGBA IMCHEN,male,72.0
-Jangpetkong,ST,Mokokchung,Temjenmemba,NDPP,,"6,238",55.39,,,,,
-Alongtaki,ST,Mokokchung,Temjen Imna Along,BJP,,"5,439",56.14,,,JONAH IMNA SASHI,male,42.0
-Akuluto,ST,Zünheboto,Kazheto Kinimi,BJP,,Elected Unopposed[1],,,,,,
-Atoizü,ST,Zünheboto,Picto Shohe,NCP,,"8,294",51.83,,,,,
-Suruhoto,ST,Zünheboto,S. Toiho Yeptho,NCP,,"6,919",50.18,,,Lt. SUHOKHE YEPTHO,male,50.0
-Aghunato,ST,Zünheboto,G. Ikuto Zhimomi,NDPP,,"7,133",52.04,,,LATE GHONIVI ZHIMOMI,male,62.0
-Zünheboto,ST,Zünheboto,K. Tokugha Sukhalu,NDPP,,"15,921",80.04,,,LATE KAWOTO,male,68.0
-Satakha,ST,Zünheboto,G. Kaito Aye,NDPP,,"8,875",53.99,,,Late. GHOKHEVI AYE,male,70.0
-Tyüi,ST,Wokha,Yanthungo Patton,BJP,,"16,641",67.83,,,LATE PHYALUMO PATTON,male,66.0
-Wokha,ST,Wokha,Y. Mhonbemo Hümtsoe,NCP,,"15,949",54.64,,,YANPHAMO HUMTSOE,male,64.0
-Sanis,ST,Wokha,Mhathung Yanthan,NDPP,,"15,076",65.85,,,Lt. Ashemo Yanthan,male,63.0
-Bhandari,ST,Wokha,Achumbemo Kikon,NPF,,"13,867",54.11,,,JOHN KIKON,male,47.0
-Tizit,ST,Mon,P. Paiwang Konyak,BJP,,"10,428",52.99,,,LANGTO,male,45.0
-Wakching,ST,Mon,W. Chingang Konyak,NDPP,,"9,166",58.56,,,P. WECHING KONYAK,male,60.0
-Tapi,ST,Mon,Noke Wangnao,NDPP,,"5,864",40.14,,,LT. MONYAO,male,86.0
-Phomching,ST,Mon,K. Konngam Konyak,BJP,,"9,803",58.09,,,,,
-Tehok,ST,mon,C. L. John,NDPP,,"9,232",78.55,,,,,
-Mon Town,ST,Mon,Y. Mankhao Konyak,NCP,,"10,870",56.71,,,,,
-Aboi,ST,Mon,C. Manpon Konyak,IND,,"6,771",52.79,,,CHANGKAP,male,42.0
-Moka,ST,Mon,A. Nyamnyei Konyak,NPP,,"8,857",50.7,,,,,
-Tamlu,ST,Longleng,B. Bangtick Phom,IND,,"8,646",51.15,,,Late Bongnyei,male,62.0
-Longleng,ST,Longleng,A. Pongshi Phom,NCP,,"16,908",57.9,,,,,
-Noksen,ST,Tuensang,Y. Lima Onen Chang,RPI(A),,"5,151",50.73,,,Yemjonglepba,male,53.0
-Longkhim–Chare,ST,Tuensang,Sethrongkyu Sangtam,BJP,,"10,187",50.33,,,,,
-Tuensang Sadar I,ST,Tuensang,P. Bashangmongba Chang,BJP,,"12,638",63.3,,,Phanglou,male,44.0
-Tuensang Sadar II,ST,Tuensang,Imtichoba,RPI(A),,"5,514",36.19,,,Lt. Thungpang Cholen,male,35
-Tobu,ST,Mon,Naiba Konyak,LJP(RV),,"10,622",51.17,,,Lt. Keyiang Konyak,male,59
-Noklak,ST,Noklak,P. Longon,NCP,,"8,482",52.18,,,Puthai,male,62
-Thonoknyu,ST,Noklak,Benei M. Lamthiu,NPP,,"10,462",56.06,,,,,
-Shamator–Chessore,ST,Shamator,S. Keoshu Yimchunger,NDPP,,"9,065",56.25,,,Lt. SHOKUM,male,45
-Seyochung–Sitimi,ST,Kiphire,C. Kipili Sangtam,NPP,,"11,936",51.84,,,Chorise Sangtam,male,72
-Pungro–Kiphire,ST,Kiphire,S. Kiusumew Yimchunger,NDPP,,"16,098",53.59,,,Shri. Supikiu,male,62
+ac no,ac name,type,district,winning candidate,party,total electors,total votes,poll %,margin,margin %,father/husband name,gender,age,UID
+1,Dimapur I,,Dimapur,H. Tovihoto Ayemi,BJP,,"13,325",67.01,,,LT. HEJETO AYEMI,male,44.0,NL2023AC01
+2,Dimapur II,ST,Dimapur,Moatoshi Longkumer,NDPP,,"23,856",53.19,,,LATE TONGPANG IMTI AO,male,65.0,NL2023AC02
+3,Dimapur III,ST,Chümoukedima,Hekani Jakhalu Kense,NDPP,,"14,395",45.16,,,,,,NL2023AC03
+4,Ghaspani I,ST,Chümoukedima,Jacob Zhimomi,BJP,,"32,037",55.95,,,IHEZHE ZHIMOMI,male,42.0,NL2023AC04
+5,Ghaspani II,ST,Chümoukedima,Zhaleo Rio,NDPP,,"11,405",46.48,,,LT. GUOLHOULIE RIO,male,69.0,NL2023AC05
+6,Tening,ST,Peren,Namri Nchang,NCP,,"6,736",29.39,,,Lt. Alabo Nchang,male,56.0,NL2023AC06
+7,Peren,ST,Peren,T. R. Zeliang,NDPP,,"16,800",67.36,,,,,,NL2023AC07
+8,Western Angami,ST,Kohima,Salhoutuonuo Kruse,NDPP,,"7,078",49.74,,,Lt. Kevisekho Kruse,female,56.0,NL2023AC08
+9,Kohima Town,ST,Kohima,Tseilhoutuo Rhütso,NPP,,"9,682",49.56,,,Kehodepi Rhutso,male,49.0,NL2023AC09
+10,Northern Angami I,ST,Kohima,Kekhrielhoulie Yhome,NDPP,,"7,724",55.85,,,Shri.Vio Yhome,male,46.0,NL2023AC10
+11,Northern Angami II,ST,Kohima,Neiphiu Rio,NDPP,,"17,045",92.87,,,Late Guolhoulie,male,72.0,NL2023AC11
+12,Tseminyü,ST,Tseminyü,Jwenga Seb,JD(U),,"8,096",35.9,,,SHUNI SEB,male,45.0,NL2023AC12
+13,Pughoboto,ST,Zünheboto,Sukhato A. Sema,LJP(RV),,"7,808",52.8,,,AKHAVI SEMA,male,65.0,NL2023AC13
+14,Southern Angami I,ST,Kohima,Kevipodi Sophie,IND,,"6,643",50.53,,,Zelul Sophie,male,59.0,NL2023AC14
+15,Southern Angami II,ST,Kohima,Kropol Vitsü,BJP,,"5,985",36.97,,,Late Thuse Vitsu,male,58.0,NL2023AC15
+16,Pfütsero,ST,Phek,Neisatuo Mero,IND,,"7,995",42.06,,,LT. DITSOZU MERO,male,49.0,NL2023AC16
+17,Chizami,ST,Phek,K. G. Kenye,NDPP,,"7,088",43.28,,,,,,NL2023AC17
+18,Chozuba,ST,Phek,Küdecho Khamo,NDPP,,"9,485",41.15,,,,,,NL2023AC18
+19,Phek,ST,Phek,Kuzholuzo Nienu,NPF,,"9,485",48.92,,,Late. K.K. Chire,male,57.0,NL2023AC19
+20,Meluri,ST,Phek,Z. Nyusietho Nyuthe,NDPP,,"11,256",58.04,,,,,,NL2023AC20
+21,Tuli,ST,Mokokchung,A. Pangjung Jamir,BJP,,"10,319",58.47,,,Alienba,male,56.0,NL2023AC21
+22,Arkakong,ST,Mokokchung,Nuklutoshi,NPP,,"9,387",53.36,,,Late Suzutemjen,male,56.0,NL2023AC22
+23,Impur,ST,Mokokchung,T. M. Mannen,NDPP,,"6,825",54.24,,,,,,NL2023AC23
+24,Angetyongpang,ST,Mokokchung,Tongpang Ozüküm,NDPP,,"8,046",51.14,,,LATE TEMSULEPDEN,male,42.0,NL2023AC24
+25,Mongoya,ST,Mokokchung,Imkongmar,NDPP,,"6,818",41.91,,,LATE. ALEMJONGSHI,male,47.0,NL2023AC25
+26,Aonglenden,ST,Mokokchung,Sharingain Longkümer,NDPP,,"7,074",72.24,,,LATE. I. NUNGSHIZENBA LONGKUMER,male,42.0,NL2023AC26
+27,Mokokchung Town,ST,Mokokchung,Metsübo Jamir,NDPP,,"5,318",78.66,,,N.I JAMIR,male,63.0,NL2023AC27
+28,Koridang,ST,Mokokchung,Imkong L. Imchen,BJP,,"8,340",43.56,,,LATE LONGRISANGBA IMCHEN,male,72.0,NL2023AC28
+29,Jangpetkong,ST,Mokokchung,Temjenmemba,NDPP,,"6,238",55.39,,,,,,NL2023AC29
+30,Alongtaki,ST,Mokokchung,Temjen Imna Along,BJP,,"5,439",56.14,,,JONAH IMNA SASHI,male,42.0,NL2023AC30
+31,Akuluto,ST,Zünheboto,Kazheto Kinimi,BJP,,Elected Unopposed[1],,,,,,,NL2023AC31
+32,Atoizü,ST,Zünheboto,Picto Shohe,NCP,,"8,294",51.83,,,,,,NL2023AC32
+33,Suruhoto,ST,Zünheboto,S. Toiho Yeptho,NCP,,"6,919",50.18,,,Lt. SUHOKHE YEPTHO,male,50.0,NL2023AC33
+34,Aghunato,ST,Zünheboto,G. Ikuto Zhimomi,NDPP,,"7,133",52.04,,,LATE GHONIVI ZHIMOMI,male,62.0,NL2023AC34
+35,Zünheboto,ST,Zünheboto,K. Tokugha Sukhalu,NDPP,,"15,921",80.04,,,LATE KAWOTO,male,68.0,NL2023AC35
+36,Satakha,ST,Zünheboto,G. Kaito Aye,NDPP,,"8,875",53.99,,,Late. GHOKHEVI AYE,male,70.0,NL2023AC36
+37,Tyüi,ST,Wokha,Yanthungo Patton,BJP,,"16,641",67.83,,,LATE PHYALUMO PATTON,male,66.0,NL2023AC37
+38,Wokha,ST,Wokha,Y. Mhonbemo Hümtsoe,NCP,,"15,949",54.64,,,YANPHAMO HUMTSOE,male,64.0,NL2023AC38
+39,Sanis,ST,Wokha,Mhathung Yanthan,NDPP,,"15,076",65.85,,,Lt. Ashemo Yanthan,male,63.0,NL2023AC39
+40,Bhandari,ST,Wokha,Achumbemo Kikon,NPF,,"13,867",54.11,,,JOHN KIKON,male,47.0,NL2023AC40
+41,Tizit,ST,Mon,P. Paiwang Konyak,BJP,,"10,428",52.99,,,LANGTO,male,45.0,NL2023AC41
+42,Wakching,ST,Mon,W. Chingang Konyak,NDPP,,"9,166",58.56,,,P. WECHING KONYAK,male,60.0,NL2023AC42
+43,Tapi,ST,Mon,Noke Wangnao,NDPP,,"5,864",40.14,,,LT. MONYAO,male,86.0,NL2023AC43
+44,Phomching,ST,Mon,K. Konngam Konyak,BJP,,"9,803",58.09,,,,,,NL2023AC44
+45,Tehok,ST,mon,C. L. John,NDPP,,"9,232",78.55,,,,,,NL2023AC45
+46,Mon Town,ST,Mon,Y. Mankhao Konyak,NCP,,"10,870",56.71,,,,,,NL2023AC46
+47,Aboi,ST,Mon,C. Manpon Konyak,IND,,"6,771",52.79,,,CHANGKAP,male,42.0,NL2023AC47
+48,Moka,ST,Mon,A. Nyamnyei Konyak,NPP,,"8,857",50.7,,,,,,NL2023AC48
+49,Tamlu,ST,Longleng,B. Bangtick Phom,IND,,"8,646",51.15,,,Late Bongnyei,male,62.0,NL2023AC49
+50,Longleng,ST,Longleng,A. Pongshi Phom,NCP,,"16,908",57.9,,,,,,NL2023AC50
+51,Noksen,ST,Tuensang,Y. Lima Onen Chang,RPI(A),,"5,151",50.73,,,Yemjonglepba,male,53.0,NL2023AC51
+52,Longkhim–Chare,ST,Tuensang,Sethrongkyu Sangtam,BJP,,"10,187",50.33,,,,,,NL2023AC52
+53,Tuensang Sadar I,ST,Tuensang,P. Bashangmongba Chang,BJP,,"12,638",63.3,,,Phanglou,male,44.0,NL2023AC53
+54,Tuensang Sadar II,ST,Tuensang,Imtichoba,RPI(A),,"5,514",36.19,,,Lt. Thungpang Cholen,male,35.0,NL2023AC54
+55,Tobu,ST,Mon,Naiba Konyak,LJP(RV),,"10,622",51.17,,,Lt. Keyiang Konyak,male,59.0,NL2023AC55
+56,Noklak,ST,Noklak,P. Longon,NCP,,"8,482",52.18,,,Puthai,male,62.0,NL2023AC56
+57,Thonoknyu,ST,Noklak,Benei M. Lamthiu,NPP,,"10,462",56.06,,,,,,NL2023AC57
+58,Shamator–Chessore,ST,Shamator,S. Keoshu Yimchunger,NDPP,,"9,065",56.25,,,Lt. SHOKUM,male,45.0,NL2023AC58
+59,Seyochung–Sitimi,ST,Kiphire,C. Kipili Sangtam,NPP,,"11,936",51.84,,,Chorise Sangtam,male,72.0,NL2023AC59
+60,Pungro–Kiphire,ST,Kiphire,S. Kiusumew Yimchunger,NDPP,,"16,098",53.59,,,Shri. Supikiu,male,62.0,NL2023AC60

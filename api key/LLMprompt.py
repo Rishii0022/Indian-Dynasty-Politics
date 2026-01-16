@@ -107,14 +107,14 @@ Father/husband name: VENKATESHWAR REDDY CHITTEM
 
 
 # main working 2 lines below
-# print(response.output_text)
+print(response.output_text)
 # print(json.dumps(response.model_dump(), indent=2))
 
 from StructuredOutputFinal import RelativesnSource
 
-raw_text = response.output_text
-parsed_json = json.loads(raw_text)
-validated_output = RelativesnSource(**parsed_json)
+# raw_text = response.output_text
+# parsed_json = json.loads(raw_text)
+# validated_output = RelativesnSource(**parsed_json)
 # validated_output2 = CitationResponse(**parsed_json)
 
 # To get all Family Names
@@ -126,7 +126,7 @@ validated_output = RelativesnSource(**parsed_json)
 #     print(citation)
 
 #JSON formatted
-print(json.dumps(validated_output.model_dump(), indent=4))
+# print(json.dumps(validated_output.model_dump(), indent=4))
 
 #JSON directly
 # print(validated_output.model_dump_json(indent=4))

@@ -1,82 +1,82 @@
-AC Name,AC No.,Type,District,Winning Candidate,Party,Total Electors,Total Votes,Poll%,Margin,Margin %,Father/Husband Name,Gender,Age
-Rajmahal,1,GEN,Sahibganj,Md. Tajuddin,Jharkhand Mukti Morcha,355761,258105,72.6 %,43432,16.8%,Md Moinuddin,male,51
-Borio,2,ST,Sahibganj,Dhananjay Soren,Jharkhand Mukti Morcha,284589,188024,66.1 %,19273,10.3%,RAM SOREN,male,36
-Barhait,3,ST,Sahibganj,Hemant Soren,Jharkhand Mukti Morcha,225884,158728,70.3 %,39791,25.1%,Shibu Soren,male,49
-Littipara,4,ST,Pakaur,Hemlal Murmu,Jharkhand Mukti Morcha,217846,160598,73.7 %,26749,16.7%,PATWARI MURMU,male,71
-Pakur,5,GEN,Pakaur,Nisat Alam,Indian National Congress,390205,295935,75.8 %,86029,29.1%,ALAMGIR ALAM,female,53
-Maheshpur,6,ST,Pakaur,Stephen Marandi,Jharkhand Mukti Morcha,240082,191440,79.7 %,61175,32.0%,Late Mangal Marandi,male,71
-Shikaripara,7,ST,Dumka,Alok Kumar Soren,Jharkhand Mukti Morcha,230738,170522,73.9 %,41174,24.1%,NALIN SOREN,male,44
-Nala,8,GEN,Jamtara,Rabindra Nath Mahato,Jharkhand Mukti Morcha,242669,195250,80.5 %,10483,5.4%,Golok Bihari Mahato,male,65
-Jamtara,9,GEN,Jamtara,Irfan Ansari,Indian National Congress,321364,241160,75.0 %,43676,18.1%,FURKAN ANSARI,male,49
-Dumka,10,ST,Dumka,Basant Soren,Jharkhand Mukti Morcha,259783,183230,70.5 %,14588,8.0%,SHIBU SOREN,male,47
-Jama,11,ST,Dumka,Lois Marandi,Jharkhand Mukti Morcha,225110,162294,72.1 %,5738,3.5%,LATE MUNSHI MARANDI,female,59
-Jarmundi,12,GEN,Dumka,Devendra Kunwar,Bharatiya Janta Party,271661,193270,71.1 %,17546,9.1%,HARI PRASAD KUNWAR,male,66
-Madhupur,13,GEN,Deoghar,Hafizul Hassan,Jharkhand Mukti Morcha,368385,278770,75.7 %,20027,7.2%,HAJI HUSSAIN ANSARI,male,49
-Sarath,14,GEN,Deoghar,Uday Shankar Singh,Jharkhand Mukti Morcha,316681,247370,78.1 %,37429,15.1%,MADAN GOPAL SINGH,male,67
-Deoghar,15,SC,Deoghar,Suresh Paswan,Rashtriya Janata Dal,437721,287671,65.7 %,39721,13.8%,DUBRAJ PASWAN,male,57
-Poreyahat,16,GEN,Godda,Pradeep Yadav,Indian National Congress,317042,218002,68.8 %,34130,15.7%,LATE ASHOK KUMAR YADAV,male,58
-Godda,17,GEN,Godda,Sanjay Prasad Yadav,Rashtriya Janata Dal,314588,218608,69.5 %,21471,9.8%,Chandra Shekhar Yadav,male,51
-Mahagama,18,GEN,Godda,Deepika Pandey Singh,Indian National Congress,334116,220623,66.0 %,18645,8.5%,RATNESH KUMAR SINGH,female,49
-Kodarma,19,GEN,Koderma,Dr. Neera Yadav,Bharatiya Janta Party,405315,251525,62.1 %,5815,2.3%,Vijay Yadav,female,53
-Barkattha,20,GEN,Hazaribagh,Amit Kumar Yadav,Bharatiya Janta Party,388711,249874,64.3 %,3660,1.5%,CHITRANJAN YADAV,male,40
-Barhi,21,GEN,Hazaribagh,Manoj Kumar Yadav,Bharatiya Janta Party,335144,220185,65.7 %,49291,22.4%,Ramnarayan Yadav,male,67
-Barkagaon,22,GEN,Hazaribagh,Roshan Lal Choudhary,Bharatiya Janta Party,386061,264501,68.5 %,31393,11.9%,LATE RIJHU NATH CHOUDHARY,male,59
-Ramgarh,23,GEN,Hazaribagh,Mamta Devi,Indian National Congress,356993,258841,72.5 %,6790,2.6%,Bajrang Mahto,female,39
-Mandhu,24,GEN,Hazaribagh,Nirmal Mahto,Ajsu Party,431441,284332,65.9 %,231,0.1%,TULASI MAHTO,male,40
-Hazaribagh,25,GEN,Hazaribagh,Pradip Prasad,Bharatiya Janta Party,439548,267584,60.9 %,43477,16.2%,Bhagirath Prasad,male,53
-Simaria,26,SC,Chatra,Kumar Ujjwal,Bharatiya Janta Party,377446,244712,64.8 %,4001,1.6%,UPENDRANATH DAS,male,43
-Chatra,27,SC,Chatra,Janardhan Paswan,Lok Janshakti Party(Ram Vilas),427696,260586,60.9 %,18401,7.1%,MANKI PASWAN,male,58
-Dhanwar,28,GEN,Giridih,Babu Lal Marandi,Bharatiya Janta Party,371050,233104,62.8 %,35438,15.2%,LATE CHHOTU MARANDI,male,66
-Bagodar,29,GEN,Giridih,Nagendra Mahto,Bharatiya Janta Party,387282,248458,64.2 %,32617,13.1%,Late Lakho Mahto,male,73
-Jamua,30,SC,Giridih,Manju Kumari,Bharatiya Janta Party,359334,215044,59.8 %,32631,15.2%,SUKAR RAVIDAS,female,45
-Gandey,31,GEN,Giridih,Kalpana Murmu Soren,Jharkhand Mukti Morcha,319908,233288,72.9 %,17142,7.3%,HEMANT SOREN,female,39
-Giridih,32,GEN,Giridih,Sudivya Kumar,Jharkhand Mukti Morcha,304897,205678,67.5 %,3838,1.9%,SHAMBHU NATH,male,54
-Dumri,33,GEN,Giridih,Jairam Kumar Mahato,Jharkhand Loktantrik Krantikari Morcha,316245,222738,70.4 %,10945,4.9%,Late Krishna Prasad Mahato,male,29
-Gomia,34,GEN,Bokaro,Yogendra Prasad,Jharkhand Mukti Morcha,313743,222788,71.0 %,36093,16.2%,VISHWANATH MAHTO,male,56
-Bermo,35,GEN,Bokaro,Kumar Jaimangal (ANUP SINGH),Indian National Congress,328684,221275,67.3 %,29375,13.3%,Late Rajendra Prasad Singh,male,39
-Bokaro,36,GEN,Bokaro,Shwettaa Singh,Indian National Congress,584245,311443,53.3 %,7207,2.3%,SANGRAM SINGH,female,40
-Chandankyari,37,SC,Bokaro,Uma Kant Rajak,Jharkhand Mukti Morcha,281049,208114,74.0 %,33733,16.2%,MANGRU RAJAK,male,59
-Sindri,38,GEN,Dhanbad,Chandradeo Mahato,Communist Party Of India (Marxist-Leninist) (Liberation),364652,259826,71.3 %,3448,1.3%,ANAND MAHATO,male,51
-Nirsa,39,GEN,Dhanbad,Arup Chatterjee,Communist Party Of India (Marxist-Leninist) (Liberation),331933,235001,70.8 %,1808,0.8%,LATE GURUDAS CHATTERJEE,male,50
-Dhanbad,40,GEN,Dhanbad,Raj Sinha,Bharatiya Janta Party,467619,251225,53.7 %,48741,19.4%,LATE PRADHAN SIDDHNATH PRASAD,male,62
-Jharia,41,GEN,Dhanbad,Ragini Singh,Bharatiya Janta Party,302657,168850,55.8 %,14511,8.6%,SANJEEV SINGH,female,43
-Tundi,42,GEN,Dhanbad,Mathura Prasad Mahato,Jharkhand Mukti Morcha,319439,230701,72.2 %,25603,11.1%,LATE RISHI KESH MAHATO,male,56
-Baghmara,43,GEN,Dhanbad,Shatrughan Mahto,Bharatiya Janta Party,295390,196670,66.6 %,18682,9.5%,LATE PUNA MAHTO,male,53
-Baharagora,44,GEN,Purbi Singhbhum,Samir Kumar Mohanty,Jharkhand Mukti Morcha,239899,188769,78.7 %,18125,9.6%,LATE BHABESH CHANDRA MOHANTY,male,54
-Ghatshila,45,ST,Purbi Singhbhum,Ram Das Soren,Jharkhand Mukti Morcha,250293,188098,75.2 %,22446,11.9%,LATE BAHADUR SOREN,male,61
-Potka,46,ST,Purbi Singhbhum,Sanjib Sardar,Jharkhand Mukti Morcha,311647,229576,73.7 %,27902,12.2%,NALIN SARDAR,male,41
-Jugsalai,47,SC,Purbi Singhbhum,Mangal Kalindi,Jharkhand Mukti Morcha,353443,247268,70.0 %,43445,17.6%,LATE RISHEEKESH KALINDI,male,51
-Jamshedpur,48,GEN,Purbi Singhbhum,Purnima Sahu,Bharatiya Janta Party,336306,195837,58.2 %,42871,21.9%,Lalit Kumar,female,30
-Jamshedpur,49,GEN,Purbi Singhbhum,Saryu Roy,Janata Dal (United),386955,220161,56.9 %,7863,3.6%,Keshav Prasad Roy,male,73
-Ichagarh,50,GEN,Sarikela-Kharswana,Sabita Mahato,Jharkhand Mukti Morcha,289380,227393,78.6 %,26523,11.7%,LATE SUDHIR MAHATO,female,50
-Saraikella,51,ST,Sarikela-Kharswana,Champai Soren,Bharatiya Janta Party,369557,266172,72.0 %,20447,7.7%,LATE SIMAL SOREN,male,68
-Chaibasa,52,ST,Pashchimi Singhbhum,Deepak Birua,Jharkhand Mukti Morcha,233691,162943,69.7 %,64835,39.8%,MAHENDRA BIRUA,male,56
-Majhganon,53,ST,Pashchimi Singhbhum,Niral Purty,Jharkhand Mukti Morcha,216712,150694,69.5 %,59603,39.6%,Junas Purty,male,55
-Jaganathpur,54,ST,Pashchimi Singhbhum,Sona Ram Sinku,Indian National Congress,198630,134373,67.6 %,7383,5.5%,TUPRA SINKU,male,51
-Manoharpur,55,ST,Pashchimi Singhbhum,Jagat Majhi,Jharkhand Mukti Morcha,221409,136390,61.6 %,31956,23.4%,LATE DEVENDRA MAJHI,male,37
-Chakradharpur,56,ST,Pashchimi Singhbhum,Sukhram Oraon,Jharkhand Mukti Morcha,208574,140846,67.5 %,9310,6.6%,LATTU ORAON,male,58
-Kharasawan,57,ST,Sarikela-Kharswana,Dashrath Gagrai,Jharkhand Mukti Morcha,227500,178215,78.3 %,32615,18.3%,SHIVCHARAN GAGRAI,male,47
-Tamar,58,ST,Ranchi,Vikas Kumar Munda,Jharkhand Mukti Morcha,218636,162029,74.1 %,24246,15.0%,RAMESH SINGH MUNDA,male,40
-Torpa,59,ST,Ranchi,Sudeep Gudhiya,Jharkhand Mukti Morcha,199272,132308,66.4 %,40647,30.7%,Lukus Gudhiya,male,42
-Khunti,60,ST,Ranchi,Ram Surya Munda,Jharkhand Mukti Morcha,225808,156295,69.2 %,42053,26.9%,Manik Singh Munda,male,44
-Silli,61,GEN,Ranchi,Amit Kumar,Jharkhand Mukti Morcha,224792,173259,77.1 %,23867,13.8%,,,
-Khijri,62,ST,Ranchi,Rajesh Kachhap,Indian National Congress,374944,262468,70.0 %,29065,11.1%,JAGARNATH KACHHAP,male,45
-Ranchi,63,GEN,Ranchi,Chandreshwar Prasad Singh,Bharatiya Janta Party,379008,198127,52.3 %,21949,11.1%,Jai Mohan Singh,male,68
-Hatia,64,GEN,Ranchi,Navin Jaiswal,Bharatiya Janta Party,526165,309762,58.9 %,14623,4.7%,SHIV SHANKAR PRASAD JAISWAL,male,52
-Kanke,65,SC,Ranchi,Suresh Kumar Baitha,Indian National Congress,481802,303505,63.0 %,968,0.3%,PURAN BAITHA,male,49
-Mandar,66,ST,Ranchi,Shilpi Neha Tirkey,Indian National Congress,379900,275316,72.5 %,22803,8.3%,BANDHU TIRKEY,female,31
-Sisai,67,ST,Gumla,Jiga Susaran Horo,Jharkhand Mukti Morcha,263873,189318,71.7 %,38989,20.6%,FAGUA MUNDA,male,58
-Gumla,68,ST,Gumla,Bhushan Tirkey,Jharkhand Mukti Morcha,247953,161558,65.2 %,26301,16.3%,Emanuel Tirkey,male,54
-Bishunpur,69,ST,Gumla,Chamra Linda,Jharkhand Mukti Morcha,282181,195953,69.4 %,32756,16.7%,BIGAL ORAON (LINDA),male,54
-Simdega,70,ST,Simdega,Bhushan Bara,Indian National Congress,243592,168988,69.4 %,9228,5.5%,PETER BARA,male,51
-Kolebira,71,ST,Simdega,Naman Bixal Kongari,Indian National Congress,210037,144852,69.0 %,37031,25.6%,NIKODIM KONGARI,male,52
-Lohardaga,72,ST,Lohardaga,Rameshwar Oraon,Indian National Congress,287746,213032,74.0 %,34670,16.3%,Late Mahabir Oraon,male,77
-Manika,73,ST,Latehar,Ramchandra Singh,Indian National Congress,260816,171321,65.7 %,16854,9.8%,Ganpat Singh,male,59
-Latehar,74,SC,Latehar,Prakash Ram,Bharatiya Janta Party,308236,214686,69.6 %,434,0.2%,KAILASH RAM,male,55
-Panki,75,GEN,Palamu,Kushwaha Shashi Bhushan Mehta,Bharatiya Janta Party,326288,212007,65.0 %,9796,4.6%,SHIVLOCHAN MEHTA,male,55
-Daltonganj,76,GEN,Palamu,Alok Kumar Chaurasiya,Bharatiya Janta Party,402625,264642,65.7 %,890,0.3%,ANIL KUMAR CHAURASIYA,male,34
-Bishrampur,77,GEN,Palamu,Naresh Prasad Singh,Rashtriya Janata Dal,359702,228967,63.7 %,14587,6.4%,BABU DOMAN SINGH,male,65
-Chattarpur,78,SC,Palamu,Radha Krishana Kishore,Indian National Congress,319783,193719,60.6 %,736,0.4%,NAND KISHOR RAM,male,66
-Hussainabad,79,GEN,Palamu,Sanjay Kumar Singh Yadav,Rashtriya Janata Dal,323139,192391,59.5 %,34364,17.9%,KRISHNA CHANDRA PRASAD,male,60
-Garhwa,80,GEN,Garhwa,Satyendra Nath Tiwari,Bharatiya Janta Party,419614,292272,69.7 %,16753,5.7%,RAM KRISHNA TIWARI,male,58
-Bhawanathpur,81,GEN,Garhwa,Anant Pratap Deo,Jharkhand Mukti Morcha,440321,300399,68.2 %,21462,7.1%,Shankar Pratap Deo,male,53
+ac name,ac no,type,district,winning candidate,party,total electors,total votes,poll%,margin,margin %,father/husband name,gender,age,UID
+Rajmahal,1,GEN,Sahibganj,Md. Tajuddin,Jharkhand Mukti Morcha,355761,258105,72.6 %,43432,16.8%,Md Moinuddin,male,51.0,JH2024AC01
+Borio,2,ST,Sahibganj,Dhananjay Soren,Jharkhand Mukti Morcha,284589,188024,66.1 %,19273,10.3%,RAM SOREN,male,36.0,JH2024AC02
+Barhait,3,ST,Sahibganj,Hemant Soren,Jharkhand Mukti Morcha,225884,158728,70.3 %,39791,25.1%,Shibu Soren,male,49.0,JH2024AC03
+Littipara,4,ST,Pakaur,Hemlal Murmu,Jharkhand Mukti Morcha,217846,160598,73.7 %,26749,16.7%,PATWARI MURMU,male,71.0,JH2024AC04
+Pakur,5,GEN,Pakaur,Nisat Alam,Indian National Congress,390205,295935,75.8 %,86029,29.1%,ALAMGIR ALAM,female,53.0,JH2024AC05
+Maheshpur,6,ST,Pakaur,Stephen Marandi,Jharkhand Mukti Morcha,240082,191440,79.7 %,61175,32.0%,Late Mangal Marandi,male,71.0,JH2024AC06
+Shikaripara,7,ST,Dumka,Alok Kumar Soren,Jharkhand Mukti Morcha,230738,170522,73.9 %,41174,24.1%,NALIN SOREN,male,44.0,JH2024AC07
+Nala,8,GEN,Jamtara,Rabindra Nath Mahato,Jharkhand Mukti Morcha,242669,195250,80.5 %,10483,5.4%,Golok Bihari Mahato,male,65.0,JH2024AC08
+Jamtara,9,GEN,Jamtara,Irfan Ansari,Indian National Congress,321364,241160,75.0 %,43676,18.1%,FURKAN ANSARI,male,49.0,JH2024AC09
+Dumka,10,ST,Dumka,Basant Soren,Jharkhand Mukti Morcha,259783,183230,70.5 %,14588,8.0%,SHIBU SOREN,male,47.0,JH2024AC10
+Jama,11,ST,Dumka,Lois Marandi,Jharkhand Mukti Morcha,225110,162294,72.1 %,5738,3.5%,LATE MUNSHI MARANDI,female,59.0,JH2024AC11
+Jarmundi,12,GEN,Dumka,Devendra Kunwar,Bharatiya Janta Party,271661,193270,71.1 %,17546,9.1%,HARI PRASAD KUNWAR,male,66.0,JH2024AC12
+Madhupur,13,GEN,Deoghar,Hafizul Hassan,Jharkhand Mukti Morcha,368385,278770,75.7 %,20027,7.2%,HAJI HUSSAIN ANSARI,male,49.0,JH2024AC13
+Sarath,14,GEN,Deoghar,Uday Shankar Singh,Jharkhand Mukti Morcha,316681,247370,78.1 %,37429,15.1%,MADAN GOPAL SINGH,male,67.0,JH2024AC14
+Deoghar,15,SC,Deoghar,Suresh Paswan,Rashtriya Janata Dal,437721,287671,65.7 %,39721,13.8%,DUBRAJ PASWAN,male,57.0,JH2024AC15
+Poreyahat,16,GEN,Godda,Pradeep Yadav,Indian National Congress,317042,218002,68.8 %,34130,15.7%,LATE ASHOK KUMAR YADAV,male,58.0,JH2024AC16
+Godda,17,GEN,Godda,Sanjay Prasad Yadav,Rashtriya Janata Dal,314588,218608,69.5 %,21471,9.8%,Chandra Shekhar Yadav,male,51.0,JH2024AC17
+Mahagama,18,GEN,Godda,Deepika Pandey Singh,Indian National Congress,334116,220623,66.0 %,18645,8.5%,RATNESH KUMAR SINGH,female,49.0,JH2024AC18
+Kodarma,19,GEN,Koderma,Dr. Neera Yadav,Bharatiya Janta Party,405315,251525,62.1 %,5815,2.3%,Vijay Yadav,female,53.0,JH2024AC19
+Barkattha,20,GEN,Hazaribagh,Amit Kumar Yadav,Bharatiya Janta Party,388711,249874,64.3 %,3660,1.5%,CHITRANJAN YADAV,male,40.0,JH2024AC20
+Barhi,21,GEN,Hazaribagh,Manoj Kumar Yadav,Bharatiya Janta Party,335144,220185,65.7 %,49291,22.4%,Ramnarayan Yadav,male,67.0,JH2024AC21
+Barkagaon,22,GEN,Hazaribagh,Roshan Lal Choudhary,Bharatiya Janta Party,386061,264501,68.5 %,31393,11.9%,LATE RIJHU NATH CHOUDHARY,male,59.0,JH2024AC22
+Ramgarh,23,GEN,Hazaribagh,Mamta Devi,Indian National Congress,356993,258841,72.5 %,6790,2.6%,Bajrang Mahto,female,39.0,JH2024AC23
+Mandhu,24,GEN,Hazaribagh,Nirmal Mahto,Ajsu Party,431441,284332,65.9 %,231,0.1%,TULASI MAHTO,male,40.0,JH2024AC24
+Hazaribagh,25,GEN,Hazaribagh,Pradip Prasad,Bharatiya Janta Party,439548,267584,60.9 %,43477,16.2%,Bhagirath Prasad,male,53.0,JH2024AC25
+Simaria,26,SC,Chatra,Kumar Ujjwal,Bharatiya Janta Party,377446,244712,64.8 %,4001,1.6%,UPENDRANATH DAS,male,43.0,JH2024AC26
+Chatra,27,SC,Chatra,Janardhan Paswan,Lok Janshakti Party(Ram Vilas),427696,260586,60.9 %,18401,7.1%,MANKI PASWAN,male,58.0,JH2024AC27
+Dhanwar,28,GEN,Giridih,Babu Lal Marandi,Bharatiya Janta Party,371050,233104,62.8 %,35438,15.2%,LATE CHHOTU MARANDI,male,66.0,JH2024AC28
+Bagodar,29,GEN,Giridih,Nagendra Mahto,Bharatiya Janta Party,387282,248458,64.2 %,32617,13.1%,Late Lakho Mahto,male,73.0,JH2024AC29
+Jamua,30,SC,Giridih,Manju Kumari,Bharatiya Janta Party,359334,215044,59.8 %,32631,15.2%,SUKAR RAVIDAS,female,45.0,JH2024AC30
+Gandey,31,GEN,Giridih,Kalpana Murmu Soren,Jharkhand Mukti Morcha,319908,233288,72.9 %,17142,7.3%,HEMANT SOREN,female,39.0,JH2024AC31
+Giridih,32,GEN,Giridih,Sudivya Kumar,Jharkhand Mukti Morcha,304897,205678,67.5 %,3838,1.9%,SHAMBHU NATH,male,54.0,JH2024AC32
+Dumri,33,GEN,Giridih,Jairam Kumar Mahato,Jharkhand Loktantrik Krantikari Morcha,316245,222738,70.4 %,10945,4.9%,Late Krishna Prasad Mahato,male,29.0,JH2024AC33
+Gomia,34,GEN,Bokaro,Yogendra Prasad,Jharkhand Mukti Morcha,313743,222788,71.0 %,36093,16.2%,VISHWANATH MAHTO,male,56.0,JH2024AC34
+Bermo,35,GEN,Bokaro,Kumar Jaimangal (ANUP SINGH),Indian National Congress,328684,221275,67.3 %,29375,13.3%,Late Rajendra Prasad Singh,male,39.0,JH2024AC35
+Bokaro,36,GEN,Bokaro,Shwettaa Singh,Indian National Congress,584245,311443,53.3 %,7207,2.3%,SANGRAM SINGH,female,40.0,JH2024AC36
+Chandankyari,37,SC,Bokaro,Uma Kant Rajak,Jharkhand Mukti Morcha,281049,208114,74.0 %,33733,16.2%,MANGRU RAJAK,male,59.0,JH2024AC37
+Sindri,38,GEN,Dhanbad,Chandradeo Mahato,Communist Party Of India (Marxist-Leninist) (Liberation),364652,259826,71.3 %,3448,1.3%,ANAND MAHATO,male,51.0,JH2024AC38
+Nirsa,39,GEN,Dhanbad,Arup Chatterjee,Communist Party Of India (Marxist-Leninist) (Liberation),331933,235001,70.8 %,1808,0.8%,LATE GURUDAS CHATTERJEE,male,50.0,JH2024AC39
+Dhanbad,40,GEN,Dhanbad,Raj Sinha,Bharatiya Janta Party,467619,251225,53.7 %,48741,19.4%,LATE PRADHAN SIDDHNATH PRASAD,male,62.0,JH2024AC40
+Jharia,41,GEN,Dhanbad,Ragini Singh,Bharatiya Janta Party,302657,168850,55.8 %,14511,8.6%,SANJEEV SINGH,female,43.0,JH2024AC41
+Tundi,42,GEN,Dhanbad,Mathura Prasad Mahato,Jharkhand Mukti Morcha,319439,230701,72.2 %,25603,11.1%,LATE RISHI KESH MAHATO,male,56.0,JH2024AC42
+Baghmara,43,GEN,Dhanbad,Shatrughan Mahto,Bharatiya Janta Party,295390,196670,66.6 %,18682,9.5%,LATE PUNA MAHTO,male,53.0,JH2024AC43
+Baharagora,44,GEN,Purbi Singhbhum,Samir Kumar Mohanty,Jharkhand Mukti Morcha,239899,188769,78.7 %,18125,9.6%,LATE BHABESH CHANDRA MOHANTY,male,54.0,JH2024AC44
+Ghatshila,45,ST,Purbi Singhbhum,Ram Das Soren,Jharkhand Mukti Morcha,250293,188098,75.2 %,22446,11.9%,LATE BAHADUR SOREN,male,61.0,JH2024AC45
+Potka,46,ST,Purbi Singhbhum,Sanjib Sardar,Jharkhand Mukti Morcha,311647,229576,73.7 %,27902,12.2%,NALIN SARDAR,male,41.0,JH2024AC46
+Jugsalai,47,SC,Purbi Singhbhum,Mangal Kalindi,Jharkhand Mukti Morcha,353443,247268,70.0 %,43445,17.6%,LATE RISHEEKESH KALINDI,male,51.0,JH2024AC47
+Jamshedpur,48,GEN,Purbi Singhbhum,Purnima Sahu,Bharatiya Janta Party,336306,195837,58.2 %,42871,21.9%,Lalit Kumar,female,30.0,JH2024AC48
+Jamshedpur,49,GEN,Purbi Singhbhum,Saryu Roy,Janata Dal (United),386955,220161,56.9 %,7863,3.6%,Keshav Prasad Roy,male,73.0,JH2024AC49
+Ichagarh,50,GEN,Sarikela-Kharswana,Sabita Mahato,Jharkhand Mukti Morcha,289380,227393,78.6 %,26523,11.7%,LATE SUDHIR MAHATO,female,50.0,JH2024AC50
+Saraikella,51,ST,Sarikela-Kharswana,Champai Soren,Bharatiya Janta Party,369557,266172,72.0 %,20447,7.7%,LATE SIMAL SOREN,male,68.0,JH2024AC51
+Chaibasa,52,ST,Pashchimi Singhbhum,Deepak Birua,Jharkhand Mukti Morcha,233691,162943,69.7 %,64835,39.8%,MAHENDRA BIRUA,male,56.0,JH2024AC52
+Majhganon,53,ST,Pashchimi Singhbhum,Niral Purty,Jharkhand Mukti Morcha,216712,150694,69.5 %,59603,39.6%,Junas Purty,male,55.0,JH2024AC53
+Jaganathpur,54,ST,Pashchimi Singhbhum,Sona Ram Sinku,Indian National Congress,198630,134373,67.6 %,7383,5.5%,TUPRA SINKU,male,51.0,JH2024AC54
+Manoharpur,55,ST,Pashchimi Singhbhum,Jagat Majhi,Jharkhand Mukti Morcha,221409,136390,61.6 %,31956,23.4%,LATE DEVENDRA MAJHI,male,37.0,JH2024AC55
+Chakradharpur,56,ST,Pashchimi Singhbhum,Sukhram Oraon,Jharkhand Mukti Morcha,208574,140846,67.5 %,9310,6.6%,LATTU ORAON,male,58.0,JH2024AC56
+Kharasawan,57,ST,Sarikela-Kharswana,Dashrath Gagrai,Jharkhand Mukti Morcha,227500,178215,78.3 %,32615,18.3%,SHIVCHARAN GAGRAI,male,47.0,JH2024AC57
+Tamar,58,ST,Ranchi,Vikas Kumar Munda,Jharkhand Mukti Morcha,218636,162029,74.1 %,24246,15.0%,RAMESH SINGH MUNDA,male,40.0,JH2024AC58
+Torpa,59,ST,Ranchi,Sudeep Gudhiya,Jharkhand Mukti Morcha,199272,132308,66.4 %,40647,30.7%,Lukus Gudhiya,male,42.0,JH2024AC59
+Khunti,60,ST,Ranchi,Ram Surya Munda,Jharkhand Mukti Morcha,225808,156295,69.2 %,42053,26.9%,Manik Singh Munda,male,44.0,JH2024AC60
+Silli,61,GEN,Ranchi,Amit Kumar,Jharkhand Mukti Morcha,224792,173259,77.1 %,23867,13.8%,,,,JH2024AC61
+Khijri,62,ST,Ranchi,Rajesh Kachhap,Indian National Congress,374944,262468,70.0 %,29065,11.1%,JAGARNATH KACHHAP,male,45.0,JH2024AC62
+Ranchi,63,GEN,Ranchi,Chandreshwar Prasad Singh,Bharatiya Janta Party,379008,198127,52.3 %,21949,11.1%,Jai Mohan Singh,male,68.0,JH2024AC63
+Hatia,64,GEN,Ranchi,Navin Jaiswal,Bharatiya Janta Party,526165,309762,58.9 %,14623,4.7%,SHIV SHANKAR PRASAD JAISWAL,male,52.0,JH2024AC64
+Kanke,65,SC,Ranchi,Suresh Kumar Baitha,Indian National Congress,481802,303505,63.0 %,968,0.3%,PURAN BAITHA,male,49.0,JH2024AC65
+Mandar,66,ST,Ranchi,Shilpi Neha Tirkey,Indian National Congress,379900,275316,72.5 %,22803,8.3%,BANDHU TIRKEY,female,31.0,JH2024AC66
+Sisai,67,ST,Gumla,Jiga Susaran Horo,Jharkhand Mukti Morcha,263873,189318,71.7 %,38989,20.6%,FAGUA MUNDA,male,58.0,JH2024AC67
+Gumla,68,ST,Gumla,Bhushan Tirkey,Jharkhand Mukti Morcha,247953,161558,65.2 %,26301,16.3%,Emanuel Tirkey,male,54.0,JH2024AC68
+Bishunpur,69,ST,Gumla,Chamra Linda,Jharkhand Mukti Morcha,282181,195953,69.4 %,32756,16.7%,BIGAL ORAON (LINDA),male,54.0,JH2024AC69
+Simdega,70,ST,Simdega,Bhushan Bara,Indian National Congress,243592,168988,69.4 %,9228,5.5%,PETER BARA,male,51.0,JH2024AC70
+Kolebira,71,ST,Simdega,Naman Bixal Kongari,Indian National Congress,210037,144852,69.0 %,37031,25.6%,NIKODIM KONGARI,male,52.0,JH2024AC71
+Lohardaga,72,ST,Lohardaga,Rameshwar Oraon,Indian National Congress,287746,213032,74.0 %,34670,16.3%,Late Mahabir Oraon,male,77.0,JH2024AC72
+Manika,73,ST,Latehar,Ramchandra Singh,Indian National Congress,260816,171321,65.7 %,16854,9.8%,Ganpat Singh,male,59.0,JH2024AC73
+Latehar,74,SC,Latehar,Prakash Ram,Bharatiya Janta Party,308236,214686,69.6 %,434,0.2%,KAILASH RAM,male,55.0,JH2024AC74
+Panki,75,GEN,Palamu,Kushwaha Shashi Bhushan Mehta,Bharatiya Janta Party,326288,212007,65.0 %,9796,4.6%,SHIVLOCHAN MEHTA,male,55.0,JH2024AC75
+Daltonganj,76,GEN,Palamu,Alok Kumar Chaurasiya,Bharatiya Janta Party,402625,264642,65.7 %,890,0.3%,ANIL KUMAR CHAURASIYA,male,34.0,JH2024AC76
+Bishrampur,77,GEN,Palamu,Naresh Prasad Singh,Rashtriya Janata Dal,359702,228967,63.7 %,14587,6.4%,BABU DOMAN SINGH,male,65.0,JH2024AC77
+Chattarpur,78,SC,Palamu,Radha Krishana Kishore,Indian National Congress,319783,193719,60.6 %,736,0.4%,NAND KISHOR RAM,male,66.0,JH2024AC78
+Hussainabad,79,GEN,Palamu,Sanjay Kumar Singh Yadav,Rashtriya Janata Dal,323139,192391,59.5 %,34364,17.9%,KRISHNA CHANDRA PRASAD,male,60.0,JH2024AC79
+Garhwa,80,GEN,Garhwa,Satyendra Nath Tiwari,Bharatiya Janta Party,419614,292272,69.7 %,16753,5.7%,RAM KRISHNA TIWARI,male,58.0,JH2024AC80
+Bhawanathpur,81,GEN,Garhwa,Anant Pratap Deo,Jharkhand Mukti Morcha,440321,300399,68.2 %,21462,7.1%,Shankar Pratap Deo,male,53.0,JH2024AC81

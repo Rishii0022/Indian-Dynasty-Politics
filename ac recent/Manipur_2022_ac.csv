@@ -1,61 +1,61 @@
-AC No.,Type,District,Winning Candidate,Party,Total Electors,Total Votes,Poll%,Margin,Margin %,Father/Husband Name,Gender,Age
-1,GEN,Imphal,Thokchom Lokeshwar Singh,Indian National Congress,27864,24911,89.40%,215,0.90%,(Late) Thokchom Navakumar Singh,male,55
-2,GEN,Imphal,Nongthombam Biren Singh,Bharatiya Janta Party,34448,31596,91.70%,18271,57.80%,(L) N. GOURO SINGH,male,61
-3,GEN,Imphal,Leishangthem Susindro Meitei,Bharatiya Janta Party,36233,33110,91.40%,2237,6.80%,LEISHANGTHEM ITOCHA MEITEI,male,38
-4,GEN,Imphal,Sheikh Noorul Hassan,National People's Party,37227,34100,91.60%,742,2.20%,Late Nur Muhammad,male,36
-5,GEN,Imphal,Thongam Biswajit Singh,Bharatiya Janta Party,32723,29510,90.20%,6689,22.70%,Thongam Kumar Singh,male,46
-6,GEN,Imphal,Lourembam Rameshwor Meetei,Bharatiya Janta Party,30824,28103,91.20%,8209,29.20%,Lourembam Iboton Singh,male,42
-7,GEN,Imphal,Thounaojam Shyamkumar,Bharatiya Janta Party,36353,33423,91.90%,1457,4.40%,(L) Thounaojam Binoykumar,male,51
-8,GEN,Imphal,Khongbantabam Ibomcha,Bharatiya Janta Party,30608,28665,93.70%,121,0.40%,(L) Pishak,male,63
-9,GEN,Imphal West,Khumukcham Joykisan Singh,Janata Dal (United),28845,24302,84.30%,3773,15.50%,(L) Khumukcham Ingocha Singh,male,57
-10,GEN,Imphal West,Khwairakpam Raghumani Singh,Bharatiya Janta Party,26281,23041,87.70%,909,3.90%,(L) KHWAIRAKPAM TOMPOKMACHA SINGH,male,59
-11,GEN,Imphal West,Rajkumar Imo Singh,Bharatiya Janta Party,23454,20244,86.30%,2656,13.10%,(Late) Rajkumar Jaichandra Singh,male,45
-12,GEN,Imphal West,Sapam Nishikant Singh,Independent,28310,25352,89.60%,187,0.70%,,,
-13,GEN,Imphal West,Yumnam Khemchand Singh,Bharatiya Janta Party,21205,19015,89.70%,2295,12.10%,Late Yumnam Kalachand Singh,male,58
-14,GEN,Imphal,Thokchom Satyabrata Singh,Bharatiya Janta Party,27416,24157,88.10%,632,2.60%,Thokchom Birchand Singh,male,47
-15,GEN,Imphal,Thangjam Arunkumar,Janata Dal (United),37644,32461,86.20%,753,2.30%,(Late) Thangjam Birchandra,male,54
-16,SC,Imphal West,Heikham Dingo Singh,Bharatiya Janta Party,30518,27201,89.10%,3333,12.30%,Late Heikham Borajao Singh,male,43
-17,GEN,Imphal West,Sorokhaibam Rajen Singh,Bharatiya Janta Party,34004,31770,93.40%,400,1.30%,Sorokhaibam Yaimabi Singh,male,56
-18,GEN,Imphal West,Dr. Sapam Ranjan Singh,Bharatiya Janta Party,30557,28400,92.90%,394,1.40%,(Late) Dr. Sapam Budhichandra Singh,male,49
-19,GEN,Imphal West,Sapam Kunjakeswor (Keba) Singh,Bharatiya Janta Party,38151,34836,91.30%,687,2.00%,(Late) Sapam Ibochouba Singh,male,63
-20,GEN,Imphal West,Karam Shyam,Bharatiya Janta Party,28635,26267,91.70%,2053,7.80%,Late Karam Biramani Singh,male,59
-21,GEN,Imphal West,Sagolshem Kebi Devi,Bharatiya Janta Party,35625,32964,92.50%,531,1.60%,Soraisam Gobin Singh,female,32
-22,GEN,Imphal West,Khuraijam Loken Singh,National People's Party,29784,28224,94.80%,3266,11.60%,KHURAIJAM YAIMA SINGH,male,51
-23,GEN,Imphal West,Kongkham Robindro Singh,Bharatiya Janta Party,32599,30679,94.10%,6129,20.00%,Kongkham Manglem Singh,male,33
-24,GEN,Bishnupur,Thounaojam Basanta Kumar Singh,Bharatiya Janta Party,33330,30834,92.50%,3060,9.90%,THOUNAOJAM CHAOBA SINGH,male,57
-25,GEN,Bishnupur,Irengbam Nalini Devi,National People's Party,29090,26641,91.60%,442,1.70%,Late Irengbam Ibohalbi Singh,female,61
-26,GEN,Bishnupur,Konthoujam Govindas Singh,Bharatiya Janta Party,32740,29558,90.30%,1409,4.80%,Late Konthoujam Gojendro Singh,male,56
-27,GEN,Bishnupur,Thongam Shanti Singh,National People's Party,39960,36096,90.30%,2231,6.20%,(Late) Thongam Ibohal Singh,male,61
-28,GEN,Bishnupur,Tongbram Robindro Singh,Bharatiya Janta Party,23559,21135,89.70%,5251,24.80%,Tongbram Tompok Singh,male,49
-29,GEN,Bishnupur,Sanasam Premchandra Singh,Bharatiya Janta Party,28309,26087,92.20%,372,1.40%,(L) Jabamjao @ Sanasam Jaramajao Singh,male,46
-30,GEN,Thoubal,Mohd Abdul Nasir,Janata Dal (United),36774,33969,92.40%,570,1.70%,Mohd Abdul Hamid,male,48
-31,GEN,Thoubal,Okram Ibobi Singh,Indian National Congress,33207,29581,89.10%,2543,8.60%,(Late) Okram Angoubi Singh,male,73
-32,GEN,Thoubal,Keisham Meghachandra Singh,Indian National Congress,33626,30277,90.00%,1292,4.30%,Late Keisham Kullabidhu Singh,male,48
-33,GEN,Thoubal,Thokchom Radheshyam Singh,Bharatiya Janta Party,34115,31748,93.10%,403,1.30%,Thokchom Ibochouba Singh,male,57
-34,GEN,Thoubal,Paonam Brojen Singh,Bharatiya Janta Party,33610,30498,90.70%,1913,6.30%,Paonam Birahari Singh,male,56
-35,GEN,Thoubal,Surjakumar Okram,Indian National Congress,38172,35035,91.80%,7803,22.30%,Okram Ibobi Singh,male,34
-36,GEN,Thoubal,Dr.Usham Deben Singh,Bharatiya Janta Party,32118,29353,91.40%,50,0.20%,LATE USHAM PUKCHAO SINGH,male,53
-37,GEN,Thoubal,Mayanglambam Rameshwar Singh,National People's Party,30595,27135,88.70%,1205,4.40%,LATE MAYANGLAMBAM ABER SINGH,male,53
-38,GEN,Thoubal,Dr. Yumnam Radheshyam Singh,Bharatiya Janta Party,28112,26263,93.40%,2029,7.70%,LATE MANGAL,male,67
-39,GEN,Thoubal,Kangujam Ranjit Singh,Indian National Congress,27796,25031,90.10%,1016,4.10%,LATE KANGUJAM MUHORI SINGH,male,60
-40,GEN,Imphal,Md. Achab Uddin,Janata Dal (United),29523,26648,90.30%,416,1.60%,TURPAN ALI,male,56
-41,ST,Chandel,Ss. Olish,Bharatiya Janta Party,49721,46882,94.30%,27341,58.30%,SS. Mohring,female,44
-42,ST,Chandel,Letpao Haokip,Bharatiya Janta Party,44791,41902,93.60%,6411,15.30%,TONGKHOTHANG HAOKIP,male,45
-43,ST,Ukhrul,Leishiyo Keishing,Naga Peoples Front,34390,30838,89.70%,779,2.50%,SHAMPHANG KEISHING,male,47
-44,ST,Ukhrul,Ram Muivah,Naga Peoples Front,51395,40073,78.00%,942,2.40%,(Late) KHASHIM MUIVAH,male,61
-45,ST,Ukhrul,Khashim Vashum,Naga Peoples Front,48405,40898,84.50%,2336,5.70%,LUNGREI VASHUM,male,58
-46,ST,Senapati,Kimneo Haokip Hangshing,Kuki People's Alliance,28888,26436,91.50%,1249,4.70%,,,
-47,ST,Senapati,J Kumo Sha,Independent,58490,49360,84.40%,3542,7.20%,D. Jonathan,male,39
-48,ST,Senapati,Losii Dikho,Naga Peoples Front,55478,50974,91.90%,8513,16.70%,Lt. Nepuni Losii,male,55
-49,ST,Senapati,N. Kayisii,National People's Party,51252,45179,88.20%,549,1.20%,Neli,male,56
-50,GEN,Senapati,Nemcha Kipgen,Bharatiya Janta Party,27768,25119,90.50%,5396,21.50%,Semma Kipgen,female,56
-51,ST,Senapati,Haokholet Kipgen,Independent,44370,39512,89.10%,2694,6.80%,(L) Palun Kipgen,male,67
-52,ST,Tamenglong,Awangbow Newmai,Naga Peoples Front,42059,38644,91.90%,1698,4.40%,(L) Namrangbow,male,54
-53,ST,Tamenglong,Janghemlung Panmei,National People's Party,37101,30653,82.60%,1309,4.30%,Late Ragaisin Panmei,male,45
-54,ST,Tamenglong,Dinganglung Gangmei,Bharatiya Janta Party,30169,25201,83.50%,3786,15.00%,Thanjikpou Gangmei,male,43
-55,ST,Churuchandpur,Ngursanglur Sanate,Janata Dal (United),18398,12728,69.20%,1249,9.80%,(L) Ngurdinglien Sanate,male,47
-56,ST,Churuchandpur,Vungzagin Valte,Bharatiya Janta Party,17374,13340,76.80%,751,5.60%,(L) V. Dongzakham,male,57
-57,ST,Churuchandpur,Letzamang Haokip,Bharatiya Janta Party,31767,27596,86.90%,7848,28.40%,Tongkhongam Haokip,male,47
-58,ST,Churuchandpur,L.M. Khaute,Janata Dal (United),65338,47671,73.00%,624,1.30%,Late SUANGKHOPAU KHAUTE,male,60
-59,ST,Churuchandpur,Paolienlal Haokip,Bharatiya Janta Party,62199,52590,84.60%,5871,11.20%,Limzadem Haokip,male,47
-60,ST,Churuchandpur,Chinlunthang,Kuki People's Alliance,27753,23632,85.20%,1919,8.10%,,,
+ac no,type,district,winning candidate,party,total electors,total votes,poll%,margin,margin %,father/husband name,gender,age,UID
+1,GEN,Imphal,Thokchom Lokeshwar Singh,Indian National Congress,27864,24911,89.40%,215,0.90%,(Late) Thokchom Navakumar Singh,male,55.0,MN2022AC01
+2,GEN,Imphal,Nongthombam Biren Singh,Bharatiya Janta Party,34448,31596,91.70%,18271,57.80%,(L) N. GOURO SINGH,male,61.0,MN2022AC02
+3,GEN,Imphal,Leishangthem Susindro Meitei,Bharatiya Janta Party,36233,33110,91.40%,2237,6.80%,LEISHANGTHEM ITOCHA MEITEI,male,38.0,MN2022AC03
+4,GEN,Imphal,Sheikh Noorul Hassan,National People's Party,37227,34100,91.60%,742,2.20%,Late Nur Muhammad,male,36.0,MN2022AC04
+5,GEN,Imphal,Thongam Biswajit Singh,Bharatiya Janta Party,32723,29510,90.20%,6689,22.70%,Thongam Kumar Singh,male,46.0,MN2022AC05
+6,GEN,Imphal,Lourembam Rameshwor Meetei,Bharatiya Janta Party,30824,28103,91.20%,8209,29.20%,Lourembam Iboton Singh,male,42.0,MN2022AC06
+7,GEN,Imphal,Thounaojam Shyamkumar,Bharatiya Janta Party,36353,33423,91.90%,1457,4.40%,(L) Thounaojam Binoykumar,male,51.0,MN2022AC07
+8,GEN,Imphal,Khongbantabam Ibomcha,Bharatiya Janta Party,30608,28665,93.70%,121,0.40%,(L) Pishak,male,63.0,MN2022AC08
+9,GEN,Imphal West,Khumukcham Joykisan Singh,Janata Dal (United),28845,24302,84.30%,3773,15.50%,(L) Khumukcham Ingocha Singh,male,57.0,MN2022AC09
+10,GEN,Imphal West,Khwairakpam Raghumani Singh,Bharatiya Janta Party,26281,23041,87.70%,909,3.90%,(L) KHWAIRAKPAM TOMPOKMACHA SINGH,male,59.0,MN2022AC10
+11,GEN,Imphal West,Rajkumar Imo Singh,Bharatiya Janta Party,23454,20244,86.30%,2656,13.10%,(Late) Rajkumar Jaichandra Singh,male,45.0,MN2022AC11
+12,GEN,Imphal West,Sapam Nishikant Singh,Independent,28310,25352,89.60%,187,0.70%,,,,MN2022AC12
+13,GEN,Imphal West,Yumnam Khemchand Singh,Bharatiya Janta Party,21205,19015,89.70%,2295,12.10%,Late Yumnam Kalachand Singh,male,58.0,MN2022AC13
+14,GEN,Imphal,Thokchom Satyabrata Singh,Bharatiya Janta Party,27416,24157,88.10%,632,2.60%,Thokchom Birchand Singh,male,47.0,MN2022AC14
+15,GEN,Imphal,Thangjam Arunkumar,Janata Dal (United),37644,32461,86.20%,753,2.30%,(Late) Thangjam Birchandra,male,54.0,MN2022AC15
+16,SC,Imphal West,Heikham Dingo Singh,Bharatiya Janta Party,30518,27201,89.10%,3333,12.30%,Late Heikham Borajao Singh,male,43.0,MN2022AC16
+17,GEN,Imphal West,Sorokhaibam Rajen Singh,Bharatiya Janta Party,34004,31770,93.40%,400,1.30%,Sorokhaibam Yaimabi Singh,male,56.0,MN2022AC17
+18,GEN,Imphal West,Dr. Sapam Ranjan Singh,Bharatiya Janta Party,30557,28400,92.90%,394,1.40%,(Late) Dr. Sapam Budhichandra Singh,male,49.0,MN2022AC18
+19,GEN,Imphal West,Sapam Kunjakeswor (Keba) Singh,Bharatiya Janta Party,38151,34836,91.30%,687,2.00%,(Late) Sapam Ibochouba Singh,male,63.0,MN2022AC19
+20,GEN,Imphal West,Karam Shyam,Bharatiya Janta Party,28635,26267,91.70%,2053,7.80%,Late Karam Biramani Singh,male,59.0,MN2022AC20
+21,GEN,Imphal West,Sagolshem Kebi Devi,Bharatiya Janta Party,35625,32964,92.50%,531,1.60%,Soraisam Gobin Singh,female,32.0,MN2022AC21
+22,GEN,Imphal West,Khuraijam Loken Singh,National People's Party,29784,28224,94.80%,3266,11.60%,KHURAIJAM YAIMA SINGH,male,51.0,MN2022AC22
+23,GEN,Imphal West,Kongkham Robindro Singh,Bharatiya Janta Party,32599,30679,94.10%,6129,20.00%,Kongkham Manglem Singh,male,33.0,MN2022AC23
+24,GEN,Bishnupur,Thounaojam Basanta Kumar Singh,Bharatiya Janta Party,33330,30834,92.50%,3060,9.90%,THOUNAOJAM CHAOBA SINGH,male,57.0,MN2022AC24
+25,GEN,Bishnupur,Irengbam Nalini Devi,National People's Party,29090,26641,91.60%,442,1.70%,Late Irengbam Ibohalbi Singh,female,61.0,MN2022AC25
+26,GEN,Bishnupur,Konthoujam Govindas Singh,Bharatiya Janta Party,32740,29558,90.30%,1409,4.80%,Late Konthoujam Gojendro Singh,male,56.0,MN2022AC26
+27,GEN,Bishnupur,Thongam Shanti Singh,National People's Party,39960,36096,90.30%,2231,6.20%,(Late) Thongam Ibohal Singh,male,61.0,MN2022AC27
+28,GEN,Bishnupur,Tongbram Robindro Singh,Bharatiya Janta Party,23559,21135,89.70%,5251,24.80%,Tongbram Tompok Singh,male,49.0,MN2022AC28
+29,GEN,Bishnupur,Sanasam Premchandra Singh,Bharatiya Janta Party,28309,26087,92.20%,372,1.40%,(L) Jabamjao @ Sanasam Jaramajao Singh,male,46.0,MN2022AC29
+30,GEN,Thoubal,Mohd Abdul Nasir,Janata Dal (United),36774,33969,92.40%,570,1.70%,Mohd Abdul Hamid,male,48.0,MN2022AC30
+31,GEN,Thoubal,Okram Ibobi Singh,Indian National Congress,33207,29581,89.10%,2543,8.60%,(Late) Okram Angoubi Singh,male,73.0,MN2022AC31
+32,GEN,Thoubal,Keisham Meghachandra Singh,Indian National Congress,33626,30277,90.00%,1292,4.30%,Late Keisham Kullabidhu Singh,male,48.0,MN2022AC32
+33,GEN,Thoubal,Thokchom Radheshyam Singh,Bharatiya Janta Party,34115,31748,93.10%,403,1.30%,Thokchom Ibochouba Singh,male,57.0,MN2022AC33
+34,GEN,Thoubal,Paonam Brojen Singh,Bharatiya Janta Party,33610,30498,90.70%,1913,6.30%,Paonam Birahari Singh,male,56.0,MN2022AC34
+35,GEN,Thoubal,Surjakumar Okram,Indian National Congress,38172,35035,91.80%,7803,22.30%,Okram Ibobi Singh,male,34.0,MN2022AC35
+36,GEN,Thoubal,Dr.Usham Deben Singh,Bharatiya Janta Party,32118,29353,91.40%,50,0.20%,LATE USHAM PUKCHAO SINGH,male,53.0,MN2022AC36
+37,GEN,Thoubal,Mayanglambam Rameshwar Singh,National People's Party,30595,27135,88.70%,1205,4.40%,LATE MAYANGLAMBAM ABER SINGH,male,53.0,MN2022AC37
+38,GEN,Thoubal,Dr. Yumnam Radheshyam Singh,Bharatiya Janta Party,28112,26263,93.40%,2029,7.70%,LATE MANGAL,male,67.0,MN2022AC38
+39,GEN,Thoubal,Kangujam Ranjit Singh,Indian National Congress,27796,25031,90.10%,1016,4.10%,LATE KANGUJAM MUHORI SINGH,male,60.0,MN2022AC39
+40,GEN,Imphal,Md. Achab Uddin,Janata Dal (United),29523,26648,90.30%,416,1.60%,TURPAN ALI,male,56.0,MN2022AC40
+41,ST,Chandel,Ss. Olish,Bharatiya Janta Party,49721,46882,94.30%,27341,58.30%,SS. Mohring,female,44.0,MN2022AC41
+42,ST,Chandel,Letpao Haokip,Bharatiya Janta Party,44791,41902,93.60%,6411,15.30%,TONGKHOTHANG HAOKIP,male,45.0,MN2022AC42
+43,ST,Ukhrul,Leishiyo Keishing,Naga Peoples Front,34390,30838,89.70%,779,2.50%,SHAMPHANG KEISHING,male,47.0,MN2022AC43
+44,ST,Ukhrul,Ram Muivah,Naga Peoples Front,51395,40073,78.00%,942,2.40%,(Late) KHASHIM MUIVAH,male,61.0,MN2022AC44
+45,ST,Ukhrul,Khashim Vashum,Naga Peoples Front,48405,40898,84.50%,2336,5.70%,LUNGREI VASHUM,male,58.0,MN2022AC45
+46,ST,Senapati,Kimneo Haokip Hangshing,Kuki People's Alliance,28888,26436,91.50%,1249,4.70%,,,,MN2022AC46
+47,ST,Senapati,J Kumo Sha,Independent,58490,49360,84.40%,3542,7.20%,D. Jonathan,male,39.0,MN2022AC47
+48,ST,Senapati,Losii Dikho,Naga Peoples Front,55478,50974,91.90%,8513,16.70%,Lt. Nepuni Losii,male,55.0,MN2022AC48
+49,ST,Senapati,N. Kayisii,National People's Party,51252,45179,88.20%,549,1.20%,Neli,male,56.0,MN2022AC49
+50,GEN,Senapati,Nemcha Kipgen,Bharatiya Janta Party,27768,25119,90.50%,5396,21.50%,Semma Kipgen,female,56.0,MN2022AC50
+51,ST,Senapati,Haokholet Kipgen,Independent,44370,39512,89.10%,2694,6.80%,(L) Palun Kipgen,male,67.0,MN2022AC51
+52,ST,Tamenglong,Awangbow Newmai,Naga Peoples Front,42059,38644,91.90%,1698,4.40%,(L) Namrangbow,male,54.0,MN2022AC52
+53,ST,Tamenglong,Janghemlung Panmei,National People's Party,37101,30653,82.60%,1309,4.30%,Late Ragaisin Panmei,male,45.0,MN2022AC53
+54,ST,Tamenglong,Dinganglung Gangmei,Bharatiya Janta Party,30169,25201,83.50%,3786,15.00%,Thanjikpou Gangmei,male,43.0,MN2022AC54
+55,ST,Churuchandpur,Ngursanglur Sanate,Janata Dal (United),18398,12728,69.20%,1249,9.80%,(L) Ngurdinglien Sanate,male,47.0,MN2022AC55
+56,ST,Churuchandpur,Vungzagin Valte,Bharatiya Janta Party,17374,13340,76.80%,751,5.60%,(L) V. Dongzakham,male,57.0,MN2022AC56
+57,ST,Churuchandpur,Letzamang Haokip,Bharatiya Janta Party,31767,27596,86.90%,7848,28.40%,Tongkhongam Haokip,male,47.0,MN2022AC57
+58,ST,Churuchandpur,L.M. Khaute,Janata Dal (United),65338,47671,73.00%,624,1.30%,Late SUANGKHOPAU KHAUTE,male,60.0,MN2022AC58
+59,ST,Churuchandpur,Paolienlal Haokip,Bharatiya Janta Party,62199,52590,84.60%,5871,11.20%,Limzadem Haokip,male,47.0,MN2022AC59
+60,ST,Churuchandpur,Chinlunthang,Kuki People's Alliance,27753,23632,85.20%,1919,8.10%,,,,MN2022AC60
