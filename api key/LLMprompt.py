@@ -71,14 +71,14 @@ Think carefully step by step about what documents are needed to answer the query
             "role": "user",
             "content":
                 """
-            Return only a list of direct and extended family members of elected political candidate Chittem Parnika Reddy who are involved in politics, The details of Chittem Parnika Reddy are added below as context.
+            Return only a list of direct and extended family members of elected political candidate Kalvakuntla Chandrashekar Rao who are involved in politics, The details of Kalvakuntla Chandrashekar Rao are added below as context.
 
 Context:
 State Name: Telangana 
 Election Name: Telangana Assembly Elections 2023 
-Constituency Name: Narayanpet 
-District Name: Mahbubnagar
-Father/husband name: VENKATESHWAR REDDY CHITTEM
+Constituency Name: Gajwel 
+District Name: Medak
+Father/husband name: LATE KALVAKUNTLA RAGHAVA RAO
 
 """
         }
@@ -94,7 +94,12 @@ Father/husband name: VENKATESHWAR REDDY CHITTEM
         }
     ],
     # tool_choice= "required",
-    include=["web_search_call.action.sources"],
+
+#     use this for annotations idk why its not workrking now but it was previously working with json dumps from response output
+# showed inline citations for each url like start and end look into for future refernece like rag and cag systems
+#you use this for real time searches not when using preview, when you use preview it the model generates the url for its vast training knowledge
+# Can still use it for preview but makes no difference in output text
+    # include=["web_search_call.action.sources"],
 
 
     # max_completion_tokens=2500,
@@ -108,7 +113,7 @@ Father/husband name: VENKATESHWAR REDDY CHITTEM
 
 # main working 2 lines below
 print(response.output_text)
-# print(json.dumps(response.model_dump(), indent=2))
+print(json.dumps(response.model_dump(), indent=2))
 
 from StructuredOutputFinal import RelativesnSource
 
