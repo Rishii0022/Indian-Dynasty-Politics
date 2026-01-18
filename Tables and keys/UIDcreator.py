@@ -46,7 +46,7 @@ state_map = {
 }
 state_map = {k.lower().replace(" ", ""): v for k, v in state_map.items()}
 
-# ---- PROCESS ALL FILES ----
+#Folder location
 for file in os.listdir(r"C:\Users\Rishi\Desktop\final dashboard\ac recent"):
     if not file.lower().endswith(".csv"):
         continue

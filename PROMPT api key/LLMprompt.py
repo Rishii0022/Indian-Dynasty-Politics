@@ -95,8 +95,8 @@ Father/husband name: LATE KALVAKUNTLA RAGHAVA RAO
     ],
     # tool_choice= "required",
 
-#     use this for annotations idk why its not workrking now but it was previously working with json dumps from response output
-# showed inline citations for each url like start and end look into for future refernece like rag and cag systems
+#     use this for annotations idk why its not working now but it was previously working with json dumps from response output
+# showed inline citations for each url like start and end look into for future reference like rag and cag systems
 #you use this for real time searches not when using preview, when you use preview it the model generates the url for its vast training knowledge
 # Can still use it for preview but makes no difference in output text
     # include=["web_search_call.action.sources"],
