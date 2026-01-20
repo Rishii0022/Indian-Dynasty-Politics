@@ -280,3 +280,38 @@ print(json.dumps(response.model_dump(), indent=2))
 
 # removed
 # "include": ["web_search_call.action.sources"],
+
+
+#openai all sources
+
+family_output = response.output_parsed
+
+# searched URLs
+searched_urls = [
+    s.model_dump() for s in response.output[0].action.sources
+]
+
+# citation annotations
+citations = [
+    c.model_dump() for c in response.output[1].content[0].annotations
+]
+
+# ---------------- FINAL MERGE ----------------
+
+final_output = {
+    "family": [r.model_dump() for r in family_output.family],
+    "sources": searched_urls,
+    "citations": citations
+}
+
+print(json.dumps(final_output, indent=2))
+
+# class Citation(BaseModel):
+#     type: str
+#     url: str = Field(description = "url of the source")
+#     title: Optional[str] = Field(description = "Title of the source")
+#     start_index: Optional[int] = Field(description = "Start index of the source")
+#     end_index: Optional[int] = Field(description = "End index of the source")
+
+include=["web_search_call.action.sources"],
+

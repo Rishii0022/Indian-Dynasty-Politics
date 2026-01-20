@@ -86,7 +86,7 @@ Father/husband name: LATE KALVAKUNTLA RAGHAVA RAO
 
     tools=[
         {
-            "type": "web_search_preview",
+            "type": "web_search",
             "user_location": {
                 "type": "approximate",
                 "country": "IN"
@@ -120,7 +120,6 @@ from StructuredOutputFinal import RelativesnSource
 # raw_text = response.output_text
 # parsed_json = json.loads(raw_text)
 # validated_output = RelativesnSource(**parsed_json)
-# validated_output2 = CitationResponse(**parsed_json)
 
 # To get all Family Names
 # for member in validated_output.family:

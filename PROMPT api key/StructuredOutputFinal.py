@@ -15,7 +15,8 @@ class Relatives(BaseModel):
 class Sources(BaseModel):
     url: str = Field(description = "url of the source")
 
+
 class RelativesnSource(BaseModel):
-    candidate_key: str = Field(description = "<candidate name>_<constituency>_,<district>_<election name>")
-    family: List[Relatives]
+    family: Optional[List[Relatives]]
     source: Optional[List[Sources]] = []
+

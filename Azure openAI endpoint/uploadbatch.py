@@ -33,7 +33,7 @@ client = AzureOpenAI(
 
 # Upload a file with a purpose of "batch"
 file = client.files.create(
-    file=open(r"C:\Users\Rishi\Desktop\final dashboard\input_jsonl_batch\batch_input_telanagana.jsonl", "rb"),
+    file=open(r"/input_jsonl_batch/batch_input_telangana.jsonl", "rb"),
     purpose="batch",
     extra_body={"expires_after": {"seconds": 1209600, "anchor": "created_at"}}
     # 1209600 = 14 days
