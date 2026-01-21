@@ -18,14 +18,14 @@ input1 = [{
         {
             "role": "user",
             "content":""" 
-Return only a list of direct and extended family members of elected political candidate {Chikkudu Vamshi Krishna} who are involved in politics, The details of {Chikkudu Vamshi Krishna} are added below as context.
+Return only a list of direct and extended family members of elected political candidate {candidate_name} who are involved in politics, The details of {candidate_name} are added below as context.
 Context:
-UID:{TG2023AC01}
-State Name: {Telangana} 
-Election Name: {Telangana Assembly Elections 2023} 
-Constituency Name: {Achampet} 
-District Name: {Mahbubnagar}
-Father/husband name: {CHINNA BALAIAH}
+UID:{uid}
+State Name: {state} 
+Election Name: {election} 
+Constituency Name: {constituency} 
+District Name: {district}
+Father/husband name: {father_name}
 """
         }
     ]

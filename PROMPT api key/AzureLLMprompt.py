@@ -5,11 +5,11 @@ import json
 
 load_dotenv()
 
-subscription_key = os.getenv("AZURE_OPENAI_API_KEY")
+subscription_key = os.getenv("AZURE_OPENAI_API_KEY3")
 
 
 
-endpoint = "https://apitest-resource.openai.azure.com/"
+endpoint = "https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/"
 model_name = "gpt-4.1"
 deployment = "gpt-4.1"
 
