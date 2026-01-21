@@ -13,11 +13,14 @@ from StructuredOutputNano import RelativesnSource
 # MANUAL CONSTANT VALUES
 # ======================
 
-STATE_NAME = "Maharashtra"
-ELECTION_NAME = "Maharashtra Assembly Elections 2024"
+#change STATE NAME
+STATE_NAME = "Himachal Pradesh"
 
-CSV_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\ac recent\Maharashtra_2024_ac.csv"
-OUTPUT_FILE = r""
+#Change YEAR AND STATE NAME
+ELECTION_NAME = "Himachal Pradesh Assembly Elections 2022"
+
+CSV_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\ac recent\HimachalPradesh_2022_ac.csv"
+OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\output_jsonl_batch\sync_output_Himachal Pradesh.jsonl"
 
 # ======================
 
