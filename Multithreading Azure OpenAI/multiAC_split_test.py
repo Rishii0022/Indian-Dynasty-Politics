@@ -45,6 +45,22 @@ clients = [
             api_version="2025-03-01-preview"
         ),
         "deployment": "gpt-4.1-2"
+    },
+    {
+        "client": AzureOpenAI(
+            api_key=os.getenv("AZURE_OPENAI_API_KEY3"),
+            azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
+            api_version="2025-03-01-preview"
+        ),
+        "deployment": "gpt-4.1"
+    },
+    {
+        "client": AzureOpenAI(
+            api_key=os.getenv("AZURE_OPENAI_API_KEY4"),
+            azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
+            api_version="2025-03-01-preview"
+        ),
+        "deployment": "gpt-4.1-2"
     }
 ]
 
@@ -129,19 +145,4 @@ with open(CSV_FILE, newline="", encoding="utf-8") as csvfile, \
         time.sleep(2.2)  # prevents 429
 
 
-    # {
-    #     "client": AzureOpenAI(
-    #         api_key=os.getenv("AZURE_OPENAI_API_KEY3"),
-    #         azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-    #         api_version="2025-03-01-preview"
-    #     ),
-    #     "deployment": "gpt-4.1"
-    # },
-    # {
-    #     "client": AzureOpenAI(
-    #         api_key=os.getenv("AZURE_OPENAI_API_KEY4"),
-    #         azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-    #         api_version="2025-03-01-preview"
-    #     ),
-    #     "deployment": "gpt-4.1-2"
-    # }
+
