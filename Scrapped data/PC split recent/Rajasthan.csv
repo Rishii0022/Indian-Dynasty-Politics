@@ -1,26 +1,26 @@
-PC Name,No,Type,State,Winning Candidate,Party,Electors,Votes,Turnout,Margin,Margin %,Father/Husband Name,Gender,Age
-Ajmer,13,GEN,Rajasthan,Bhagirath Choudhary,Bharatiya Janta Party,1995699,1201179,60.20%,329991,27.50%,RAMCHANDRA,male,69
-Alwar,8,GEN,Rajasthan,Bhupender Yadav,Bharatiya Janta Party,2059888,1253438,60.90%,48282,3.90%,KADAM SINGH YADAV,male,55
-Banswara,20,ST,Rajasthan,Raj Kumar Roat,Bharat Adivasi Party,2200438,1636852,74.40%,247054,15.10%,,,
-Barmer,17,GEN,Rajasthan,Ummeda Ram Beniwal,Indian National Congress,2206237,1688051,76.50%,118176,7.00%,MOOLA RAM,male,46
-Bharatpur,9,SC,Rajasthan,Sanjna Jatav,Indian National Congress,2114916,1133000,53.60%,51983,4.60%,KAPTAN,female,26
-Bhilwara,23,GEN,Rajasthan,Damodar Agarwal,Bharatiya Janta Party,2147159,1304395,60.80%,354606,27.20%,RAMSWAROOP AGARWAL,male,68
-Bikaner,2,SC,Rajasthan,Arjun Ram Meghwal,Bharatiya Janta Party,2048399,1118282,54.60%,55711,5.00%,LAKHU RAM MEGHWAL,male,70
-Chittorgarh,21,GEN,Rajasthan,Chandra Prakash Joshi,Bharatiya Janta Party,2170167,1498733,69.10%,389877,26.00%,RAMCHANDRA JOSHI,male,48
-Churu,3,GEN,Rajasthan,Rahul Kaswan,Indian National Congress,2213187,1424645,64.40%,72737,5.10%,RAMSINGH,male,47
-Dausa,11,ST,Rajasthan,Murari Lal Meena,Indian National Congress,1899304,1072734,56.50%,237340,22.10%,NARAYAN,male,65
-Ganganagar,1,SC,Rajasthan,Kuldeep Indora,Indian National Congress,2102002,1413494,67.30%,88153,6.20%,HEERA LAL INDORA,male,54
-Jaipur,7,GEN,Rajasthan,Manju Sharma,Bharatiya Janta Party,2287350,1463258,64.00%,331767,22.70%,CHATURBHUJ SHARMA,female,64
-Jaipur Rural,6,GEN,Rajasthan,Rao Rajendra Singh,Bharatiya Janta Party,2184978,1262054,57.80%,1615,0.10%,RAO DHEER SINGH,male,65
-Jalore,18,GEN,Rajasthan,Lumbaram,Bharatiya Janta Party,2297328,1451126,63.20%,201543,13.90%,SHRI BHUDA,male,59
-Jhalawar-Baran,25,GEN,Rajasthan,Dushyant Singh,Bharatiya Janta Party,2030525,1421331,70.00%,370989,26.10%,HEMANT SINGH,male,53
-Jhunjhunu,4,GEN,Rajasthan,Brijendra Singh Ola,Indian National Congress,2068540,1118927,54.10%,18235,1.60%,Shish Ram Ola,male,72
-Jodhpur,16,GEN,Rajasthan,Gajendra Singh Shekhawat,Bharatiya Janta Party,2132713,1383838,64.90%,115677,8.40%,SHANKER SINGH SHEKHAWAT,male,56
-Karauli-Dholpu,10,SC,Rajasthan,Bhajan Lal Jatav,Indian National Congress,1975352,988122,50.00%,98945,10.00%,GULKANDI RAM JATAV,male,55
-Kota,24,GEN,Rajasthan,Om Birla,Bharatiya Janta Party,2088023,1500157,71.90%,41974,2.80%,SHRIKRISHN BIRLA,male,62
-Nagaur,14,GEN,Rajasthan,Hanuman Beniwal,Rashtriya Loktantrik Party,2146725,1238473,57.70%,42225,3.40%,RAMDEV,male,52
-Pali,15,GEN,Rajasthan,P. P. Chaudhary,Bharatiya Janta Party,2343232,1353842,57.80%,245351,18.10%,PRABHU RAM,male,70
-Rajsamand,22,GEN,Rajasthan,Mahima Kumari Mewar,Bharatiya Janta Party,2060942,1213130,58.90%,392223,32.30%,VISHVARAJ SINGH MEWAR,female,52
-Sikar,5,GEN,Rajasthan,Amraram,Communist Party Of India (Marxist),2214900,1300856,58.70%,72896,5.60%,DALLA RAM,male,68
-Tonk-Sawai Mad,12,GEN,Rajasthan,Harish Chandra Meena,Indian National Congress,2148128,1226584,57.10%,64949,5.30%,Shrinarayan,male,69
-Udaipur,19,ST,Rajasthan,Manna Lal Rawat,Bharatiya Janta Party,2230971,1498376,67.20%,261608,17.50%,GOTAM LAL,male,52
+pc name,no,type,state,winning candidate,party,electors,votes,turnout,margin,margin %,father/husband name,gender,age,UID
+Ajmer,13,GEN,Rajasthan,Bhagirath Choudhary,Bharatiya Janta Party,1995699,1201179,60.20%,329991,27.50%,RAMCHANDRA,male,69.0,RJ2024PC13
+Alwar,8,GEN,Rajasthan,Bhupender Yadav,Bharatiya Janta Party,2059888,1253438,60.90%,48282,3.90%,KADAM SINGH YADAV,male,55.0,RJ2024PC08
+Banswara,20,ST,Rajasthan,Raj Kumar Roat,Bharat Adivasi Party,2200438,1636852,74.40%,247054,15.10%,,,,RJ2024PC20
+Barmer,17,GEN,Rajasthan,Ummeda Ram Beniwal,Indian National Congress,2206237,1688051,76.50%,118176,7.00%,MOOLA RAM,male,46.0,RJ2024PC17
+Bharatpur,9,SC,Rajasthan,Sanjna Jatav,Indian National Congress,2114916,1133000,53.60%,51983,4.60%,KAPTAN,female,26.0,RJ2024PC09
+Bhilwara,23,GEN,Rajasthan,Damodar Agarwal,Bharatiya Janta Party,2147159,1304395,60.80%,354606,27.20%,RAMSWAROOP AGARWAL,male,68.0,RJ2024PC23
+Bikaner,2,SC,Rajasthan,Arjun Ram Meghwal,Bharatiya Janta Party,2048399,1118282,54.60%,55711,5.00%,LAKHU RAM MEGHWAL,male,70.0,RJ2024PC02
+Chittorgarh,21,GEN,Rajasthan,Chandra Prakash Joshi,Bharatiya Janta Party,2170167,1498733,69.10%,389877,26.00%,RAMCHANDRA JOSHI,male,48.0,RJ2024PC21
+Churu,3,GEN,Rajasthan,Rahul Kaswan,Indian National Congress,2213187,1424645,64.40%,72737,5.10%,RAMSINGH,male,47.0,RJ2024PC03
+Dausa,11,ST,Rajasthan,Murari Lal Meena,Indian National Congress,1899304,1072734,56.50%,237340,22.10%,NARAYAN,male,65.0,RJ2024PC11
+Ganganagar,1,SC,Rajasthan,Kuldeep Indora,Indian National Congress,2102002,1413494,67.30%,88153,6.20%,HEERA LAL INDORA,male,54.0,RJ2024PC01
+Jaipur,7,GEN,Rajasthan,Manju Sharma,Bharatiya Janta Party,2287350,1463258,64.00%,331767,22.70%,CHATURBHUJ SHARMA,female,64.0,RJ2024PC07
+Jaipur Rural,6,GEN,Rajasthan,Rao Rajendra Singh,Bharatiya Janta Party,2184978,1262054,57.80%,1615,0.10%,RAO DHEER SINGH,male,65.0,RJ2024PC06
+Jalore,18,GEN,Rajasthan,Lumbaram,Bharatiya Janta Party,2297328,1451126,63.20%,201543,13.90%,SHRI BHUDA,male,59.0,RJ2024PC18
+Jhalawar-Baran,25,GEN,Rajasthan,Dushyant Singh,Bharatiya Janta Party,2030525,1421331,70.00%,370989,26.10%,HEMANT SINGH,male,53.0,RJ2024PC25
+Jhunjhunu,4,GEN,Rajasthan,Brijendra Singh Ola,Indian National Congress,2068540,1118927,54.10%,18235,1.60%,Shish Ram Ola,male,72.0,RJ2024PC04
+Jodhpur,16,GEN,Rajasthan,Gajendra Singh Shekhawat,Bharatiya Janta Party,2132713,1383838,64.90%,115677,8.40%,SHANKER SINGH SHEKHAWAT,male,56.0,RJ2024PC16
+Karauli-Dholpu,10,SC,Rajasthan,Bhajan Lal Jatav,Indian National Congress,1975352,988122,50.00%,98945,10.00%,GULKANDI RAM JATAV,male,55.0,RJ2024PC10
+Kota,24,GEN,Rajasthan,Om Birla,Bharatiya Janta Party,2088023,1500157,71.90%,41974,2.80%,SHRIKRISHN BIRLA,male,62.0,RJ2024PC24
+Nagaur,14,GEN,Rajasthan,Hanuman Beniwal,Rashtriya Loktantrik Party,2146725,1238473,57.70%,42225,3.40%,RAMDEV,male,52.0,RJ2024PC14
+Pali,15,GEN,Rajasthan,P. P. Chaudhary,Bharatiya Janta Party,2343232,1353842,57.80%,245351,18.10%,PRABHU RAM,male,70.0,RJ2024PC15
+Rajsamand,22,GEN,Rajasthan,Mahima Kumari Mewar,Bharatiya Janta Party,2060942,1213130,58.90%,392223,32.30%,VISHVARAJ SINGH MEWAR,female,52.0,RJ2024PC22
+Sikar,5,GEN,Rajasthan,Amraram,Communist Party Of India (Marxist),2214900,1300856,58.70%,72896,5.60%,DALLA RAM,male,68.0,RJ2024PC05
+Tonk-Sawai Mad,12,GEN,Rajasthan,Harish Chandra Meena,Indian National Congress,2148128,1226584,57.10%,64949,5.30%,Shrinarayan,male,69.0,RJ2024PC12
+Udaipur,19,ST,Rajasthan,Manna Lal Rawat,Bharatiya Janta Party,2230971,1498376,67.20%,261608,17.50%,GOTAM LAL,male,52.0,RJ2024PC19

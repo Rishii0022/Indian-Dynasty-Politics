@@ -3,7 +3,7 @@ import json
 from openai import AzureOpenAI
 from dotenv import load_dotenv
 from StructuredOutputNano import RelativesnSource
-from batch_prompts_template import input1, tools1
+from batch_promptsAC_template import input1, tools1
 
 load_dotenv()
 

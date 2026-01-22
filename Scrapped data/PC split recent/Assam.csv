@@ -1,15 +1,15 @@
-PC Name,No,Type,State,Winning Candidate,Party,Electors,Votes,Turnout,Margin,Margin %,Father/Husband Name,Gender,Age
-Barpeta,3,GEN,Assam,Phani Bhusan Choudhury,Asom Gana Parishad,1966847,1685943,85.70%,222351,13.20%,LATE RAMESH CHANDRA CHOUDHURY,male,72
-Darrang-Udalguri,4,GEN,Assam,Dilip Saikia,Bharatiya Janta Party,2209314,1811200,82.00%,329012,18.20%,LATE PRABIN CHANDRA SAIKIA,male,50
-Dhubri,2,GEN,Assam,Rakibul Hussain,Indian National Congress,2660827,2453608,92.20%,1012476,41.30%,Late Alhaz Nurul Hussain,male,59
-Dibrugarh,13,GEN,Assam,Sarbananda Sonowal,Bharatiya Janta Party,1659588,1278322,77.00%,279321,21.90%,LATE JIBESWAR SONOWAL,male,62
-Diphu,6,ST,Assam,Amarsing Tisso,Bharatiya Janta Party,901032,682827,75.80%,147603,21.60%,Late Monsing Tisso,male,56
-Guwahati,5,GEN,Assam,Bijuli Kalita Medhi,Bharatiya Janta Party,2036846,1599389,78.50%,251090,15.70%,,,
-Jorhat,14,GEN,Assam,Gaurav Gogoi,Indian National Congress,1727121,1391160,80.60%,144393,10.40%,LATE TARUN GOGOI,male,41
-Karimganj,7,SC,Assam,Kripanath Mallah,Bharatiya Janta Party,1412148,1146882,81.20%,18360,1.60%,Late Krishnamohan Mallah,male,50
-Kaziranga,10,GEN,Assam,Kamakhya Prasad Tasa,Bharatiya Janta Party,2050126,1629937,79.50%,248947,15.30%,Late Deuram Tasa,male,48
-Kokrajhar,1,ST,Assam,Joyanta Basumatary,United Peoples Party Liberal,1484571,1241496,83.60%,51583,4.20%,,,
-Lakhimpur,12,GEN,Assam,Pradan Baruah,Bharatiya Janta Party,1577234,1211214,76.80%,201257,16.60%,LATE MATHURA BARUAH,male,58
-Nagaon,9,GEN,Assam,Pradyut Bordoloi,Indian National Congress,1817204,1549998,85.30%,212231,13.70%,Late Nanda Dhar Bordoloi,male,64
-Silchar,8,GEN,Assam,Parimal Suklabaidya,Bharatiya Janta Party,1369578,1089426,79.50%,264311,24.30%,LATE PRAFULLA SUKLABAIDYA,male,66
-Sonitpur,11,GEN,Assam,Ranjit Dutta,Bharatiya Janta Party,1633800,1288468,78.90%,361408,28.00%,LATE KULADHAR DUTTA,male,67
+pc name,no,type,state,winning candidate,party,electors,votes,turnout,margin,margin %,father/husband name,gender,age,UID
+Barpeta,3,GEN,Assam,Phani Bhusan Choudhury,Asom Gana Parishad,1966847,1685943,85.70%,222351,13.20%,LATE RAMESH CHANDRA CHOUDHURY,male,72.0,AS2024PC03
+Darrang-Udalguri,4,GEN,Assam,Dilip Saikia,Bharatiya Janta Party,2209314,1811200,82.00%,329012,18.20%,LATE PRABIN CHANDRA SAIKIA,male,50.0,AS2024PC04
+Dhubri,2,GEN,Assam,Rakibul Hussain,Indian National Congress,2660827,2453608,92.20%,1012476,41.30%,Late Alhaz Nurul Hussain,male,59.0,AS2024PC02
+Dibrugarh,13,GEN,Assam,Sarbananda Sonowal,Bharatiya Janta Party,1659588,1278322,77.00%,279321,21.90%,LATE JIBESWAR SONOWAL,male,62.0,AS2024PC13
+Diphu,6,ST,Assam,Amarsing Tisso,Bharatiya Janta Party,901032,682827,75.80%,147603,21.60%,Late Monsing Tisso,male,56.0,AS2024PC06
+Guwahati,5,GEN,Assam,Bijuli Kalita Medhi,Bharatiya Janta Party,2036846,1599389,78.50%,251090,15.70%,,,,AS2024PC05
+Jorhat,14,GEN,Assam,Gaurav Gogoi,Indian National Congress,1727121,1391160,80.60%,144393,10.40%,LATE TARUN GOGOI,male,41.0,AS2024PC14
+Karimganj,7,SC,Assam,Kripanath Mallah,Bharatiya Janta Party,1412148,1146882,81.20%,18360,1.60%,Late Krishnamohan Mallah,male,50.0,AS2024PC07
+Kaziranga,10,GEN,Assam,Kamakhya Prasad Tasa,Bharatiya Janta Party,2050126,1629937,79.50%,248947,15.30%,Late Deuram Tasa,male,48.0,AS2024PC10
+Kokrajhar,1,ST,Assam,Joyanta Basumatary,United Peoples Party Liberal,1484571,1241496,83.60%,51583,4.20%,,,,AS2024PC01
+Lakhimpur,12,GEN,Assam,Pradan Baruah,Bharatiya Janta Party,1577234,1211214,76.80%,201257,16.60%,LATE MATHURA BARUAH,male,58.0,AS2024PC12
+Nagaon,9,GEN,Assam,Pradyut Bordoloi,Indian National Congress,1817204,1549998,85.30%,212231,13.70%,Late Nanda Dhar Bordoloi,male,64.0,AS2024PC09
+Silchar,8,GEN,Assam,Parimal Suklabaidya,Bharatiya Janta Party,1369578,1089426,79.50%,264311,24.30%,LATE PRAFULLA SUKLABAIDYA,male,66.0,AS2024PC08
+Sonitpur,11,GEN,Assam,Ranjit Dutta,Bharatiya Janta Party,1633800,1288468,78.90%,361408,28.00%,LATE KULADHAR DUTTA,male,67.0,AS2024PC11

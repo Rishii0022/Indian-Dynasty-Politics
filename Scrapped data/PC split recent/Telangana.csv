@@ -1,18 +1,18 @@
-PC Name,No,Type,State,Winning Candidate,Party,Electors,Votes,Turnout,Margin,Margin %,Father/Husband Name,Gender,Age
-Adilabad,1,ST,Telangana,Godam Nagesh,Bharatiya Janta Party,1650175,1235597,74.90%,90652,7.30%,GODAM RAMA RAO,male,59
-Bhongir,14,GEN,Telangana,Chamala Kiran Kumar Reddy,Indian National Congress,1808585,1401396,77.50%,222170,15.90%,CHAMALA VASU DEVA REDDY,male,47
-Chelvella,10,GEN,Telangana,Konda Vishweshwar Reddy,Bharatiya Janta Party,2938370,1675354,57.00%,172897,10.30%,K MADHAVA REDDY,male,64
-Hyderabad,9,GEN,Telangana,Asaduddin Owaisi,All India Majlis-E-Ittehadul Muslimeen,2217094,1080324,48.70%,338087,31.30%,LATE SULTAN SALAHUDDIN OWAISI,male,54
-Karimnagar,3,GEN,Telangana,Bandi Sanjay Kumar,Bharatiya Janta Party,1797150,1312852,73.10%,225209,17.20%,LATE NARSAIAH,male,52
-Khammam,17,GEN,Telangana,Ramasahayam Raghuram Reddy,Indian National Congress,1631039,1251283,76.70%,467847,37.40%,RAMASAHAYAM SURENDER REDDY,male,63
-Mahabubabad,16,ST,Telangana,Balram Naik Porika,Indian National Congress,1532366,1108786,72.40%,349165,31.50%,LACHU NAIK,male,60
-Mahbubnagar,11,GEN,Telangana,Aruna. D. K,Bharatiya Janta Party,1682470,1226078,72.90%,4500,0.40%,D.K. BHARAT SIMHA REDDY,female,64
-Malkajgiri,7,GEN,Telangana,Eatala Rajender,Bharatiya Janta Party,3779596,1933843,51.20%,391475,20.20%,MALLAIAH ALIAS PEDDA MALLAIAH,male,60
-Medak,6,GEN,Telangana,Madhavaneni Raghunandan Rao,Bharatiya Janta Party,1828210,1386239,75.80%,39139,2.80%,M. BHAGAVANTHA RAO,male,59
-Nagarkurnool,12,SC,Telangana,Dr.Mallu Ravi,Indian National Congress,1738254,1219223,70.10%,94414,7.70%,MALLU AKHILANDA,male,73
-Nalgonda,13,GEN,Telangana,Kunduru Raghuveer,Indian National Congress,1725465,1296324,75.10%,559905,43.20%,JANAREDDY,male,44
-Nizamabad,4,GEN,Telangana,Arvind Dharmapuri,Bharatiya Janta Party,1704867,1233581,72.40%,109241,8.90%,DHARMAPURI SRINIVAS,male,47
-Peddapalle,2,SC,Telangana,Vamsi Krishna Gaddam,Indian National Congress,1596430,1095295,68.60%,131364,12.00%,VIVEKANAND GADDAM,male,35
-Secundrabad,8,GEN,Telangana,G. Kishan Reddy,Bharatiya Janta Party,2120401,1047659,49.40%,49944,4.80%,Late Sri Gangapuram Swamy Reddy,male,63
-Warangal,15,SC,Telangana,Kadiyam Kavya,Indian National Congress,1824466,1267946,69.50%,220339,17.40%,MOHAMMAD NAZEERULLA,female,41
-Zahirabad,5,GEN,Telangana,Suresh Kumar Shetkar,Indian National Congress,1641410,1236593,75.30%,46188,3.70%,SHIV RAO SHETKAR,male,63
+pc name,no,type,state,winning candidate,party,electors,votes,turnout,margin,margin %,father/husband name,gender,age,UID
+Adilabad,1,ST,Telangana,Godam Nagesh,Bharatiya Janta Party,1650175,1235597,74.90%,90652,7.30%,GODAM RAMA RAO,male,59,TG2024PC01
+Bhongir,14,GEN,Telangana,Chamala Kiran Kumar Reddy,Indian National Congress,1808585,1401396,77.50%,222170,15.90%,CHAMALA VASU DEVA REDDY,male,47,TG2024PC14
+Chelvella,10,GEN,Telangana,Konda Vishweshwar Reddy,Bharatiya Janta Party,2938370,1675354,57.00%,172897,10.30%,K MADHAVA REDDY,male,64,TG2024PC10
+Hyderabad,9,GEN,Telangana,Asaduddin Owaisi,All India Majlis-E-Ittehadul Muslimeen,2217094,1080324,48.70%,338087,31.30%,LATE SULTAN SALAHUDDIN OWAISI,male,54,TG2024PC09
+Karimnagar,3,GEN,Telangana,Bandi Sanjay Kumar,Bharatiya Janta Party,1797150,1312852,73.10%,225209,17.20%,LATE NARSAIAH,male,52,TG2024PC03
+Khammam,17,GEN,Telangana,Ramasahayam Raghuram Reddy,Indian National Congress,1631039,1251283,76.70%,467847,37.40%,RAMASAHAYAM SURENDER REDDY,male,63,TG2024PC17
+Mahabubabad,16,ST,Telangana,Balram Naik Porika,Indian National Congress,1532366,1108786,72.40%,349165,31.50%,LACHU NAIK,male,60,TG2024PC16
+Mahbubnagar,11,GEN,Telangana,Aruna. D. K,Bharatiya Janta Party,1682470,1226078,72.90%,4500,0.40%,D.K. BHARAT SIMHA REDDY,female,64,TG2024PC11
+Malkajgiri,7,GEN,Telangana,Eatala Rajender,Bharatiya Janta Party,3779596,1933843,51.20%,391475,20.20%,MALLAIAH ALIAS PEDDA MALLAIAH,male,60,TG2024PC07
+Medak,6,GEN,Telangana,Madhavaneni Raghunandan Rao,Bharatiya Janta Party,1828210,1386239,75.80%,39139,2.80%,M. BHAGAVANTHA RAO,male,59,TG2024PC06
+Nagarkurnool,12,SC,Telangana,Dr.Mallu Ravi,Indian National Congress,1738254,1219223,70.10%,94414,7.70%,MALLU AKHILANDA,male,73,TG2024PC12
+Nalgonda,13,GEN,Telangana,Kunduru Raghuveer,Indian National Congress,1725465,1296324,75.10%,559905,43.20%,JANAREDDY,male,44,TG2024PC13
+Nizamabad,4,GEN,Telangana,Arvind Dharmapuri,Bharatiya Janta Party,1704867,1233581,72.40%,109241,8.90%,DHARMAPURI SRINIVAS,male,47,TG2024PC04
+Peddapalle,2,SC,Telangana,Vamsi Krishna Gaddam,Indian National Congress,1596430,1095295,68.60%,131364,12.00%,VIVEKANAND GADDAM,male,35,TG2024PC02
+Secundrabad,8,GEN,Telangana,G. Kishan Reddy,Bharatiya Janta Party,2120401,1047659,49.40%,49944,4.80%,Late Sri Gangapuram Swamy Reddy,male,63,TG2024PC08
+Warangal,15,SC,Telangana,Kadiyam Kavya,Indian National Congress,1824466,1267946,69.50%,220339,17.40%,MOHAMMAD NAZEERULLA,female,41,TG2024PC15
+Zahirabad,5,GEN,Telangana,Suresh Kumar Shetkar,Indian National Congress,1641410,1236593,75.30%,46188,3.70%,SHIV RAO SHETKAR,male,63,TG2024PC05

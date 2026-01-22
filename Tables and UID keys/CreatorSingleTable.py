@@ -4,7 +4,7 @@ import pandas as pd
 
 #Change path in 4 places.
 
-csv_path = r"C:\Users\Rishi\Desktop\final dashboard\ac recent\Telangana_2023_ac.csv"
+csv_path = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\PC split recent\Andaman & Nicobar Islands.csv"
 ac_no_column = "ac no"
 
 state_map = {
@@ -43,15 +43,16 @@ state_map = {
     "Karnataka":"KA",
     "TamilNadu":"TN",
     "Pondicherry": "PY",
-    "Telangana":"TG"
+    "Telangana":"TG",
 
 }
+
 state_map = {k.lower(): v for k, v in state_map.items()}
 
-df = pd.read_csv(r"C:\Users\Rishi\Desktop\final dashboard\ac recent\Telangana_2023_ac.csv")
+df = pd.read_csv(r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\PC split recent\Andaman & Nicobar Islands.csv")
 
 # ---- PARSE FILE NAME ----
-filename = os.path.basename(r"C:\Users\Rishi\Desktop\final dashboard\ac recent\Telangana_2023_ac.csv").lower()
+filename = os.path.basename(r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\PC split recent\Andaman & Nicobar Islands.csv").lower()
 
 # state code
 state_key = filename.split("_")[0]
@@ -72,4 +73,4 @@ df["UID"] = (
 )
 
 # ---- SAVE BACK TO SAME FILE ----
-df.to_csv(r"C:\Users\Rishi\Desktop\final dashboard\ac recent\Telangana_2023_ac.csv", index=False)
+df.to_csv(r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\PC split recent\Andaman & Nicobar Islands.csv", index=False)

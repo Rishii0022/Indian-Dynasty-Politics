@@ -1,12 +1,12 @@
-PC Name,No,Type,State,Winning Candidate,Party,Electors,Votes,Turnout,Margin,Margin %,Father/Husband Name,Gender,Age
-Bastar,10,ST,Chhattisgarh,Mahesh Kashyap,Bharatiya Janta Party,1472207,1007395,68.40%,55245,5.50%,SUKRU KASHYAP,male,48
-Bilaspur,5,GEN,Chhattisgarh,Tokhan Sahu,Bharatiya Janta Party,2102687,1361350,64.70%,164558,12.10%,BALDAU PRASAD SAHU,male,54
-Durg,7,GEN,Chhattisgarh,Vijay Baghel,Bharatiya Janta Party,2090414,1542787,73.80%,438226,28.40%,LT NAMMULAL BAGHEL,male,65
-Janjgir-Champa,3,SC,Chhattisgarh,Kamlesh Jangde,Bharatiya Janta Party,2056047,1392240,67.70%,60000,4.30%,BASANT KUMAR JANGDE,female,43
-Kanker,11,ST,Chhattisgarh,Bhojraj Nag,Bharatiya Janta Party,1654440,1265429,76.50%,1884,0.10%,LAXMINATH NAG,male,49
-Korba,4,GEN,Chhattisgarh,Jyotsna Charandas Mahant,Indian National Congress,1618864,1225313,75.70%,43283,3.50%,CHARAN DAS MAHANT,female,70
-Mahasamund,9,GEN,Chhattisgarh,Roop Kumari Choudhary,Bharatiya Janta Party,1762477,1326080,75.20%,145456,11.00%,OMPRAKASH CHOUDHARY,female,47
-Raigarh,2,ST,Chhattisgarh,Radheshyam Rathiya,Bharatiya Janta Party,1838547,1452965,79.00%,240391,16.50%,LILARAM RATHIYA,male,52
-Raipur,8,GEN,Chhattisgarh,Brijmohan Agrawal,Bharatiya Janta Party,2375379,1586755,66.80%,575285,36.30%,RAMJILAL AGRAWAL,male,64
-Rajnandgaon,6,GEN,Chhattisgarh,Santosh Pandey,Bharatiya Janta Party,1868021,1445765,77.40%,44411,3.10%,Late Shri Shivprasad Pandey,male,56
-Sarguja,1,ST,Chhattisgarh,Chintamani Maharaj,Bharatiya Janta Party,1819347,1455269,80.00%,64822,4.50%,LATE RAMESHWAR SINGH,male,56
+pc name,no,type,state,winning candidate,party,electors,votes,turnout,margin,margin %,father/husband name,gender,age,UID
+Bastar,10,ST,Chhattisgarh,Mahesh Kashyap,Bharatiya Janta Party,1472207,1007395,68.40%,55245,5.50%,SUKRU KASHYAP,male,48,CG2024PC10
+Bilaspur,5,GEN,Chhattisgarh,Tokhan Sahu,Bharatiya Janta Party,2102687,1361350,64.70%,164558,12.10%,BALDAU PRASAD SAHU,male,54,CG2024PC05
+Durg,7,GEN,Chhattisgarh,Vijay Baghel,Bharatiya Janta Party,2090414,1542787,73.80%,438226,28.40%,LT NAMMULAL BAGHEL,male,65,CG2024PC07
+Janjgir-Champa,3,SC,Chhattisgarh,Kamlesh Jangde,Bharatiya Janta Party,2056047,1392240,67.70%,60000,4.30%,BASANT KUMAR JANGDE,female,43,CG2024PC03
+Kanker,11,ST,Chhattisgarh,Bhojraj Nag,Bharatiya Janta Party,1654440,1265429,76.50%,1884,0.10%,LAXMINATH NAG,male,49,CG2024PC11
+Korba,4,GEN,Chhattisgarh,Jyotsna Charandas Mahant,Indian National Congress,1618864,1225313,75.70%,43283,3.50%,CHARAN DAS MAHANT,female,70,CG2024PC04
+Mahasamund,9,GEN,Chhattisgarh,Roop Kumari Choudhary,Bharatiya Janta Party,1762477,1326080,75.20%,145456,11.00%,OMPRAKASH CHOUDHARY,female,47,CG2024PC09
+Raigarh,2,ST,Chhattisgarh,Radheshyam Rathiya,Bharatiya Janta Party,1838547,1452965,79.00%,240391,16.50%,LILARAM RATHIYA,male,52,CG2024PC02
+Raipur,8,GEN,Chhattisgarh,Brijmohan Agrawal,Bharatiya Janta Party,2375379,1586755,66.80%,575285,36.30%,RAMJILAL AGRAWAL,male,64,CG2024PC08
+Rajnandgaon,6,GEN,Chhattisgarh,Santosh Pandey,Bharatiya Janta Party,1868021,1445765,77.40%,44411,3.10%,Late Shri Shivprasad Pandey,male,56,CG2024PC06
+Sarguja,1,ST,Chhattisgarh,Chintamani Maharaj,Bharatiya Janta Party,1819347,1455269,80.00%,64822,4.50%,LATE RAMESHWAR SINGH,male,56,CG2024PC01

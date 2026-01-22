@@ -1,3 +1,3 @@
-PC Name,No,Type,State,Winning Candidate,Party,Electors,Votes,Turnout,Margin,Margin %,Father/Husband Name,Gender,Age
-Shillong,1,ST,Meghalaya,Dr. Ricky Andrew J. Syngkon,Voice Of The People Party,1400411,1037911,74.10%,371910,35.80%,LATE SAINBOR JONES SYNGKONG,male,52
-Tura,2,ST,Meghalaya,Saleng A Sangma,Indian National Congress,826156,674056,81.60%,155241,23.00%,LATE ATHELSTONE A SANGMA,male,45
+pc name,no,type,state,winning candidate,party,electors,votes,turnout,margin,margin %,father/husband name,gender,age,UID
+Shillong,1,ST,Meghalaya,Dr. Ricky Andrew J. Syngkon,Voice Of The People Party,1400411,1037911,74.10%,371910,35.80%,LATE SAINBOR JONES SYNGKONG,male,52,ML2024PC01
+Tura,2,ST,Meghalaya,Saleng A Sangma,Indian National Congress,826156,674056,81.60%,155241,23.00%,LATE ATHELSTONE A SANGMA,male,45,ML2024PC02

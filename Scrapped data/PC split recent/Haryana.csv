@@ -1,11 +1,11 @@
-PC Name,No,Type,State,Winning Candidate,Party,Electors,Votes,Turnout,Margin,Margin %,Father/Husband Name,Gender,Age
-Ambala,1,SC,Haryana,Varun Chaudhry,Indian National Congress,1996708,1346722,67.50%,49036,3.60%,PHOOL CHAND,male,44
-Bhiwani-Mahend,8,GEN,Haryana,Dharambir Singh,Bharatiya Janta Party,1793029,1183395,66.00%,41510,3.50%,BHALE RAM,male,69
-Faridabad,10,GEN,Haryana,Krishan Pal,Bharatiya Janta Party,2430212,1471322,60.50%,172914,11.80%,Hans Raj,male,67
-Gurgaon,9,GEN,Haryana,Rao Inderjit Singh,Bharatiya Janta Party,2573411,1601232,62.20%,75079,4.70%,BIRENDER SINGH,male,74
-Hisar,4,GEN,Haryana,Jai Parkash (J P) S/O HARIKESH,Indian National Congress,1790722,1174115,65.60%,63381,5.40%,HARIKESH,male,69
-Karnal,5,GEN,Haryana,Manohar Lal,Bharatiya Janta Party,2104229,1345892,64.00%,232577,17.30%,Harbans Lal,male,70
-Kurukshetra,2,GEN,Haryana,Naveen Jindal,Bharatiya Janta Party,1794300,1205872,67.20%,29021,2.40%,OM PRAKASH JINDAL,male,54
-Rohtak,7,GEN,Haryana,Deepender Singh Hooda,Indian National Congress,1889844,1248446,66.00%,345298,27.70%,BHUPENDER SINGH,male,46
-Sirsa,3,SC,Haryana,Selja,Indian National Congress,1937689,1354632,69.90%,268497,19.80%,DALBIR SINGH,female,61
-Sonipat,6,GEN,Haryana,Satpal Brahamchari,Indian National Congress,1766624,1123944,63.60%,21816,1.90%,Radha Krishan Brahamchari,male,60
+pc name,no,type,state,winning candidate,party,electors,votes,turnout,margin,margin %,father/husband name,gender,age,UID
+Ambala,1,SC,Haryana,Varun Chaudhry,Indian National Congress,1996708,1346722,67.50%,49036,3.60%,PHOOL CHAND,male,44,HR2024PC01
+Bhiwani-Mahend,8,GEN,Haryana,Dharambir Singh,Bharatiya Janta Party,1793029,1183395,66.00%,41510,3.50%,BHALE RAM,male,69,HR2024PC08
+Faridabad,10,GEN,Haryana,Krishan Pal,Bharatiya Janta Party,2430212,1471322,60.50%,172914,11.80%,Hans Raj,male,67,HR2024PC10
+Gurgaon,9,GEN,Haryana,Rao Inderjit Singh,Bharatiya Janta Party,2573411,1601232,62.20%,75079,4.70%,BIRENDER SINGH,male,74,HR2024PC09
+Hisar,4,GEN,Haryana,Jai Parkash (J P) S/O HARIKESH,Indian National Congress,1790722,1174115,65.60%,63381,5.40%,HARIKESH,male,69,HR2024PC04
+Karnal,5,GEN,Haryana,Manohar Lal,Bharatiya Janta Party,2104229,1345892,64.00%,232577,17.30%,Harbans Lal,male,70,HR2024PC05
+Kurukshetra,2,GEN,Haryana,Naveen Jindal,Bharatiya Janta Party,1794300,1205872,67.20%,29021,2.40%,OM PRAKASH JINDAL,male,54,HR2024PC02
+Rohtak,7,GEN,Haryana,Deepender Singh Hooda,Indian National Congress,1889844,1248446,66.00%,345298,27.70%,BHUPENDER SINGH,male,46,HR2024PC07
+Sirsa,3,SC,Haryana,Selja,Indian National Congress,1937689,1354632,69.90%,268497,19.80%,DALBIR SINGH,female,61,HR2024PC03
+Sonipat,6,GEN,Haryana,Satpal Brahamchari,Indian National Congress,1766624,1123944,63.60%,21816,1.90%,Radha Krishan Brahamchari,male,60,HR2024PC06
