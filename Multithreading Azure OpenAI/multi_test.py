@@ -13,14 +13,17 @@ from StructuredOutputNano import RelativesnSource
 # MANUAL CONSTANT VALUES
 # ======================
 
+#MISSING FIELDS
+Missing = "unknown"
+
 #change STATE NAME
-STATE_NAME = "Himachal Pradesh"
+STATE_NAME = "Odisha"
 
 #Change YEAR AND STATE NAME
-ELECTION_NAME = "Himachal Pradesh Assembly Elections 2022"
+ELECTION_NAME = "Odisha Assembly Elections 2024"
 
-CSV_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\ac recent\HimachalPradesh_2022_ac.csv"
-OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\output_jsonl_batch\sync_output_Himachal Pradesh.jsonl"
+CSV_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\ac recent\orissa_2024_ac.csv"
+OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputAC_jsonl_batch\sync_output_orissa.jsonl"
 
 # ======================
 
@@ -42,22 +45,6 @@ clients = [
             api_version="2025-03-01-preview"
         ),
         "deployment": "gpt-4.1-2"
-    },
-    {
-        "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY3"),
-            azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-            api_version="2025-03-01-preview"
-        ),
-        "deployment": "gpt-4.1"
-    },
-    {
-        "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY4"),
-            azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-            api_version="2025-03-01-preview"
-        ),
-        "deployment": "gpt-4.1-2"
     }
 ]
 
@@ -76,6 +63,7 @@ def build_prompt(row):
         district=row["district"].strip(),
         father_name=row["father/husband name"].strip()
     )
+    # constituency = Missing,
 
     return prompt
 
@@ -141,3 +129,19 @@ with open(CSV_FILE, newline="", encoding="utf-8") as csvfile, \
         time.sleep(2.2)  # prevents 429
 
 
+    # {
+    #     "client": AzureOpenAI(
+    #         api_key=os.getenv("AZURE_OPENAI_API_KEY3"),
+    #         azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
+    #         api_version="2025-03-01-preview"
+    #     ),
+    #     "deployment": "gpt-4.1"
+    # },
+    # {
+    #     "client": AzureOpenAI(
+    #         api_key=os.getenv("AZURE_OPENAI_API_KEY4"),
+    #         azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
+    #         api_version="2025-03-01-preview"
+    #     ),
+    #     "deployment": "gpt-4.1-2"
+    # }

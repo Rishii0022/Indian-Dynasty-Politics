@@ -17,7 +17,7 @@ print(file_response.text)
 
 # with open("your_jsonl_file_location", "w", encoding="utf-8") as f:
 
-with open(r"C:\Users\Rishi\Desktop\final dashboard\output_jsonl_batch\batch_output_telangana.jsonl", "w", encoding="utf-8") as f:
+with open(r"/outputAC_jsonl_batch\batch_output_telangana.jsonl", "w", encoding="utf-8") as f:
     f.write(file_response.text)
 
 
