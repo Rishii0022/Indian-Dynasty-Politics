@@ -1,0 +1,15 @@
+{"UID": "UP1952PC208", "error": "KeyError('pc name')"}
+{"UID": "TG1952PC317", "error": "KeyError('pc name')"}
+{"UID": "UP1952PC227", "error": "KeyError('pc name')"}
+{"UID": "UP1952PC208", "error": "KeyError('pc name')"}
+{"UID": "TG1952PC317", "error": "KeyError('pc name')"}
+{"UID": "UP1952PC208", "error": "KeyError('pc name')"}
+{"UID": "TG1952PC317", "error": "KeyError('pc name')"}
+{"UID": "UP1952PC227", "error": "KeyError('pc name')"}
+{"UID": "UP1952PC208", "error": "KeyError('pc name')"}
+{"UID": "TG1952PC317", "error": "KeyError('pc name')"}
+{"UID": "UP1952PC227", "error": "KeyError('pc name')"}
+{"UID": "UP1952PC226", "error": "KeyError('pc name')"}
+{"UID": "UP1952PC208", "error": "KeyError('pc name')"}
+{"UID": "UP1952PC208", "error": "AuthenticationError(\"Error code: 401 - {'error': {'code': '401', 'message': 'Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.'}}\")"}
+{"UID": "TG1952PC317", "error": "AuthenticationError(\"Error code: 401 - {'error': {'code': '401', 'message': 'Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.'}}\")"}

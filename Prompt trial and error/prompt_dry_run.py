@@ -9,6 +9,10 @@ from openai import AzureOpenAI
 from dotenv import load_dotenv
 from itertools import cycle
 
+# =====================================================
+# PATH SETUP
+# =====================================================
+
 sys.path.append(
     r"C:\Users\Rishi\Desktop\final dashboard\Multithreading Azure OpenAI"
 )
@@ -16,49 +20,59 @@ sys.path.append(
 from batch_promptsPC_template import input1, tools1
 from StructuredOutputSyncPC import RelativesnSource
 
+# =====================================================
+# CONSTANTS
+# =====================================================
+
 INPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\all PC elections\states_1952_pc.csv"
-OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputPC_jsonl_batch\sync_output_LokSabha1952.jsonl"
+OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputPC_jsonl_batch\prompt_test001.jsonl"
+
+# =====================================================
+# ENV
+# =====================================================
 
 load_dotenv()
 
 clients = [
     {
         "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY5"),
-            azure_endpoint="https://cbiti-mkq62dbs-swedencentral.services.ai.azure.com/",
+            api_key=os.getenv("AZURE_OPENAI_API_KEY1"),
+            azure_endpoint="https://apitest-resource.openai.azure.com/",
             api_version="2025-03-01-preview"
         ),
         "deployment": "gpt-4.1"
     },
     {
         "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY6"),
-            azure_endpoint="https://cbiti-mkq62dbs-swedencentral.services.ai.azure.com/",
+            api_key=os.getenv("AZURE_OPENAI_API_KEY2"),
+            azure_endpoint="https://apitest-resource.openai.azure.com/",
+            api_version="2025-03-01-preview"
+        ),
+        "deployment": "gpt-4.1-2"
+    },
+    {
+        "client": AzureOpenAI(
+            api_key=os.getenv("AZURE_OPENAI_API_KEY3"),
+            azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
+            api_version="2025-03-01-preview"
+        ),
+        "deployment": "gpt-4.1"
+    },
+    {
+        "client": AzureOpenAI(
+            api_key=os.getenv("AZURE_OPENAI_API_KEY4"),
+            azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
             api_version="2025-03-01-preview"
         ),
         "deployment": "gpt-4.1-2"
     }
-    # {
-    #     "client": AzureOpenAI(
-    #         api_key=os.getenv("AZURE_OPENAI_API_KEY3"),
-    #         azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-    #         api_version="2025-03-01-preview"
-    #     ),
-    #     "deployment": "gpt-4.1"
-    # },
-    # {
-    #     "client": AzureOpenAI(
-    #         api_key=os.getenv("AZURE_OPENAI_API_KEY4"),
-    #         azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-    #         api_version="2025-03-01-preview"
-    #     ),
-    #     "deployment": "gpt-4.1-2"
-    # }
 ]
 
 client_cycle = cycle(clients)
 
-# Getting data from column names and adding it to the prompt
+# =====================================================
+# HELPERS
+# =====================================================
 
 def extract_year_from_filename(filename: str) -> str:
     match = re.search(r"(18|19|20)\d{2}", filename)
@@ -72,7 +86,13 @@ def clean_state_name(filename: str) -> str:
 
 
 def normalize_row(row: dict) -> dict:
-
+    """
+    Handles:
+    - UTF-8 BOM
+    - leading/trailing spaces
+    - uppercase/lowercase mismatch
+    - Excel CSV corruption
+    """
     clean = {}
     for key, value in row.items():
         key = (
@@ -102,6 +122,11 @@ def build_prompt(row, STATE_NAME, YEAR):
 
     return prompt
 
+
+# =====================================================
+# MAIN LOOP
+# =====================================================
+
 file = os.path.basename(INPUT_FILE)
 
 STATE_NAME = clean_state_name(file)
@@ -114,9 +139,7 @@ with open(OUTPUT_FILE, "a", encoding="utf-8") as outfile:
     with open(INPUT_FILE, newline="", encoding="utf-8-sig") as csvfile:
 
         reader = csv.DictReader(csvfile)
-
-        # For the input files headers
-        # print("CSV HEADERS:", reader.fieldnames)
+        print("CSV HEADERS:", reader.fieldnames)
 
         for index, raw_row in enumerate(reader, start=1):
 

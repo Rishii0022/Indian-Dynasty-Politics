@@ -22,9 +22,8 @@ Return only a list of direct and extended family members of elected political ca
 Context:
 UID:{uid}
 State Name: {state} 
-Election Name: {election} 
-District Name: {district}
-Father/husband name: {father_name}
+Election Name: Lok sabha elections {year} 
+Parliamentary Constituency Name: {pc_name}
 """
         }
     ]

@@ -7,7 +7,7 @@ from openai import AzureOpenAI
 from dotenv import load_dotenv
 from itertools import cycle
 from batch_promptsPC_template import input1, tools1
-from StructuredOutputNano import RelativesnSource
+from StructuredOutputSyncAC import RelativesnSource
 
 # ======================
 # CONSTANTS

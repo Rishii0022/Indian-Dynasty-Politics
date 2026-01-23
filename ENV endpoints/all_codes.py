@@ -1,4 +1,5 @@
 # Rishi's account
+# Expired
 
 # Microsoft AI foundry
 # Topmost Subscription: Azure subscription 1
@@ -31,3 +32,8 @@ key2 = "DSiJIvDbMJnp8E4iUzUFdpdwMKHtjPkJbiDDcRDH841MtHKHL1GPJQQJ99BLACHYHv6XJ3w3
 # LLM model = gpt 4.1
 endpoint3 = "https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview"
 key3 = "2UnpiRir5ratcXwuCLG0TAeS8G1G7k1A80gZTDaMNX0cYIElaF6cJQQJ99CAACfhMk5XJ3w3AAAAACOG8rTf"
+
+
+# Khanish's account
+
+
