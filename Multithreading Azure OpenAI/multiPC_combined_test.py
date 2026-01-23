@@ -16,8 +16,8 @@ sys.path.append(
 from batch_promptsPC_template import input1, tools1
 from StructuredOutputSyncPC import RelativesnSource
 
-INPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\all PC elections\states_1952_pc.csv"
-OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputPC_jsonl_batch\sync_output_LokSabha1952.jsonl"
+INPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\all PC elections\states_1980_pc.csv"
+OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputPC_jsonl_batch\sync_output_LokSabha1980.jsonl"
 
 load_dotenv()
 
