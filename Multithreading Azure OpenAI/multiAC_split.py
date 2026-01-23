@@ -9,9 +9,6 @@ from itertools import cycle
 from batch_promptsAC_template import input1, tools1
 from StructuredOutputSyncAC import RelativesnSource
 
-# ======================
-# MANUAL CONSTANT VALUES
-# ======================
 
 #MISSING FIELDS
 Missing = "unknown"

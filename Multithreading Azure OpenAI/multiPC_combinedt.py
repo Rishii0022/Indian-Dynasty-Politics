@@ -16,8 +16,8 @@ sys.path.append(
 from batch_promptsPC_template import input1, tools1
 from StructuredOutputSyncPC import RelativesnSource
 
-INPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\all PC elections\states_1980_pc.csv"
-OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputPC_jsonl_batch\sync_output_LokSabha1980.jsonl"
+INPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\all PC elections\states_2009_pc.csv"
+OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputPC_jsonl_batch\sync_output_LokSabha2009.jsonl"
 
 load_dotenv()
 
@@ -102,6 +102,11 @@ def build_prompt(row, STATE_NAME, YEAR):
 
     return prompt
 
+
+#Choose particular row to start from
+# START_FROM_ROW = 498
+
+
 file = os.path.basename(INPUT_FILE)
 
 STATE_NAME = clean_state_name(file)
@@ -119,6 +124,10 @@ with open(OUTPUT_FILE, "a", encoding="utf-8") as outfile:
         # print("CSV HEADERS:", reader.fieldnames)
 
         for index, raw_row in enumerate(reader, start=1):
+
+            # Loop for starting from particular row
+            # if index < START_FROM_ROW:
+            #     continue
 
             row = normalize_row(raw_row)
 
