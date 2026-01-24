@@ -1,6 +1,6 @@
 import os
 
-file_path = r"C:\Users\Rishi\Desktop\final dashboard\log data tables\PC recent logs\LokSabha2024_logs.txt"
+file_path = r"C:\Users\Rishi\Desktop\final dashboard\log data tables\AC recent logs\GoaAC_logs_recent.txt"
 
 os.makedirs(os.path.dirname(file_path), exist_ok=True)
 

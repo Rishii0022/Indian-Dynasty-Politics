@@ -7,13 +7,13 @@ import re
 # ====== FOLDERS ======
 
 # input files from folder
-input_folder = r"C:\Users\Rishi\Desktop\final dashboard\outputPC_jsonl_batch"
+input_folder = r"C:\Users\Rishi\Desktop\final dashboard\outputAC_jsonl_batch"
 
 # output files from folder
-family_folder = r"C:\Users\Rishi\Desktop\final dashboard\Final parsed tables\Family tables(PC ALL)"
-sources_folder = r"C:\Users\Rishi\Desktop\final dashboard\Final parsed tables\Sources tables(PC ALL)"
-error_folder = r"C:\Users\Rishi\Desktop\final dashboard\prompt errors\PC all errors"
-log_folder = r"C:\Users\Rishi\Desktop\final dashboard\log data tables\PC recent logs"
+family_folder = r"C:\Users\Rishi\Desktop\final dashboard\Final parsed tables\family tables(AC recent)"
+sources_folder = r"C:\Users\Rishi\Desktop\final dashboard\Final parsed tables\Sources tables(AC recent)"
+error_folder = r"C:\Users\Rishi\Desktop\final dashboard\prompt errors\AC recent errors"
+log_folder = r"C:\Users\Rishi\Desktop\final dashboard\log data tables\AC recent logs"
 
 # ====== HEADERS ======
 family_fields = [
@@ -37,12 +37,10 @@ for input_path in input_files:
     state_raw = filename.replace("sync_output_", "").replace(".jsonl", "")
 
     # ---------- OUTPUT FILES ----------
-
-    # Change names according to OUTPUT FILES
     family_csv  = os.path.join(family_folder,  f"{state_raw}AC_family_recent.csv")
     sources_csv = os.path.join(sources_folder, f"{state_raw}AC_sources_recent.csv")
     error_jsonl = os.path.join(error_folder,   f"{state_raw}AC_errors_recent.jsonl")
-    log_file    = os.path.join(log_folder,     f"{state_raw}AC_logs.txt")
+    log_file    = os.path.join(log_folder,     f"{state_raw}AC_logs_recent.txt")
 
     family_id = 1
     sources_id = 1
