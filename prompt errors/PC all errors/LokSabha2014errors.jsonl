@@ -1,0 +1,13 @@
+{"UID": "UP2014PC61", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "MP2014PC02", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "GJ2014PC21", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "KA2014PC27", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "KA2014PC18", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "UP2014PC13", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "WB2014PC32", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "UP2014PC75", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "BR2014PC10", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "AS2014PC05", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "CG2014PC04", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "KL2014PC14", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "GJ2014PC11", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}

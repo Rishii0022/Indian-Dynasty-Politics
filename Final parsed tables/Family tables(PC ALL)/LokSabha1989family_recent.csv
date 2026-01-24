@@ -1,0 +1,707 @@
+FamilyID,UID,Relation,Name,PoliticalRole,YearsHeld,ConstituencyName,DistrictName,StateName
+1,AP1989PC35,,,,,,,
+2,KL1989PC17,,,,,,,
+3,UP1989PC73,Father,Captain Bhagwan Singh,"High Commissioner of India to Fiji, Tonga, Nauru and other South Pacific countries",1971-1976,N/A,N/A,N/A
+4,GJ1989PC10,,,,,,,
+5,MH1989PC39,Son,Shankarrao Yashwantrao Gadakh,"Member of the Maharashtra Legislative Assembly (MLA), Minister of Soil and Water Conservation, Founder of Krantikari Shetkari Party",1995–present (various terms); Minister (2019–2022),Nevasa,Ahmednagar,Maharashtra
+6,MH1989PC39,Nephew,Udayan Shankarrao Gadakh,"Active in regional politics, office bearer in educational and cooperative bodies (No known record of contesting or holding statutory electoral office as of latest sources, but prominent in family’s ongoing public political activities)",Unknown,Nevasa area/local cooperative,Ahmednagar,Maharashtra
+7,RJ1989PC12,,,,,,,
+8,UP1989PC27,,,,,,,
+9,MH1989PC19,Son,Akash Pandurang Fundkar,"Member, Maharashtra Legislative Assembly",2019–present,Khamgaon,Buldhana,Maharashtra
+10,UP1989PC76,,,,,,,
+11,WB1989PC02,,,,,,,
+12,UP1989PC56,,,,,,,
+13,KL1989PC15,,,,,,,
+14,UP1989PC03,Spouse,Renuka Rawat,Contested Lok Sabha elections (Almora and Haridwar),"2014 (Almora), 2019 (Haridwar)","Almora, Haridwar","Almora, Haridwar",Uttarakhand
+15,UP1989PC03,Daughter,Anupama Rawat,"MLA, Uttarakhand Legislative Assembly",2022–present,Haridwar Rural,Haridwar,Uttarakhand
+16,UP1989PC03,Son,Virender Rawat,Contested Lok Sabha election (Haridwar),2024 (contesting),Haridwar,Haridwar,Uttarakhand
+17,RJ1989PC08,,,,,,,
+18,AP1989PC09,,,,,,,
+19,HR1989PC01,,,,,,,
+20,UP1989PC25,Mother,Indira Gandhi,Prime Minister of India,"1966-1977, 1980-1984",Rae Bareli (Lok Sabha),Rae Bareli,Uttar Pradesh
+21,UP1989PC25,Grandfather,Jawaharlal Nehru,Prime Minister of India,1947-1964,Phulpur (Lok Sabha),Allahabad,Uttar Pradesh
+22,UP1989PC25,Brother,Sanjay Gandhi,"Member of Parliament; Secretary General, Indian National Congress",1977-1980,Amethi (Lok Sabha),Amethi,Uttar Pradesh
+23,UP1989PC25,Spouse,Sonia Gandhi,"President, Indian National Congress; Member of Parliament",1998-present,Rae Bareli (Lok Sabha),Rae Bareli,Uttar Pradesh
+24,UP1989PC25,Son,Rahul Gandhi,"Member of Parliament; President, Indian National Congress; Leader of Opposition (Lok Sabha)",2004-present,Amethi & Wayanad (Lok Sabha),Amethi & Wayanad,Uttar Pradesh & Kerala
+25,UP1989PC25,Daughter,Priyanka Gandhi Vadra,"General Secretary, Indian National Congress; Member of Parliament (2024-present)",2019-present,Unknown,Unknown,Unknown
+26,UP1989PC25,Sister-in-law,Maneka Gandhi,Union Minister; Member of Parliament,1982-present,Sultanpur & Pilibhit (Lok Sabha),Sultanpur & Pilibhit,Uttar Pradesh
+27,UP1989PC25,Nephew,Varun Gandhi,"Member of Parliament, BJP",2009-present,Pilibhit & Sultanpur (Lok Sabha),Pilibhit & Sultanpur,Uttar Pradesh
+28,MH1989PC21,,,,,,,
+29,GJ1989PC07,Son,Suresh Manubhai Kotadiya,"Contested as an Indian National Congress candidate, served as APMC chairman",Unknown,Dhari,Amreli,Gujarat
+30,PB1989PC02,,,,,,,
+31,UP1989PC06,,,,,,,
+32,AP1989PC06,Younger Brother,Konathala Raghunath,Contested as MLA (Member of Legislative Assembly) from Anakapalli,"Contested, but not elected, year not clearly specified in sources (campaigned around 2014)",Anakapalli,Anakapalli/Visakhapatnam,Andhra Pradesh
+33,GJ1989PC20,Son,Dilipbhai Manibhai Patel,Member of Parliament (Lok Sabha),2014-2019,Anand,Anand,Gujarat
+34,AP1989PC25,Father,Anantha Venkata Reddy,"Member of Parliament, Lok Sabha",Prior to 1996,Anantapur,Anantapur,Andhra Pradesh
+35,JK1989PC03,Granddaughter,Shriya Handoo,"Contested as leader/officeholder in Jammu & Kashmir National Conference (NC), appointed as additional Spokesperson for Kashmir",2024-present,Unknown,Unknown,Jammu & Kashmir
+36,AN1989PC01,Daughter,Anita Mondal,"Trinamool Congress candidate for Lok Sabha, Councillor, Bidhannagar Municipality","2014 (contested MP), Councillor (year not specified, active as of 2014)","Andaman and Nicobar Islands (Lok Sabha candidate), Bidhannagar Municipality (Councillor)",North 24 Parganas (Bidhannagar Municipality) / Andaman and Nicobar Islands,West Bengal (Bidhannagar Municipality) / Andaman and Nicobar Islands
+37,UP1989PC11,,,,,,,
+38,TN1989PC06,,,,,,,
+39,WB1989PC28,,,,,,,
+40,BR1989PC22,,,,,,,
+41,BR1989PC36,,,,,,,
+42,AR1989PC02,,,,,,,
+43,AR1989PC01,,,,,,,
+44,WB1989PC38,,,,,,,
+45,OR1989PC10,Spouse,Shanti Devi,"Member of Odisha Legislative Assembly, Deputy Chairperson of Ganjam Zilla Parishad","1990–1995 (MLA), Date Unspecified (Zilla Parishad)",Surada,Ganjam,Odisha
+46,OR1989PC10,Son,Kishore Chandra Singh Deo,Member of Odisha Legislative Assembly,2004–2009,Surada,Ganjam,Odisha
+47,OR1989PC10,Daughter-in-law,Nandini Devi,Member of Odisha Legislative Assembly,Year Unspecified,Surada,Ganjam,Odisha
+48,BR1989PC40,Son,Sushil Kumar Singh,Member of Parliament (Lok Sabha); contested and held Aurangabad parliamentary seat multiple times,"1998-1999, 2009-2014, 2014-2019, 2019-2024",Aurangabad,Aurangabad,Bihar
+49,MH1989PC33,Son,Atul Moreshwar Save,"Member of Maharashtra Legislative Assembly, Minister (Multiple Portfolios including Housing, Dairy Development, and OBC Welfare)","2014-Present (MLA), various ministerial roles from 2019-Present",Aurangabad East (now Chhatrapati Sambhajinagar East),Aurangabad (Chhatrapati Sambhajinagar),Maharashtra
+50,AS1989PC03,,,,,,,
+51,UP1989PC45,,,,,,,
+52,KL1989PC03,,,,,,,
+53,BR1989PC01,,,,,,,
+54,KA1989PC27,,,,,,,
+55,UP1989PC81,Father,Charan Singh,"Prime Minister of India, Lok Sabha MP (Baghpat), Chief Minister of Uttar Pradesh","1979-1980 (PM), Multiple terms 1977-1984 (Baghpat MP), Multiple terms as CM (1967, 1970)",Baghpat,Meerut (now Baghpat),Uttar Pradesh
+56,UP1989PC81,Son,Jayant Chaudhary,"Member of Parliament (Lok Sabha) from Mathura, President of Rashtriya Lok Dal, Rajya Sabha MP (Uttar Pradesh)","2009-2014 (Lok Sabha), 2022–present (Rajya Sabha)","Mathura (Lok Sabha), Uttar Pradesh (Rajya Sabha)","Mathura (LS), State-wide (RS)",Uttar Pradesh
+57,UP1989PC31,Spouse,Reshma Arif,"Member of Legislative Assembly (MLA), Uttar Pradesh",1989–1991,Arya Nagar,Kanpur,Uttar Pradesh
+58,UP1989PC31,Brother,Asif Muhammad Khan,"Member of Legislative Assembly (MLA), Delhi",2013–2015,Okhla,South East Delhi,Delhi
+59,UP1989PC31,Niece,Ariba Khan,"Councillor, Municipal Corporation of Delhi",2022–present,Abul Fazal Enclave (Ward 102-S),South East Delhi,Delhi
+60,MP1989PC23,Spouse,Anubha Munjare,"MLA (Member of Legislative Assembly), Congress",2023-present,Balaghat,Balaghat,Madhya Pradesh
+61,OR1989PC02,,,,,,,
+62,BR1989PC19,,,,,,,
+63,UP1989PC43,Son,Neeraj Shekhar,"Member of Parliament (Lok Sabha, Rajya Sabha)","2007–2014 (Lok Sabha), 2014–2019 (Lok Sabha), 2019–present (Rajya Sabha)","Ballia (Lok Sabha), Uttar Pradesh (Rajya Sabha)",Ballia,Uttar Pradesh
+64,UP1989PC43,Son,Pankaj Shekhar,BJP functionary; No record found of contesting or holding elected office,Unknown,Unknown,Unknown,Uttar Pradesh
+65,UP1989PC43,Grandson,Ravi Shankar Singh Pappu,"Member, Uttar Pradesh Legislative Council (MLC), BJP",2022–present,Unknown,Ballia,Uttar Pradesh
+66,WB1989PC06,Successor/Cousin (as consistently described in multiple sources),Ranen Barman,"Member of Parliament, Lok Sabha (Balurghat)",1998–2009,Balurghat,Dakshin Dinajpur,West Bengal
+67,GJ1989PC14,,,,,,,
+68,UP1989PC59,,,,,,,
+69,KA1989PC12,,,,,,,
+70,KA1989PC13,Son,Dinesh Gundu Rao,"Minister for Health & Family Welfare, MLA (Gandhi Nagar), President KPCC, AICC Incharge","1999–present (MLA), 2015–2016 (Minister for Food, Civil Supplies & Consumer Affairs), 2018–2020 (KPCC President), 2023–present (Minister for Health)",Gandhi Nagar,Bangalore Urban,Karnataka
+71,KA1989PC13,Spouse,Varalakshmi Gundu Rao,"Contested Lok Sabha elections, Bengaluru South (unsuccessful)",1996 (contested),Bangalore South,Bangalore Urban,Karnataka
+72,KA1989PC13,Son,Mahesh Gundu Rao,"Member, Bharatiya Janata Party (BJP), Politically active",2003–present,Unknown,Unknown,Karnataka
+73,KA1989PC13,Son,Rajesh Gundu Rao,"Member, Janata Dal (Secular), Politically active, was associated and attempted Youth Wing role",1990s–2012 (deceased 2012),Unknown,Unknown,Karnataka
+74,BR1989PC29,Son-in-law,Vishwanath Pratap Singh,"Prime Minister of India, Chief Minister of Uttar Pradesh, Union Minister (Finance, Defence, External Affairs), MP (Lok Sabha, Rajya Sabha)",1980-1996 (various roles; PM: 1989-1990),"Various (including Fatehpur, Allahabad, Phulpur)","Allahabad, Fatehpur (roles varied with offices/constituencies)",Uttar Pradesh
+75,WB1989PC35,,,,,,,
+76,UP1989PC37,,,,,,,
+77,RJ1989PC16,,,,,,,
+78,AP1989PC16,,,,,,,
+79,UP1989PC29,,,,,,,
+80,MH1989PC43,Nephew,Harshavardhan Patil,"Cabinet Minister for Co-operation, Marketing and Textiles, Maharashtra; Member of Maharashtra Legislative Assembly",1995–2019 (various terms),Indapur,Pune,Maharashtra
+81,JK1989PC01,,,,,,,
+82,WB1989PC13,,,,,,,
+83,UP1989PC12,,,,,,,
+84,BR1989PC18,,,,,,,
+85,RJ1989PC23,Son,Lokendra Singh Kalvi,"Contested Lok Sabha Elections (Nagaur, 1996 - Samata Party; Barmer, 1998 - BJP); Founder and leader of Shri Rajput Karni Sena; Associated with Indian National Congress and Bahujan Samaj Party","Contested: 1996, 1998; Party roles: 2003–2023","Nagaur, Barmer","Nagaur, Barmer",Rajasthan
+86,GJ1989PC22,,,,,,,
+87,AS1989PC06,,,,,,,
+88,WB1989PC19,,,,,,,
+89,WB1989PC14,,,,,,,
+90,MP1989PC20,,,,,,,
+91,UP1989PC34,Son,Ravi Kumar Sonkar,Member of the Legislative Assembly (MLA),2017-present,Mahadeva,Basti,Uttar Pradesh
+92,RJ1989PC10,,,,,,,
+93,BR1989PC33,Daughter-in-law,Vinita Vijay,Contested state election (2020); Joined Jan Suraj Party (2024),"2020 (contested), 2024–present (joined Jan Suraj)",Muzaffarpur Assembly (contested),Muzaffarpur,Bihar
+94,KA1989PC25,Father,Basappa Sidnal,Indian freedom fighter; Political leader,Pre-independence era,Unknown,Belgaum,Karnataka
+95,KA1989PC05,,,,,,,
+96,WB1989PC10,,,,,,,
+97,OR1989PC11,Daughter,Kalyani Gajapati,Contested 2019 Odisha Legislative Assembly Election (Biju Janata Dal),Contested 2019,Paralakhemundi,Gajapati,Odisha
+98,BR1989PC02,Brother,Dilip Verma,"Member, Bihar Legislative Assembly (MLA); Contested Lok Sabha elections",Multiple terms since 1990s (exact years vary); contested 2014 Lok Sabha election,"Sikta (MLA), Valmiki Nagar (Lok Sabha contestant)",West Champaran,Bihar
+99,MP1989PC28,,,,,,,
+100,AP1989PC05,Son,Kiran,"Active supporter of Indian Overseas Congress, USA (not an elected office but engaged in sustained overseas party activity, cited as serving the Congress party for 10+ years)",Approximately 2004–present,Unknown,Unknown,Unknown
+101,OR1989PC03,,,,,,,
+102,BR1989PC30,,,,,,,
+103,MH1989PC24,,,,,,,
+104,RJ1989PC09,Spouse,Divya Singh,Member of Parliament (Lok Sabha),1996–1998,Bharatpur,Bharatpur,Rajasthan
+105,RJ1989PC09,Father,Brijendra Singh,Member of Parliament (Lok Sabha),"1971–1977, 1980–1989",Bharatpur,Bharatpur,Rajasthan
+106,PB1989PC11,Daughter-in-law,Bimal Kaur Khalsa,"Member of Parliament, Lok Sabha",1989-1991,Ropar,Ropar,Punjab
+107,GJ1989PC08,,,,,,,
+108,RJ1989PC20,,,,,,,
+109,MP1989PC02,,,,,,,
+110,HR1989PC08,Son,Surender Singh,"Minister, Haryana Government; Member of Parliament (Lok Sabha)","1984-1989 (MP, Lok Sabha); Until 2005 (Minister, Haryana Government)",Bhiwani (Lok Sabha seat for MP); Narnaul and Tosham (Assembly seats for MLA),"Bhiwani/Mahendragarh (MP, MLA)",Haryana
+111,HR1989PC08,Daughter-in-law,Kiran Choudhry,"Cabinet Minister, Haryana Government; MLA (Tosham)","2005-2024 (MLA, Cabinet Minister in various tenures)",Tosham,Bhiwani,Haryana
+112,HR1989PC08,Granddaughter,Shruti Choudhry,"MP, Lok Sabha; MLA, Haryana","2009-2014 (MP, Bhiwani-Mahendragarh); 2024 (MLA, Tosham)",Bhiwani-Mahendragarh (MP); Tosham (MLA),Bhiwani,Haryana
+113,HR1989PC08,Grandson,Anirudh Choudhary,"Political Candidate, contested for MLA seat",2024 (contested Tosham Assembly seat),Tosham,Bhiwani,Haryana
+114,MP1989PC30,,,,,,,
+115,OR1989PC09,,,,,,,
+116,KA1989PC01,,,,,,,
+117,KA1989PC28,,,,,,,
+118,UP1989PC05,Brother,Anand Kumar,"Vice President, Bahujan Samaj Party (BSP)",2019-Present,Unknown,Unknown,Uttar Pradesh
+119,UP1989PC05,Nephew,Akash Anand,"National Convenor, Bahujan Samaj Party (BSP); Named Mayawati's Political Successor in 2019 (removed/expelled in 2024)",2019-2024,Unknown,Unknown,Uttar Pradesh
+120,UP1989PC05,Nephew,Ishan Anand,Potential Party Organiser; Introduced in Party Meetings; Law Graduate; Expected to take formal role in BSP (2025),2025-Present,Unknown,Unknown,Uttar Pradesh
+121,RJ1989PC02,,,,,,,
+122,BR1989PC39,,,,,,,
+123,MP1989PC15,,,,,,,
+124,UP1989PC64,Cousin,Rajiv Gandhi,Prime Minister of India,1984–1989,Amethi,Amethi,Uttar Pradesh
+125,UP1989PC64,Aunt (by cousin marriage),Indira Gandhi,Prime Minister of India,"1966–1977, 1980–1984",Rae Bareli / Medak,Rae Bareli / Medak,Uttar Pradesh / Andhra Pradesh
+126,UP1989PC64,Great Aunt,Vijaya Lakshmi Pandit,"Member, Lok Sabha; Ambassador; Governor (Maharashtra)",1952–1964; 1962–1964 (Governor),Phulpur,Allahabad,Uttar Pradesh
+127,UP1989PC64,Great Uncle,Jawaharlal Nehru,Prime Minister of India,1947–1964,Phulpur,Allahabad,Uttar Pradesh
+128,UP1989PC64,Great Aunt,Sheila Kaul,"Member of Parliament, Lok Sabha; Minister for Urban Affairs",1980–1996,Rae Bareli,Rae Bareli,Uttar Pradesh
+129,UP1989PC64,Grandmother,Uma Nehru,"Member of Parliament, Lok Sabha",1962–1967,Sitapur,Sitapur,Uttar Pradesh
+130,UP1989PC64,Aunt,Shyam Kumari Khan,"Member, Allahabad University Union; Social Activist; Not MP/MLA",1924–1928 (University Union),N/A,Allahabad,Uttar Pradesh
+131,WB1989PC42,,,,,,,
+132,AP1989PC03,,,,,,,
+133,OR1989PC16,,,,,,,
+134,WB1989PC41,Father,Nirmal Chandra Chatterjee,"President of Akhil Bharatiya Hindu Mahasabha, Member of Lok Sabha",1952-1964 (multiple terms in Lok Sabha; President of Hindu Mahasabha at various times),"Burdwan (Lok Sabha), later Asansol","Burdwan, Asansol",West Bengal
+135,MH1989PC09,,,,,,,
+136,MH1989PC06,Father,Sambhajirao Gokhale,"Leader of the Indian National Congress and Minister, Central Provinces Government",Unknown,Unknown,Central Provinces,Central Provinces (present-day Madhya Pradesh/Maharashtra)
+137,MH1989PC07,,,,,,,
+138,MH1989PC08,Daughter,Priya Dutt,"Member of Parliament, Lok Sabha",2005–2014,"Mumbai North West, Mumbai North Central",Mumbai,Maharashtra
+139,MH1989PC04,Son,Milind Murli Deora,"Member of Parliament (Lok Sabha), Minister of State (Communications & IT, Shipping)","2004-2014 (MP), 2011-2014 (Minister of State)",Mumbai South,Mumbai,Maharashtra
+140,MH1989PC05,Daughter,Hemangi Mahadik,"Contested internal party election, Joined Eknath Shinde-led Shiv Sena (Shinde group)",2022,Unknown,Mumbai,Maharashtra
+141,GJ1989PC23,Daughter,Dr. Darshna Chandubhai Deshmukh (Vasava),Member of Gujarat Legislative Assembly (MLA),2022–Present,Nandod,Narmada,Gujarat
+142,UP1989PC10,Daughter,Subhashini Sharad Yadav,Contested 2020 Bihar Legislative Assembly election from Bihariganj constituency as an RJD candidate,2020,Bihariganj,Madhepura,Bihar
+143,UP1989PC78,,,,,,,
+144,MH1989PC18,,,,,,,
+145,GJ1989PC26,,,,,,,
+146,WB1989PC39,,,,,,,
+147,BR1989PC37,,,,,,,
+148,WB1989PC22,Brother,Ranjit Kumar Panja,"Member of Parliament, Lok Sabha",1998-2004,Barasat,North 24 Parganas,West Bengal
+149,WB1989PC22,Daughter-in-law,Shashi Panja,"Cabinet Minister for Industries, Commerce & Enterprises and Department of Women and Child Development and Social Welfare, Government of West Bengal; Former KMC Councillor (Ward 26)","2013-present (MLA, minister); 2010-present (KMC councillor, Mayor-in-council)","Shyampukur (Assembly, MLA); Ward 26 (Kolkata Municipal Corporation)",Kolkata,West Bengal
+150,WB1989PC21,,,,,,,
+151,WB1989PC23,Spouse,Arati Dasgupta,"State Committee Member, Communist Party of India (Marxist)",Unknown,Unknown,Unknown,West Bengal
+152,KL1989PC04,Father,K. Karunakaran,"Chief Minister of Kerala, Union Minister of Industry, Multiple other ministerial portfolios","Chief Minister (1977, 1981-1982, 1982-1987, 1991-1995); Union Cabinet (various terms 1984–1998)",Trissur (assembly); various Lok Sabha constituencies,Thrissur,Kerala
+153,KL1989PC04,Sister,Padmaja Venugopal,"Member, Secretary and National General Secretary, Indian National Congress, Lok Sabha candidate","Active from 2000s–present, Lok Sabha candidate 2004, 2019",Thrissur (Lok Sabha candidate),Thrissur,Kerala
+154,KL1989PC02,Father,Mullappally Gopalan,"Indian National Congress leader, Freedom Fighter, Former Member of Kerala Legislative Assembly (MLA)","1957-1960 (MLA from Vadakara constituency, Kerala Legislative Assembly); Active in Congress politics especially in the 1940s-1960s",Vadakara,Kozhikode,Kerala
+155,UP1989PC57,,,,,,,
+156,KA1989PC15,Son-in-law,Harsh Vardhan,Former MLA,Unknown,Unknown,Unknown,Karnataka
+157,KA1989PC15,Son-in-law,Dr. Mohan,BJP Leader,Unknown,Unknown,Unknown,Karnataka
+158,UP1989PC51,Son,Sunil Kumar Singh Yadav,Member of the Uttar Pradesh Legislative Assembly (MLA),2012-2017,Obra,Sonbhadra,Uttar Pradesh
+159,CH1989PC01,Son,Bikram Dhawan,AAP Chandigarh Vice-President,2021–present,Chandigarh (local unit),Chandigarh,Chandigarh
+160,DL1989PC05,Father,Ram Charan Agarwal,"First Deputy Mayor of Delhi, eight-time municipal election contestant","1958, multiple years",Unknown,Delhi,Delhi
+161,MH1989PC26,,,,,,,
+162,BR1989PC07,Wife,Rabri Devi,"Chief Minister of Bihar (3 terms), Member of Bihar Legislative Council","1997-2005 (CM), Current (MLC)","Sonepur (MLA), Bihar Legislative Council",Saran,Bihar
+163,BR1989PC07,Son,Tejashwi Yadav,"Deputy Chief Minister of Bihar, Member of Bihar Legislative Assembly, Leader of Opposition","2015-2017, 2022-Present (Deputy CM); 2015-Present (MLA/Leader of Op.)",Raghopur,Vaishali,Bihar
+164,BR1989PC07,Son,Tej Pratap Yadav,"Minister, Member of Bihar Legislative Assembly",2015-Present,"Mahua (2015–2020), Hasanpur (2020–Present)","Vaishali, Samastipur",Bihar
+165,BR1989PC07,Daughter,Misa Bharti,Member of Parliament (Rajya Sabha),2016-Present,Bihar (Rajya Sabha seat),NA,Bihar
+166,BR1989PC07,Brother-in-law,Sadhu Yadav,Member of Parliament (Lok Sabha),2004-2009,Gopalganj,Gopalganj,Bihar
+167,BR1989PC07,Brother-in-law,Subhash Yadav,Member of Legislative Council (MLC),Unknown,Bihar Legislative Council,NA,Bihar
+168,BR1989PC07,Daughter,Rohini Acharya,Contested Lok Sabha Election (unsuccessful),2024,Saran,Saran,Bihar
+169,BR1989PC44,Son,Bagi Kumar Verma,"MLA, Former Minister in Government of Bihar","Multiple terms, 1990s to present",Kurtha,Arwal,Bihar
+170,BR1989PC44,Daughter-in-law,Kumud Verma,MLC (Member of Bihar Legislative Council),Unknown,Unknown,Unknown,Bihar
+171,TN1989PC05,,,,,,,
+172,MP1989PC27,Spouse,Alka Nath,"Member of Parliament, Lok Sabha",1996–1998,Chhindwara,Chhindwara,Madhya Pradesh
+173,MP1989PC27,Son,Nakul Nath,"Member of Parliament, Lok Sabha",2019–2024,Chhindwara,Chhindwara,Madhya Pradesh
+174,GJ1989PC21,Cousin/Brother,Naranbhai Jemlabhai Rathwa,"Member of Parliament (Lok Sabha), Rajya Sabha","9th, 10th, 11th, 12th, 14th Lok Sabha; Rajya Sabha 2018-2024",Chhota Udaipur,Chhota Udaipur,Gujarat
+175,GJ1989PC21,Cousin/Brother,Ramsinh Rathwa,Member of Parliament (Lok Sabha),"13th, 15th, 16th Lok Sabha",Chhota Udaipur,Chhota Udaipur,Gujarat
+176,TN1989PC12,,,,,,,
+177,KA1989PC09,,,,,,,
+178,KA1989PC26,Son,Pradeep Kanagali,"Contested Member of Parliament, Lok Sabha",1998,Chikkodi,Belagavi,Karnataka
+179,MH1989PC25,,,,,,,
+180,KL1989PC19,,,,,,,
+181,KA1989PC07,Son,C. M. Rajesh Gowda,Member of Karnataka Legislative Assembly,2019–2023,Sira,Tumkur,Karnataka
+182,AP1989PC21,,,,,,,
+183,RJ1989PC19,Son,Vishvaraj Singh Mewar,"MLA, Rajasthan Legislative Assembly",2023-Present,Nathdwara,Rajsamand,Rajasthan
+184,RJ1989PC19,Daughter-in-law,Mahima Kumari Mewar,"MP, Lok Sabha",2024-Present,Rajsamand,Rajsamand,Rajasthan
+185,RJ1989PC19,Father-in-law,Manabendra Shah,"MP, Lok Sabha (8 times), Indian National Congress",1957-1997,Tehri Garhwal,Tehri Garhwal,Uttarakhand
+186,RJ1989PC03,,,,,,,
+187,TN1989PC20,Nephew,C.P. Radhakrishnan,"Member of Parliament, Lok Sabha (Coimbatore), NDA Vice President candidate 2025","1998-1999, 1999-2004, NDA Vice President nominee 2025",Coimbatore,Coimbatore,Tamil Nadu
+188,WB1989PC31,,,,,,,
+189,WB1989PC01,Son,Arghya Roy Pradhan,"MLA, West Bengal Legislative Assembly",2011-2016,Tufanganj,Cooch Behar,West Bengal
+190,TN1989PC11,,,,,,,
+191,AP1989PC23,Son,Y. S. Jagan Mohan Reddy,"Chief Minister of Andhra Pradesh, President of YSR Congress Party, Member of Parliament (Kadapa), Member of Legislative Assembly (Pulivendula)","2009–present (MP: 2009–2019, CM: 2019–present, MLA: 2011–present)","Kadapa (Lok Sabha), Pulivendula (Assembly)",Kadapa,Andhra Pradesh
+192,AP1989PC23,Daughter,Y. S. Sharmila,"President of Andhra Pradesh Congress Committee (2024–present), Founder of YSR Telangana Party (2021–2024)",2021–present,Contested Kadapa Lok Sabha 2024,Kadapa (contested),"Andhra Pradesh, Telangana"
+193,AP1989PC23,Wife,Y. S. Vijayamma,"Chairperson, YSR Congress Party, Member of Legislative Assembly (Pulivendula)",2011–2019 (MLA: 2011–2019),Pulivendula,Kadapa,Andhra Pradesh
+194,AP1989PC23,Brother,Y. S. Vivekananda Reddy,"Member of Parliament (Kadapa), Member of Legislative Assembly (Pulivendula), State Cabinet Minister","MP: 1999–2009, MLA: 1989–1999, Minister: 2010–2011","Kadapa (Lok Sabha), Pulivendula (Assembly)",Kadapa,Andhra Pradesh
+195,AP1989PC23,Nephew,Y. S. Avinash Reddy,Member of Parliament (Kadapa),2014–present,Kadapa,Kadapa,Andhra Pradesh
+196,OR1989PC06,,,,,,,
+197,DH1989PC01,Father,Sanjibhai Rupjibhai Delkar,"Member of Parliament, Lok Sabha",1967-1971,Dadra and Nagar Haveli,Dadra and Nagar Haveli,Dadra and Nagar Haveli
+198,DH1989PC01,Spouse,Kalaben Mohanbhai Delkar,"Member of Parliament, Lok Sabha",2024–present,Dadra and Nagar Haveli (ST),Dadra and Nagar Haveli,Dadra and Nagar Haveli and Daman & Diu
+199,MH1989PC11,Son,Sachin Shingada,"Palghar District Congress Vice-President, Former Likely MNS Assembly Candidate, Former Youth Congress Thane Rural President, various Youth Congress roles","Approx. 2014–2024 (Congress roles), 2024 (joined MNS, Assembly candidate for Vikramgad ST)",Vikramgad (intent to contest 2024 Assembly; active politics in Palghar district),Palghar,Maharashtra
+200,GJ1989PC17,,,,,,,
+201,MP1989PC07,,,,,,,
+202,BR1989PC15,,,,,,,
+203,RJ1989PC07,,,,,,,
+204,DL1989PC06,,,,,,,
+205,UP1989PC41,,,,,,,
+206,BR1989PC47,,,,,,,
+207,GJ1989PC09,,,,,,,
+208,MP1989PC36,Father,Shiv Bhanu Singh Solanki,"Deputy Chief Minister of Madhya Pradesh; Member of Parliament (Lok Sabha), Dhar","Deputy Chief Minister (1980); MP (years not fully specified, served before Suraj Bhanu Solanki's tenure)",Dhar,Dhar,Madhya Pradesh
+209,TN1989PC13,,,,,,,
+210,KA1989PC24,,,,,,,
+211,KA1989PC23,,,,,,,
+212,AS1989PC04,,,,,,,
+213,MH1989PC14,,,,,,,
+214,WB1989PC17,Uncle,Jyoti Basu,"Chief Minister of West Bengal, Member of Parliament (Lok Sabha & Rajya Sabha), Member of Legislative Assembly","1977-2000 (Chief Minister), 1967–1971, 1972–1977 (Deputy Chief Minister), several terms (MP/MLA from 1946 onwards)","Satgachhia (MLA, West Bengal); Barrackpore (Lok Sabha MP, West Bengal)","Kolkata, South 24 Parganas, North 24 Parganas (varied by office)",West Bengal
+215,AS1989PC13,,,,,,,
+216,TN1989PC23,,,,,,,
+217,UP1989PC35,Son,Alok Tiwari,"Member of Rajya Sabha (Upper House of Parliament), Uttar Pradesh",2012-2018,Rajya Sabha,Unknown,Uttar Pradesh
+218,WB1989PC20,,,,,,,
+219,BR1989PC27,Son,Hemant Soren,"Chief Minister of Jharkhand; President, Jharkhand Mukti Morcha (JMM); MLA","2013-2014, 2019-Present (CM); 2009-Present (MLA)",Barhait,Sahebganj,Jharkhand
+220,BR1989PC27,Son,Durga Soren,"MLA, Jharkhand Mukti Morcha (JMM)",2005-2009,Jama,Dumka,Jharkhand
+221,BR1989PC27,Daughter-in-law,Sita Soren,"MLA, Jharkhand Mukti Morcha (later BJP)",2009-Present,Dumka,Dumka,Jharkhand
+222,BR1989PC27,Son,Basant Soren,"MLA, Jharkhand Mukti Morcha (JMM); President, JMM Youth Wing",2020-Present,Dumka,Dumka,Jharkhand
+223,BR1989PC27,Daughter-in-law,Kalpana Soren,"MLA, Jharkhand Mukti Morcha (JMM)",2023-Present,Gandey,Giridih,Jharkhand
+224,MP1989PC21,,,,,,,
+225,WB1989PC37,Son,Padma Charan Malik,Candidate for MLA (Mazdoor Vikash Dal),2019,Kendrapara,Kendrapara,Odisha
+226,DL1989PC04,,,,,,,
+227,AP1989PC11,,,,,,,
+228,MH1989PC16,,,,,,,
+229,KL1989PC11,,,,,,,
+230,UP1989PC71,,,,,,,
+231,UP1989PC66,,,,,,,
+232,HR1989PC06,Spouse,Jasma Devi Bishnoi,"Member of Legislative Assembly, Haryana",1987,Adampur,Hisar,Haryana
+233,HR1989PC06,Son,Kuldeep Bishnoi,"Member of Legislative Assembly, Haryana; Member of Parliament, Lok Sabha","MLA: 2000-2005, 2005-2009, 2009-2014, 2014-2019, 2019-2024; MP: 2004-2009, 2009-2014","Adampur (MLA), Hisar (MP)",Hisar,Haryana
+234,HR1989PC06,Daughter-in-law,Renuka Bishnoi,"Member of Legislative Assembly, Haryana",2014-2019,Hansi,Hisar,Haryana
+235,HR1989PC06,Grandson,Bhavya Bishnoi,"Member of Legislative Assembly, Haryana",2022-2024,Adampur,Hisar,Haryana
+236,HR1989PC06,Son,Chander Mohan Bishnoi (Chand Mohammad),"Deputy Chief Minister, Haryana; Member of Legislative Assembly, Haryana","Deputy CM: 2005-2008; MLA: 1993-2009, 2019-2024",Panchkula,Panchkula,Haryana
+237,UP1989PC68,,,,,,,
+238,PB1989PC13,,,,,,,
+239,UP1989PC72,Son,Ranjeet Suman,Member of Legislative Assembly (MLA),2012-2017,Jalesar,Etah,Uttar Pradesh
+240,GJ1989PC11,Son,Mahendrasinh Vaghela,Member of Gujarat Legislative Assembly (MLA),2012–2017,Bayad,Aravalli,Gujarat
+241,RJ1989PC01,Son,Nihalchand Chauhan,"Member of Parliament (Lok Sabha), Minister of State in the Ministry of Chemicals and Fertilizers, Minister of State for Panchayati Raj","1996-1998, 1999-2004, 2004-2009, 2014-2019, 2019-2024",Ganganagar,Sri Ganganagar,Rajasthan
+242,UP1989PC02,,,,,,,
+243,AS1989PC07,,,,,,,
+244,BR1989PC43,,,,,,,
+245,UP1989PC63,,,,,,,
+246,UP1989PC50,,,,,,,
+247,UP1989PC44,,,,,,,
+248,BR1989PC46,,,,,,,
+249,TN1989PC19,,,,,,,
+250,BR1989PC28,,,,,,,
+251,GJ1989PC18,,,,,,,
+252,UP1989PC33,Son,Kirti Vardhan Singh,"Member of Parliament (Lok Sabha), Minister of State for External Affairs",1998-present,Gonda,Gonda,Uttar Pradesh
+253,UP1989PC33,Spouse's Mother (Mother-in-law),Bindumati Devi,Rajya Sabha MP,Unknown,Unknown,Unknown,Bihar
+254,UP1989PC33,Father,Raja Raghvendra Pratap Singh,MLA (Swatantra Party),Unknown,Mankapur,Gonda,Uttar Pradesh
+255,BR1989PC04,,,,,,,
+256,UP1989PC38,Successor/Disciple (Spiritual/Political Heir),Yogi Adityanath (Ajay Mohan Bisht),"Member of Parliament, Lok Sabha (Gorakhpur); Chief Minister of Uttar Pradesh",MP: 1998–2017; CM: 2017–present,Gorakhpur,Gorakhpur,Uttar Pradesh
+257,UP1989PC38,Predecessor/Mentor (Spiritual/Political Father),Mahant Digvijay Nath,"Member of Parliament, Lok Sabha (Gorakhpur)",1967–1970,Gorakhpur,Gorakhpur,Uttar Pradesh
+258,MP1989PC04,Son,Madhavrao Scindia,"Member of Parliament (Lok Sabha), Union Minister",1971-2001,"Guna, Gwalior","Guna, Gwalior",Madhya Pradesh
+259,MP1989PC04,Grandson,Jyotiraditya Scindia,"Member of Parliament (Lok Sabha), Union Minister",2002–present,Guna,Guna,Madhya Pradesh
+260,MP1989PC04,Daughter,Vasundhara Raje,"Chief Minister of Rajasthan, Member of Parliament (Lok Sabha), MLA (Rajasthan)",1985–present,"Jhalrapatan, previously Jhalawar, and Dholpur (Lok Sabha)",Jhalawar,Rajasthan
+261,MP1989PC04,Daughter,Yashodhara Raje Scindia,"Minister (Madhya Pradesh), Member of Legislative Assembly (MP)",1998–present,"Shivpuri, Gwalior South","Shivpuri, Gwalior",Madhya Pradesh
+262,AP1989PC15,,,,,,,
+263,PB1989PC01,,,,,,,
+264,MP1989PC03,Mother,Vijaya Raje Scindia,"Member of Parliament, multiple terms (Lok Sabha, Rajya Sabha); founding member of BJP",1962-1998,"Guna, Bhind, Morena",Various (Guna/Gwalior/Bhind),Madhya Pradesh
+265,MP1989PC03,Son,Jyotiraditya Scindia,"Member of Parliament, Union Minister (Cabinet); Minister of Civil Aviation",2002-present,"Guna, Rajya Sabha (Madhya Pradesh)","Guna, Madhya Pradesh (Rajya Sabha constituency)",Madhya Pradesh
+266,MP1989PC03,Sister,Vasundhara Raje Scindia,"Chief Minister of Rajasthan, Member of Parliament (Lok Sabha)",1989-present,"Jhalawar (Lok Sabha), Jhalrapatan (Assembly)",Jhalawar,Rajasthan
+267,MP1989PC03,Sister,Yashodhara Raje Scindia,"Member of Legislative Assembly (Madhya Pradesh), Minister in MP Government",1998-present,Shivpuri (Assembly),Shivpuri,Madhya Pradesh
+268,BR1989PC08,Son,Chirag Paswan,"Member of Parliament, Lok Sabha; Union Minister",2014–present,"Jamui (2014–2024), Hajipur (2024–present)","Jamui, Vaishali",Bihar
+269,BR1989PC08,Brother,Pashupati Kumar Paras,"Member of Parliament, Lok Sabha; Union Minister; Head of RLJP",2019–present,Hajipur,Vaishali,Bihar
+270,BR1989PC08,Brother,Ram Chandra Paswan,"Member of Parliament, Lok Sabha",2014–2019,Samastipur,Samastipur,Bihar
+271,BR1989PC08,Nephew (son of Ram Chandra Paswan),Prince Raj,"Member of Parliament, Lok Sabha",2019–2024,Samastipur,Samastipur,Bihar
+272,BR1989PC08,Daughter,Asha Paswan,Contested Lok Sabha (RJD),Unknown,Unknown,Unknown,Bihar
+273,BR1989PC08,Son-in-law (husband of Asha Paswan),"Anil ""Sadhu"" Paswan","Former MLA, Lok Janshakti Party",Unknown,Unknown,Unknown,Bihar
+274,HP1989PC04,Son,Anurag Thakur,"Member of Parliament (Lok Sabha), Union Minister for Information & Broadcasting, Youth Affairs & Sports, Minister of State for Finance & Corporate Affairs","2008-present (MP), 2019-2024 (MoS Finance), 2021-2024 (Union Minister)",Hamirpur,Hamirpur,Himachal Pradesh
+275,HP1989PC04,Father-in-law (of son Anurag Thakur),Gulab Singh Thakur,"Speaker, Deputy Chief Minister, and Minister (Multiple portfolios) in Himachal Pradesh Legislative Assembly","Multiple terms (1977 onwards, including Speaker and Minister roles)","Various (e.g., Jogindernagar, later Chachyot/Mandi region)",Mandi,Himachal Pradesh
+276,UP1989PC60,,,,,,,
+277,AP1989PC38,,,,,,,
+278,UP1989PC79,Son,Amrish Tyagi,"Political strategist; joined BJP and held official party roles, including national secretary and spokesperson for BJP Delhi unit (contested and actively involved in electoral politics)",2021-present (BJP activities confirmed from 2021),Unknown,Unknown,Delhi
+279,UP1989PC19,Daughter-in-law,Usha Verma,"Member of Parliament (Lok Sabha), MLA (UP Legislative Assembly), Minister of State (Uttar Pradesh Government)","MP: 1998-1999, 2004-2009, 2009-2014; MLA: 2002-2004; Minister: 2003",Hardoi,Hardoi,Uttar Pradesh
+280,UP1989PC85,,,,,,,
+281,KA1989PC19,Daughter-in-Law,Rajeshwari,Zilla Panchayat candidate (Congress),2010,Kalenahalli ZP constituency,Hassan,Karnataka
+282,KA1989PC19,Son,Vijaykumar,"Former Vice President, Zilla Panchayat",Unknown,Unknown,Hassan,Karnataka
+283,UP1989PC75,,,,,,,
+284,BR1989PC48,,,,,,,
+285,AP1989PC24,,,,,,,
+286,MH1989PC29,,,,,,,
+287,HR1989PC09,,,,,,,
+288,WB1989PC27,,,,,,,
+289,MP1989PC29,,,,,,,
+290,PB1989PC06,Father,Chaudhry Balbir Singh,"Member of Parliament (Lok Sabha), MLA (Punjab)","Multiple terms (exact years: at least one term prior to 1984; Lok Sabha, MLA pre-1985)",Hoshiarpur,Hoshiarpur,Punjab
+291,WB1989PC24,,,,,,,
+292,AP1989PC30,Father,Abdul Wahid Owaisi,"President, All India Majlis-e-Ittehadul Muslimeen (AIMIM)",1958-1975,"Not applicable (party president, not legislative representative)",Hyderabad,Andhra Pradesh (now Telangana)
+293,AP1989PC30,Son,Asaduddin Owaisi,"Member of Parliament (Lok Sabha); President, AIMIM",2004–present; 2008–present (party president),Hyderabad,Hyderabad,Telangana
+294,AP1989PC30,Son,Akbaruddin Owaisi,"Member, Telangana Legislative Assembly",1999–present,Chandrayangutta,Hyderabad,Telangana
+295,MH1989PC47,Daughter,Nivedita Sambhajirao Mane,Member of Parliament (Lok Sabha),1999-2009,"Ichalkaranji (1999-2004), Hatkanangale (2004-2009)",Kolhapur,Maharashtra
+296,MH1989PC47,Grandson,Dhairyasheel Sambhajirao Mane,Member of Parliament (Lok Sabha),2019-present,Hatkanangale,Kolhapur,Maharashtra
+297,KL1989PC14,Brother,K. M. Chandy,"Governor of Gujarat, Madhya Pradesh and Puducherry; Member of Travancore State Legislature; Member of Travancore–Cochin Legislative Assembly; President, Kerala Pradesh Congress Committee","1948–1951 (MLA, Travancore); 1952–1957 (MLA, Travancore–Cochin); 1982–1983 (Lt. Governor, Puducherry); 1983–1984 (Governor, Gujarat); 1984–1989 (Governor, Madhya Pradesh); 1978–1982 (KPCC President)",Multiple (Travancore/Travancore-Cochin),Unknown,Kerala/Multiple
+298,MP1989PC37,,,,,,,
+299,MN1989PC01,,,,,,,
+300,MP1989PC25,,,,,,,
+301,WB1989PC18,,,,,,,
+302,OR1989PC07,,,,,,,
+303,BR1989PC41,Son,Rajeev Niranjan Singh,"Active political/social figure in Jahanabad; participated in public events, but no confirmed record of holding or contesting a formal political office as of the latest available sources",Unknown,Unknown,Jahanabad,Bihar
+304,RJ1989PC06,,,,,,,
+305,OR1989PC04,,,,,,,
+306,UP1989PC62,,,,,,,
+307,UP1989PC70,,,,,,,
+308,MH1989PC17,,,,,,,
+309,MH1989PC32,Son,Chandrakant Pundlikrao Danve,"Member of Legislative Assembly (MLA), Bhokardan","2003-2004, 2004-2009, 2009-2014",Bhokardan,Jalna,Maharashtra
+310,RJ1989PC22,,,,,,,
+311,WB1989PC03,,,,,,,
+312,JK1989PC06,,,,,,,
+313,GJ1989PC03,,,,,,,
+314,BR1989PC50,Spouse,Abha Mahato,"Member of Parliament (Lok Sabha), Jamshedpur",1998–2004,Jamshedpur,East Singhbhum,Jharkhand
+315,WB1989PC08,,,,,,,
+316,MP1989PC14,Father,Raja Vijay Bhushan Singh Deo,Member of Parliament (Lok Sabha) from Rewa and Raigarh,"1957–1967 (Raigarh), 1971–1977 (Rewa)","Rewa, Raigarh",Unknown,Madhya Pradesh
+317,MP1989PC14,Son,Yudhvir Singh Judev,"Member of Legislative Assembly (MLA), Parliamentary Secretary in Chhattisgarh Government",2008–2018 (MLA Chandrapur),Chandrapur,Janjgir-Champa,Chhattisgarh
+318,MP1989PC14,Son,Prabal Pratap Singh Judev,MLA Candidate (BJP) from Kota,2023,Kota,Bilaspur,Chhattisgarh
+319,MP1989PC14,Daughter-in-law,Sanyogita Singh Judeo,MLA Candidate (BJP) from Chandrapur,"2018, 2023",Chandrapur,Janjgir-Champa,Chhattisgarh
+320,UP1989PC48,Father,Raja Shri Krishna Dutt Dube,"Former Raja (titleholder of Jaunpur estate, not elected office)",Unknown,Jaunpur (royal estate),Jaunpur,Uttar Pradesh
+321,MP1989PC39,Daughter,Shantilal Bhuria,Member of Legislative Assembly (MLA),2008-2018,Petlawad,Jhabua,Madhya Pradesh
+322,RJ1989PC15,Mother,Vijaya Raje Scindia,"Senior leader, Bharatiya Jana Sangh and Bharatiya Janata Party (MP from Guna, Gwalior, Bhind in Lok Sabha, various terms 1957-1991)",1957-1991,"Guna, Gwalior, Bhind","Gwalior, Bhind",Madhya Pradesh
+323,RJ1989PC15,Brother,Madhavrao Scindia,"MP (Lok Sabha), Minister with Indian National Congress (multiple terms, Minister of Railways 1986-1989, Civil Aviation 1995-1996)",1971-2001,Guna,Guna,Madhya Pradesh
+324,RJ1989PC15,Sister,Yashodhara Raje Scindia,"MP (Lok Sabha), Cabinet Minister, Government of Madhya Pradesh (Tourism, Sports, Culture, Women & Child Development)","2002-2007 (MP), various years as state minister","Gwalior (Lok Sabha), Shivpuri (Vidhan Sabha)","Gwalior, Shivpuri",Madhya Pradesh
+325,RJ1989PC15,Son,Dushyant Singh,"MP (Lok Sabha), Bharatiya Janata Party (2004-present)",2004-present,Jhalawar (later Jhalawar-Baran),"Jhalawar, Baran",Rajasthan
+326,RJ1989PC15,Nephew,Jyotiraditya Scindia,"MP (Lok Sabha, Rajya Sabha), Union Minister (Aviation, Civil Aviation, BJP and previously INC)",2002-present,"Guna (Lok Sabha), Madhya Pradesh (Rajya Sabha)",Guna,Madhya Pradesh
+327,BR1989PC14,,,,,,,
+328,UP1989PC61,,,,,,,
+329,WB1989PC33,,,,,,,
+330,RJ1989PC04,Brother,Randeep Dhankhar,"Chairman, Rajasthan Tourism Development Corporation (RTDC); Associated with Indian National Congress",Unknown–Unknown (served during Congress governments in Rajasthan; years not precisely given in public sources),"Not applicable (Corporation Chairperson role, not elected position)",Jaipur,Rajasthan
+331,RJ1989PC24,Son,Manvendra Singh,"Member of Parliament (Lok Sabha), Rajasthan Legislative Assembly (MLA)","2004-2009 (Lok Sabha, Barmer); 2013-2018 (MLA, Sheo)","Barmer (Lok Sabha), Sheo (Assembly)",Barmer,Rajasthan
+332,AS1989PC12,,,,,,,
+333,WB1989PC15,,,,,,,
+334,PB1989PC04,Son,Naresh Gujral,"Member of Parliament, Rajya Sabha (Shiromani Akali Dal)",2010-2022,"Punjab (Rajya Sabha, not a specific constituency)",N/A,Punjab
+335,PB1989PC04,Father,Avtar Narain Gujral,"Member, Constituent Assembly of Pakistan",1947,Unknown,Unknown,Punjab (now in Pakistan)
+336,GJ1989PC06,Son,Shekhada Atulbhai Govindbhai,"Contested Member of Parliament (Lok Sabha), Aam Aadmi Party","2014 (contested), not elected",Junagadh,Junagadh,Gujarat
+337,GJ1989PC19,,,,,,,
+338,UP1989PC83,,,,,,,
+339,UP1989PC30,Son,Padamsen Chaudhary,Member of Parliament (Lok Sabha),"1996-1997, 2019-present",Bahraich,Bahraich,Uttar Pradesh
+340,AP1989PC07,Father,M. S. Sanjeevi Rao,"Union Minister (Minister of State), Government of India",1982–1984,Kakinada,East Godavari,Andhra Pradesh
+341,OR1989PC14,Son,Sagar Charan Das,"Member, Odisha Legislative Assembly (MLA), Bhawanipatna",2024–present,Bhawanipatna,Kalahandi,Odisha
+342,AS1989PC11,,,,,,,
+343,KA1989PC11,Father,M. V. Venkatappa,"Member of the Legislative Council (MLC), Karnataka",Unknown,Unknown,Unknown,Karnataka
+344,KA1989PC11,Uncle-in-law,Kengal Hanumanthaiah,"Chief Minister of Mysore State (now Karnataka), Member of Parliament",Chief Minister: 1952-1956; MP: Various terms,Bangalore South (for some MP terms),Bangalore Urban,Karnataka
+345,KA1989PC22,,,,,,,
+346,HP1989PC03,,,,,,,
+347,MP1989PC19,Spouse,Chhabila Netam,"Member of Parliament, 11th Lok Sabha",1996-1998,Kanker,Bastar,Madhya Pradesh
+348,MP1989PC19,Daughter,Preeti Netam,Contested 2008 Chhattisgarh Legislative Assembly election,2008 (contested),Kanker,Unknown,Chhattisgarh
+349,UP1989PC67,,,,,,,
+350,UP1989PC65,Mother,Lakshmi Sahgal,"Presidential candidate (2002), Indian National Army Officer, member of All India Forward Bloc, social activist",2002 (Presidential candidate); active in politics 1970s-2012,N/A (All India Presidential election; no parliamentary seat),N/A,Uttar Pradesh
+351,MH1989PC45,Spouse,Dajisaheb Chavan,"Member of Parliament, Lok Sabha; Deputy Minister of Defence, Food and Agriculture, Labour Employment and Rehabilitation, Petroleum and Chemicals, Minister of Supply","1957–1973 (Lok Sabha), 1962–1971 (Minister of State/Deputy Minister)",Karad,Satara,Maharashtra
+352,MH1989PC45,Son,Prithviraj Chavan,"Chief Minister of Maharashtra; Member of Parliament (Lok Sabha); Member of Rajya Sabha; Union Minister of State (PMO, Earth Sciences, Science & Technology)","2010–2014 (CM); 1991–1996, 1998–1999, 2004–2009 (Lok Sabha); 2002–2010 (Rajya Sabha)","Karad, Satara (Lok Sabha), Maharashtra (Rajya Sabha)",Satara,Maharashtra
+353,AS1989PC01,,,,,,,
+354,AP1989PC37,,,,,,,
+355,HR1989PC03,,,,,,,
+356,DL1989PC07,,,,,,,
+357,TN1989PC26,,,,,,,
+358,KL1989PC01,Daughter,Pushpalatha,"Daughter-in-law of I. Rama Rai (Congress MP, Kasaragod 1984-1989) through marriage; no direct record of her holding or contesting office",N/A,N/A,N/A,N/A
+359,BR1989PC25,,,,,,,
+360,WB1989PC40,,,,,,,
+361,OR1989PC05,,,,,,,
+362,OR1989PC21,,,,,,,
+363,BR1989PC31,,,,,,,
+364,MP1989PC06,,,,,,,
+365,UP1989PC36,Nephew,Arvind Kumar Chaudhary,Member of Parliament (Lok Sabha),2009-2014,Basti,Basti,Uttar Pradesh
+366,UP1989PC36,Son,Kavindra Chaudhary,Member of Legislative Assembly,2022-present,Kaptanganj,Basti,Uttar Pradesh
+367,AP1989PC40,Son,Jalagam Prasada Rao,Member of the Legislative Assembly (Sathupalli); Minister in the N. Janardhan Reddy Cabinet,"circa 1989-1994 (Minister); MLA two terms (years vary e.g., 1983–1989, 1989–1994 approximate)",Sathupalli,Khammam,Andhra Pradesh
+368,AP1989PC40,Son,Jalagam Venkat Rao,"Member of the Andhra Pradesh Legislative Assembly (Sathupalli, 2004); Member of Telangana Legislative Assembly (Kothagudem, 2014, declared elected by court for 2018 term); Contested again in 2023","2004, 2014–2018, declared elected for 2018 term","Sathupalli (2004, AP), Kothagudem (2014+, TS)",Khammam,"Andhra Pradesh, Telangana"
+369,MP1989PC34,,,,,,,
+370,MP1989PC35,,,,,,,
+371,MH1989PC41,,,,,,,
+372,UP1989PC15,Father-in-law,Parmai Lal,"MP (Lok Sabha) twice, MLA six times","MP: 1962, 1989; MLA: Six terms including starting from 1977","Kheri (MP), Multiple (MLA)",Lakhimpur Kheri,Uttar Pradesh
+373,UP1989PC15,Sister-in-law (Jethani),Rajeshwari Devi,MLA,Unknown,Unknown,Unknown,Uttar Pradesh
+374,UP1989PC15,Maternal Uncle,Rajendra Kumar,MP (Lok Sabha),2004,Unknown,Unknown,Uttar Pradesh
+375,BR1989PC52,,,,,,,
+376,UP1989PC77,,,,,,,
+377,BR1989PC23,,,,,,,
+378,BR1989PC45,Son,Pranav Verma,"Central Committee Member, Jharkhand Mukti Morcha (JMM)",Unknown,Unknown,Unknown,Jharkhand
+379,BR1989PC45,Brother,Jagdish Kushwaha,Known political and social organization leader; played important political role locally,Unknown,Unknown,Giridih,Jharkhand
+380,AS1989PC05,,,,,,,
+381,MH1989PC03,Son-in-law,Mushtaq Antulay,"Former Congress legislator, Joined NCP (Ajit Pawar group) in 2024","Congress legislator (exact years not specified), Joined NCP in 2024",Unknown,Unknown,Maharashtra
+382,KA1989PC10,,,,,,,
+383,MH1989PC48,,,,,,,
+384,KA1989PC04,,,,,,,
+385,RJ1989PC14,,,,,,,
+386,WB1989PC11,Brother,Biswanath Mukherjee,"Member of Parliament (Lok Sabha, CPI) and West Bengal MLA",Multiple terms (1950s–1970s),"N/A (Multiple, primarily in West Bengal)",N/A,West Bengal
+387,WB1989PC11,Sister-in-law,Geeta Mukherjee,"Member of Parliament (Lok Sabha, CPI), West Bengal MLA","West Bengal MLA 1967–1977, Lok Sabha MP 1980–2000",Panskura (Lok Sabha),Purba Medinipur,West Bengal
+388,WB1989PC11,Niece (Brother's daughter),Kalyani Mukherjee Kumaramangalam,None (her spouse and children are prominent politicians; not directly in politics herself),Unknown,N/A,N/A,N/A
+389,WB1989PC11,Nephew-in-law,Mohan Kumaramangalam,"Union Cabinet Minister, Lok Sabha MP (Congress)","1971–1973 (Cabinet Minister), 1971–1973 (MP, Pondicherry/Puducherry)",Pondicherry (Lok Sabha),Puducherry,Puducherry
+390,WB1989PC11,Grandnephew,Rangarajan Kumaramangalam,"Lok Sabha MP (Congress/BJP), Union Cabinet Minister","Lok Sabha MP 1984–1989, 1991–2001, Cabinet Minister 1998–2000",Salem (Lok Sabha),Salem,Tamil Nadu
+391,WB1989PC11,Grandniece,Lalitha Kumaramangalam,"Lok Sabha candidate (BJP), Chairperson National Commission for Women","Contested 1991, 1996, 1998; NCW Chairperson 2014–2018","Pondicherry (Lok Sabha) (contested, not elected)",Puducherry,Puducherry
+392,TN1989PC14,Son,Vazhapadi Rama Suganthan,"AICC Member, INRLF National General Secretary",Unknown,Unknown,Unknown,Tamil Nadu
+393,TN1989PC14,Son,Vazhapadi R Karnan,President of INRLF Tamil Nadu state,Unknown,Unknown,Unknown,Tamil Nadu
+394,AP1989PC26,Son,Kotla Jayasurya Prakasha Reddy,"Union Minister of State for Railways (2012-2014), Member of Parliament, Lok Sabha (Kurnool, 1991-1996, 2004-2014), MLA (Dhone, 2024–present)","1991-1996, 2004-2014 (MP); 2012-2014 (Union Minister); 2024–present (MLA)","Kurnool (Lok Sabha, MP tenure), Dhone (Assembly, MLA 2024)",Kurnool,Andhra Pradesh
+395,AP1989PC26,Daughter-in-law,Kotla Sujathamma,"Member of Legislative Assembly, Dhone (2004-2009), MLA candidate from Alur (2014, 2019)","2004-2009 (MLA); 2014, 2019 (MLA candidate)","Dhone (MLA), Alur (MLA candidate)",Kurnool,Andhra Pradesh
+396,HR1989PC02,,,,,,,
+397,JK1989PC04,,,,,,,
+398,AS1989PC14,,,,,,,
+399,LD1989PC01,Son,Muhammed Hamdulla Sayeed,"Member of Parliament, Lok Sabha","2009–2014, 2024–present",Lakshadweep,Lakshadweep,Lakshadweep
+400,MH1989PC35,Daughter,Shailaja Patil Nilangekar,"Contested Assembly Election (BJP), 2014",2014,Latur Rural,Latur,Maharashtra
+401,BR1989PC53,Spouse,Kartik Oraon,"Member of Parliament (Lok Sabha), Union Minister",1967–1981,Lohardaga,Gumla (part of Lohardaga constituency),Bihar
+402,BR1989PC53,Daughter,Geetashree Oraon,"Member of Legislative Assembly (MLA), Minister of Human Resource Development (HRD), Jharkhand",2014–2019 (MLA & Minister),Sisai,Gumla,Jharkhand
+403,UP1989PC20,,,,,,,
+404,PB1989PC09,,,,,,,
+405,UP1989PC47,,,,,,,
+406,AP1989PC12,Grandson,M.V.V.S. Murthy,"Member of Parliament, Lok Sabha (Visakhapatnam)",1991-1996; 1999-2004,Visakhapatnam,Visakhapatnam,Andhra Pradesh
+407,BR1989PC21,Son,Dr. Kumar Chandradeep,Contested Lok Sabha election as RJD candidate from Madhepura (2024),Contested 2024,Madhepura,Madhepura,Bihar
+408,BR1989PC13,,,,,,,
+409,TN1989PC01,,,,,,,
+410,TN1989PC03,,,,,,,
+411,TN1989PC24,Father,A.G. Subbaraman,Lok Sabha MP,1980–1984,Madurai,Madurai,Tamil Nadu
+412,AP1989PC29,,,,,,,
+413,BR1989PC06,Son,Neeraj Shekhar,"Member of Parliament (Lok Sabha and Rajya Sabha), contested and held office from Ballia (Uttar Pradesh) and as Rajya Sabha MP","2007-2009 (Lok Sabha), 2010-2016, 2016-2019 (Rajya Sabha), 2019-present (Rajya Sabha, BJP)","Ballia (Lok Sabha), Nominated (Rajya Sabha)",Ballia,Uttar Pradesh
+414,BR1989PC06,Grandson,Ravi Shankar Singh Pappu,"Member, Uttar Pradesh Legislative Council (BJP)",Unknown,Unknown,Unknown,Uttar Pradesh
+415,UP1989PC39,Daughter,Supriya Shrinate,"Lok Sabha Candidate from Maharajganj (2019), INC National Spokesperson","2019 (Candidate), 2019-Present (Spokesperson)",Maharajganj,Maharajganj,Uttar Pradesh
+416,MP1989PC18,Father,Ravishankar Shukla,Chief Minister of Madhya Pradesh,1956-1957,Raipur,Raipur,Madhya Pradesh
+417,MP1989PC18,Brother,Shyama Charan Shukla,Chief Minister of Madhya Pradesh,"1969-1972, 1975-1977, 1989-1990",Rajim,Raipur,Madhya Pradesh
+418,MP1989PC18,Nephew,Amitesh Shukla,"Minister of Rural Development, Chhattisgarh",2002-2003,Rajim,Raipur,Chhattisgarh
+419,HR1989PC07,Spouse,Premlata Singh,Member of Legislative Assembly (MLA),2014-2019,Uchana Kalan,Jind,Haryana
+420,HR1989PC07,Son,Brijendra Singh,"Member of Parliament, Lok Sabha",2019-2024,Hisar,Hisar,Haryana
+421,HR1989PC07,Paternal Grandfather,Chaudhary Neki Ram,"Member of Legislative Assembly (joint Punjab, pre-1966 Punjab-Haryana reorganization)",Unknown,Unknown,Unknown,Punjab
+422,HR1989PC07,Maternal Grandfather,Sir Chhotu Ram,"Minister, Punjab Legislative Council (pre-independence), and notable peasant leader",1920s-1945,Rohtak (Punjab during British India),Rohtak,Punjab (now Haryana)
+423,UP1989PC69,Son,Dr. Asim Yadav,"Member, Uttar Pradesh Legislative Council",2015,Agra Graduate Zone,Agra,Uttar Pradesh
+424,WB1989PC07,Brother,Abu Hasem Khan Choudhury,"Member of Parliament, Lok Sabha (Malda South), Union Minister of State for Health and Family Welfare","2006–present (MP, various terms), 2009–2012 (MoS)",Malda South,Malda,West Bengal
+425,WB1989PC07,Brother,Abu Nasar Khan Choudhury,"Minister of State for Science and Technology, MLA","2011–2016 (MoS), MLA (Sujapur)",Sujapur,Malda,West Bengal
+426,WB1989PC07,Sister,Rubi Noor,"Member of Legislative Assembly, West Bengal",1996–2009,Sujapur,Malda,West Bengal
+427,WB1989PC07,Nephew,Isha Khan Choudhury,"Member of Legislative Assembly, West Bengal",2011–present,Sujapur,Malda,West Bengal
+428,WB1989PC07,Niece,Mausam Noor,"Member of Parliament, Lok Sabha (Malda North), Member of Legislative Assembly","2009–2019 (MP, Malda North), 2019–present (MLA, Sujapur)","Malda North (MP), Sujapur (MLA)",Malda,West Bengal
+429,MH1989PC13,,,,,,,
+430,HP1989PC02,Brother,Karan Singh,"Contested Lok Sabha election from Mandi constituency, Himachal Pradesh",2009 (contested),Mandi,Mandi,Himachal Pradesh
+431,HP1989PC02,Son,Hiteshwar Singh,Contested 2022 Himachal Pradesh Legislative Assembly election as an Independent (previously associated with BJP),2022 (contested),Unknown,Kullu,Himachal Pradesh
+432,MP1989PC40,,,,,,,
+433,GJ1989PC25,,,,,,,
+434,AS1989PC08,,,,,,,
+435,KA1989PC17,,,,,,,
+436,KL1989PC05,Father's Cousin,Haji Abdus Sattar,"Member, Central Assembly",1946,South-West constituency,Unknown,Unknown
+437,UP1989PC74,,,,,,,
+438,WB1989PC16,,,,,,,
+439,KL1989PC16,,,,,,,
+440,TN1989PC29,,,,,,,
+441,OR1989PC01,,,,,,,
+442,AP1989PC33,,,,,,,
+443,UP1989PC80,Daughter-in-law,Naina Singh,"Contested State Assembly Election, Candidate from Garhmukteshwar",2022,Garhmukteshwar,Hapur (formerly part of Meerut district),Uttar Pradesh
+444,WB1989PC32,,,,,,,
+445,AP1989PC42,,,,,,,
+446,UP1989PC54,Son,Zahid Beg,Member of the Uttar Pradesh Legislative Assembly,"2012-2017, 2022-present",Bhadohi,Bhadohi,Uttar Pradesh
+447,UP1989PC18,Son,Suresh Rahi,"MLA (Member of Legislative Assembly), Hargaon, Bharatiya Janata Party (BJP)",2017-present,Hargaon,Sitapur,Uttar Pradesh
+448,MZ1989PC01,,,,,,,
+449,UP1989PC21,Daughter,Priya Saroj,"Member of Parliament, Lok Sabha",2024-present,Machhlishahr,Jaunpur,Uttar Pradesh
+450,UP1989PC21,Son,Tufani Saroj,"Member of Parliament (1999, 2004, 2009), Member of Legislative Assembly","MP: 1999, 2004 (Saidpur), 2009 (Machhlishahr), MLA: Current","Saidpur; Machhlishahr (MP), Kerakat (MLA)",Varanasi/Jaunpur,Uttar Pradesh
+451,BR1989PC32,,,,,,,
+452,UP1989PC07,,,,,,,
+453,MP1989PC01,Son,Ashok Chhaviram Argal,"Member of Parliament (Lok Sabha), Morena",1996-2009,Morena,Morena,Madhya Pradesh
+454,GA1989PC02,,,,,,,
+455,BR1989PC03,,,,,,,
+456,KL1989PC10,,,,,,,
+457,WB1989PC09,,,,,,,
+458,KL1989PC12,Father,P. T. Chacko,"Member of Kerala Legislative Assembly, Home Minister (Travancore-Cochin), First Leader of Opposition Kerala Assembly","1952-1968 (Kerala assembly, various positions)",Unknown,Kottayam (Travancore-Cochin),Kerala
+459,UP1989PC82,Daughter,Mehbooba Mufti,"Chief Minister of Jammu & Kashmir, President of Jammu and Kashmir Peoples Democratic Party (PDP), Member of Parliament (Lok Sabha, Anantnag)","2016–2018 (CM), 2004–2009 (MP), Party President from 2016–present","Anantnag (MP, Assembly); multiple Assembly constituencies",Anantnag,Jammu & Kashmir
+460,UP1989PC82,Son,Tassaduq Hussain Mufti,"Minister for Tourism, Jammu & Kashmir, Member of Jammu and Kashmir Legislative Council, Contested Anantnag Lok Sabha bypoll (2017)","2017–2018 (Minister), 2017–2018 (MLC), 2017 (Contested MP bypoll)","Nominated (MLC); Anantnag (Lok Sabha bypoll, contested)",Anantnag,Jammu & Kashmir
+461,UP1989PC82,Brother-in-law (Mehbooba Mufti's maternal uncle),Sartaj Madni,"Vice President, Jammu and Kashmir Peoples Democratic Party (PDP), Former MLA","2002–2014 (MLA), Party Vice President (various years)",Devsar,Kulgam,Jammu & Kashmir
+462,BR1989PC10,Brother,Lawrence Fernandes,Socialist Political Leader,Unknown,Unknown,Unknown,Karnataka
+463,KA1989PC16,Father,Jayachamarajendra Wadiyar,"Maharaja of Mysore, Rajpramukh (Governor-equivalent) of Mysore State","1940–1956 (Maharaja), 1950–1956 (Rajpramukh)",Mysore (as Kingdom and later State),Mysore,Karnataka
+464,KA1989PC16,Adopted Son (Grandnephew),Yaduveer Krishnadatta Chamaraja Wadiyar,"Member of Parliament, Lok Sabha (BJP)",2024–Present,Mysuru-Kodagu,Mysuru,Karnataka
+465,KA1989PC16,Distant In-law (Adopted Son's Father-in-law),Harshvardhan Singh Dungarpur,"Member of Parliament, Rajya Sabha (BJP)",2004–2016,Rajasthan (Rajya Sabha),Dungarpur,Rajasthan
+466,WB1989PC12,,,,,,,
+467,NL1989PC01,,,,,,,
+468,TN1989PC30,Spouse,Kamalavathanam,Panchayat Union Chairperson (Tiruvarur District),"Approx. 5 years (exact years not specified, but served one full term)",Unknown,Tiruvarur,Tamil Nadu
+469,TN1989PC30,Father-in-law,S. G. Murugaiyan,Member of Parliament (Lok Sabha),1977–1979,Nagapattinam,Nagapattinam,Tamil Nadu
+470,AP1989PC28,Brother,Mallu Ravi,"Member of Parliament (Lok Sabha), Indian National Congress; also MLA","MP: 1991-1996, 2004-2009; MLA: various terms","Nagarkurnool (MP), other constituencies for MLA",Nagarkurnool,Andhra Pradesh/Telangana
+471,AP1989PC28,Brother,Mallu Bhatti Vikramarka,"MLA and Deputy Chief Minister of Telangana (2019, 2023); Leader of Opposition in Telangana Assembly","MLA (2009–present); DyCM (2019, 2023)",Madhira,Khammam,Telangana
+472,RJ1989PC25,Son,Bhanu Prakash Mirdha,"Member of Parliament, Lok Sabha",1996-1998,Nagaur,Nagaur,Rajasthan
+473,RJ1989PC25,Granddaughter,Jyoti Mirdha,"Member of Parliament, Lok Sabha; Contested again in 2023 as BJP candidate","2009-2014 (MP), 2023 (contested)",Nagaur,Nagaur,Rajasthan
+474,RJ1989PC25,Cousin,Ram Niwas Mirdha,"Union Minister; Member of Parliament (Lok Sabha and Rajya Sabha); Speaker, Rajasthan Assembly","1967-1980 (Rajya Sabha), 1980-1996 (Lok Sabha), Multiple terms as Speaker and Union Minister",Nagaur (Lok Sabha); Rajasthan (Rajya Sabha),Nagaur,Rajasthan
+475,RJ1989PC25,Second Cousin (Son of Ram Niwas Mirdha),Harendra Mirdha,"MLA (Member of Legislative Assembly), Minister in Rajasthan Government","Numerous terms, including recent elections up to 2023",Degana,Nagaur,Rajasthan
+476,TN1989PC39,,,,,,,
+477,MH1989PC23,,,,,,,
+478,UP1989PC04,,,,,,,
+479,BR1989PC34,,,,,,,
+480,AP1989PC41,,,,,,,
+481,MH1989PC30,,,,,,,
+482,MH1989PC15,Daughter,Nirmala Manikrao Gavit,"Member, Maharashtra Legislative Assembly",2009–2014,Navapur,Nandurbar,Maharashtra
+483,AP1989PC27,,,,,,,
+484,AP1989PC10,"Extended family (possibly cousin or distant relative, not direct lineage)",Bhupathiraju Srinivasa Varma,Union Minister of State for Heavy Industries & Steel; Member of Parliament (Lok Sabha) from Narasapuram; BJP Andhra Pradesh State Secretary,2024-present (as per current term); previously political and social work,Narasapuram,West Godavari,Andhra Pradesh
+485,AP1989PC17,Uncle,Kasu Brahmananda Reddy,"Chief Minister of Andhra Pradesh, Union Home Minister, Member of Parliament","Chief Minister (1964–1971), Union Home Minister (1974–1977), multiple terms as MP","Chief Minister (statewide), Home Minister (national), MP (various)",Guntur,Andhra Pradesh
+486,AP1989PC17,Son,Kasu Mahesh Reddy,Member of Legislative Assembly (MLA),2019–2024,Gurazala,Palnadu (formerly Guntur),Andhra Pradesh
+487,MH1989PC12,Son,Rahul Daulatrao Aher,"MLA, Maharashtra Legislative Assembly (Chandwad); Minister for Public Health and Family Welfare, Maharashtra","2014–2019, 2019–2024 (MLA); 2014–2019 (Minister)",Chandwad,Nashik,Maharashtra
+488,MH1989PC12,Brother,Kedanana (Keda) Aher,"Director, NAFED; BJP candidate, Chandwad-Deola (contested)",2024 (contested); current (NAFED Director),Chandwad-Deola,Nashik,Maharashtra
+489,BR1989PC42,,,,,,,
+490,AP1989PC19,Cousin,Puchalapalli Sundarayya,"General Secretary, Communist Party of India (Marxist); Member of Parliament, Rajya Sabha","1964–1976 (General Secretary), 1952–1970 (Rajya Sabha)",Andhra Pradesh (Rajya Sabha seat),Unknown,Andhra Pradesh
+491,DL1989PC01,,,,,,,
+492,TN1989PC18,Father,P. R. Ramakrishnan,"Member of Parliament, Lok Sabha","1957-1962 (Pollachi), 1962-1967 (Coimbatore)","Pollachi, Coimbatore",Coimbatore,Tamil Nadu
+493,TN1989PC18,Maternal Grandfather,Velagapudi Ramakrishna,"Member, Indian Civil Service (ICS), Industrialist, held public advisory and government roles",1940s-1960s,Unknown,Unknown,Tamil Nadu
+494,AP1989PC34,,,,,,,
+495,AS1989PC10,,,,,,,
+496,OR1989PC13,Younger Brother,Gopinath Pradhani,First Zilla Parishad Chairman of Nabarangpur district,Unknown,Unknown,Nabarangpur,Odisha
+497,OR1989PC13,Nephew (Son of Gopinath Pradhani),Sadasiva Pradhani,"MLA, Nabarangpur Assembly Constituency (BJD)",2019,Nabarangpur,Nabarangpur,Odisha
+498,OR1989PC13,Nephew's Wife (Niece-in-law),Kaushalya Pradhani,"Contested MLA, Nabarangpur Assembly Constituency (BJD)",2024 (candidate),Nabarangpur,Nabarangpur,Odisha
+499,OR1989PC13,Grandson,Dilip Pradhani,"Congress Candidate & Panchayat Samiti Member, Patraput panchayat (Tentulikhunta Block)",Panchayat Member: Unknown; MLA candidate 2024,"Nabarangpur (Assembly), Patraput Panchayat (local)",Nabarangpur,Odisha
+500,AP1989PC18,Son,Mekapati Goutham Reddy,"Minister for Industries, Commerce, and Information Technology, Andhra Pradesh Legislative Assembly; MLA",2014-2022,Atmakur,Nellore,Andhra Pradesh
+501,AP1989PC18,Son,Mekapati Vikram Reddy,"Member, Andhra Pradesh Legislative Assembly; MLA (elected in by-election following Goutham Reddy's death)",2022-Present,Atmakur,Nellore,Andhra Pradesh
+502,MH1989PC36,Father,Tulsiram Dashrath Kamble,"Member of Parliament, Lok Sabha",1962–1977,Latur,Latur,Maharashtra
+503,KL1989PC08,,,,,,,
+504,DL1989PC03,Son,Devender Singh Shokeen,"Member of Legislative Assembly (MLA), Delhi",1998-2003,Nangloi Jat,West Delhi,Delhi
+505,MN1989PC02,,,,,,,
+506,UP1989PC40,Son,Vijender Pal (Babli) Yadav,"Contested as BSP candidate for Vidhan Sabha, later expelled from BSP, active in Padrauna region politics","Expelled in 2021, active during 2010s/2020s",Padrauna (Vidhan Sabha),Kushinagar,Uttar Pradesh
+507,BR1989PC54,Son,Rakesh Paswan,"Central Member, Jharkhand Mukti Morcha (JMM)",Unknown,Unknown,Unknown,Jharkhand
+508,BR1989PC54,Son,Rajesh Roshan,"Vice-President, RJD Youth, Palamu District",Unknown,Unknown,Palamu,Jharkhand
+509,TN1989PC22,Son,K. S. N. Venugopalu,"Member of Legislative Assembly (MLA), Palani",2011-2016,Palani,Dindigul,Tamil Nadu
+510,KL1989PC07,Spouse,R. Bindu,"Minister for Higher Education and Social Justice, Government of Kerala; Former Mayor of Thrissur Municipal Corporation","2021–present (Minister), 2015–2020 (Mayor, approximate)",Irrespective of constituency as Minister; Thrissur Municipal Corporation (as Mayor),Thrissur,Kerala
+511,GA1989PC01,,,,,,,
+512,WB1989PC29,Spouse,Biswanath Mukherjee,"Member, Communist Party of India leader and West Bengal political figure",1940s-1990s,Unknown,Unknown,West Bengal
+513,WB1989PC29,Younger Brother,Indrajit Gupta,"Member of Parliament, Union Home Minister, senior CPI leader",1960-2001,Basirhat,North 24 Parganas,West Bengal
+514,MH1989PC31,,,,,,,
+515,AP1989PC02,Brother,Satrucharla Chandrasekhar Raju,"Political leader, held influence in Kurupam; joined YSRC after Congress; no record of electoral win but active in politics","Active till 2019, deceased","Kurupam (influence and organizational activity, not election to office found)",Vizianagaram,Andhra Pradesh
+516,AP1989PC02,Nephew,Janardhan Dattaraj,"TDP Leader, contested elections","Up to 2019, deceased",Kurupam (contested),Vizianagaram,Andhra Pradesh
+517,AP1989PC02,Daughter-in-law,Pamula Pushpa Srivani,"MLA, Deputy Chief Minister and Tribal Welfare Minister (Andhra Pradesh Cabinet, YSR Congress Party)","2014–present (MLA, Minister from 2019–2022)",Kurupam,Vizianagaram,Andhra Pradesh
+518,GJ1989PC13,,,,,,,
+519,PB1989PC08,,,,,,,
+520,BR1989PC35,,,,,,,
+521,AP1989PC36,Son,G. Vivekanand (also known as G. Vivek Venkatswamy),"Member of Parliament (Lok Sabha), Minister (Telangana state government), MLA (Chennur)","MP 2009–2014, MLA 2023–present","Peddapalli (Lok Sabha), Chennur (Assembly)","Peddapalli (MP), Mancherial (MLA)",Telangana
+522,AP1989PC36,Son,G. Vinod Kumar,"MLA, Minister (Andhra Pradesh state government)","MLA 2004–2009, Minister 2004–2009",Bellampalli (Assembly),Mancherial,Telangana
+523,AP1989PC36,Grandson,G. Vamsi Krishna,Member of Parliament (Lok Sabha),2024–present,Peddapalli (Lok Sabha),Peddapalli,Telangana
+524,TN1989PC28,,,,,,,
+525,TN1989PC25,,,,,,,
+526,PB1989PC05,,,,,,,
+527,OR1989PC15,,,,,,,
+528,UP1989PC55,,,,,,,
+529,UP1989PC13,Husband,Sanjay Gandhi,"Member of Parliament, Lok Sabha; influential Congress leader; founder of Congress (I) youth wing",1977-1980,Amethi,Amethi,Uttar Pradesh
+530,UP1989PC13,Son,Varun Gandhi,"Member of Parliament, Lok Sabha",2009-present,Pilibhit and Sultanpur,Pilibhit/Sultanpur,Uttar Pradesh
+531,UP1989PC13,Mother-in-law,Indira Gandhi,"Prime Minister of India, Member of Parliament, Lok Sabha",1966-1977; 1980-1984,Rae Bareli,Rae Bareli,Uttar Pradesh
+532,UP1989PC13,Brother-in-law,Rajiv Gandhi,"Prime Minister of India, Member of Parliament, Lok Sabha","1984-1989 (PM), 1981-1991 (MP)",Amethi,Amethi,Uttar Pradesh
+533,UP1989PC13,Father-in-law,Feroze Gandhi,"Member of Parliament, Lok Sabha",1952-1960,Rae Bareli,Rae Bareli,Uttar Pradesh
+534,UP1989PC13,Nephew (by marriage),Rahul Gandhi,"Member of Parliament, Lok Sabha",2004-present,Amethi and Wayanad,Amethi/Wayanad,Uttar Pradesh/Kerala
+535,UP1989PC13,Niece (by marriage),Priyanka Gandhi Vadra,"Congress General Secretary, Contested elections in 2024","2019-present (Gen. Sec.), 2024 (contested)",Rae Bareli (contested 2024),Rae Bareli,Uttar Pradesh
+536,TN1989PC21,,,,,,,
+537,PY1989PC01,,,,,,,
+538,KL1989PC06,,,,,,,
+539,GJ1989PC05,,,,,,,
+540,UP1989PC24,Daughter,Ratna Singh,"Member of Parliament, Lok Sabha","1996-1998, 1999-2004, 2009-2014",Pratapgarh,Pratapgarh,Uttar Pradesh
+541,UP1989PC24,Uncle,Brajesh Singh,"Contested Lok Sabha seat, Involved in Indian communist politics",Unknown,Unknown,Unknown,Uttar Pradesh
+542,TN1989PC32,,,,,,,
+543,MH1989PC42,Father,Narhar Vishnu Gadgil,"Union Minister (Power, Public Works, Mines), MP, Governor of Punjab","1947-1950 (Minister), 1934 (Elected MLA), 1958-1962 (Governor)",Unknown,Unknown,"Maharashtra, Punjab"
+544,MH1989PC42,Son,Anant Gadgil,"Spokesperson, Maharashtra Pradesh Congress Committee; MLC (Legislative Council Maharashtra)",2014-2020 (MLC),Maharashtra Legislative Council (MLC from Mumbai Graduates),Mumbai,Maharashtra
+545,OR1989PC08,Son,Bijayshree Routray,"MLA (Member of Legislative Assembly), Odisha; State Minister (Health, Forest & Environment) in Odisha Government",Six terms as MLA from 1990s to 2019; Minister in BJD government,Basudevpur,Bhadrak,Odisha
+546,BR1989PC24,Son,Sarfaraz Alam,MLA (Jokihat); MP (Araria),"MLA: 1996-2005, 2010-2015, 2015-2018; MP: 2018-2019",Jokihat (MLA); Araria (MP),Araria,Bihar
+547,BR1989PC24,Son,Shahnawaz Alam,MLA (Jokihat),2020-2025,Jokihat,Araria,Bihar
+548,WB1989PC34,,,,,,,
+549,KL1989PC18,Spouse,Usha Krishna Kumar,"General Secretary, All India Mahila Congress",Unknown,Not applicable,Not applicable,All India
+550,KA1989PC03,,,,,,,
+551,MP1989PC13,,,,,,,
+552,AP1989PC08,,,,,,,
+553,MH1989PC01,Spouse,Pramila Dandavate,Member of 7th Lok Sabha,1980-1984,Mumbai North Central,Mumbai,Maharashtra
+554,GJ1989PC04,,,,,,,
+555,BR1989PC26,Son,Dinesh William Marandi,"Member, Jharkhand Legislative Assembly (MLA), Litipara",2019–present,Litipara,Pakur,Jharkhand
+556,BR1989PC26,Spouse,Sushila Hansda,"Member, Bihar/Jharkhand Legislative Assembly (MLA), Litipara",1990–2009,Litipara,Pakur,"Bihar (till 2000), Jharkhand (after 2000)"
+557,MP1989PC22,,,,,,,
+558,TN1989PC34,,,,,,,
+559,UP1989PC08,Spouse,Noor Bano Begum,"Member of Parliament (Lok Sabha), Rampur (1996, 1999)","1996-1998, 1999-2004",Rampur,Rampur,Uttar Pradesh
+560,UP1989PC08,Son,Kazim Ali Khan,"Member of Legislative Assembly (MLA), Uttar Pradesh (Suar-Tanda and Rampur constituencies); Cabinet Minister, Uttar Pradesh",2002-2017 (multiple terms),"Suar-Tanda, Rampur",Rampur,Uttar Pradesh
+561,MH1989PC22,Son,P.V. Ranga Rao,"Minister for Education, Andhra Pradesh; MLA, Musheerabad",1980s–1994,Musheerabad,Hyderabad,Andhra Pradesh
+562,MH1989PC22,Son,P.V. Rajeshwar Rao,"Member of Parliament, Lok Sabha",1996–1998,Secunderabad,Hyderabad,Andhra Pradesh (now Telangana)
+563,MH1989PC22,Daughter,Surabhi Vani Devi,"Member, Telangana Legislative Council",2021–present,MLC (MLA quota),Hyderabad,Telangana
+564,MH1989PC22,Grandson,N.V. Subhash,"Spokesperson, BJP Telangana; Contested 2018 Telangana Assembly Election (Jubilee Hills)",2018 (contested),Jubilee Hills,Hyderabad,Telangana
+565,BR1989PC49,Brother,Sushil Kant Sahay,"Contested Lok Sabha elections (allegations of receiving coal mine allocation due to brother's influence, but no evidence confirms election win or holding public office)",Contested in 2014,Ranchi,Ranchi,Jharkhand
+566,TN1989PC15,,,,,,,
+567,MH1989PC02,Son,Shekhar Govindrao Nikam,"Member of Legislative Assembly (MLA), Ratnagiri District, Maharashtra (Chiplun Constituency) - Nationalist Congress Party (NCP)",2019,Chiplun,Ratnagiri,Maharashtra
+568,MP1989PC09,,,,,,,
+569,UP1989PC53,,,,,,,
+570,HR1989PC05,Son,Om Prakash Chautala,"Chief Minister of Haryana (4 terms), MLA, MP",1989-2005 (multiple terms),"Multiple (Narni, Uchana Kalan, Rori, etc.)","Various (Jind, Sirsa, Fatehabad, etc.)",Haryana
+571,HR1989PC05,Son,Ranjit Singh Chautala,"Agriculture Minister (Haryana), MLA, MP","1987–1989; MLA 2019–present, various terms",Rania (for MLA),Sirsa,Haryana
+572,HR1989PC05,Grandson,Ajay Singh Chautala,"MP, MLA",1987–2014 (various terms),"Dabwali, Rori, Bhiwani (for MLA); MP from Bhiwani and Kurukshetra","Sirsa, Bhiwani, Kurukshetra",Haryana
+573,HR1989PC05,Grandson,Abhay Singh Chautala,"MLA (several terms), Leader of Opposition, INLD chief",2000–present (various terms),Ellenabad,Sirsa,Haryana
+574,HR1989PC05,Grandson,Dushyant Chautala,"Deputy Chief Minister of Haryana, MP",MP: 2014-2019; Deputy CM: 2019-2024,Hisar (MP); Uchana Kalan (MLA),"Hisar, Jind",Haryana
+575,HR1989PC05,Grandson,Digvijay Chautala,Contested Assembly elections,2019,Dabwali,Sirsa,Haryana
+576,HR1989PC05,Granddaughter-in-law,Naina Singh Chautala,MLA,2014–present,Dabwali,Sirsa,Haryana
+577,HR1989PC05,Great-grandson,Arjun Chautala,MLA,2024–present,Rania,Sirsa,Haryana
+578,HR1989PC05,Grandson (by cousin),Aditya Devi Lal,MLA,2024–present,Dabwali,Sirsa,Haryana
+579,PB1989PC07,Father-in-law,Sucha Singh,"Member of Parliament, Lok Sabha",1989-1991,Bathinda,Bathinda,Punjab
+580,PB1989PC07,Son,Sarabjeet Singh Khalsa,"Member of Parliament, Lok Sabha",2024-Present,Faridkot,Faridkot,Punjab
+581,BR1989PC16,,,,,,,
+582,GJ1989PC15,,,,,,,
+583,MP1989PC05,Brother,Uttamchand Khatik,Former MLA,Unknown,Unknown,Unknown,Madhya Pradesh
+584,UP1989PC84,Nephew,Imran Masood,"Member of Uttar Pradesh Legislative Assembly (MLA), Chairman of Saharanpur Nagar Palika Parishad, Lok Sabha candidate, State Vice President INC UP, National Secretary AICC",2006-Present (various roles),"Muzaffarabad (now Behat), Saharanpur Nagar Palika Parishad, Saharanpur Lok Sabha",Saharanpur,Uttar Pradesh
+585,UP1989PC84,Niece-in-law (Wife of Nephew),Saima Masood,"Mayoral candidate, Contested Saharanpur Mayor election (BSP)",2023,Saharanpur Municipal,Saharanpur,Uttar Pradesh
+586,BR1989PC20,,,,,,,
+587,UP1989PC49,,,,,,,
+588,TN1989PC16,Father,Mohan Kumaramangalam,"Union Minister for Steel and Mines, Member of Parliament (Lok Sabha) for Pondicherry, Advocate-General for Madras State","1971–1973 (Union Minister), 1971–1972 (Lok Sabha), 1966–1967 (Advocate-General)",Pondicherry,Puducherry,Union Territory of Puducherry
+589,TN1989PC16,Grandfather,P. Subbarayan,"Chief Minister of Madras Presidency, Union Minister, Governor of Maharashtra","1925–1930 (Chief Minister), Various (Minister/Governor)",Unknown,Unknown,Madras Presidency/Maharashtra
+590,TN1989PC16,Aunt (Paternal),Lalitha Kumaramangalam,"BJP leader, Former Chairperson National Commission for Women, Contested Lok Sabha seat","2014–2018 (NCW), Contested 2004, 2014","Puducherry (contested), not elected",Puducherry,Union Territory of Puducherry
+591,TN1989PC16,Cousin (Mother's side),Ajoy Mukherjee,Chief Minister of West Bengal,1967–1971,Unknown,Unknown,West Bengal
+592,TN1989PC16,Cousin (Mother's side),Biswanath Mukherjee,"Communist leader, parliamentarian (Lok Sabha)",Multiple terms between 1952–1980s,Unknown,Unknown,West Bengal
+593,UP1989PC42,Son,Ravindra Kushawaha,"Member of Parliament, Lok Sabha",2014–2024,Salempur,Deoria,Uttar Pradesh
+594,RJ1989PC17,Son,Hemant Meena,"Revenue Minister, Rajasthan Government",2023–present,Unknown,Unknown,Rajasthan
+595,RJ1989PC17,Wife,Sumitra Meena,District Chief of Chittorgarh (Zila Pramukh),Unknown,Chittorgarh,Chittorgarh,Rajasthan
+596,RJ1989PC17,Daughter-in-law,Sarika Meena,District Chief of Chittorgarh (Zila Pramukh),Unknown,Chittorgarh,Chittorgarh,Rajasthan
+597,BR1989PC17,,,,,,,
+598,OR1989PC17,,,,,,,
+599,UP1989PC09,,,,,,,
+600,MH1989PC46,Father,Vasantdada Patil,"Chief Minister of Maharashtra, Member of Legislative Assembly (multiple terms), Member of Parliament","1967-1968, 1977-1978, 1983-1985 (CM); 1952-1984 (MLA); 1984-1987 (MP)",Sangli,Sangli,Maharashtra
+601,MH1989PC46,Son,Pratik Prakashbapu Patil,"Member of Parliament (Lok Sabha), Minister of State (Union Govt)",2006-2014 (MP) and Minister of State terms,Sangli,Sangli,Maharashtra
+602,MH1989PC46,Son,Vishal Prakashbapu Patil,Member of Parliament (Lok Sabha),2024-present,Sangli,Sangli,Maharashtra
+603,MH1989PC46,Granddaughter-in-law,Jayashree Patil,"BJP Member, Contested Lok Sabha Election (2024)",2024,Sangli,Sangli,Maharashtra
+604,PB1989PC10,,,,,,,
+605,MP1989PC16,,,,,,,
+606,BR1989PC38,,,,,,,
+607,MH1989PC44,Son,Madan Prataprao Bhosale,Member of Legislative Assembly (MLA) - Wai; Contested Parliamentary (Satara) and Assembly Elections,"2009-2014 (MLA, Wai); Contested LS and MLA elections 2014, 2019","Wai (Assembly), Satara (Lok Sabha)",Satara,Maharashtra
+608,MP1989PC08,,,,,,,
+609,RJ1989PC11,Spouse,Golma Devi Meena,"MLA and Minister, Government of Rajasthan","2008–2013 (MLA, Mahwa constituency), Minister of State for Government of Rajasthan (Congress), 2008–2009",Mahwa,Dausa,Rajasthan
+610,RJ1989PC11,Son,Rajendra Meena,Politician; contested Assembly elections,Contested 2018,Lalsot,Dausa,Rajasthan
+611,RJ1989PC11,Brother,Kanhaiya Lal Meena,Politician; contested Assembly elections,Contested 2013,Sikrai,Dausa,Rajasthan
+612,RJ1989PC11,Brother,Jagmohan Meena,Politician; contested Assembly elections,Contested 2018,Bandikui,Dausa,Rajasthan
+613,AP1989PC31,Spouse,Tanguturi Anjaiah,"Chief Minister of Andhra Pradesh, Member of Parliament (Lok Sabha)","1980-1982 (CM), various Lok Sabha terms",Secunderabad,Secunderabad,Andhra Pradesh
+614,MP1989PC26,Brother,Jalam Singh Patel,Member of Madhya Pradesh Legislative Assembly (MLA),2013–present,Narsinghpur,Narsinghpur,Madhya Pradesh
+615,WB1989PC26,,,,,,,
+616,UP1989PC16,,,,,,,
+617,MP1989PC11,,,,,,,
+618,UP1989PC14,,,,,,,
+619,MP1989PC33,,,,,,,
+620,BR1989PC12,,,,,,,
+621,ML1989PC01,Daughter,Ampareen Lyngdoh,"Member of Legislative Assembly, Cabinet Minister, Government of Meghalaya",2008–present,"East Shillong, Laitumkhrah (previously)",East Khasi Hills,Meghalaya
+622,ML1989PC01,Son,Robert Garnett Lyngdoh,"Member of Legislative Assembly, Home Minister, Government of Meghalaya",1998–2013,Laitumkhrah,East Khasi Hills,Meghalaya
+623,KA1989PC21,,,,,,,
+624,MH1989PC37,,,,,,,
+625,AP1989PC32,,,,,,,
+626,MP1989PC10,,,,,,,
+627,RJ1989PC05,Son,Om Prakash Chautala,"Chief Minister of Haryana (multiple terms), Member of Legislative Assembly","1989, 1990-91, 1991, 1999-2005","Various (Uklana, Narwana, Rori, Ellenabad)","Various (Hisar, Jind, Sirsa)",Haryana
+628,RJ1989PC05,Son,Ranjit Singh Chautala,"Cabinet Minister, Government of Haryana; Member of Legislative Assembly; Former Member of Parliament","1987-1991, 2000, 2019-present","Rori, Rania, Hisar (MP)","Sirsa, Hisar",Haryana
+629,RJ1989PC05,Grandson,Ajay Singh Chautala,"Member of Parliament (Lok Sabha and Rajya Sabha), Member of Legislative Assembly",1990-2013,"Dabwali, Rori (Vidhan Sabha), Bhiwani (Lok Sabha), Rajya Sabha (Haryana)","Sirsa, Bhiwani",Haryana
+630,RJ1989PC05,Grandson,Abhay Singh Chautala,"Member of Legislative Assembly (Haryana), Leader of Opposition",2000-present,Ellenabad,Sirsa,Haryana
+631,RJ1989PC05,Granddaughter-in-law,Naina Singh Chautala,Member of Legislative Assembly (Haryana),2014-present,Dabwali,Sirsa,Haryana
+632,RJ1989PC05,Great-grandson,Dushyant Chautala,"Deputy Chief Minister of Haryana, Member of Parliament (Lok Sabha)",2014-present,"Hisar (Lok Sabha), Uchana Kalan","Hisar, Jind",Haryana
+633,SK1989PC01,,,,,,,
+634,AS1989PC02,,,,,,,
+635,HP1989PC01,Son,Vinod Sultanpuri,"Member, Himachal Pradesh Legislative Assembly (MLA), Kasauli",2022-present,Kasauli,Solan,Himachal Pradesh
+636,BR1989PC51,,,,,,,
+637,HR1989PC10,,,,,,,
+638,BR1989PC11,Son,Ashok Kumar Yadav,"Member of Parliament, Lok Sabha",2019-present,Madhubani,Madhubani,Bihar
+639,UP1989PC17,Son,Ashok Bajpai,"Member of the Legislative Assembly, Uttar Pradesh (multiple terms, Pihani constituency); Member of Rajya Sabha (2018–present)","MLA: 1977–1980, 1980–1985, 1985–1989, 1989–1991, 1996–2002, 2007–2012; Rajya Sabha: 2018–present",Pihani (MLA); Rajya Sabha (Member for Uttar Pradesh),Hardoi (MLA terms),Uttar Pradesh
+640,UP1989PC17,Daughter-in-law,Dr Ranjana Bajpai,"President, Uttar Pradesh Mahila Congress (circa 1999); later National President, Samajwadi Party Mahila Sabha","President, UP Mahila Congress: 1990s; President, SP Mahila Sabha: ca. 2010s–2020s",Unknown,Unknown,Uttar Pradesh
+641,UP1989PC17,Grandson,Harshvardhan Bajpai,"Member of the Legislative Assembly, Uttar Pradesh (Allahabad North, Bharatiya Janata Party)",2017–present,Allahabad North,Prayagraj,Uttar Pradesh
+642,UP1989PC17,Maternal Granduncle,Shyama Charan Shukla,"Chief Minister of Madhya Pradesh (three terms), Member of Parliament","Chief Minister: 1969–1972, 1975–1977, 1989–1990; MP, various years","Kotma, Indore, and others (various terms)",Various (Madhya Pradesh),Madhya Pradesh
+643,UP1989PC17,Maternal Granduncle,Vidya Charan Shukla,"Union Minister, Member of Lok Sabha","Ministerial roles: multiple stints 1960s–2000s, Lok Sabha: 1957–1984, 1991–1996, 1999–2004","Raipur, Mahasamund, Kanker",Various (now Chhattisgarh/Madhya Pradesh),Madhya Pradesh/Chhattisgarh
+644,UP1989PC17,Maternal Grandfather,Ravi Shankar Shukla,Premier of Central Provinces and Berar; first Chief Minister of Madhya Pradesh,"Premier: 1937–1939, 1946–1950; CM: 1956–1957",Chhattisgarh (various segments),Raipur,Madhya Pradesh
+645,TN1989PC33,Son,Karti Chidambaram,"Member of Parliament, Lok Sabha","2019–present, contested 2014, 2019, 2024",Sivaganga,Sivaganga,Tamil Nadu
+646,TN1989PC35,Son-in-law,Seeman,"Chief Coordinator and party head, Naam Tamilar Katchi; Former Member of the Tamil Nadu Legislative Assembly (nomination); Contested Lok Sabha and Assembly elections",2009-present (as party head); Contested multiple elections since 2011,"Multiple (including Tiruvallur, Thiruvottiyur, and others)",Various,Tamil Nadu
+647,TN1989PC35,Daughter,Kayalvizhi Seeman,"Active campaigner and party figure, Naam Tamilar Katchi",2015-present,"Various (campaign roles, not elected office as of 2024)",Various,Tamil Nadu
+648,BR1989PC05,,,,,,,
+649,HR1989PC04,,,,,,,
+650,DL1989PC02,Son,Harish Khurana,Member of Delhi Legislative Assembly (MLA),2025 Onwards,Moti Nagar,West Delhi,Delhi
+651,AP1989PC01,,,,,,,
+652,JK1989PC02,Daughter,Hina Shafi Bhat,"Contested Jammu & Kashmir Legislative Assembly (Amira Kadal) as BJP Candidate; Former Vice-chairperson, Khadi and Village Industries Board (KVIB), J&K",Contested 2014; KVIB role 2015-2024,"Amira Kadal (Assembly), Not elected",Srinagar,Jammu & Kashmir
+653,UP1989PC26,,,,,,,
+654,OR1989PC20,,,,,,,
+655,GJ1989PC24,,,,,,,
+656,GJ1989PC02,,,,,,,
+657,MP1989PC12,,,,,,,
+658,WB1989PC30,,,,,,,
+659,PB1989PC03,Father,Joginder Singh Mann,"Speaker, Punjab Vidhan Sabha",1967,Unknown,Unknown,Punjab
+660,PB1989PC03,Son,Emaan Singh Mann,"Contested MLA, Sirhind Assembly (Punjab), 2022",Contested 2022,Sirhind,Fatehgarh Sahib,Punjab
+661,UP1989PC01,,,,,,,
+662,AP1989PC14,,,,,,,
+663,TN1989PC37,,,,,,,
+664,AS1989PC09,,,,,,,
+665,MH1989PC10,,,,,,,
+666,TN1989PC31,,,,,,,
+667,TN1989PC10,,,,,,,
+668,TN1989PC38,,,,,,,
+669,TN1989PC17,,,,,,,
+670,TN1989PC27,,,,,,,
+671,TN1989PC36,,,,,,,
+672,AP1989PC20,,,,,,,
+673,RJ1989PC13,,,,,,,
+674,TR1989PC02,Father,Kirit Bikram Kishore Deb Barman,"Member of Parliament (Tripura East, Lok Sabha)","1967–1971, 1977–1979, 1989–1991",Tripura East,Unknown,Tripura
+675,TR1989PC02,Mother,Bibhu Kumari Devi,"Member of Legislative Assembly, Revenue Minister","1991 (MP), Revenue Minister term: Unknown",Unknown,Unknown,Tripura
+676,TR1989PC02,Sister,Kumari Pragya Debbarma,"Contested for Lok Sabha, Tripura East (2019)",2019,Tripura East,Unknown,Tripura
+677,TR1989PC01,Daughter,Sushmita Dev,"Member of Parliament, Lok Sabha (2014-2019), Member of Parliament, Rajya Sabha (2021-present), President of All India Mahila Congress (2017-2021), Chairperson of Silchar Municipal Board (2009-2014), Member, Assam Legislative Assembly (2011-2014)",2009-present,"Silchar (Lok Sabha), Assam Legislative Assembly (Silchar), Rajya Sabha (West Bengal)",Cachar,Assam/West Bengal
+678,TR1989PC01,Spouse,Bithika Dev,Member of Assam Legislative Assembly from Silchar,Unknown (up to May 2011),Silchar,Cachar,Assam
+679,KL1989PC20,,,,,,,
+680,KA1989PC08,Son,G.B. Jyothi Ganesh,Member of Legislative Assembly (MLA),2018–present,Tumkur City,Tumkur,Karnataka
+681,ML1989PC02,,,,,,,
+682,RJ1989PC18,,,,,,,
+683,JK1989PC05,,,,,,,
+684,KA1989PC18,,,,,,,
+685,MP1989PC38,,,,,,,
+686,WB1989PC25,,,,,,,
+687,UP1989PC22,,,,,,,
+688,BR1989PC09,Spouse,Birendra Kumar Singh,"Member of Bihar Legislative Assembly, Paroo Constituency",1989-1990,Paroo,Muzaffarpur,Bihar
+689,TN1989PC09,,,,,,,
+690,UP1989PC52,Father,Lal Bahadur Shastri,"Prime Minister of India, Member of Parliament (Lok Sabha)","1964-1966 (PM), Various years as MP","Allahabad (Lok Sabha, among others)",Prayagraj,Uttar Pradesh
+691,UP1989PC52,Son,Adarsh Shastri,"Member of Legislative Assembly (Delhi), Contested Lok Sabha Election (Allahabad)","2015-2020 (MLA, Delhi), Contested 2014 (Lok Sabha, Allahabad)","Dwarka (Delhi Assembly), Allahabad (Lok Sabha, contest)","South West Delhi (Dwarka), Prayagraj (Allahabad)","Delhi, Uttar Pradesh"
+692,UP1989PC52,Brother,Sunil Shastri,"Member, Bharatiya Janata Party (BJP), Former Minister of State, Govt of India","1990s (Minister of State, Coal; BJP office bearer, various)","N/A (held party posts and ministerships, not directly elected MP/MLA)",N/A,"Uttar Pradesh (origin), National (BJP)"
+693,UP1989PC52,Cousin,Vibhakar Shastri,"Former Member, Indian National Congress; Shifted to Bharatiya Janata Party, Contested as MLC (UP)","Contested 2022 (UP MLC), Active since 2000s",Prayagraj (UP MLC election),Prayagraj,Uttar Pradesh
+694,TN1989PC07,,,,,,,
+695,MP1989PC31,Daughter,Unknown,"BJP Worker, Aspirant MLA Candidate",N/A,Shamshabad (potential),Vidisha,Madhya Pradesh
+696,AP1989PC13,,,,,,,
+697,AP1989PC04,Former Husband,Pusapati Ananda Gajapathi Raju,"Member of Andhra Pradesh Legislative Assembly; Minister for Education and Health in Andhra Pradesh; Member of Parliament (Lok Sabha, Bobbili)","MLA: 1983-1985; Minister: 1983-1989; MP: 1984-1989, 1991-1996","Bhimunipatnam (MLA), Bobbili (MP)","Visakhapatnam, Vizianagaram",Andhra Pradesh
+698,AP1989PC04,Daughter,Sanchaita Gajapathi Raju,"Spokesperson, BJP Delhi Unit; Chairperson, Simhachalam Temple Trust Board and MANSAS Trust",BJP Spokesperson: 2018; Chairperson: 2020-2021,Unknown,Visakhapatnam,Andhra Pradesh
+699,AP1989PC04,Brother-in-law (former husband’s brother),Pusapati Ashok Gajapathi Raju,"Member of Parliament (Lok Sabha); Union Minister for Civil Aviation; MLA, Andhra Pradesh",MP: 1977-2019; Minister: 2014-2018; MLA: multiple terms from 1978,"Vizianagaram (Lok Sabha), Andhra Pradesh Assembly seats",Vizianagaram,Andhra Pradesh
+700,AP1989PC04,Father-in-law (former husband’s father),Pusapati Vijayarama Gajapati Raju,Member of Parliament (Lok Sabha); Member of Legislative Assembly (Andhra Pradesh),Parliament: 1952-1977 (five terms); MLA: four terms,"Vizianagaram, Bobbili",Vizianagaram,Andhra Pradesh
+701,WB1989PC36,,,,,,,
+702,AP1989PC39,Son,Ramasahayam Raghuram Reddy,"Member of Parliament, Lok Sabha (Khammam, 2024-present), Patron of Hyderabad Cricket Association (2011-2013)","2024-present (MP), 2011-2013 (HCA)",Khammam,Khammam,Telangana
+703,AP1989PC39,Cousin (Sister's Husband),Nukala Ramchandra Reddy,"Member of Legislative Assembly, Finance Minister in Andhra Pradesh cabinet, President PCC","1957-1972 (MLA Dornakal), 1972-1974 (Finance Minister)",Dornakal,Warangal,Andhra Pradesh
+704,MH1989PC27,,,,,,,
+705,MH1989PC20,,,,,,,
+706,MH1989PC28,Father,Deorao alias Bhausaheb Patil,"MLA from Darwha (1952, 1957), MP from Yavatmal (1962, 1967), Rajya Sabha MP (1974)","1952-1957, 1962-1967, 1974","Darwha (Vidhan Sabha), Yavatmal (Lok Sabha), Rajya Sabha",Yavatmal,Maharashtra

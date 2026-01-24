@@ -1,0 +1,20 @@
+{"UID": "GJ2024PC04", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "GJ2024PC26", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "JK2024PC02", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "MP2024PC08", "error": "JSONDecodeError(\"Expecting ',' delimiter: line 1 column 460 (char 459)\")"}
+{"UID": "MH2024PC48", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "MH2024PC32", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "MH2024PC46", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "MH2024PC44", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "OR2024PC06", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "OR2024PC11", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "OR2024PC15", "error": "JSONDecodeError('Extra data: line 22 column 1 (char 785)')"}
+{"UID": "PY2024PC01", "error": "KeyError('father/husband name')"}
+{"UID": "TG2024PC15", "error": "JSONDecodeError('Extra data: line 25 column 1 (char 1389)')"}
+{"UID": "UP2024PC55", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP2024PC10", "error": "JSONDecodeError('Extra data: line 30 column 1 (char 988)')"}
+{"UID": "UP2024PC80", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP2024PC01", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP2024PC33", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "WB2024PC10", "error": "JSONDecodeError('Extra data: line 20 column 1 (char 626)')"}
+{"UID": "WB2024PC21", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}

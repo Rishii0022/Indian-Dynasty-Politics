@@ -1,0 +1,32 @@
+{"UID": "UP1989PC32", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "MH1989PC34", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "KA1989PC20", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "DD1989PC01", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "WB1989PC04", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "KA1989PC06", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "OR1989PC18", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "OR1989PC19", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1989PC28", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "PB1989PC12", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "UP1989PC58", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "KA1989PC02", "error": "JSONDecodeError('Extra data: line 20 column 1 (char 430)')"}
+{"UID": "GJ1989PC16", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "MH1989PC40", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "OR1989PC12", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "KL1989PC13", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "GJ1989PC01", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "UP1989PC46", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "TN1989PC02", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "MP1989PC24", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "KA1989PC14", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "GJ1989PC12", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "RJ1989PC21", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "MH1989PC38", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "UP1989PC23", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "WB1989PC05", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "MP1989PC17", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "AP1989PC22", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "MP1989PC32", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "TN1989PC04", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "TN1989PC08", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "KL1989PC09", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}

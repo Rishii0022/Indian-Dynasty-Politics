@@ -1,0 +1,28 @@
+{"UID": "GJ1998PC20", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "WB1998PC28", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR1998PC36", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "UP1998PC32", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "WB1998PC13", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "KA1998PC28", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1998PC71", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1998PC68", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1998PC72", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "GJ1998PC11", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "BR1998PC43", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "TN1998PC19", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "KA1998PC19", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "BR1998PC48", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "MH1998PC29", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "WB1998PC27", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "PB1998PC06", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "BR1998PC14", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "WB1998PC33", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "BR1998PC06", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "MP1998PC18", "error": "JSONDecodeError('Extra data: line 30 column 1 (char 890)')"}
+{"UID": "UP1998PC07", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "AP1998PC22", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "MP1998PC32", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "BR1998PC17", "error": "JSONDecodeError('Extra data: line 30 column 1 (char 928)')"}
+{"UID": "BR1998PC12", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR1998PC05", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "TN1998PC27", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}

@@ -1,0 +1,27 @@
+{"UID": "WB1996PC28", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1996PC29", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "RJ1996PC02", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1996PC78", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "TN1996PC12", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "WB1996PC37", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "PB1996PC13", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1996PC33", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "KA1996PC19", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR1996PC48", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "MH1996PC29", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "WB1996PC27", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "UP1996PC48", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "PB1996PC04", "error": "JSONDecodeError('Extra data: line 21 column 1 (char 525)')"}
+{"UID": "BR1996PC53", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "TN1996PC02", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "MP1996PC18", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1996PC54", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1996PC07", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "MP1996PC32", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "PB1996PC07", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR1996PC17", "error": "JSONDecodeError('Extra data: line 29 column 1 (char 865)')"}
+{"UID": "RJ1996PC11", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1996PC14", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR1996PC12", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "RJ1996PC05", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR1996PC05", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}

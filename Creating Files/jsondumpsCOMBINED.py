@@ -37,6 +37,9 @@ for input_path in input_files:
     state_raw = filename.replace("sync_output_", "").replace(".jsonl", "")
 
     # ---------- OUTPUT FILES ----------
+
+    #Change names according to requirements
+
     family_csv  = os.path.join(family_folder,  f"{state_raw}AC_family_recent.csv")
     sources_csv = os.path.join(sources_folder, f"{state_raw}AC_sources_recent.csv")
     error_jsonl = os.path.join(error_folder,   f"{state_raw}AC_errors_recent.jsonl")

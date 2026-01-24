@@ -1,0 +1,15 @@
+{"UID": "UP1980PC56", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "UP1980PC81", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "MP1980PC28", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1980PC10", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "UP1980PC57", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "TN1980PC12", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR1980PC48", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "HR1980PC09", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "KL1980PC14", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "GJ1980PC03", "error": "JSONDecodeError('Extra data: line 22 column 1 (char 806)')"}
+{"UID": "BR1980PC50", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "PB1980PC04", "error": "JSONDecodeError('Extra data: line 33 column 1 (char 940)')"}
+{"UID": "DL1980PC03", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "KL1980PC07", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR1980PC24", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
