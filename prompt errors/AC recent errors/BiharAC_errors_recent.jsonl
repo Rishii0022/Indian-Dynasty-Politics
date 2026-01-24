@@ -1,0 +1,6 @@
+{"UID": "BR2025AC52", "error": "JSONDecodeError('Extra data: line 40 column 1 (char 1170)')"}
+{"UID": "BR2025AC62", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR2025AC93", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR2025AC150", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR2025AC178", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "BR2025AC209", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}

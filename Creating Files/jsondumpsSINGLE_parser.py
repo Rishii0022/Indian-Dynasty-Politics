@@ -4,13 +4,13 @@ import csv
 # ====== FILE PATHS ======
 
 # Existing input files
-input_jsonl = r"C:\Users\Rishi\Desktop\final dashboard\outputAC_jsonl_batch\sync_output_AndhraPradesh.jsonl"
+input_jsonl = r"C:\Users\Rishi\Desktop\final dashboard\outputAC_jsonl_batch\sync_output_nagaland.jsonl"
 
 # created output files
-family_csv = r"C:\Users\Rishi\Desktop\final dashboard\Final parsed tables\family tables(AC recent)\AndhraPradeshAC_family_recent.csv"
-sources_csv = r"C:\Users\Rishi\Desktop\final dashboard\Final parsed tables\Sources tables(AC recent)\AndhraPradeshAC_sources_recent.csv"
-error_jsonl = r"C:\Users\Rishi\Desktop\final dashboard\prompt errors\AC recent errors\AndhraPradeshAC_errors_recent.jsonl"
-log_file = r"C:\Users\Rishi\Desktop\final dashboard\log data tables\AC recent logs\AndhraPradeshAC_logs_recent.txt"
+family_csv = r"C:\Users\Rishi\Desktop\final dashboard\Final parsed tables\family tables(AC recent)\NagalandAC_family_recent.csv"
+sources_csv = r"C:\Users\Rishi\Desktop\final dashboard\Final parsed tables\Sources tables(AC recent)\NagalandAC_sources_recent.csv"
+error_jsonl = r"C:\Users\Rishi\Desktop\final dashboard\prompt errors\AC recent errors\NagalandAC_errors_recent.jsonl"
+log_file = r"C:\Users\Rishi\Desktop\final dashboard\log data tables\AC recent logs\NagalandAC_logs_recent.txt"
 
 # ====== CSV HEADERS ======
 family_fields = [

@@ -1,0 +1,6 @@
+{"UID": "HR2024AC15", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "HR2024AC51", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}
+{"UID": "HR2024AC52", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "HR2024AC56", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "HR2024AC60", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "HR2024AC65", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}

@@ -1,0 +1,44 @@
+[LINE 1] UID=GA2022AC01 | family_rows=1 | sources_rows=4
+[LINE 2] UID=GA2022AC02 | family_rows=1 | sources_rows=5
+[LINE 3] UID=GA2022AC03 | family_rows=1 | sources_rows=5
+[LINE 4] UID=GA2022AC04 | family_rows=1 | sources_rows=3
+[LINE 5] UID=GA2022AC05 | family_rows=1 | sources_rows=3
+[LINE 6] UID=GA2022AC06 | family_rows=2 | sources_rows=3
+[LINE 7] UID=GA2022AC07 | family_rows=1 | sources_rows=5
+[LINE 8] UID=GA2022AC08 | family_rows=1 | sources_rows=4
+[LINE 9] UID=GA2022AC09 | family_rows=1 | sources_rows=4
+[LINE 10] UID=GA2022AC10 | family_rows=1 | sources_rows=4
+[LINE 11] UID=GA2022AC11 | family_rows=1 | sources_rows=3
+[LINE 12] UID=GA2022AC12 | family_rows=1 | sources_rows=5
+[LINE 13] UID=GA2022AC13 | family_rows=1 | sources_rows=3
+[LINE 14] UID=GA2022AC14 | family_rows=1 | sources_rows=4
+[LINE 15] UID=GA2022AC15 | family_rows=1 | sources_rows=5
+[LINE 16] UID=GA2022AC16 | family_rows=1 | sources_rows=2
+[LINE 17] UID=GA2022AC17 | family_rows=1 | sources_rows=4
+[LINE 18] UID=GA2022AC18 | family_rows=2 | sources_rows=5
+[LINE 19] UID=GA2022AC19 | family_rows=2 | sources_rows=4
+[LINE 20] UID=GA2022AC20 | family_rows=1 | sources_rows=4
+[LINE 21] UID=GA2022AC21 | family_rows=2 | sources_rows=4
+[LINE 22] UID=GA2022AC22 | family_rows=4 | sources_rows=2
+[LINE 23] UID=GA2022AC23 | family_rows=1 | sources_rows=4
+[LINE 24] UID=GA2022AC24 | family_rows=1 | sources_rows=3
+[LINE 25] UID=GA2022AC25 | family_rows=1 | sources_rows=3
+[LINE 26] UID=GA2022AC26 | family_rows=1 | sources_rows=4
+[LINE 27] UID=GA2022AC27 | family_rows=1 | sources_rows=3
+[LINE 28] UID=GA2022AC28 | family_rows=1 | sources_rows=5
+[LINE 29] UID=GA2022AC29 | family_rows=1 | sources_rows=4
+[LINE 30] UID=GA2022AC30 | family_rows=1 | sources_rows=2
+[LINE 31] UID=GA2022AC31 | family_rows=1 | sources_rows=4
+[LINE 32] UID=GA2022AC32 | family_rows=1 | sources_rows=4
+[LINE 33] UID=GA2022AC33 | family_rows=1 | sources_rows=4
+[LINE 34] UID=GA2022AC34 | family_rows=4 | sources_rows=4
+[LINE 35] UID=GA2022AC35 | family_rows=1 | sources_rows=3
+[LINE 36] UID=GA2022AC36 | family_rows=1 | sources_rows=3
+[LINE 37] UID=GA2022AC37 | family_rows=1 | sources_rows=5
+[LINE 38] UID=GA2022AC38 | family_rows=1 | sources_rows=3
+[LINE 39] UID=GA2022AC39 | family_rows=1 | sources_rows=4
+[LINE 40] UID=GA2022AC40 | family_rows=1 | sources_rows=3
+
+PROCESSING COMPLETE
+Total family rows: 50
+Total source rows: 150

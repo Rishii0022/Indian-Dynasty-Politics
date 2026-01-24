@@ -1,0 +1,2 @@
+{"UID": "AR2024AC14", "error": "RateLimitError(\"Error code: 429 - {'error': {'message': 'Too Many Requests', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}\")"}
+{"UID": "AR2024AC50", "error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"}

@@ -1,0 +1,81 @@
+FamilyID,UID,Relation,Name,PoliticalRole,YearsHeld,ConstituencyName,DistrictName,StateName
+1,UK2022AC01,,,,,,,
+2,UK2022AC02,Brother,Vinod Dobhal,"Chairman, Barkot Municipal Council",2023-Present,Barkot,Uttarkashi,Uttarakhand
+3,UK2022AC03,,,,,,,
+4,UK2022AC04,Spouse,Rajni Bhandari,District Panchayat President (Zila Panchayat Adhyaksh),2019–2025,Chamoli District Panchayat,Chamoli,Uttarakhand
+5,UK2022AC05,Son,JP Tamta,"Contested Karnaprayag Nagar Palika municipal elections, 2025",2025,Karnaprayag Nagar Palika,Chamoli,Uttarakhand
+6,UK2022AC06,,,,,,,
+7,UK2022AC07,,,,,,,
+8,UK2022AC08,,,,,,,
+9,UK2022AC09,,,,,,,
+10,UK2022AC10,,,,,,,
+11,UK2022AC11,,,,,,,
+12,UK2022AC12,,,,,,,
+13,UK2022AC13,,,,,,,
+14,UK2022AC14,,,,,,,
+15,UK2022AC15,Father,Gulab Singh,"Member, Uttar Pradesh Legislative Assembly (8 terms); Minister in Uttar Pradesh Government",1962–1985 (multiple terms); Ministerial roles within tenure,Chakrata,Dehradun,Uttar Pradesh (now Uttarakhand)
+16,UK2022AC15,Brother,Chaman Singh,"Chairman, Dehradun Zila Panchayat (2 terms, no longer active in recent years)","Approx. 2011–2016 (exact years not officially available, held two terms before 2022)",Dehradun Zila Panchayat,Dehradun,Uttarakhand
+17,UK2022AC15,Son,Abhishek Singh,"Member, Uttarakhand Pradesh Congress Committee (contested for Dehradun District Panchayat Chairperson, 2022)","2022 (PCC member, candidate for District Panchayat Chairperson)",Dehradun Zila Panchayat,Dehradun,Uttarakhand
+18,UK2022AC16,Spouse,Madhu Chauhan,"President, Dehradun District Panchayat; Candidate, Dehradun Zila Panchayat Chairperson","2014–2020, 2020–2025",Dehradun Zila Panchayat,Dehradun,Uttarakhand
+19,UK2022AC17,,,,,,,
+20,UK2022AC18,,,,,,,
+21,UK2022AC19,,,,,,,
+22,UK2022AC20,,,,,,,
+23,UK2022AC21,Husband,Harbans Kapoor,"Member of Legislative Assembly (MLA), Uttarakhand (previously Uttar Pradesh)",1989–2021 (8 consecutive terms),Dehradun Cantt.,Dehradun,Uttarakhand
+24,UK2022AC22,Daughter,Neha Joshi,"National Vice President, Bharatiya Janata Yuva Morcha (BJYM); Member, National Women Committee, NCUI",Recent/Current,Not applicable (organizational roles),Not applicable,National/All India
+25,UK2022AC23,,,,,,,
+26,UK2022AC24,,,,,,,
+27,UK2022AC25,,,,,,,
+28,UK2022AC27,,,,,,,
+29,UK2022AC28,Husband,Surender Rakesh,"MLA, Uttarakhand Legislative Assembly; Former State Transport Minister; Contested as BSP candidate and supported Congress post-2012",Until 2014 (deceased),Bhagwanpur,Hardwar,Uttarakhand
+30,UK2022AC28,Brother-in-law,Subodh Rakesh,"Contested MLA, BJP candidate (2017), BSP candidate (2022), previously contested as BJP against Mamta Rakesh","2017, 2022 (contested)",Bhagwanpur,Hardwar,Uttarakhand
+31,UK2022AC28,Son,Abhishek Rakesh,"Contested Block Panchayat Member (2022), then joined BJP; previously Congress Pradesh Secretary","2022 (panchayat poll), joined BJP in 2022",Bhagwanpur (Panchayat),Hardwar,Uttarakhand
+32,UK2022AC28,Daughter,Ayushi Rakesh,Contested and won Block Panchayat elections (2022); joined BJP,2022 (panchayat poll),Bhagwanpur (various blocks),Hardwar,Uttarakhand
+33,UK2022AC28,Mother-in-law,Sehti Devi,"President, Nagar Panchayat Bhagwanpur (previously elected)",Year unknown (prior to 2022),Bhagwanpur Nagar Panchayat,Hardwar,Uttarakhand
+34,UK2022AC29,,,,,,,
+35,UK2022AC30,,,,,,,
+36,UK2022AC31,,,,,,,
+37,UK2022AC33,,,,,,,
+38,UK2022AC34,,,,,,,
+39,UK2022AC35,Father,Harish Rawat,"Former Chief Minister of Uttarakhand, Member of Parliament (Lok Sabha), Union Minister of Water Resources","Lok Sabha MP: 1980–1991, 2002–2008, 2014–2017; CM: 2014–2017; Union Minister in different years","Almora, Haridwar","Almora, Haridwar",Uttarakhand
+40,UK2022AC35,Mother,Renuka Rawat,Congress Candidate for Lok Sabha (Almora and Haridwar),"2009, 2014 (contested, not elected)","Almora, Haridwar","Almora, Haridwar",Uttarakhand
+41,UK2022AC35,Brother,Virender Rawat,"Congress Candidate (Haridwar Lok Sabha 2024), previously active in Khanpur Assembly seat",Contested Lok Sabha 2024 (pending outcome as of Jan 2026),"Haridwar (Lok Sabha), Khanpur (Assembly activity)",Haridwar,Uttarakhand
+42,UK2022AC37,,,,,,,
+43,UK2022AC38,,,,,,,
+44,UK2022AC39,Spouse,Amrita Rawat,Member of Uttarakhand Legislative Assembly (MLA); Cabinet Minister in Uttarakhand Government,"MLA: 2002-2017, Cabinet Minister: 2012-2014",Kedarnath (MLA),Rudraprayag,Uttarakhand
+45,UK2022AC39,Father-in-law,Thakur Virender Singh,Member of Parliament (Lok Sabha),1980s-early 2000s (multiple terms),Muzaffarnagar,Muzaffarnagar,Uttar Pradesh
+46,UK2022AC40,,,,,,,
+47,UK2022AC41,Father,B. C. Khanduri,"Former Chief Minister of Uttarakhand, Union Minister for Road Transport & Highways, Member of Parliament (Lok Sabha)",1991-2012,Garhwal (MP); CM of Uttarakhand,Garhwal,Uttarakhand
+48,UK2022AC41,Brother,Manish Khanduri,"Contested Lok Sabha Election (Indian National Congress), Ex-Candidate","2019 (contested, not elected)",Garhwal (Lok Sabha),Garhwal,Uttarakhand
+49,UK2022AC41,Great-Uncle,Hemwati Nandan Bahuguna,"Former Chief Minister of Uttar Pradesh, Union Cabinet Minister","1973-1975 (UP CM), 1977-1979 and 1980-1982 (Union Minister)","Phulpur (MP), Various",Various,Uttar Pradesh
+50,UK2022AC42,,,,,,,
+51,UK2022AC43,,,,,,,
+52,UK2022AC44,Relative (likely cousin-in-law or niece-in-law),Monika Mahar,"Mayoral Candidate (Independent, formerly Congress rebel)",2025 (candidate),Pithoragarh Municipal Corporation,Pithoragarh,Uttarakhand
+53,UK2022AC44,Relative (by marriage; husband of Monika Mahar),Rishendra Mahar,"National Secretary, Indian Youth Congress",Unknown,N/A,N/A,N/A
+54,UK2022AC45,,,,,,,
+55,UK2022AC46,,,,,,,
+56,UK2022AC47,,,,,,,
+57,UK2022AC48,Wife,Uma Bisht,"District Panchayat President (Zila Panchayat Adhyaksh), District Panchayat Member, Almora","District Panchayat Member (dates not precisely confirmed), District Panchayat President until 2019","Not constituency-based, but represented Ravaadi area in District Panchayat",Almora,Uttarakhand
+58,UK2022AC49,Brother,Surendra Singh Jeena,"MLA, Uttarakhand Legislative Assembly",2007-2020,Salt,Almora,Uttarakhand
+59,UK2022AC51,Husband,Girdhari Lal Sahu,"BJP Member (Local-level, Almora), Publicly involved in Uttarakhand BJP activities; Not an elected MLA/MP",Unknown,Unknown,Almora,Uttarakhand
+60,UK2022AC52,,,,,,,
+61,UK2022AC53,,,,,,,
+62,UK2022AC54,Nephew,Anand Adhikari,Contested for political office; Member of BJP,Unknown,Unknown,Champawat,Uttarakhand
+63,UK2022AC55,,,,,,,
+64,UK2022AC56,,,,,,,
+65,UK2022AC57,Daughter-in-law,Unknown,Contested Zila Panchayat Election (Nainital),"2025 (contested, defeated)",Unknown,Nainital,Uttarakhand
+66,UK2022AC58,,,,,,,
+67,UK2022AC59,Mother,Indira Hridayesh,"MLA, Minister, Leader of Opposition, Uttarakhand","2002-2021 (MLA: 2002, 2012, 2017), Minister/Leader of Opposition: multiple terms until 2021",Haldwani,Nainital,Uttarakhand
+68,UK2022AC60,,,,,,,
+69,UK2022AC61,Daughter-in-law,Shweta Bisht,Contested Block Pramukh Election,2022,Ramnagar Block,Nainital,Uttarakhand
+70,UK2022AC62,,,,,,,
+71,UK2022AC63,Father,Harbhajan Singh Cheema,"MLA, Uttarakhand Legislative Assembly",2002-2022 (four terms),Kashipur,Udham Singh Nagar,Uttarakhand
+72,UK2022AC64,Son,Sanjeev Arya,"Member of Uttarakhand Legislative Assembly (MLA), Nainital",2017-2022 (Nainital); 2022–present (Nainital),Nainital,Nainital,Uttarakhand
+73,UK2022AC65,,,,,,,
+74,UK2022AC66,,,,,,,
+75,UK2022AC68,Father,Vijay Bahuguna,"Chief Minister of Uttarakhand, Lok Sabha MP (Tehri Garhwal)","2012-2014 (CM), 2007-2012 (MP), 2009-2012 (MP)","Tehri Garhwal (MP), Sitarganj (MLA)","Tehri Garhwal, Udham Singh Nagar",Uttarakhand
+76,UK2022AC68,Grandfather,Hemwati Nandan Bahuguna,"Chief Minister of Uttar Pradesh, Union Cabinet Minister, Lok Sabha MP","1973-1975 (CM), multiple terms 1969-1989 (MP)","Phulpur (MP), Allahabad (MP)","Allahabad, others",Uttar Pradesh
+77,UK2022AC68,Aunt (Bua),Rita Bahuguna Joshi,"MP, Lok Sabha (Prayagraj), Minister of Women Welfare, UP Government, MLA (Lucknow Cantt.)","2019-present (MP), 2017-2019 (Minister/MLA)","Prayagraj (MP), Lucknow Cantt. (MLA)","Prayagraj, Lucknow",Uttar Pradesh
+78,UK2022AC68,Uncle,Shekhar Bahuguna,Lok Sabha candidate (Phulpur),Contested 1991,Phulpur,Allahabad,Uttar Pradesh
+79,UK2022AC69,,,,,,,
+80,UK2022AC70,,,,,,,

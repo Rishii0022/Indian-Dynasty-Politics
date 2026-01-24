@@ -14,13 +14,13 @@ from StructuredOutputSyncAC import RelativesnSource
 Missing = "unknown"
 
 #change STATE NAME
-STATE_NAME = "Odisha"
+STATE_NAME = "Nagaland"
 
 #Change YEAR AND STATE NAME
-ELECTION_NAME = "Odisha Assembly Elections 2024"
+ELECTION_NAME = "Nagaland Assembly Elections 2023"
 
-CSV_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\ac recent\orissa_2024_ac.csv"
-OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputAC_jsonl_batch\sync_output_orissa.jsonl"
+CSV_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\ac recent\nagaland_2023_ac.csv"
+OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputAC_jsonl_batch\sync_output_nagaland.jsonl"
 
 # ======================
 
@@ -29,36 +29,36 @@ load_dotenv()
 clients = [
     {
         "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY1"),
-            azure_endpoint="https://apitest-resource.openai.azure.com/",
+            api_key=os.getenv("AZURE_OPENAI_API_KEY5"),
+            azure_endpoint="https://cbiti-mkq62dbs-swedencentral.services.ai.azure.com/",
             api_version="2025-03-01-preview"
         ),
         "deployment": "gpt-4.1"
     },
     {
         "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY2"),
-            azure_endpoint="https://apitest-resource.openai.azure.com/",
+            api_key=os.getenv("AZURE_OPENAI_API_KEY6"),
+            azure_endpoint="https://cbiti-mkq62dbs-swedencentral.services.ai.azure.com/",
             api_version="2025-03-01-preview"
         ),
         "deployment": "gpt-4.1-2"
     },
-    {
-        "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY3"),
-            azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-            api_version="2025-03-01-preview"
-        ),
-        "deployment": "gpt-4.1"
-    },
-    {
-        "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY4"),
-            azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-            api_version="2025-03-01-preview"
-        ),
-        "deployment": "gpt-4.1-2"
-    }
+    # {
+    #     "client": AzureOpenAI(
+    #         api_key=os.getenv("AZURE_OPENAI_API_KEY7"),
+    #         azure_endpoint="https://cbiti-mkq5w40q-eastus2.cognitiveservices.azure.com/openai/",
+    #         api_version="2025-03-01-preview"
+    #     ),
+    #     "deployment": "gpt-4.1"
+    # }
+    # {
+    #     "client": AzureOpenAI(
+    #         api_key=os.getenv("AZURE_OPENAI_API_KEY4"),
+    #         azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
+    #         api_version="2025-03-01-preview"
+    #     ),
+    #     "deployment": "gpt-4.1-2"
+    # }
 ]
 
 client_cycle = cycle(clients)

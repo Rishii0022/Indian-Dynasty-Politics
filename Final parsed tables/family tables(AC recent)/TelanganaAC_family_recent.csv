@@ -1,0 +1,147 @@
+FamilyID,UID,Relation,Name,PoliticalRole,YearsHeld,ConstituencyName,DistrictName,StateName
+1,TG2023AC01,Father,Palvai Purushottam Rao,"MLA, Independent",1989-1994,Sirpur,Adilabad,Andhra Pradesh (now Telangana)
+2,TG2023AC01,Mother,Palvai Rajyalakshmi,"MLA, Telugu Desam Party",1999-2004,Sirpur,Adilabad,Andhra Pradesh (now Telangana)
+3,TG2023AC02,Father,G. Venkataswamy,"Member of Parliament (Lok Sabha), Union Cabinet Minister","1967-2009 (MP), multiple terms as Central Minister",Peddapalli,Karimnagar (now part of Peddapalli/Adilabad),Andhra Pradesh / Telangana
+4,TG2023AC02,Brother,G. Vinod,"MLA, Minister (Labour, Employment, Training & Factories, Mines & Geology in Telangana Cabinet)","2023-present (MLA, Bellampalli); Minister since 2025",Bellampalli,Mancherial,Telangana
+5,TG2023AC03,Father,Gaddam Venkataswamy,"Union Minister, Member of Parliament (Lok Sabha)","1977-1996 (various terms), Minister of State - 1980s, Cabinet Minister - 1990s",Peddapalli,Peddapalli,Telangana (earlier Andhra Pradesh)
+6,TG2023AC03,Brother,Gaddam Vivek Venkataswamy,"MLA (Telangana Assembly), Former Member of Parliament (Lok Sabha)","MLA: 2023-present, MP: 2009-2014","Chennur (MLA), Peddapalli (MP)","Mancherial (MLA), Peddapalli (MP)",Telangana
+7,TG2023AC03,Nephew,Gaddam Vamsi Krishna,"MP (Member of Parliament, Lok Sabha)",2024-present,Peddapalli,Peddapalli,Telangana
+8,TG2023AC04,Father,Late K Raghupathi Rao,Senior Congress Leader,Unknown,Unknown,Adilabad,Telangana
+9,TG2023AC05,Father,Kotnak Bheem Rao,"Minister of Tribal Affairs (Union Minister in P. V. Narasimha Rao’s cabinet and Minister under Nedurumalli Janardhana Reddy’s Cabinet, Andhra Pradesh State)","Early 1990s (Union Minister), 1990-1992 (State Minister)",Unknown,Unknown,Andhra Pradesh
+10,TG2023AC05,Sister,Marsakola Saraswati,"TPCC General Secretary (Telangana Pradesh Congress Committee), former assembly contestant (contested Asifabad in 2014 on TDP ticket, denied Congress ticket for Asifabad in 2023)","2014 (contested), Unknown (TPCC General Secretary)",Asifabad,Adilabad,Telangana
+11,TG2023AC05,Brother,Kotnak Ramesh,"Congress assembly ticket aspirant for Khanapur, joined BRS in 2023 to support Kova Laxmi","2023 (ticket aspirant, joined BRS)",Khanapur,Adilabad,Telangana
+12,TG2023AC06,,,,,,,
+13,TG2023AC07,,,,,,,
+14,TG2023AC08,,,,,,,
+15,TG2023AC09,Father,Alleti Padmanabha Reddy,"Chairman, Nirmal Municipal Council",Unknown (post-independence era),Nirmal Municipality,Adilabad,Telangana
+16,TG2023AC09,Grandfather,Unknown,First Municipal Chairman of Nirmal; noted freedom fighter,Unknown,Nirmal Municipality,Adilabad,Telangana
+17,TG2023AC10,,,,,,,
+18,TG2023AC11,,,,,,,
+19,TG2023AC12,,,,,,,
+20,TG2023AC13,,,,,,,
+21,TG2023AC16,Father,Katipally Pedda Raja Reddy,Kamareddy Panchayat Samiti President,Unknown,Kamareddy,Nizamabad,Telangana
+22,TG2023AC17,,,,,,,
+23,TG2023AC18,,,,,,,
+24,TG2023AC19,,,,,,,
+25,TG2023AC20,Father,Kalvakuntla Vidya Sagar Rao,"Member of Telangana Legislative Assembly (MLA), Bharat Rashtra Samithi",2009-2018,Koratla,Karimnagar,Telangana
+26,TG2023AC21,,,,,,,
+27,TG2023AC22,,,,,,,
+28,TG2023AC23,,,,,,,
+29,TG2023AC24,Father,Duddilla Sripada Rao,"Speaker, Andhra Pradesh Legislative Assembly; MLA","1990-1994 (Speaker), MLA for several terms before 1999",Manthani,Karimnagar,Andhra Pradesh
+30,TG2023AC25,Father,Govinda Rao,Village Sarpanch,Unknown,Shivapalli,Karimnagar,Telangana
+31,TG2023AC25,Brother,Unknown,Single Window Chairman,Unknown,Unknown,Karimnagar,Telangana
+32,TG2023AC26,,,,,,,
+33,TG2023AC27,,,,,,,
+34,TG2023AC28,,,,,,,
+35,TG2023AC29,Father,K. Chandrashekar Rao,"Chief Minister of Telangana, Founder and President of Bharat Rashtra Samithi (BRS), Member of Parliament (LS), Member of Legislative Assembly","2001–Present (BRS President), 2014–2023 (Telangana CM), multiple terms as MLA and MP since 1985","Gajwel (MLA), Karimnagar (MP)","Siddipet, Karimnagar",Telangana
+36,TG2023AC29,Sister,K. Kavitha,"Member of Parliament (Lok Sabha), Member of Legislative Council (MLC), President of Telangana Jagruthi","2014–2019 (MP), 2020–Present (MLC)",Nizamabad (MP/MLC),Nizamabad,Telangana
+37,TG2023AC29,Cousin,Joginapally Santosh Kumar,Member of Parliament (Rajya Sabha),2018–Present,Rajya Sabha (Telangana),Unknown,Telangana
+38,TG2023AC30,Wife,Kavvampally Anuradha,"Congress Party Member (Indian National Congress), Known Political Worker",Unknown,Unknown,Unknown,Telangana
+39,TG2023AC31,,,,,,,
+40,TG2023AC32,,,,,,,
+41,TG2023AC33,Uncle,K. Chandrashekar Rao,"Chief Minister of Telangana; President of Bharat Rashtra Samithi (formerly Telangana Rashtra Samithi), MLA (Gajwel)","Chief Minister: 2014–2023, MLA: various (including recent terms 2014–present)",Gajwel,"Siddipet (for Assembly), and previously Karimnagar for Parliament",Telangana
+42,TG2023AC34,Father,Mynampally Hanumantha Rao,"MLA (Malkajgiri), former MLC, Greater Hyderabad and Medak District President (BRS), Indian National Congress member","Multiple terms: MLA (2018-2023), MLC (dates various), district president roles (approx. 2009–2023), INC since 2023",Malkajgiri,Medchal–Malkajgiri,Telangana
+43,TG2023AC35,Father,Patlolla Kista Reddy,"MLA, Telangana Legislative Assembly",2014-2016,Narayankhed,Medak,Telangana
+44,TG2023AC36,Father,Cilarapu Raja Narsimha,"MLA, Indian National Congress","1967, 1972, 1978",Andole,Medak,Andhra Pradesh (now Telangana)
+45,TG2023AC37,,,,,,,
+46,TG2023AC38,,,,,,,
+47,TG2023AC39,,,,,,,
+48,TG2023AC40,Brother,Gudem Madhusudhan Reddy,"Contested (involved in major political activities, alleged government dealings, and public prominence in the region)",Unknown,Unknown,Medak,Telangana
+49,TG2023AC41,,,,,,,
+50,TG2023AC42,Son,Kalvakuntla Taraka Rama Rao (K. T. Rama Rao),"Minister for Information Technology, Municipal Administration & Urban Development; Member of Telangana Legislative Assembly; Working President, Bharat Rashtra Samithi","2009-present (MLA), 2014-2023 (Minister roles in Telangana government)",Sircilla,Rajanna Sircilla,Telangana
+51,TG2023AC42,Daughter,Kalvakuntla Kavitha,"Member of Parliament (Lok Sabha) from Nizamabad (2014–2019); Member, Telangana Legislative Council (2020–2024, until suspension in 2025)","2014-2019 (Lok Sabha MP), 2020-2024 (MLC, suspended in 2025)",Nizamabad (Lok Sabha); Nizamabad Local Authorities Constituency (MLC),Nizamabad,Telangana
+52,TG2023AC42,Nephew,Thaneeru Harish Rao,"Minister for Finance; Minister for Irrigation, Legislative Affairs, and other departments; Member of Telangana Legislative Assembly",2004-present (MLA and various minister positions),Siddipet,Siddipet,Telangana
+53,TG2023AC43,Son,Mahender Reddy Chamakura,"Politician (contested local elections, public party activity; not established as MLA/MP)","Active in public politics, exact years Unknown",Unknown,Unknown,Telangana
+54,TG2023AC43,Daughter,Mamatha Reddy,Spouse of a Politician (Marri Rajasekhar Reddy),Unknown,Unknown,Unknown,Telangana
+55,TG2023AC43,Son-in-law,Marri Rajasekhar Reddy,Politician (Active Bharat Rashtra Samithi leader; contested in Telangana Assembly; held party office),"Active in politics, exact years Unknown",Unknown,Unknown,Telangana
+56,TG2023AC43,Son,Dr. Bhadra Reddy Chamakura,"Politician (Contested/political activity, no confirmed MLA/MP win)","Active in public politics, exact years Unknown",Unknown,Unknown,Telangana
+57,TG2023AC43,Daughter-in-law,Shalini Reddy,Politician (Contested municipal/party elections; no MLA/MP records),Unknown,Unknown,Unknown,Telangana
+58,TG2023AC44,Father-in-law,Ch. Malla Reddy,"MLA; Minister for Labour and Employment, Telangana","2014-present (MLA), 2019-present (Minister)",Medchal,Medchal-Malkajgiri,Telangana
+59,TG2023AC45,Father,K.M. Pandu,Sarpanch (two terms) and first Chairman of Quthbullapur Municipality,"Unknown (prior to 2000s, exact years not specified in public records)",Quthbullapur,Rangareddi,Telangana
+60,TG2023AC46,,,,,,,
+61,TG2023AC47,Mother,Bandari Lakshmamma,Ward Member,Unknown,Uppal Grampanchayat,Rangareddi,Telangana
+62,TG2023AC47,Brother,Bandari Raji Reddy,Member of Legislative Assembly,2009–2014,Uppal,Rangareddi,Telangana
+63,TG2023AC48,Brother,Malreddy Ram Reddy,"Chairman, Telangana State Road Development Corporation; Former Mandal Praja Parishad President (MPP), Hayathnagar","2024-present (Chairman), 2001 (MPP)",Hayathnagar,Ranga Reddy,Telangana
+64,TG2023AC49,,,,,,,
+65,TG2023AC50,Husband,P. Indra Reddy,"Former Home Minister of Andhra Pradesh, founder of Jai Telangana Party, multiple-term MLA",1985-2000,Chevella (primarily),Ranga Reddy,Andhra Pradesh
+66,TG2023AC50,Son,Patlolla Karthik Reddy,"Contested for Lok Sabha, Chevella (2014), active BRS leader","Contested 2014, active post-2019",Chevella,Ranga Reddy,Telangana
+67,TG2023AC51,,,,,,,
+68,TG2023AC52,,,,,,,
+69,TG2023AC53,,,,,,,
+70,TG2023AC54,,,,,,,
+71,TG2023AC55,Father,Gaddam Yellaiah,None,Unknown,Unknown,Unknown,Unknown
+72,TG2023AC55,Relative (Extended Family),Gaddam Venkat Swamy,"Member of Parliament, Union Minister",1980s-2000s,Peddapalli (Lok Sabha),Karimnagar,Andhra Pradesh/Telangana
+73,TG2023AC56,,,,,,,
+74,TG2023AC57,,,,,,,
+75,TG2023AC58,,,,,,,
+76,TG2023AC59,Spouse,Kaleru Padma,"GHMC Corporator, Golnaka",2016-2021,Golnaka (GHMC Division),Hyderabad,Telangana
+77,TG2023AC60,,,,,,,
+78,TG2023AC61,Spouse,Maganti Sunitha Gopinath,Contested Jubilee Hills Assembly by-election as BRS candidate,2025,Jubilee Hills,Hyderabad,Telangana
+79,TG2023AC61,Daughter,Akshara Nag,Contested Jubilee Hills bypoll,2025,Jubilee Hills,Hyderabad,Telangana
+80,TG2023AC61,Daughter,Disira,Contested Jubilee Hills bypoll,2025,Jubilee Hills,Hyderabad,Telangana
+81,TG2023AC62,Brother-in-law,Naveen Yadav,"Congress Candidate (Jubilee Hills by-election, 2025), Contested","2025 (Contested, not confirmed as elected)",Jubilee Hills,Hyderabad,Telangana
+82,TG2023AC63,,,,,,,
+83,TG2023AC64,Wife,Najma Sultana,"Corporator (GHMC, Nanal Nagar constituency), Sarpanch of Baswapur village","Corporator: 2016-2020, Sarpanch: 2025–present",Nanal Nagar (Corporator); Baswapur (Sarpanch),Hyderabad (Corporator); Medak (Sarpanch),Telangana
+84,TG2023AC66,,,,,,,
+85,TG2023AC67,Father,Sultan Salahuddin Owaisi,"MP (Hyderabad), MLA (Various Constituencies), President AIMIM",1967-2004,Hyderabad (MP); Multiple (MLA),Hyderabad,Telangana/Andhra Pradesh
+86,TG2023AC67,Brother,Asaduddin Owaisi,"MP (Hyderabad), President AIMIM",2004-present,Hyderabad,Hyderabad,Telangana
+87,TG2023AC67,Son,Dr. Nooruddin Owaisi,"Contested (Backup Nominee for MLA, Chandrayangutta, 2023), Trustee Salar-e-Millat Educational Trust",2023 (contested as backup nominee),Chandrayangutta,Hyderabad,Telangana
+88,TG2023AC67,Daughter,Fatima Owaisi,"Expected to join AIMIM for public service, announced entry into politics","2023 (Entry announced, not yet contested)",Unknown,Hyderabad,Telangana
+89,TG2023AC68,Father,Ahmed Hussain,"MLA, Seetharambagh, Andhra Pradesh Legislative Assembly",1967,Seetharambagh,Hyderabad,Andhra Pradesh
+90,TG2023AC69,,,,,,,
+91,TG2023AC70,,,,,,,
+92,TG2023AC71,Father,G. Sayanna,Member of the Telangana Legislative Assembly (MLA) for Secunderabad Cantonment; 5-time MLA,"1994–1999, 2004–2009, 2009–2014, 2014–2018, 2018–2023",Secunderabad Cantonment,Hyderabad,Telangana
+93,TG2023AC73,Grandfather,Chittem Narsi Reddy,"MLA, Makthal Constituency","Multiple terms, until 2005",Makthal,Mahbubnagar,Telangana
+94,TG2023AC73,Father,Chittem Venkateshwar Reddy,"Contested for MLA (did not win), prominent Congress leader",Unknown,Unknown,Mahbubnagar,Telangana
+95,TG2023AC73,Aunt (Father's Sister),DK Aruna,"MP, Lok Sabha; Former Cabinet Minister of Andhra Pradesh; Multiple-Term MLA",2004-present (various roles in AP and Telangana),"Mahbubnagar (Lok Sabha), Gadwal (MLA, earlier)","Mahbubnagar, Jogulamba Gadwal",Telangana
+96,TG2023AC73,Uncle (Father's Brother),C. Ram Mohan Reddy,"Contested for MLA, Makthal (BRS)",2023 (contested),Makthal,Mahbubnagar,Telangana
+97,TG2023AC74,,,,,,,
+98,TG2023AC75,,,,,,,
+99,TG2023AC76,,,,,,,
+100,TG2023AC77,Spouse,Vakiti Lalitha,"MPTC (Mandal Parishad Territorial Constituency) Member, Dasarapally",2006–2011,Dasarapally,Mahbubnagar,Telangana
+101,TG2023AC77,Brother,Vakiti Dhananjay,Sarpanch,Unknown,Makthal rural,Mahbubnagar,Telangana
+102,TG2023AC77,Sister-in-law,Vakiti Rajeshwari,MPTC,Unknown,Dasarapally,Mahbubnagar,Telangana
+103,TG2023AC78,,,,,,,
+104,TG2023AC79,,,,,,,
+105,TG2023AC80,,,,,,,
+106,TG2023AC81,Father,Kuchkulla Damodar Reddy,"MLC (Member of Legislative Council), Bharat Rashtra Samithi (BRS)",Unknown,Unknown,Unknown,Telangana
+107,TG2023AC82,,,,,,,
+108,TG2023AC83,,,,,,,
+109,TG2023AC85,,,,,,,
+110,TG2023AC86,,,,,,,
+111,TG2023AC87,Father,Kunduru Jana Reddy,"MLA (multiple terms), Minister in Andhra Pradesh and Telangana, Leader of Opposition (Telangana Assembly)","1983-2018 (various MLA terms), Ministerial roles 1989–1994, 1997–2004, 2004–2014, Leader of Opposition 2014–2018","Miryalaguda, Nagarjuna Sagar (previously various, mainly in Nalgonda district)",Nalgonda,"Andhra Pradesh, Telangana"
+112,TG2023AC87,Brother,Kunduru Raghuveer,"Contested 2024 Lok Sabha Parliamentary Election (Congress candidate, Nalgonda)",Contested 2024,Nalgonda,Nalgonda,Telangana
+113,TG2023AC88,,,,,,,
+114,TG2023AC89,Spouse,Nalamada Padmavathi Reddy,"MLA, Telangana Legislative Assembly",2014-2018,Kodad,Suryapet,Telangana
+115,TG2023AC90,Husband,Nalamada Uttam Kumar Reddy,"Member of Parliament (Lok Sabha), Former MLA (Kodad and Huzurnagar), Former President of Telangana Pradesh Congress Committee, Minister in Telangana Government","MP (2019-present), MLA (1999-2019), TPCC President (2015-2021), Minister (2014-2018)","Huzurnagar (MLA), Nalgonda (MP)",Nalgonda,Telangana
+116,TG2023AC91,Father,Ram Chandra Reddy,"Sarpanch, Nagaram village",2025–Present,Nagaram village,Suryapet,Telangana
+117,TG2023AC92,Brother,Komatireddy Raj Gopal Reddy,"MLA (Munugode, Telangana); Former MP (Bhongir, Telangana)","MLA 2019-2022, 2023- ; MP 2009-2014",Munugode; Bhongir,Nalgonda; Yadadri Bhuvanagiri,Telangana
+118,TG2023AC93,Brother,Komatireddy Venkat Reddy,"Member of Parliament (Lok Sabha), Former Minister for Roads and Buildings (Andhra Pradesh), Former MLA","Current MP (17th Lok Sabha, 2019–present), Former Minister and MLA (various years)",Bhuvanagiri,Yadadri Bhuvanagiri,Telangana
+119,TG2023AC94,,,,,,,
+120,TG2023AC95,,,,,,,
+121,TG2023AC96,,,,,,,
+122,TG2023AC97,,,,,,,
+123,TG2023AC98,,,,,,,
+124,TG2023AC99,Daughter,Kadiyam Kavya,"Member of 18th Lok Sabha (Warangal); Contested for Lok Sabha from Warangal (BRS candidate, later Congress)",2024-ongoing,Warangal,Warangal,Telangana
+125,TG2023AC100,Mother-in-law,Hanumandla Jhansi Reddy,"Congress party ticket aspirant for Palakurthi (2023), Founder and President of US-based Women Empowerment Telugu Association (WETA)","Contested ticket for 2023, but could not stand due to citizenship issues",Palakurthi (was intended),Warangal,Telangana
+126,TG2023AC101,,,,,,,
+127,TG2023AC102,,,,,,,
+128,TG2023AC103,,,,,,,
+129,TG2023AC104,,,,,,,
+130,TG2023AC105,,,,,,,
+131,TG2023AC106,Spouse,Konda Muralidhar Rao (Konda Murali),"Member of Legislative Council (MLC), Telangana; Political leader in Indian National Congress, formerly with Bharat Rashtra Samithi (TRS)","Until December 2018, Multiple Terms","Warangal (MLC seat, no specific Assembly constituency for MLC role)",Warangal,Telangana
+132,TG2023AC106,Daughter,Konda Susmitha Patel,"Announced intention to contest for Telangana Assembly (Parkal constituency), active in political discourse","Contesting, declared for upcoming elections (2025/2026)",Parkal (prospective),Warangal,Telangana
+133,TG2023AC107,,,,,,,
+134,TG2023AC108,Spouse,Gandra Padma,"ZPTC Member (Zilla Parishad Territorial Constituency), Ghanpur Mandal",2019,Ghanpur ZPTC,Jayashankar Bhupalpally,Telangana
+135,TG2023AC109,Spouse,Kunja Ramu,"Brother-in-law of Janashakti commander, Naxalite cadre leader (Adivasi Liberation Tigers); participated in political-armed movements, but did not contest electoral office",Approx. late 1980s–death in encounter (exact years unknown),Not applicable,Not applicable,Telangana
+136,TG2023AC110,,,,,,,
+137,TG2023AC111,,,,,,,
+138,TG2023AC112,,,,,,,
+139,TG2023AC114,Brother,Mallu Ravi,"Former Member of Parliament (Lok Sabha), MLA","MP: 1991-1996, 2004-2009; MLA: Multiple terms (including Jadcherla constituency, 2009)","Nagarkurnool (MP), Jadcherla (MLA)","Nagarkurnool, Mahbubnagar","Andhra Pradesh (pre-bifurcation), Telangana"
+140,TG2023AC114,Brother,A. R. Mallu (Anantha Ramulu Mallu),"Former Member of Parliament (Lok Sabha), Congress State President (AP)",MP: 1989-1991; Congress President: Approx. late 1980s,Nagarkurnool (MP),Nagarkurnool,Andhra Pradesh (pre-bifurcation)
+141,TG2023AC115,,,,,,,
+142,TG2023AC116,Spouse,Matta Dayanand,"Contested as MLA (YSRCP, 2014); Joined Congress and TRS, active political leader in Sathupalli","2014 (contested), active in politics since then",Sathupalli,Khammam,Telangana
+143,TG2023AC116,Mother,Matta Arogyam,MPP (Mandal Parishad President),Unknown,Sathupalli,Khammam,Telangana
+144,TG2023AC117,,,,,,,
+145,TG2023AC118,,,,,,,
+146,TG2023AC119,,,,,,,

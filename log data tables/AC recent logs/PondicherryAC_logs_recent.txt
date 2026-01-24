@@ -1,0 +1,34 @@
+[LINE 1] UID=PY2021AC01 | family_rows=1 | sources_rows=3
+[LINE 2] UID=PY2021AC02 | family_rows=1 | sources_rows=3
+[LINE 3] UID=PY2021AC03 | family_rows=1 | sources_rows=4
+[LINE 4] UID=PY2021AC04 | family_rows=1 | sources_rows=4
+[LINE 5] UID=PY2021AC05 | family_rows=1 | sources_rows=5
+[LINE 6] UID=PY2021AC06 | family_rows=1 | sources_rows=3
+[LINE 7] UID=PY2021AC07 | family_rows=1 | sources_rows=2
+[LINE 8] UID=PY2021AC08 | family_rows=1 | sources_rows=4
+[LINE 9] UID=PY2021AC09 | family_rows=1 | sources_rows=4
+[LINE 10] UID=PY2021AC10 | family_rows=1 | sources_rows=2
+[LINE 11] UID=PY2021AC11 | family_rows=1 | sources_rows=4
+[LINE 12] UID=PY2021AC12 | family_rows=1 | sources_rows=4
+[LINE 13] UID=PY2021AC13 | family_rows=1 | sources_rows=4
+[LINE 14] UID=PY2021AC14 | family_rows=1 | sources_rows=5
+[LINE 15] UID=PY2021AC15 | family_rows=1 | sources_rows=3
+[LINE 16] UID=PY2021AC16 | family_rows=1 | sources_rows=4
+[LINE 17] UID=PY2021AC17 | family_rows=1 | sources_rows=3
+[LINE 18] UID=PY2021AC18 | family_rows=1 | sources_rows=3
+[LINE 19] UID=PY2021AC19 | family_rows=1 | sources_rows=5
+[LINE 20] UID=PY2021AC20 | family_rows=1 | sources_rows=3
+[LINE 21] UID=PY2021AC21 | family_rows=1 | sources_rows=4
+[LINE 22] UID=PY2021AC22 | family_rows=1 | sources_rows=4
+[LINE 23] UID=PY2021AC23 | family_rows=1 | sources_rows=5
+[LINE 24] UID=PY2021AC24 | family_rows=1 | sources_rows=3
+[LINE 25] UID=PY2021AC25 | family_rows=1 | sources_rows=3
+[LINE 26] UID=PY2021AC26 | family_rows=1 | sources_rows=3
+[LINE 27] UID=PY2021AC27 | family_rows=1 | sources_rows=3
+[LINE 28] UID=PY2021AC28 | family_rows=1 | sources_rows=4
+[LINE 29] UID=PY2021AC29 | family_rows=1 | sources_rows=4
+[LINE 30] UID=PY2021AC30 | family_rows=1 | sources_rows=4
+
+PROCESSING COMPLETE
+Total family rows: 30
+Total source rows: 109
