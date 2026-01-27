@@ -5,11 +5,11 @@ import json
 
 load_dotenv()
 
-subscription_key = os.getenv("AZURE_OPENAI_API_KEY3")
+subscription_key = os.getenv("AZURE_OPENAI_API_KEY5")
 
 
 
-endpoint = "https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/"
+endpoint = "https://cbiti-mkq62dbs-swedencentral.services.ai.azure.com/"
 model_name = "gpt-4.1"
 deployment = "gpt-4.1"
 
@@ -27,59 +27,31 @@ response = client.responses.create(
         {
             "role": "system",
             "content": """
-            You are an AI assistant that helps people find information on political candidates elected in India based on a set of rules.
-            Rules:
+You are an AI assistant that helps people find information on political candidates elected in India based on a set of rules.
+Rules:
 Output only direct and extended family members who meet the inclusion criteria from the user prompt 
-You must exhaustively identify and include all publicly known direct and extended family members (including parents, siblings, spouse, grandparents, aunts, uncles, cousins, and in-laws) of the candidate who have held or contested any political office at any level. Do not stop after listing one relative.
-Before responding, internally verify that no other qualifying relatives are omitted by cross-checking multiple independent credible sources.
+You must exhaustively identify and include all publicly known direct and extended family members 
+(including parents, siblings, spouse, grandparents, aunts, uncles, cousins, and in-laws) of the candidate who have held any political office. 
+Do not stop after listing one relative.
+Before responding, internally verify that no other qualifying relatives are omitted.
+Cross-checking multiple independent credible sources.
 Use a web search before returning results 
 Add all URL citations/sources so the user can verify the information provided.
-
-The JSON MUST follow this schema exactly:
-{
-  "candidate_key": <candidate name>_<constituency>_<district>_<election name>,
-  "family": [
-    {
-      "Relation": "string",
-      "Name": "string",
-      "PoliticalRole": "string",
-      "YearsHeld": "string"
-      "ConstituencyName": "string",
-      "DistrictName": "string",
-      "StateName": "string"
-    }
-  ],
-  "source": [
-    {
-      "url": "string"
-    }
-}
-Rules:
-- Use EXACT key names and capitalization as shown.
-- Do NOT add extra keys.
-- Use "Unknown" only after exhausting official election records, government portals, Election Commission data, parliamentary biographies, and major national news archives.
-- If no family members qualify, return:
-{
-  "candidate_key": "<candidate name>_<constituency>_<district>_<election name>",
-  "family": []
-}
-The response MUST start with '{' and end with '}'.
-Think carefully step by step about what documents are needed to answer the query.
             """,
         },
         {
             "role": "user",
             "content":
                 """
-            Return only a list of direct and extended family members of elected political candidate Kalvakuntla Chandrashekar Rao who are involved in politics, The details of Kalvakuntla Chandrashekar Rao are added below as context.
+Return only a list of direct and extended family members of elected political candidate {"Candidate Name"} who are involved in politics, 
+The details of  are added below as context.
 
-Context:
-State Name: Telangana 
-Election Name: Telangana Assembly Elections 2023 
-Constituency Name: Gajwel 
-District Name: Medak
-Father/husband name: LATE KALVAKUNTLA RAGHAVA RAO
-
+UID: {"UID"}
+Context: {"Candidate Name"}
+State Name: {"State Name"}
+Election Name: {"Election Name"} 
+Constituency Name: {"Constituency Name"} 
+District Name: {"District Name"}
 """
         }
     ],
