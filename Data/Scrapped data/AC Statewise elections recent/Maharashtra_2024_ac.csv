@@ -1,0 +1,289 @@
+ac name,ac no,type,district,winning candidate,party,total electors,total votes,poll%,margin,margin %,father/husband name,gender,age,UID
+Akkalkuwa,1,ST,Nandurbar,Amshya Fulji Padvi,Shiv Sena,319439,225130,70.5 %,2904,1.3%,Fulji Thoblya Padvi,male,56.0,MH2024AC01
+Shahada,2,ST,Nandurbar,Rajesh Udesing Padvi,Bharatiya Janta Party,352636,242870,68.9 %,53204,21.9%,UDESING KOCHARU PADVI,male,55.0,MH2024AC02
+Nandurbar,3,ST,Nandurbar,Dr.Vijaykumar Krushanrao Gavit,Bharatiya Janta Party,353781,238535,67.4 %,76247,32.0%,KRUSHANRAO DAMJI GAVIT,male,69.0,MH2024AC03
+Nawapur,4,ST,Nandurbar,Shirishkumar Surupsing Naik,Indian National Congress,295786,238476,80.6 %,1121,0.5%,Surupsing Hirya Naik,male,52.0,MH2024AC04
+Sakri,5,ST,Dhule,Manjula Tulshiram Gavit,Shiv Sena,365407,241115,66.0 %,5584,2.3%,,,,MH2024AC05
+Dhule Rural,6,GEN,Dhule,Raghavendra (RAMDADA) MANOHAR PATIL,Bharatiya Janta Party,409475,288093,70.4 %,66320,23.0%,MANOHAR DATTATRAY PATIL,male,31.0,MH2024AC06
+Dhule City,7,GEN,Dhule,Agrawal Anupbhaiyya Omprakash,Bharatiya Janta Party,364440,219502,60.2 %,45750,20.8%,OMPRAKASH PURANMAL AGRAWAL,male,50.0,MH2024AC07
+Sindkheda,8,GEN,Dhule,Jaykumar Jitendrasinh Rawal,Bharatiya Janta Party,341008,224764,65.9 %,95884,42.7%,JITENDRASINH JAYSINH RAWAL,male,49.0,MH2024AC08
+Shirpur,9,ST,Dhule,Kashiram Vechan Pawara,Bharatiya Janta Party,350996,229500,65.4 %,145944,63.6%,VECHAN VERSING PAWARA,male,58.0,MH2024AC09
+Chopda,10,ST,Jalgaon,Chandrakant Baliram Sonawane,Shiv Sena,331384,220168,66.4 %,32313,14.7%,Baliram Totaram Sonawane,male,63.0,MH2024AC10
+Raver,11,GEN,Jalgaon,Amol Haribhau Jawale,Bharatiya Janta Party,309536,229123,74.0 %,43562,19.0%,Hari Madhav Jawale,male,42.0,MH2024AC11
+Bhusawal,12,SC,Jalgaon,Savkare Sanjay Waman,Bharatiya Janta Party,316307,182751,57.8 %,47488,26.0%,Waman Khandu Sawkare,male,55.0,MH2024AC12
+Jalgaon City,13,GEN,Jalgaon,Suresh Damu Bhole (RAJU MAMA),Bharatiya Janta Party,433467,240140,55.4 %,87503,36.4%,DAMU DODHU BHOLE,male,59.0,MH2024AC13
+Jalgaon Rural,14,GEN,Jalgaon,Gulabrao Raghunath Patil,Shiv Sena,337386,233666,69.3 %,59232,25.3%,RAGHUNATH CHATRU PATIL,male,58.0,MH2024AC14
+Amalner,15,GEN,Jalgaon,Anil Bhaidas Patil,Nationalist Congress Party,308272,203238,65.9 %,33435,16.5%,BHAIDAS SANTOSH PATIL,male,57.0,MH2024AC15
+Erandol,16,GEN,Jalgaon,Amol Chimanrao Patil,Shiv Sena,293551,202159,68.9 %,56332,27.9%,CHIMANRAO RUPCHAND PATIL,male,46.0,MH2024AC16
+Chalisgaon,17,GEN,Jalgaon,Mangesh Ramesh Chavan,Bharatiya Janta Party,375011,232387,62.0 %,85653,36.9%,RAMESH GOVINDA CHAVAN,male,41.0,MH2024AC17
+Pachora,18,GEN,Jalgaon,Kishor Appa Patil,Shiv Sena,333860,230005,68.9 %,38689,16.8%,DHANSING ONKAR PATIL,male,55.0,MH2024AC18
+Jamner,19,GEN,Jalgaon,Girish Dattatray Mahajan,Bharatiya Janta Party,335274,236852,70.6 %,26885,11.4%,DATTATRAY BHIKA MAHAJAN,male,64.0,MH2024AC19
+Muktainagar,20,GEN,Jalgaon,Chandrakant Nimba Patil,Shiv Sena,304064,215922,71.0 %,23904,11.1%,Late Nimba Motiram Patil,male,51.0,MH2024AC20
+Malkapur,21,GEN,Buldana,Chainsukh Madanlal Sancheti,Bharatiya Janta Party,288385,206444,71.6 %,26397,12.8%,,,,MH2024AC21
+Buldhana,22,GEN,Buldana,Gaikwad Sanjay Rambhau,Shiv Sena,307106,193420,63.0 %,841,0.4%,Rambhau Yeduji Gaikwad,male,57.0,MH2024AC22
+Chikhli,23,GEN,Buldana,Shweta Vidyadhar Mahale,Bharatiya Janta Party,305718,223103,73.0 %,3201,1.4%,Vidyadhar Mahale,female,41.0,MH2024AC23
+Sindkhed Raja,24,GEN,Buldana,Kayande Manoj Devanand,Nationalist Congress Party,322995,229729,71.1 %,4650,2.0%,DEVANAND KHANDUJI KAYANDE,male,35.0,MH2024AC24
+Mehkar,25,SC,Buldana,Kharat Siddharth Rambhau,Shiv Sena (Uddhav Balasaheb Thackrey),305960,213661,69.8 %,4819,2.3%,RAMBHAU BARKU KHARAT,male,58.0,MH2024AC25
+Khamgaon,26,GEN,Buldana,Akash Pandurang Fundkar,Bharatiya Janta Party,297922,227383,76.3 %,25477,11.2%,Pandurang Pundlik Fundkar,male,41.0,MH2024AC26
+Jalgaon (JAMOD),27,GEN,Buldana,Kute Sanjay Shriram,Bharatiya Janta Party,306414,226090,73.8 %,18771,8.3%,SHRIRAM AVADHUT KUTE,male,55.0,MH2024AC27
+Akot,28,GEN,Akola,Prakash Gunwant Bharsakle,Bharatiya Janta Party,311182,213382,68.6 %,18851,8.8%,GUNWANTRAO BHARSAKLE,male,72.0,MH2024AC28
+Balapur,29,GEN,Akola,Nitin Bhikanrao Deshmukh,Shiv Sena (Uddhav Balasaheb Thackrey),310202,221042,71.3 %,11739,5.3%,BHIKANRAO TALE,male,51.0,MH2024AC29
+Akola West,30,GEN,Akola,Sajid Khan Pathan,Indian National Congress,350795,204060,58.2 %,1283,0.6%,Mannan Khan Sujat Khan,male,49.0,MH2024AC30
+Akola East,31,GEN,Akola,Randhir Pralhadrao Sawarkar,Bharatiya Janta Party,355184,220360,62.0 %,50613,23.0%,PRALHADRAO GANPATRAO SAWARKAR,male,51.0,MH2024AC31
+Murtizapur,32,SC,Akola,Harish Marotiappa Pimple,Bharatiya Janta Party,310531,207868,66.9 %,35864,17.3%,MAROTIAPPA VITTHALAPPA PIMPLE,male,47.0,MH2024AC32
+Risod,33,GEN,Washim,Ameet Subhashrao Zanak,Indian National Congress,324392,229700,70.8 %,6136,2.7%,SUBHASHRAO RAMRAOJI ZANAK,male,39.0,MH2024AC33
+Washim,34,SC,Washim,Shyam Ramcharan Khode,Bharatiya Janta Party,368474,244824,66.4 %,19874,8.1%,RAMCHARAN NARAYAN KHODE,male,58.0,MH2024AC34
+Karanja,35,GEN,Washim,Sai Prakash Dahake,Bharatiya Janta Party,316241,208401,65.9 %,35073,16.8%,PRAKASH UTTAMRAO DAHAKE,female,60.0,MH2024AC35
+Dhamangaon Railway,36,GEN,Amravati,Adsad Pratap Arunbhau,Bharatiya Janta Party,317856,222575,70.0 %,16228,7.3%,ARUNBHAU,male,46.0,MH2024AC36
+Badnera,37,GEN,Amravati,Ravi Gangadhar Rana,Rashtriya Yuva Swabhiman Party,363825,211809,58.2 %,66974,31.6%,Gangadhar Narayan Rana,male,45.0,MH2024AC37
+Amravati,38,GEN,Amravati,Sulbha Sanjay Khodke,Nationalist Congress Party,374458,214402,57.3 %,5413,2.5%,Sanjay Vinayak Khodke,female,61.0,MH2024AC38
+Teosa,39,GEN,Amravati,Rajesh Shriramji Wankhade,Bharatiya Janta Party,296495,202328,68.2 %,7617,3.8%,SHRIRAM BHIKANRAO WANKHADE,male,54.0,MH2024AC39
+Daryapur,40,SC,Amravati,Gajanan Motiram Lawate,Shiv Sena (Uddhav Balasaheb Thackrey),308445,207547,67.3 %,19709,9.5%,MOTIRAM FAKIRAJI LAWATE,male,54.0,MH2024AC40
+Melghat,41,ST,Amravati,Kewalram Tulsiram Kale,Bharatiya Janta Party,302029,219667,72.7 %,106859,48.6%,,,,MH2024AC41
+Achalpur,42,GEN,Amravati,Pravin Vasantrao Tayade,Bharatiya Janta Party,292241,212374,72.7 %,12131,5.7%,Vasantrao Bhauraoji Tayade,male,51.0,MH2024AC42
+Morshi,43,GEN,Amravati,Umesh Alias Chandu Atmaramji Yawalkar,Bharatiya Janta Party,291109,209311,71.9 %,64988,31.0%,ATMARAMJI YAWALKAR,male,52.0,MH2024AC43
+Arvi,44,GEN,Wardha,Sumit Wankhede,Bharatiya Janta Party,265420,191586,72.2 %,39574,20.7%,Kishor Govindrao Wankhede,male,40.0,MH2024AC44
+Deoli,45,GEN,Wardha,Rajesh Bhaurao Bakane,Bharatiya Janta Party,274608,190058,69.2 %,9308,4.9%,,,,MH2024AC45
+Hinganghat,46,GEN,Wardha,Samir Tryambakrao Kunawar,Bharatiya Janta Party,297547,211115,71.0 %,30094,14.3%,TRYAMBAKRAO DEVIDASPANT KUNAWAR,male,56.0,MH2024AC46
+Wardha,47,GEN,Wardha,Dr. Pankaj Rajesh Bhoyar,Bharatiya Janta Party,294751,195871,66.5 %,7470,3.8%,,,,MH2024AC47
+Katol,48,GEN,Nagpur,Charansing Babulalji Thakur,Bharatiya Janta Party,281367,197437,70.2 %,38816,19.7%,BABULAL MEHTAPSING THAKUR,male,65.0,MH2024AC48
+Savner,49,GEN,Nagpur,Dr Ashishrao Deshmukh,Bharatiya Janta Party,321817,222741,69.2 %,26401,11.9%,RANJEET ARVIND DESHMUKH,male,49.0,MH2024AC49
+Hingna,50,GEN,Nagpur,Sameer Dattatraya Meghe,Bharatiya Janta Party,450141,269641,59.9 %,78931,29.3%,Dattatraya Raghobaji Meghe,male,46.0,MH2024AC50
+Umred,51,SC,Nagpur,Sanjay Narayanrao Meshram,Indian National Congress,300957,214624,71.3 %,12825,6.0%,NARAYANRAO DHARMRAO MESHRAM,male,65.0,MH2024AC51
+Nagpur South West,52,GEN,Nagpur,Devendra Gangadhar Fadnavis,Bharatiya Janta Party,411241,225602,54.9 %,39710,17.6%,GANGADHAR KASHIRAO FADNAVIS,male,54.0,MH2024AC52
+Nagpur South,53,GEN,Nagpur,Mohan Gopalrao Mate,Bharatiya Janta Party,394425,226990,57.5 %,15658,6.9%,GOPALRAO APPAJI MATE,male,56.0,MH2024AC53
+Nagpur East,54,GEN,Nagpur,Khopde Krishna Pancham,Bharatiya Janta Party,418981,248485,59.3 %,115288,46.4%,PANCHAMJI NARAYANRAO KHOPDE,male,65.0,MH2024AC54
+Nagpur Central,55,GEN,Nagpur,Datke Pravin Prabhakarrao,Bharatiya Janta Party,341169,195569,57.3 %,11632,5.9%,PRABHAKARRAO DATKE,male,45.0,MH2024AC55
+Nagpur West,56,GEN,Nagpur,Vikas Pandurang Thakre,Indian National Congress,388353,218213,56.2 %,5824,2.7%,PANDURANG MAROTRAO THAKRE,male,58.0,MH2024AC56
+Nagpur North,57,SC,Nagpur,Dr Nitin Kashinath Raut,Indian National Congress,428845,249644,58.2 %,28467,11.4%,Shri Kashinath Raut,male,72.0,MH2024AC57
+Kamthi,58,GEN,Nagpur,Chandrashekhar Krushnarao Bawankule,Bharatiya Janta Party,501770,321510,64.1 %,40946,12.7%,Krushnarao Khumanrao Bawankule,male,55.0,MH2024AC58
+Ramtek,59,GEN,Nagpur,Ashish Nandkishore Jaiswal(VAKIL),Shiv Sena,286931,206896,72.1 %,26555,12.8%,Nandkishore Jaiswal,male,53.0,MH2024AC59
+Tumsar,60,GEN,Bhandara,Karemore Raju Manikrao,Nationalist Congress Party,309727,230660,74.5 %,64305,27.9%,MANIKRAO ATMARAM KAREMORE,male,53.0,MH2024AC60
+Bhandara,61,SC,Bhandara,Bhondekar Narendra Bhojraj,Shiv Sena,378667,259617,68.6 %,38367,14.8%,BHOJRAJ LATARU BHONDEKAR,male,45.0,MH2024AC61
+Sakoli,62,GEN,Bhandara,Nanabhau Falgunrao Patole,Indian National Congress,328476,234260,71.3 %,208,0.1%,FALGUNRAO PAIKUJI PATOLE,male,61.0,MH2024AC62
+Arjuni Morgaon,63,SC,Gondiya,Badole Rajkumar Sudam,Nationalist Congress Party,258966,182378,70.4 %,16415,9.0%,SUDAM DUKALU BADOLE,male,62.0,MH2024AC63
+Tirora,64,GEN,Gondiya,Vijay Bharatlal Rahangdale,Bharatiya Janta Party,271079,177480,65.5 %,42686,24.1%,BHARATLAL PARASRAM RAHANGDALE,male,56.0,MH2024AC64
+Gondiya,65,GEN,Gondiya,Agrawal Vinod,Bharatiya Janta Party,325556,232187,71.3 %,61608,26.5%,SANTOSHKUMAR AGRAWAL,male,55.0,MH2024AC65
+Amgaon,66,ST,Gondiya,Sanjay Puram,Bharatiya Janta Party,269499,196063,72.8 %,32721,16.7%,Hanwantrao Punaji Puram,male,52.0,MH2024AC66
+Armori,67,ST,Gadchiroli,Ramdas Maluji Masram,Indian National Congress,262771,201534,76.7 %,6210,3.1%,Maluji Muka Masram,male,55.0,MH2024AC67
+Gadchiroli,68,ST,Gadchiroli,Dr. Milind Ramji Narote,Bharatiya Janta Party,307223,229503,74.7 %,15505,6.8%,RAMJI NAROTE,male,39.0,MH2024AC68
+Aheri,69,ST,Gadchiroli,Atram Dharamraobaba Bhagwantrao,Nationalist Congress Party,251461,180039,71.6 %,16814,9.3%,ATRAM BHAGWANTRAO RAJE DHARAMRAO,male,71.0,MH2024AC69
+Rajura,70,GEN,Chandrapur,Deorao Vithoba Bhongle,Bharatiya Janta Party,325278,237678,73.1 %,3054,1.3%,VITHOBA ARJUNA BHONGLE,male,46.0,MH2024AC70
+Chandrapur,71,SC,Chandrapur,Jorgewar Kishor Gajanan,Bharatiya Janta Party,373927,217268,58.1 %,22804,10.5%,GAJANAN SITARAM JORGEWAR,male,56.0,MH2024AC71
+Ballarpur,72,GEN,Chandrapur,Mungantiwar Sudhir Sacchidanand,Bharatiya Janta Party,312355,218974,70.1 %,25985,11.9%,SACCHIDANAND SAMBASHIV MUNGANTIWAR,male,62.0,MH2024AC72
+Brahmapuri,73,GEN,Chandrapur,Vijay Namdeorao Wadettiwar,Indian National Congress,275666,223207,81.0 %,13971,6.3%,NAMDEORAO WADETTIWAR,male,61.0,MH2024AC73
+Chimur,74,GEN,Chandrapur,Banti Bhangdiya,Bharatiya Janta Party,280827,230095,81.9 %,9853,4.3%,MITESH GOTULALJI BHANGDIYA,male,42.0,MH2024AC74
+Warora,75,GEN,Chandrapur,Karan Sanjay Deotale,Bharatiya Janta Party,282049,197294,70.0 %,15450,7.8%,SANJAY WAMANRAO DEOTALE,male,29.0,MH2024AC75
+Wani,76,GEN,Yavatmal,Derkar Sanjay Nilkanthrao,Shiv Sena (Uddhav Balasaheb Thackrey),286025,219183,76.6 %,15560,7.1%,NILKANTHRAO KESHAVRAO DERKAR,male,60.0,MH2024AC76
+Ralegaon,77,ST,Yavatmal,Prof. Dr. Ashok Ramaji Wooike,Bharatiya Janta Party,288015,212909,73.9 %,2812,1.3%,Ramaji Tukaram Wooike,male,61.0,MH2024AC77
+Yavatmal,78,GEN,Yavatmal,Anil Alias Balasaheb Shankarrao Mangulkar,Indian National Congress,371279,238230,64.2 %,11381,4.8%,Shankarrao Baliramji Mangulkar,male,65.0,MH2024AC78
+Digras,79,GEN,Yavatmal,Rathod Sanjay Dulichand,Shiv Sena,345869,262349,75.9 %,28775,11.0%,RATHOD DULICHAND SANGDAJI,male,52.0,MH2024AC79
+Arni,80,ST,Yavatmal,Raju Narayan Todsam,Bharatiya Janta Party,322023,233973,72.7 %,29313,12.5%,NARAYAN PANDU TODSAM,male,49.0,MH2024AC80
+Pusad,81,GEN,Yavatmal,Indranil Manohar Naik,Nationalist Congress Party,321826,212480,66.0 %,90769,42.7%,Manohar Rajusing Naik,male,42.0,MH2024AC81
+Umarkhed,82,SC,Yavatmal,Kisan Maroti Wankhede,Bharatiya Janta Party,317134,219265,69.1 %,16629,7.6%,MAROTI DHARU WANKHADE,male,60.0,MH2024AC82
+Kinwat,83,GEN,Nanded,Bhimrao Ramji Keram,Bharatiya Janta Party,278665,201094,72.2 %,5636,2.8%,BHIMAI RAMJI KERAM,male,56.0,MH2024AC83
+Hadgaon,84,GEN,Nanded,Kohlikar Baburao Kadam,Shiv Sena,299086,215755,72.1 %,30067,13.9%,GUNAJIRAO SAMBHAJI KADAM,male,56.0,MH2024AC84
+Bhokar,85,GEN,Nanded,Chavan Sreejaya Ashokrao,Bharatiya Janta Party,303103,233065,76.9 %,50551,21.7%,ASHOKRAO CHAVAN,female,32.0,MH2024AC85
+Nanded North,86,GEN,Nanded,Balaji Devidasrao Kalyankar,Shiv Sena,358918,220145,61.3 %,3502,1.6%,DEVIDASRAO BHUJANGRAO KALYANKAR,male,45.0,MH2024AC86
+Nanded South,87,GEN,Nanded,Anand Shankar Tidke,Shiv Sena,316821,203689,64.3 %,2132,1.0%,SHANKAR BHAJIRAM TIDKE,male,42.0,MH2024AC87
+Loha,88,GEN,Nanded,Prataprao Patil Chikhalikar,Nationalist Congress Party,301650,228809,75.9 %,10973,4.8%,CHIKHALIKAR GOVINDRAO MAROTRAO,male,63.0,MH2024AC88
+Naigaon,89,GEN,Nanded,Rajesh Sambhajirao Pawar,Bharatiya Janta Party,310375,231476,74.6 %,47629,20.6%,SAMBHAJIRAO LAXMANRAO PAWAR,male,52.0,MH2024AC89
+Deglur,90,SC,Nanded,Antapurkar Jitesh Raosaheb,Bharatiya Janta Party,312237,199391,63.9 %,42999,21.6%,RAOSAHEB JAYWANT ANTAPURKAR,male,34.0,MH2024AC90
+Mukhed,91,GEN,Nanded,Tushar Govindrao Rathod,Bharatiya Janta Party,307092,217997,71.0 %,37784,17.3%,GOVINDRAO RATHOD,male,45.0,MH2024AC91
+Basmath,92,GEN,Hingoli,Chandrakant Alias Rajubhaiya Ramakant Navghare,Nationalist Congress Party,320765,240997,75.1 %,29588,12.3%,RAMAKANT NAVGHARE,male,43.0,MH2024AC92
+Kalamnuri,93,GEN,Hingoli,Bangar Santosh Laxmanrao,Shiv Sena,330686,245253,74.2 %,31083,12.7%,Laxmanrao Ramji Bangar,male,44.0,MH2024AC93
+Hingoli,94,GEN,Hingoli,Mutkule Tanhaji Sakharamji,Bharatiya Janta Party,333313,229155,68.8 %,10926,4.8%,SAKHARAMJI MAHEPATI MUTKULE,male,63.0,MH2024AC94
+Jintur,95,GEN,Parbhani,Bordikar Meghna Deepak Sakore,Bharatiya Janta Party,388294,293107,75.5 %,4516,1.5%,DEEPAK KRUSHNAJI SAKORE,female,44.0,MH2024AC95
+Parbhani,96,GEN,Parbhani,Dr. Rahul Vedprakash Patil,Shiv Sena (Uddhav Balasaheb Thackrey),350559,232426,66.3 %,34216,14.7%,VEDPRAKASH KASHIRAO PATIL,male,49.0,MH2024AC96
+Gangakhed,97,GEN,Parbhani,Gutte Ratnakar Manikrao,Rashtriya Samaj Paksha,421272,309845,73.5 %,26292,8.5%,Manikrao Gangaram Gutte,male,66.0,MH2024AC97
+Pathri,98,GEN,Parbhani,Rajesh Uttamrao Vitekar,Nationalist Congress Party,393244,279788,71.1 %,13244,4.7%,UTTAMRAO AABAJI VITEKAR,male,44.0,MH2024AC98
+Partur,99,GEN,Jalna,Babanrao Dattatray Yadav (LONIKAR),Bharatiya Janta Party,323136,227569,70.4 %,4740,2.1%,DATTATRAY YADAV LONIKAR,male,65.0,MH2024AC99
+Ghansawangi,100,GEN,Jalna,Udhan Hikmat Baliram,Shiv Sena,330291,255803,77.4 %,2309,0.9%,BALIRAM TUKARAM UDHAN,male,61.0,MH2024AC100
+Jalna,101,GEN,Jalna,Arjun Panditrao Khotkar,Shiv Sena,344252,223127,64.8 %,31651,14.2%,PANDITRAO NAMDEORAO KHOTKAR,male,62.0,MH2024AC101
+Badnapur,102,SC,Jalna,Kuche Narayan Tilakchand,Bharatiya Janta Party,333097,248387,74.6 %,45531,18.3%,KUCHE TILAKCHAND GANGARAM,male,51.0,MH2024AC102
+Bhokardan,103,GEN,Jalna,Danve Santosh Raosaheb,Bharatiya Janta Party,321735,250308,77.8 %,23179,9.3%,RAOSAHEB DADARAO DANVE,male,40.0,MH2024AC103
+Sillod,104,GEN,Aurangabad,Abdul Sattar,Shiv Sena,357985,288587,80.6 %,2420,0.8%,ABDUL NABI,male,59.0,MH2024AC104
+Kannad,105,GEN,Aurangabad,Ranjanatai (SANJANA) HARSHVARDHAN JADHAV,Shiv Sena,332738,231209,69.5 %,18201,7.9%,HARSHVARDHAN RAIBHAN JADHAV,female,41.0,MH2024AC105
+Phulambri,106,GEN,Aurangabad,Anuradha Atul Chavan,Bharatiya Janta Party,370703,268729,72.5 %,32501,12.1%,,,,MH2024AC106
+Aurangabad Central,107,GEN,Aurangabad,Jaiswal Pradeep Shivnarayan,Shiv Sena,368970,220638,59.8 %,8119,3.7%,Shivnarayan Mohanlal Jaiswal,male,64.0,MH2024AC107
+Aurangabad West,108,SC,Aurangabad,Sanjay Pandurang Shirsat,Shiv Sena,407097,246884,60.6 %,16351,6.6%,PANDURANG SHIRSAT,male,62.0,MH2024AC108
+Aurangabad East,109,GEN,Aurangabad,Atul Moreshwar Save,Bharatiya Janta Party,354633,215291,60.7 %,2161,1.0%,MORESHWAR SAVE,male,62.0,MH2024AC109
+Paithan,110,GEN,Aurangabad,Bhumre Vilas Sandipanrao,Shiv Sena,325353,253251,77.8 %,29192,11.5%,BHUMRE ASARAM SANDIPANRAO,male,38.0,MH2024AC110
+Gangapur,111,GEN,Aurangabad,Bumb Prashant Bansilal,Bharatiya Janta Party,364770,268115,73.5 %,5015,1.9%,BANSILAL MOTILAL BUMB,male,53.0,MH2024AC111
+Vaijapur,112,GEN,Aurangabad,Bornare (SIR) RAMESH NANASAHEB,Shiv Sena,320502,243175,75.9 %,41658,17.1%,Bornare Nanasaheb Mhatarba,male,58.0,MH2024AC112
+Nandgaon,113,GEN,Nashik,Suhas (AANNA) DWARKANATH KANDE,Shiv Sena,343056,243673,71.0 %,89874,36.9%,DWARKANATH ARJUN KANDE,male,49.0,MH2024AC113
+Malegaon Central,114,GEN,Nashik,Mufti Mohammad Ismail Abdul Khalique,All India Majlis-E-Ittehadul Muslimeen,342713,239062,69.8 %,162,0.1%,,,,MH2024AC114
+Malegaon Outer,115,GEN,Nashik,Dadaji Dagdu Bhuse,Shiv Sena,380576,257411,67.6 %,106606,41.4%,DAGDU BAYAJI BHUSE,male,60.0,MH2024AC115
+Baglan,116,ST,Nashik,Dilip Manglu Borse,Bharatiya Janta Party,299118,203922,68.2 %,129297,63.4%,MANGALU UKHA BORSE,male,59.0,MH2024AC116
+Kalwan,117,ST,Nashik,Nitinbhau Arjun (A.T.) PAWAR,Nationalist Congress Party,301996,236470,78.3 %,8432,3.6%,ARJUN TULSHIRAM PAWAR,male,55.0,MH2024AC117
+Chandvad,118,GEN,Nashik,Dr.Aher Rahul Daulatrao,Bharatiya Janta Party,308808,239025,77.4 %,48961,20.5%,Daulatrao Sonuji Aher,male,51.0,MH2024AC118
+Yevla,119,GEN,Nashik,Chhagan Bhujbal,Nationalist Congress Party,326623,249263,76.3 %,26400,10.6%,CHANDRAKANT BHUJBAL,male,77.0,MH2024AC119
+Sinnar,120,GEN,Nashik,Adv. Kokate Manikrao Shivaji,Nationalist Congress Party,323464,241590,74.7 %,40884,16.9%,KOKATE SHIVAJI MURLIDHAR,male,67.0,MH2024AC120
+Niphad,121,GEN,Nashik,Bankar Diliprao Shankarrao,Nationalist Congress Party,298868,218793,73.2 %,29239,13.4%,BANKAR SHANKARRAO KONDAJI,male,60.0,MH2024AC121
+Dindori,122,ST,Nashik,Narahari Sitaram Zirwal,Nationalist Congress Party,329136,256811,78.0 %,44403,17.3%,Sitaram Valku Zirwal,male,65.0,MH2024AC122
+Nashik East,123,GEN,Nashik,Adv.Rahul Uttamrao Dhikale,Bharatiya Janta Party,409239,241090,58.9 %,87817,36.4%,UTTAMRAO NATHUJI DHIKALE,male,45.0,MH2024AC123
+Nashik Central,124,GEN,Nashik,Devyani Suhas Pharande,Bharatiya Janta Party,345393,198999,57.6 %,17856,9.0%,SUHAS RAMCHANDRA PHARANDE,female,58.0,MH2024AC124
+Nashik West,125,GEN,Nashik,Hiray Seema Mahesh,Bharatiya Janta Party,483495,274603,56.8 %,68177,24.8%,Hiray Mahesh Ramrao,female,54.0,MH2024AC125
+Deolali,126,SC,Nashik,Ahire Saroj Babulal,Nationalist Congress Party,288141,182221,63.2 %,40679,22.3%,Ahire Babulal Soma,female,43.0,MH2024AC126
+Igatpuri,127,ST,Nashik,Khoskar Hiraman Bhika,Nationalist Congress Party,280559,212802,75.8 %,86581,40.7%,BHIKA KHOSKAR,male,60.0,MH2024AC127
+Dahanu,128,ST,Thane,Vinod Bhiva Nikole,Communist Party Of India (Marxist),301239,216649,71.9 %,5133,2.4%,Bhiva Barkya Nikole,male,49.0,MH2024AC128
+Vikramgad,129,ST,Thane,Bhoye Harishchandra Sakharam,Bharatiya Janta Party,317741,244227,76.9 %,41408,17.0%,Bhoye Sakharam Navji,male,55.0,MH2024AC129
+Palghar,130,ST,Thane,Gavit Rajendra Dhedya,Shiv Sena,298579,209938,70.3 %,40337,19.2%,Gavit Dhedya Ishrya,male,57.0,MH2024AC130
+Boisar,131,ST,Thane,Vilas Sukur Tare,Shiv Sena,411329,274572,66.8 %,44455,16.2%,SUKUR GOPAL TARE,male,52.0,MH2024AC131
+Nalasopara,132,GEN,Thane,Rajan Balkrishna Naik,Bharatiya Janta Party,608526,347005,57.0 %,36875,10.6%,BALKRISHNA GANPAT NAIK,male,60.0,MH2024AC132
+Vasai,133,GEN,Thane,Sneha Dube Pandit,Bharatiya Janta Party,354652,216874,61.2 %,3153,1.5%,PREMNATH SHAMSUNDAR DUBE,female,38.0,MH2024AC133
+Bhiwandi Rural,134,ST,Thane,Shantaram Tukaram More,Shiv Sena,337711,238889,70.7 %,57962,24.3%,Shri Tukaram Ganpat More,male,54.0,MH2024AC134
+Shahapur,135,ST,Thane,Daulat Bhika Daroda,Nationalist Congress Party,291057,201900,69.4 %,1672,0.8%,BHIKA KANHU DARODA,male,56.0,MH2024AC135
+Bhiwandi West,136,GEN,Thane,Choughule Mahesh Prabhakar,Bharatiya Janta Party,334037,180508,54.0 %,31293,17.3%,Choughule Prabhakar Ramchandra,male,50.0,MH2024AC136
+Bhiwandi East,137,GEN,Thane,Rais Kasam Shaikh,Samajwadi Party,373645,190953,51.1 %,52015,27.2%,Kasam Shaikh,male,50.0,MH2024AC137
+Kalyan West,138,GEN,Thane,Vishwanath Atmaram Bhoir,Shiv Sena,440597,242776,55.1 %,42454,17.5%,ATMARAM GOVIND BHOIR,male,54.0,MH2024AC138
+Murbad,139,GEN,Thane,Kisan Shankar Kathore,Bharatiya Janta Party,470040,314910,67.0 %,52392,16.6%,Shankar Kalu Kathore,male,72.0,MH2024AC139
+Ambernath,140,SC,Thane,Dr. Balaji Pralhad Kinikar,Shiv Sena,374664,182187,48.6 %,51375,28.2%,PRALHAD GANESH KINIKAR,male,51.0,MH2024AC140
+Ulhasnagar,141,GEN,Thane,Ailani Kumar Uttamchand,Bharatiya Janta Party,283379,153443,54.1 %,30754,20.0%,Uttamchand Ailani,male,66.0,MH2024AC141
+Kalyan East,142,GEN,Thane,Sulbha Ganpat Gaikwad,Bharatiya Janta Party,329173,191520,58.2 %,26408,13.8%,Ganpat Kalu Gaikwad,female,53.0,MH2024AC142
+Dombivali,143,GEN,Thane,Chavan Ravindra Dattatray,Bharatiya Janta Party,313122,173789,55.5 %,77106,44.4%,Dattatray Babli Chavan,male,54.0,MH2024AC143
+Kalyan Rural,144,GEN,Thane,Rajesh Govardhan More,Shiv Sena,510247,293305,57.5 %,66396,22.6%,GOVARDHAN GHUTTYA MORE,male,55.0,MH2024AC144
+Mira Bhayandar,145,GEN,Thane,Narendra Mehta,Bharatiya Janta Party,510862,260850,51.1 %,60433,23.2%,Lalchand Mehta,male,52.0,MH2024AC145
+Ovala - Majiwada,146,GEN,Thane,Pratap Baburao Sarnaik,Shiv Sena,545110,281361,51.6 %,108158,38.4%,Baburao Marutirao Sarnaik,male,60.0,MH2024AC146
+Kopri - Pachpakhadi,147,GEN,Thane,Eknath Sambhaji Shinde,Shiv Sena,339526,200500,59.1 %,120717,60.2%,SAMBHAJI NAVALU SHINDE,male,60.0,MH2024AC147
+Thane,148,GEN,Thane,Sanjay Mukund Kelkar,Bharatiya Janta Party,378207,229468,60.7 %,58253,25.4%,MUKUND NEELKANTH KELKAR,male,68.0,MH2024AC148
+Mumbra - Kalwa,149,GEN,Thane,Awhad Jitendra Satish,Nationalist Congress Party – Sharadchandra Pawar,485324,251079,51.7 %,96228,38.3%,SATISH AWHAD,male,61.0,MH2024AC149
+Airoli,150,GEN,Thane,Ganesh Ramchandra Naik,Bharatiya Janta Party,489059,262381,53.7 %,91880,35.0%,RAMCHANDRA FAKIRJI NAIK,male,74.0,MH2024AC150
+Belapur,151,GEN,Thane,Manda Vijay Mhatre,Bharatiya Janta Party,423579,232691,54.9 %,377,0.2%,VIJAY NARAYAN MHATRE,female,68.0,MH2024AC151
+Borivali,152,GEN,Mumbai (Suburban),Sanjay Upadhyay,Bharatiya Janta Party,325734,200442,61.5 %,100257,50.0%,Rambhakt Bhagoutiprasad Upadhya,male,51.0,MH2024AC152
+Dahisar,153,GEN,Mumbai (Suburban),Chaudhary Manisha Ashok,Bharatiya Janta Party,277915,160392,57.7 %,44329,27.6%,ASHOK PURUSHOTTAM CHAUDHARY,female,63.0,MH2024AC153
+Magathane,154,GEN,Mumbai (Suburban),Prakash Surve,Shiv Sena,304627,178647,58.6 %,58164,32.6%,RAJARAM HIRU SURVE,male,62.0,MH2024AC154
+Mulund,155,GEN,Mumbai (Suburban),Mihir Kotecha,Bharatiya Janta Party,296687,179438,60.5 %,90032,50.2%,CHANDRKANT JAMANADAS KOTECHA,male,50.0,MH2024AC155
+Vikhroli,156,GEN,Mumbai (Suburban),Sunil Rajaram Raut,Shiv Sena (Uddhav Balasaheb Thackrey),243535,139326,57.2 %,15526,11.1%,RAJARAM GANPAT RAUT,male,59.0,MH2024AC156
+Bhandup West,157,GEN,Mumbai (Suburban),Ashok Dharmaraj Patil,Shiv Sena,288286,179519,62.3 %,6764,3.8%,Dharmaraj Mahadev Patil,male,64.0,MH2024AC157
+Jogeshwari East,158,GEN,Mumbai (Suburban),Anant (BALA) B. NAR,Shiv Sena (Uddhav Balasaheb Thackrey),299015,174964,58.5 %,1541,0.9%,BHIKU BHAGSHETH NAR,male,59.0,MH2024AC158
+Dindoshi,159,GEN,Mumbai (Suburban),Sunil Waman Prabhu,Shiv Sena (Uddhav Balasaheb Thackrey),306502,176097,57.5 %,6182,3.5%,WAMAN GANPAT PRABHU,male,55.0,MH2024AC159
+Kandivali East,160,GEN,Mumbai (Suburban),Atul Bhatkhalkar,Bharatiya Janta Party,286898,155589,54.2 %,83593,53.7%,DATTATRAYA BHATKHALKAR,male,59.0,MH2024AC160
+Charkop,161,GEN,Mumbai (Suburban),Yogesh Sagar,Bharatiya Janta Party,317416,181093,57.1 %,91154,50.3%,AMRUTLAL DHANJIBHAI SAGAR,male,62.0,MH2024AC161
+Malad West,162,GEN,Mumbai (Suburban),Aslam Ramjanali Shaikh,Indian National Congress,357919,195656,54.7 %,6227,3.2%,RAMJANALI SHABUDDIN SHAIKH,male,55.0,MH2024AC162
+Goregaon,163,GEN,Mumbai (Suburban),Vidya Thakur,Bharatiya Janta Party,329212,182148,55.3 %,23600,13.0%,JAIPRAKASH C THAKUR,female,63.0,MH2024AC163
+Versova,164,GEN,Mumbai (Suburban),Haroon Khan,Shiv Sena (Uddhav Balasaheb Thackrey),286711,146630,51.1 %,1600,1.1%,Haji Ismail Khan,male,62.0,MH2024AC164
+Andheri West,165,GEN,Mumbai (Suburban),Ameet Bhaskar Satam,Bharatiya Janta Party,288125,153402,53.2 %,19599,12.8%,BHASKAR JAGANNATH SATAM,male,48.0,MH2024AC165
+Andheri East,166,GEN,Mumbai (Suburban),Murji Patel (KAKA),Shiv Sena,288150,166557,57.8 %,25486,15.3%,KANJI PATEL,male,52.0,MH2024AC166
+Vile Parle,167,GEN,Mumbai (Suburban),Alavani Parag,Bharatiya Janta Party,275325,155373,56.4 %,54935,35.4%,Madhusudan Atmaram Alavani,male,57.0,MH2024AC167
+Chandivali,168,GEN,Mumbai (Suburban),Dilip Bhausaheb Lande,Shiv Sena,453003,237906,52.5 %,20625,8.7%,BHAUSAHEB LANDE,male,63.0,MH2024AC168
+Ghatkopar West,169,GEN,Mumbai (Suburban),Ram Kadam,Bharatiya Janta Party,277532,165896,59.8 %,12971,7.8%,SHIVAJI VISHWANATH KADAM,male,52.0,MH2024AC169
+Ghatkopar East,170,GEN,Mumbai (Suburban),Parag Shah,Bharatiya Janta Party,249539,147774,59.2 %,34999,23.7%,Kishorchandra Shah,male,55.0,MH2024AC170
+Mankhurd Shivaji Nagar,171,GEN,Mumbai (Suburban),Abu Asim Azmi,Samajwadi Party,334136,173361,51.9 %,12753,7.4%,HAJI NIYAZ AHMED AZMI,male,69.0,MH2024AC171
+Anushakti Nagar,172,GEN,Mumbai (Suburban),Sana Malik,Nationalist Congress Party,269069,142191,52.8 %,3378,2.4%,NAWAB MALIK,female,37.0,MH2024AC172
+Chembur,173,GEN,Mumbai (Suburban),Tukaram Ramkrushna Kate,Shiv Sena,258947,141013,54.5 %,10711,7.6%,RAMKRUSHNA HARI KATE,male,62.0,MH2024AC173
+Kurla,174,SC,Mumbai (Suburban),Kudalkar Mangesh,Shiv Sena,292228,154698,52.9 %,4187,2.7%,ANANT SUDKOJI KUDALKAR,male,53.0,MH2024AC174
+Kalina,175,GEN,Mumbai (Suburban),Sanjay Govind Potnis,Shiv Sena (Uddhav Balasaheb Thackrey),241737,126177,52.2 %,5008,4.0%,GOVIND SAWALA POTNIS,male,69.0,MH2024AC175
+Vandre East,176,GEN,Mumbai (Suburban),Varun Satish Sardesai,Shiv Sena (Uddhav Balasaheb Thackrey),249104,134630,54.0 %,11365,8.4%,SATISH NARHARI SARDESAI,male,32.0,MH2024AC176
+Vandre West,177,GEN,Mumbai (Suburban),Adv. Ashish Shelar,Bharatiya Janta Party,288746,147454,51.1 %,19931,13.5%,BABAJI DHONDU SHELAR,male,52.0,MH2024AC177
+Dharavi,178,SC,Mumbai,Dr. Gaikwad Jyoti Eknath,Indian National Congress,261869,129548,49.5 %,23459,18.1%,Dr. Ganesh Janardan Girigosavi,female,47.0,MH2024AC178
+Sion Koliwada,179,GEN,Mumbai,Captain R Tamil Selvan,Bharatiya Janta Party,283271,150281,53.1 %,7895,5.3%,U. RAMAIAH RANGIAR SELVAN,male,66.0,MH2024AC179
+Wadala,180,GEN,Mumbai,Kalidas Nilkanth Kolambkar,Bharatiya Janta Party,205387,118048,57.5 %,24973,21.2%,Nilkanth,male,71.0,MH2024AC180
+Mahim,181,GEN,Mumbai,Mahesh Baliram Sawant,Shiv Sena (Uddhav Balasaheb Thackrey),225951,133046,58.9 %,1316,1.0%,BALIRAM SHANKAR SAWANT,male,52.0,MH2024AC181
+Worli,182,GEN,Mumbai,Aditya Uddhav Thackeray,Shiv Sena (Uddhav Balasaheb Thackrey),264520,141739,53.6 %,8801,6.2%,Uddhav Balasaheb Thackeray,male,34.0,MH2024AC182
+Shivadi,183,GEN,Mumbai,Ajay Vinayak Choudhari,Shiv Sena (Uddhav Balasaheb Thackrey),275384,151243,54.9 %,7140,4.7%,VINAYAK SHANKAR CHOUDHARI,male,71.0,MH2024AC183
+Byculla,184,GEN,Mumbai,Manoj Pandurang Jamsutkar,Shiv Sena (Uddhav Balasaheb Thackrey),258856,136366,52.7 %,31361,23.0%,Pandurnag Laxman Jamsutkar,male,55.0,MH2024AC184
+Malabar Hill,185,GEN,Mumbai,Mangal Prabhat Lodha,Bharatiya Janta Party,261162,135896,52.0 %,68019,50.1%,Gumanmal Lodha,male,69.0,MH2024AC185
+Mumbadevi,186,GEN,Mumbai,Amin Patel,Indian National Congress,241959,117271,48.5 %,34844,29.7%,AMIRALI PATEL,male,61.0,MH2024AC186
+Colaba,187,GEN,Mumbai,Adv Rahul Suresh Narwekar,Bharatiya Janta Party,265251,116396,43.9 %,48581,41.7%,,,,MH2024AC187
+Panvel,188,GEN,Raigarh,Prashant Ramsheth Thakur,Bharatiya Janta Party,652062,380059,58.3 %,51091,13.4%,RAM THAKUR,male,50.0,MH2024AC188
+Karjat,189,GEN,Raigarh,Thorve Mahendra Sadashiv,Shiv Sena,318742,238043,74.7 %,5694,2.4%,SADASHIV BHAGA THORVE,male,52.0,MH2024AC189
+Uran,190,GEN,Raigarh,Mahesh Baldi,Bharatiya Janta Party,342101,260895,76.3 %,6512,2.5%,RATANLAL BALDI,male,57.0,MH2024AC190
+Pen,191,GEN,Raigarh,Ravisheth Patil,Bharatiya Janta Party,307979,224054,72.7 %,60810,27.1%,DAGDU PATIL,male,73.0,MH2024AC191
+Alibag,192,GEN,Raigarh,Mahendra Hari Dalvi,Shiv Sena,306230,236342,77.2 %,29565,12.5%,HARI JANU DALVI,male,59.0,MH2024AC192
+Shrivardhan,193,GEN,Raigarh,Aditi Sunil Tatkare,Nationalist Congress Party,265286,160564,60.5 %,82798,51.6%,SUNIL TATKARE,female,36.0,MH2024AC193
+Mahad,194,GEN,Raigarh,Gogawale Bharat Maruti,Shiv Sena,296388,212436,71.7 %,26210,12.3%,GOGAWALE MARUTI KRUSHNAJI,male,61.0,MH2024AC194
+Junnar,195,GEN,Pune,Sharaddada Bhimaji Sonawane,Independent,325764,224825,69.0 %,6664,3.0%,Bhimaji Shankar Sonawane,male,51.0,MH2024AC195
+Ambegaon,196,GEN,Pune,Dilip Dattatray Walse Patil,Nationalist Congress Party,314252,221358,70.4 %,1523,0.7%,Dattatray Govindrao Walse Patil,male,67.0,MH2024AC196
+Khed Alandi,197,GEN,Pune,Babaji Ramchandra Kale,Shiv Sena (Uddhav Balasaheb Thackrey),376623,257710,68.4 %,51743,20.1%,RAMCHANDRA DHONDIBA KALE,male,54.0,MH2024AC197
+Shirur,198,GEN,Pune,Dnyaneshwar Alias Mauli Aba Katke,Nationalist Congress Party,466042,318931,68.4 %,74550,23.4%,,,,MH2024AC198
+Daund,199,GEN,Pune,Kul Rahul Subhashrao,Bharatiya Janta Party,319311,235479,73.7 %,13889,5.9%,Subhashrao Baburao Kul,male,47.0,MH2024AC199
+Indapur,200,GEN,Pune,Dattatraya Vithoba Bharane,Nationalist Congress Party,341485,264351,77.4 %,19410,7.3%,Vithoba Rama Bharane,male,56.0,MH2024AC200
+Baramati,201,GEN,Pune,Ajit Anantrao Pawar,Nationalist Congress Party,380608,273116,71.8 %,100899,36.9%,Anantrao Govindrao Pawar,male,65.0,MH2024AC201
+Purandar,202,GEN,Pune,Vijaybapu Shivtare,Shiv Sena,464017,283144,61.0 %,24188,8.5%,Sopanrao Bayaji Shivtare,male,65.0,MH2024AC202
+Bhor,203,GEN,Pune,Shankar Hiraman Mandekar,Nationalist Congress Party,430278,289827,67.4 %,19638,6.8%,HIRAMAN VISHNU MANDEKAR,male,51.0,MH2024AC203
+Maval,204,GEN,Pune,Sunil Shankarrao Shelke,Nationalist Congress Party,386172,276366,71.6 %,108565,39.3%,Shankarrao Bajirao Shelke,male,44.0,MH2024AC204
+Chinchwad,205,GEN,Pune,Jagtap Shankar Pandurang,Bharatiya Janta Party,663622,384568,57.9 %,103865,27.0%,Pandurang Khanduji Jagtap,male,50.0,MH2024AC205
+Pimpri,206,SC,Pune,Anna Dadu Bansode,Nationalist Congress Party,391607,199390,50.9 %,36664,18.4%,DADU BANSODE,male,56.0,MH2024AC206
+Bhosari,207,GEN,Pune,Mahesh (DADA) KISAN LANDGE,Bharatiya Janta Party,608425,372719,61.3 %,63765,17.1%,KISAN SHANKARRAO LANDGE,male,49.0,MH2024AC207
+Vadgaon Sheri,208,GEN,Pune,Bapusaheb Tukaram Pathare,Nationalist Congress Party – Sharadchandra Pawar,503539,279750,55.6 %,4710,1.7%,,,,MH2024AC208
+Shivajinagar,209,GEN,Pune,Siddharth Anil Shirole,Bharatiya Janta Party,295117,151270,51.3 %,36702,24.3%,Anil Gulabrao Shirole,male,45.0,MH2024AC209
+Kothrud,210,GEN,Pune,Chandrakant (DADA) BACHHU PATIL,Bharatiya Janta Party,440557,229640,52.1 %,112041,48.8%,Bacchu Appa Patil,male,65.0,MH2024AC210
+Khadakwasala,211,GEN,Pune,Bhimrao Dhondiba Tapkir,Bharatiya Janta Party,576505,323767,56.2 %,52322,16.2%,,,,MH2024AC211
+Parvati,212,GEN,Pune,Madhuri Satish Misal,Bharatiya Janta Party,360974,200791,55.6 %,54660,27.2%,Satish Dhondiba Misal,female,60.0,MH2024AC212
+Hadapsar,213,GEN,Pune,Chetan Vitthal Tupe,Nationalist Congress Party,625675,314531,50.3 %,7122,2.3%,VITTHAL BABURAO TUPE,male,53.0,MH2024AC213
+Pune Cantonment,214,SC,Pune,Kamble Sunil Dyandev,Bharatiya Janta Party,295382,155152,52.5 %,10320,6.7%,DNYANDEO NAMDEO KAMBLE,male,56.0,MH2024AC214
+Kasba Peth,215,GEN,Pune,Hemant Narayan Rasane,Bharatiya Janta Party,283635,167394,59.0 %,19423,11.6%,Narayan Keshav Rasane,male,54.0,MH2024AC215
+Akole,216,ST,Ahmadnagar,Dr. Kiran Yamaji Lahamate,Nationalist Congress Party,267510,192807,72.1 %,5556,2.9%,YAMAJI SAKHARAM LAHAMATE,male,50.0,MH2024AC216
+Sangamner,217,GEN,Ahmadnagar,Amol Dhondiba Khatal,Shiv Sena,289174,219111,75.8 %,10560,4.8%,DHONDIBA KISAN KHATAL,male,41.0,MH2024AC217
+Shirdi,218,GEN,Ahmadnagar,Patil Vikhe Radhakrushna Eknathrao,Bharatiya Janta Party,292911,222350,75.9 %,70282,31.6%,VIKHE PATIL EKNATHRAO VITTHALRAO,male,65.0,MH2024AC218
+Kopargaon,219,GEN,Ahmadnagar,Ashutosh Ashokrao Kale,Nationalist Congress Party,289656,206357,71.2 %,124624,60.4%,Ashokrao Shankarrao Kale,male,39.0,MH2024AC219
+Shrirampur,220,SC,Ahmadnagar,Ogale Hemant Bhujangrao,Indian National Congress,309151,218080,70.5 %,13373,6.1%,Ogale Bhujangrao Tukaram,male,44.0,MH2024AC220
+Nevasa,221,GEN,Ahmadnagar,Vitthal Vakilrao Langhe,Shiv Sena,283111,226005,79.8 %,4021,1.8%,VAKILRAO BABURAO LANGHE,male,57.0,MH2024AC221
+Shevgaon,222,GEN,Ahmadnagar,Monica Rajeev Rajale,Bharatiya Janta Party,374442,261558,69.9 %,19043,7.3%,RAJEEV APPASAHEB RAJALE,female,52.0,MH2024AC222
+Rahuri,223,GEN,Ahmadnagar,Kardile Shivaji Bhanudas,Bharatiya Janta Party,324059,242507,74.8 %,34487,14.2%,KARDILE BHANUDAS NARAYAN,male,66.0,MH2024AC223
+Parner,224,GEN,Ahmadnagar,Kashinath Mahadu Date Sir,Nationalist Congress Party,350350,247975,70.8 %,1526,0.6%,Mahadu Narayan Date,male,70.0,MH2024AC224
+Ahmednagar City,225,GEN,Ahmadnagar,Sangram Arunkaka Jagtap,Nationalist Congress Party,316794,202505,63.9 %,39618,19.6%,ARUNKAKA BALBHIMRAO JAGTAP,male,39.0,MH2024AC225
+Shrigonda,226,GEN,Ahmadnagar,Pachpute Vikram Babanrao,Bharatiya Janta Party,339526,252257,74.3 %,37156,14.7%,PACHPUTE BABANRAO BHIKAJI,male,39.0,MH2024AC226
+Karjat Jamkhed,227,GEN,Ahmadnagar,Rohit Pawar,Nationalist Congress Party – Sharadchandra Pawar,347303,262449,75.6 %,1243,0.5%,RAJENDRA DINKARRAO PAWAR,male,39.0,MH2024AC227
+Georai,228,GEN,Bid,Vijaysinh Shivajirao Pandit,Nationalist Congress Party,379909,277853,73.1 %,42390,15.3%,SHIVAJIRAO ANKUSHRAO PANDIT,male,47.0,MH2024AC228
+Majalgaon,229,GEN,Bid,Prakash (DADA) SUNADARRAO SOLANKE,Nationalist Congress Party,352279,238457,67.7 %,5899,2.5%,SUNADARRAO SOLANKE,male,70.0,MH2024AC229
+Beed,230,GEN,Bid,Sandeep Ravindra Kshirsagar,Nationalist Congress Party – Sharadchandra Pawar,384101,242084,63.0 %,5324,2.2%,RAVINDRA SONAJIRAO KSHIRSAGAR,male,43.0,MH2024AC230
+Ashti,231,GEN,Bid,Dhas Suresh Ramchandra,Bharatiya Janta Party,386358,286237,74.1 %,77975,27.2%,RAMCHANDRA NIVRUTTI DHAS,male,54.0,MH2024AC231
+Kaij,232,SC,Bid,Namita Akshay Mundada,Bharatiya Janta Party,387221,248015,64.0 %,2687,1.1%,AKSHAY NANDKISHOR MUNDADA,female,35.0,MH2024AC232
+Parli,233,GEN,Bid,Dhananjay Panditrao Munde,Nationalist Congress Party,337976,255638,75.6 %,140224,54.9%,PANDITRAO PANDURANGRAO MUNDE,male,49.0,MH2024AC233
+Latur Rural,234,GEN,Latur,Ramesh Kashiram Karad,Bharatiya Janta Party,334605,234967,70.2 %,6595,2.8%,KASHIRAM DADARAO KARAD,male,57.0,MH2024AC234
+Latur City,235,GEN,Latur,Amit Vilasrao Deshmukh,Indian National Congress,400034,252493,63.1 %,7398,2.9%,VILASRAO DAGDOJIRAO DESHMUKH,male,48.0,MH2024AC235
+Ahmadpur,236,GEN,Latur,Babasaheb Mohanrao Patil,Nationalist Congress Party,348743,240906,69.1 %,31669,13.1%,MOHANRAO KISHANRAO PATIL,male,65.0,MH2024AC236
+Udgir,237,SC,Latur,Sanjay Baburao Bansode,Nationalist Congress Party,323261,219444,67.9 %,93214,42.5%,BABURAO PREMNATH BANSODE,male,52.0,MH2024AC237
+Nilanga,238,GEN,Latur,Nilangekar Sambhaji Diliprao Patil,Bharatiya Janta Party,331797,220067,66.3 %,13740,6.2%,DILIPRAO SHIVAJIRAO PATIL NILANGEKAR,male,47.0,MH2024AC238
+Ausa,239,GEN,Latur,Abhimanyu Dattatray Pawar,Bharatiya Janta Party,304307,210816,69.3 %,33462,15.9%,Dattatray Baburao Pawar,male,53.0,MH2024AC239
+Umarga,240,SC,Osmanabad,Pravin Virbhadrayya Swami (SIR),Shiv Sena (Uddhav Balasaheb Thackrey),315394,196443,62.3 %,3965,2.0%,Virbhadrayya Gurupadaya Swami,male,48.0,MH2024AC240
+Tuljapur,241,GEN,Osmanabad,Ranajagjitsinha Padmasinha Patil,Bharatiya Janta Party,383077,258720,67.5 %,36879,14.3%,PADMASINHA BAJIRAO PATIL,male,52.0,MH2024AC241
+Osmanabad,242,GEN,Osmanabad,Kailas Balasaheb Ghadge Patil,Shiv Sena (Uddhav Balasaheb Thackrey),374768,241414,64.4 %,36566,15.1%,BALASAHEB BHAURAO PATIL,male,43.0,MH2024AC242
+Paranda,243,GEN,Osmanabad,Prof.Dr.Tanaji Jayawant Sawant,Shiv Sena,330773,233027,70.4 %,1509,0.6%,JAYAWANT MARUTI SAWANT,male,60.0,MH2024AC243
+Karmala,244,GEN,Solapur,Narayan (ABA) GOVINDRAO PATIL,Nationalist Congress Party – Sharadchandra Pawar,328994,230315,70.0 %,16085,7.0%,Patil Govindrao Gangaram,male,58.0,MH2024AC244
+Madha,245,GEN,Solapur,Abhijeet Dhananjay Patil,Nationalist Congress Party – Sharadchandra Pawar,352691,268270,76.1 %,30621,11.4%,Dhananjay Vitthalrao Patil,male,41.0,MH2024AC245
+Barshi,246,GEN,Solapur,Dilip Gangadhar Sopal,Shiv Sena (Uddhav Balasaheb Thackrey),337499,249347,73.9 %,6472,2.6%,Gangadhar Balwant Sopal,male,75.0,MH2024AC246
+Mohol,247,SC,Solapur,Khare Raju Dnyanu,Nationalist Congress Party – Sharadchandra Pawar,331458,230737,69.6 %,30202,13.1%,KHARE DNYANU BHAIRU,male,48.0,MH2024AC247
+Solapur City North,248,GEN,Solapur,Deshmukh Vijay Sidramappa,Bharatiya Janta Party,328572,191787,58.4 %,54583,28.5%,DESHMUKH SIDRAMAPPA MALLIKARJUN,male,60.0,MH2024AC248
+Solapur City Central,249,GEN,Solapur,Devendra Rajesh Kothe,Bharatiya Janta Party,346677,201000,58.0 %,48850,24.3%,KOTHE RAJESH VISHNUPANTH,male,34.0,MH2024AC249
+Akkalkot,250,GEN,Solapur,Kalyanshetti Sachin Panchappa,Bharatiya Janta Party,383479,255895,66.7 %,49572,19.4%,Kalyanshetti Panchappa Tippanna,male,44.0,MH2024AC250
+Solapur South,251,GEN,Solapur,Deshmukh Subhash Sureshchandra,Bharatiya Janta Party,382754,225132,58.8 %,77127,34.3%,DESHMUKH SURESHCHANDRA KESHAVRAO,male,67.0,MH2024AC251
+Pandharpur,252,GEN,Solapur,Autade Samadhan Mahadeo,Bharatiya Janta Party,373684,261724,70.0 %,8430,3.2%,AUTADE MAHADEO BABURAO,male,48.0,MH2024AC252
+Sangole,253,GEN,Solapur,Dr. Babasaheb Annasaheb Deshmukh,Peasants And Workers Party Of India,333493,262573,78.7 %,25386,9.7%,ANNASAHEB GANPATRAO DESHMUKH,male,37.0,MH2024AC253
+Malshiras,254,SC,Solapur,Uttamrao Shivdas Jankar,Nationalist Congress Party – Sharadchandra Pawar,349568,240972,68.9 %,13147,5.5%,SHIVDAS SHANKAR JANKAR,male,58.0,MH2024AC254
+Phaltan,255,SC,Satara,Sachin Patil,Nationalist Congress Party,339662,243069,71.6 %,17046,7.0%,Sudhakar Gajanan Kamble,male,54.0,MH2024AC255
+Wai,256,GEN,Satara,Makrand Laxmanrao Jadhav (PATIL),Nationalist Congress Party,347090,235041,67.7 %,61392,26.1%,LAXMANRAO PANDURANG JADHAV (PATIL),male,59.0,MH2024AC256
+Koregaon,257,GEN,Satara,Mahesh Sambhajiraje Shinde,Shiv Sena,321122,251216,78.2 %,45063,17.9%,SAMBHAJIRAJE JIJABA SHINDE,male,49.0,MH2024AC257
+Man,258,GEN,Satara,Jaykumar Bhagavanrao Gore,Bharatiya Janta Party,360662,262618,72.8 %,49675,18.9%,BHAGAVANRAO RAMCHANDRA GORE,male,49.0,MH2024AC258
+Karad North,259,GEN,Satara,Manoj Bhimrao Ghorpade,Bharatiya Janta Party,306203,230322,75.2 %,43691,19.0%,BHIMRAO SHAMRAO GHORPADE,male,47.0,MH2024AC259
+Karad South,260,GEN,Satara,Dr Atulbaba Suresh Bhosale,Bharatiya Janta Party,315420,242242,76.8 %,39355,16.2%,Suresh Jaywantrao Bhosale,male,41.0,MH2024AC260
+Patan,261,GEN,Satara,Desai Shambhuraj Shivajirao,Shiv Sena,309963,230145,74.2 %,34824,15.1%,SHIVAJIRAO DAULATRAO DESAI,male,58.0,MH2024AC261
+Satara,262,GEN,Satara,Shivendraraje Abhaysinhraje Bhonsle,Bharatiya Janta Party,342672,217662,63.5 %,142124,65.3%,ABHAYSINHRAJE SAHUMAHARAJ BHONSLE,male,51.0,MH2024AC262
+Dapoli,263,GEN,Ratnagiri,Kadam Yogeshdada Ramdas,Shiv Sena,291297,195822,67.2 %,24093,12.3%,KADAM RAMDAS GANGARAM,male,38.0,MH2024AC263
+Guhagar,264,GEN,Ratnagiri,Jadhav Bhaskar Bhaurao,Shiv Sena (Uddhav Balasaheb Thackrey),242704,150290,61.9 %,2830,1.9%,JADHAV BHAURAO SHIVRAM,male,67.0,MH2024AC264
+Chiplun,265,GEN,Ratnagiri,Shekhar Govindrao Nikam,Nationalist Congress Party,276066,190212,68.9 %,6867,3.6%,GOVINDRAO SHAVAJI NIKAM,male,58.0,MH2024AC265
+Ratnagiri,266,GEN,Ratnagiri,Uday Ravindra Samant,Shiv Sena,291221,184529,63.4 %,41590,22.5%,RAVINDRA DWARKANATH SAMANT,male,48.0,MH2024AC266
+Rajapur,267,GEN,Ratnagiri,Kiran Alias Bhaiyya Samant,Shiv Sena,238409,152781,64.1 %,19677,12.9%,RAVINDRA DWARKANATH SAMANT,male,51.0,MH2024AC267
+Kankavli,268,GEN,Sindhudurg,Nitesh Narayan Rane,Bharatiya Janta Party,231740,162118,70.0 %,58007,35.8%,NARAYAN TATU RANE,male,42.0,MH2024AC268
+Kudal,269,GEN,Sindhudurg,Nilesh Narayan Rane,Shiv Sena,217186,157769,72.6 %,8176,5.2%,Narayan Tatu Rane,male,43.0,MH2024AC269
+Sawantwadi,270,GEN,Sindhudurg,Deepak Vasantrao Kesarkar,Shiv Sena,230002,163705,71.2 %,39899,24.4%,VASANTRAO GOVIND KESARKAR,male,69.0,MH2024AC270
+Chandgad,271,GEN,Kolhapur,Shivaji Shattupa Patil,Independent,327680,247085,75.4 %,24134,9.8%,Shattupa Patil,male,55.0,MH2024AC271
+Radhanagari,272,GEN,Kolhapur,Abitkar Prakash Anandrao,Shiv Sena,344422,272065,79.0 %,38259,14.1%,ABITKAR ANANDRAO DATTATRAY,male,50.0,MH2024AC272
+Kagal,273,GEN,Kolhapur,Mushrif Hasan Miyalal,Nationalist Congress Party,343672,285930,83.2 %,11581,4.1%,MIYALAL RASUL MUSHRIF,male,70.0,MH2024AC273
+Kolhapur South,274,GEN,Kolhapur,Amal Mahadevrao Mahadik,Bharatiya Janta Party,372684,282629,75.8 %,17630,6.2%,,,,MH2024AC274
+Karvir,275,GEN,Kolhapur,Chandradeep Shashikant Narake,Shiv Sena,325161,278111,85.5 %,1976,0.7%,SHASHIKANT DATTATRAY NARAKE,male,57.0,MH2024AC275
+Kolhapur North,276,GEN,Kolhapur,Rajesh Vinayak Kshirsagar,Shiv Sena,301743,196777,65.2 %,29563,15.0%,Vinaya Shripatrao Kshirsagar,male,55.0,MH2024AC276
+Shahuwadi,277,GEN,Kolhapur,Dr. Vinay Vilasrao Kore (SAVKAR),Jan Surajya Shakti,306246,243778,79.6 %,36053,14.8%,VILASRAO VISHWANATH KORE,male,53.0,MH2024AC277
+Hatkanangle,278,SC,Kolhapur,Dalitmitra Dr.Ashokrao Mane(bapu,Jan Surajya Shakti,341685,261569,76.6 %,46249,17.7%,KONDIRAM DHONDIBA MANE,male,70.0,MH2024AC278
+Ichalkaranji,279,GEN,Kolhapur,Rahul Prakash Awade,Bharatiya Janta Party,312664,217410,69.5 %,56811,26.1%,Prakash Kallappa Awade,male,46.0,MH2024AC279
+Shirol,280,GEN,Kolhapur,Rajendra Shamgonda Patil (YADRAVKAR),Rajarshi Shahu Vikas Aghadi,329141,257844,78.3 %,40816,15.8%,,,,MH2024AC280
+Miraj,281,SC,Sangli,Dr. Suresh (BHAU) DAGADU KHADE,Bharatiya Janta Party,343876,227525,66.2 %,45195,19.9%,Dagadu Tayappa Khade,male,66.0,MH2024AC281
+Sangli,282,GEN,Sangli,Sudhirdada Alias Dhananjay Hari Gadgil,Bharatiya Janta Party,356410,224841,63.1 %,36135,16.1%,HARI VASUDEO GADGIL,male,71.0,MH2024AC282
+Islampur,283,GEN,Sangli,Jayant Rajaram Patil,Nationalist Congress Party – Sharadchandra Pawar,280856,211396,75.3 %,13027,6.2%,RAJARAM ANANT PATIL,male,62.0,MH2024AC283
+Shirala,284,GEN,Sangli,Deshmukh Satyajit Shivajirao,Bharatiya Janta Party,307012,243186,79.2 %,22689,9.3%,DESHMUKH SHIVAJIRAO BAPUSO,male,51.0,MH2024AC284
+Palus - Kadegaon,285,GEN,Sangli,Kadam Vishwajit Patangrao,Indian National Congress,292866,233111,79.6 %,30064,12.9%,Vijaymala Patangrao Kadam,male,43.0,MH2024AC285
+Khanapur,286,GEN,Sangli,Babar Suhas Anilbhau,Shiv Sena,350996,250916,71.5 %,78181,31.2%,Anilrao Babar,male,43.0,MH2024AC286
+Tasgaon - Kavathe Mahankal,287,GEN,Sangli,Rohit Suman R.R. Aba Patil,Nationalist Congress Party – Sharadchandra Pawar,312686,236854,75.7 %,27644,11.7%,RAOSAHEB RAMRAO PATIL,male,25.0,MH2024AC287
+Jat,288,GEN,Sangli,Gopichand Kundlik Padalkar,Bharatiya Janta Party,291363,212022,72.8 %,38240,18.0%,Kundlik Baba Padalkar,male,43.0,MH2024AC288

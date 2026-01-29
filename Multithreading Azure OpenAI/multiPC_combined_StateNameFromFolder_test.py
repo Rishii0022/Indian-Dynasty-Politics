@@ -24,34 +24,18 @@ clients = [
     {
         "client": AzureOpenAI(
             api_key=os.getenv("AZURE_OPENAI_API_KEY3"),
-            azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-            api_version="2025-03-01-preview"
+            azure_endpoint="API_endpoint",
+            api_version="API_version"
         ),
-        "deployment": "gpt-4.1"
+        "deployment": "API_model"
     },
     {
         "client": AzureOpenAI(
             api_key=os.getenv("AZURE_OPENAI_API_KEY4"),
-            azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-            api_version="2025-03-01-preview"
+            azure_endpoint="API_endpoint",
+            api_version="API_version"
         ),
-        "deployment": "gpt-4.1-2"
-    },
-    {
-        "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY1"),
-            azure_endpoint="https://apitest-resource.openai.azure.com/",
-            api_version="2025-03-01-preview"
-        ),
-        "deployment": "gpt-4.1"
-    },
-    {
-        "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY2"),
-            azure_endpoint="https://apitest-resource.openai.azure.com/",
-            api_version="2025-03-01-preview"
-        ),
-        "deployment": "gpt-4.1-2"
+        "deployment": "API_model"
     }
 ]
 

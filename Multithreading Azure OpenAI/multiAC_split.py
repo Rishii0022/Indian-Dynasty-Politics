@@ -29,36 +29,20 @@ load_dotenv()
 clients = [
     {
         "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY5"),
-            azure_endpoint="https://cbiti-mkq62dbs-swedencentral.services.ai.azure.com/",
-            api_version="2025-03-01-preview"
+            api_key=os.getenv("AZURE_OPENAI_API_KEY"),
+            azure_endpoint="API_endpoint",
+            api_version="API_version"
         ),
-        "deployment": "gpt-4.1"
+        "deployment": "API_model"
     },
     {
         "client": AzureOpenAI(
-            api_key=os.getenv("AZURE_OPENAI_API_KEY6"),
-            azure_endpoint="https://cbiti-mkq62dbs-swedencentral.services.ai.azure.com/",
-            api_version="2025-03-01-preview"
+            api_key=os.getenv("AZURE_OPENAI_API_KEY"),
+            azure_endpoint="API_endpoint",
+            api_version="API_version"
         ),
-        "deployment": "gpt-4.1-2"
-    },
-    # {
-    #     "client": AzureOpenAI(
-    #         api_key=os.getenv("AZURE_OPENAI_API_KEY7"),
-    #         azure_endpoint="https://cbiti-mkq5w40q-eastus2.cognitiveservices.azure.com/openai/",
-    #         api_version="2025-03-01-preview"
-    #     ),
-    #     "deployment": "gpt-4.1"
-    # }
-    # {
-    #     "client": AzureOpenAI(
-    #         api_key=os.getenv("AZURE_OPENAI_API_KEY4"),
-    #         azure_endpoint="https://rishi-mkmva6p5-swedencentral.cognitiveservices.azure.com/",
-    #         api_version="2025-03-01-preview"
-    #     ),
-    #     "deployment": "gpt-4.1-2"
-    # }
+        "deployment": "API_model"
+
 ]
 
 client_cycle = cycle(clients)

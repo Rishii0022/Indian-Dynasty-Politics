@@ -1,0 +1,201 @@
+ac name,ac no,type,district,winning candidate,party,total electors,total votes,poll%,margin,margin %,father/husband name,gender,age,UID
+Sadulshahar,1,GEN,Ganganagar,Gurveer Singh,Bharatiya Janta Party,479416,196923,41.10%,15460,7.90%,BALDEV SINGH,male,39.0,RJ2023AC01
+Ganganagar,2,GEN,Ganganagar,Jaydeep Bihani,Bharatiya Janta Party,478296,180109,37.70%,29779,16.50%,SUSHIL KUMAR,male,58.0,RJ2023AC02
+Karanpur,3,GEN,Ganganagar,Rupinder Singh Kooner,Indian National Congress,240827,194552,80.80%,11283,5.80%,,,,RJ2023AC03
+Suratgarh,4,GEN,Ganganagar,Dungarram Gedar,Indian National Congress,512394,207426,40.50%,50459,24.30%,Likhmaram,male,57.0,RJ2023AC04
+Raisinghnagar,5,SC,Ganganagar,Sohan Lal Nayak,Indian National Congress,537370,213133,39.70%,14025,6.60%,BHIKHA RAM,male,56.0,RJ2023AC05
+Anupgarh,6,SC,Ganganagar,Shimla Devi,Indian National Congress,491902,191345,38.90%,37881,19.80%,OMPRAKASH,female,41.0,RJ2023AC06
+Sangaria,7,GEN,Hanumangarh,Abhimanyu,Indian National Congress,492222,205713,41.80%,42010,20.40%,ARVIND KUMAR,male,32.0,RJ2023AC07
+Hanumangarh,8,GEN,Hanumangarh,Ganeshraj Bansal,Independent,595534,239508,40.20%,9698,4.00%,RAMPRASAD,male,58.0,RJ2023AC08
+Pilibanga,9,SC,Hanumangarh,Vinod Kumar,Indian National Congress,593990,245851,41.40%,55273,22.50%,,,,RJ2023AC09
+Nohar,10,GEN,Hanumangarh,Amit Chachan,Indian National Congress,562462,238068,42.30%,895,0.40%,Rajender,male,39.0,RJ2023AC10
+Bhadra,11,GEN,Hanumangarh,Sanjeev Kumar,Bharatiya Janta Party,552726,228839,41.40%,1132,0.50%,DAYARAM,male,57.0,RJ2023AC11
+Khajuwala,12,SC,Bikaner,Dr Vishwanath Meghwal,Bharatiya Janta Party,473676,175289,37.00%,17374,9.90%,GANPATRAM,male,56.0,RJ2023AC12
+Bikaner West,13,GEN,Bikaner,Jethanand Vyas,Bharatiya Janta Party,475364,179399,37.70%,20194,11.30%,SHIVKUMAR,male,57.0,RJ2023AC13
+Bikaner East,14,GEN,Bikaner,Siddhi Kumari,Bharatiya Janta Party,495392,167697,33.90%,19303,11.50%,Narendra Singh,female,50.0,RJ2023AC14
+Kolayat,15,GEN,Bikaner,Anshuman Singh Bhati,Bharatiya Janta Party,512368,200162,39.10%,32933,16.50%,MAHENDRA SINGH,male,27.0,RJ2023AC15
+Lunkaransar,16,GEN,Bikaner,Sumit Godara,Bharatiya Janta Party,521770,199979,38.30%,8869,4.40%,RAMKARAN,male,49.0,RJ2023AC16
+Dungargarh,17,GEN,Bikaner,Tarachand,Bharatiya Janta Party,532562,198398,37.30%,8125,4.10%,,,,RJ2023AC17
+Nokha,18,GEN,Bikaner,Sushila Rameshwar Dudi,Indian National Congress,565088,212355,37.60%,8149,3.80%,Rameshwar Lal,female,58.0,RJ2023AC18
+Sadulpur,19,GEN,Churu,Manoj Kumar S/o Swai Singh,Bahujan Samaj Party,502148,194680,38.80%,2574,1.30%,SWAI SINGH,male,45.0,RJ2023AC19
+Taranagar,20,GEN,Churu,Narendra Budania,Indian National Congress,526440,217724,41.40%,10345,4.80%,PRATAP SINGH,male,67.0,RJ2023AC20
+Sardarshahar,21,GEN,Churu,Anil Kumar Sharma,Indian National Congress,611650,234182,38.30%,22332,9.50%,BHANWAR LAL SHARMA,male,52.0,RJ2023AC21
+Churu,22,GEN,Churu,Harlal Saharan,Bharatiya Janta Party,513332,197530,38.50%,6874,3.50%,SH. MOHANRAM,male,55.0,RJ2023AC22
+Ratangarh,23,GEN,Churu,Poosaram Godara,Indian National Congress,557012,201792,36.20%,29663,14.70%,RAMDHANRAM GODARA,male,65.0,RJ2023AC23
+Sujangarh,24,SC,Churu,Manoj Kumar,Indian National Congress,579010,199201,34.40%,2453,1.20%,,,,RJ2023AC24
+Pilani,25,SC,Jhunjhunun,Pitram Singh Kala,Indian National Congress,499126,171602,34.40%,14845,8.70%,JHABAR RAM,male,59.0,RJ2023AC25
+Surajgarh,26,GEN,Jhunjhunun,Sharwan Kumar S/o Gokal Ram,Indian National Congress,582938,199324,34.20%,37414,18.80%,Gokal Ram,male,69.0,RJ2023AC26
+Jhunjhunu,27,GEN,Jhunjhunun,Brijendra Singh Ola,Indian National Congress,544706,193757,35.60%,28863,14.90%,Shishram Ola,male,72.0,RJ2023AC27
+Mandawa,28,GEN,Jhunjhunun,Kumari Rita Chaudhary,Indian National Congress,497094,184105,37.00%,18717,10.20%,Ramnarayan Chaudhary,female,50.0,RJ2023AC28
+Nawalgarh,29,GEN,Jhunjhunun,Vikram Singh Jakhal,Bharatiya Janta Party,561230,206274,36.80%,23180,11.20%,Dayal Singh,male,48.0,RJ2023AC29
+Udaipurwati,30,GEN,Jhunjhunun,Bhagawana Ram Saini,Indian National Congress,519926,197629,38.00%,416,0.20%,MALARAM,male,58.0,RJ2023AC30
+Khetri,31,GEN,Jhunjhunun,Dharmpal,Bharatiya Janta Party,455704,167812,36.80%,9114,5.40%,RAMKUMAR,male,56.0,RJ2023AC31
+Fatehpur,32,GEN,Sikar,Hakam Ali Khan,Indian National Congress,509584,180750,35.50%,25993,14.40%,VAJID KHAN,male,57.0,RJ2023AC32
+Lachhmangarh,33,GEN,Sikar,Govind Singh Dotasra,Indian National Congress,560056,214205,38.20%,18970,8.90%,MOHAN SINGH,male,59.0,RJ2023AC33
+Dhod,34,SC,Sikar,Gordhan,Bharatiya Janta Party,558252,200840,36.00%,13378,6.70%,DEVA RAM,male,50.0,RJ2023AC34
+Sikar,35,GEN,Sikar,Rajendra Pareek,Indian National Congress,581248,212846,36.60%,30038,14.10%,BHANWAR LAL,male,75.0,RJ2023AC35
+Danta Ramgarh,36,GEN,Sikar,Virendra Singh,Indian National Congress,579956,219359,37.80%,7997,3.60%,,,,RJ2023AC36
+Khandela,37,GEN,Sikar,Subhash Meel,Bharatiya Janta Party,535008,202558,37.90%,42639,21.10%,HANUMAN SINGH,male,45.0,RJ2023AC37
+Neem Ka Thana,38,GEN,Sikar,Suresh Modi,Indian National Congress,547936,196392,35.80%,33090,16.80%,Mohan Lal,male,74.0,RJ2023AC38
+Srimadhopur,39,GEN,Sikar,Jhabar Singh Kharra,Bharatiya Janta Party,559514,193756,34.60%,14459,7.50%,HARLAL SINGH KHARRA,male,67.0,RJ2023AC39
+Kotputli,40,GEN,Jaipur,Hansraj Patel,Bharatiya Janta Party,457906,175536,38.30%,321,0.20%,BHOJRAJ,male,54.0,RJ2023AC40
+Viratnagar,41,GEN,Jaipur,Kuldeep,Bharatiya Janta Party,464802,176252,37.90%,17589,10.00%,,,,RJ2023AC41
+Shahpura,42,GEN,Jaipur,Manish Yadav,Indian National Congress,469294,197995,42.20%,64908,32.80%,NATWAR LAL YADAV,male,35.0,RJ2023AC42
+Chomu,43,GEN,Jaipur,Dr. Shikha Meel Barala,Indian National Congress,505970,212576,42.00%,5695,2.70%,AMIT BARALA,female,40.0,RJ2023AC43
+Phulera,44,GEN,Jaipur,Vidhyadhar Singh,Indian National Congress,525108,204784,39.00%,26898,13.10%,HARI SINGH,male,67.0,RJ2023AC44
+Dudu,45,SC,Jaipur,Dr. Prem Chand Bairwa,Bharatiya Janta Party,508506,200692,39.50%,35743,17.80%,RAM CHANDRA,male,54.0,RJ2023AC45
+Jhotwara,46,GEN,Jaipur,Col. Rajyavardhan Rathore,Bharatiya Janta Party,858069,308681,36.00%,50167,16.30%,L. S. RATHORE,male,53.0,RJ2023AC46
+Amber,47,GEN,Jaipur,Prashant Sharma,Indian National Congress,579290,225618,38.90%,9092,4.00%,SAHDEV SHARMA,male,59.0,RJ2023AC47
+Jamwa Ramgarh,48,ST,Jaipur,Mahendra Pal Meena,Bharatiya Janta Party,464434,178271,38.40%,38427,21.60%,CHHITARMAL MEENA,male,47.0,RJ2023AC48
+Hawa Mahal,49,GEN,Jaipur,Balmukundachary,Bharatiya Janta Party,508801,193710,38.10%,974,0.50%,PURASHOTAM,male,47.0,RJ2023AC49
+Vidhyadhar Nagar,50,GEN,Jaipur,Diya Kumari,Bharatiya Janta Party,684688,248841,36.30%,71368,28.70%,SAWAI BHAWANI SINGH,female,52.0,RJ2023AC50
+Civil Lines,51,GEN,Jaipur,Gopal Sharma,Bharatiya Janta Party,491103,172235,35.10%,28329,16.40%,RAMESHWAR LAL SHARMA,male,64.0,RJ2023AC51
+Kishan Pole,52,GEN,Jaipur,Amin Kagzi,Indian National Congress,385316,147843,38.40%,7056,4.80%,SALIMUDDIN KAGZI,male,53.0,RJ2023AC52
+Adarsh Nagar,53,GEN,Jaipur,Rafeek Khan,Indian National Congress,536788,196840,36.70%,14073,7.10%,CHHOTU KHAN,male,57.0,RJ2023AC53
+Malviya Nagar,54,GEN,Jaipur,Kalicharan Saraf,Bharatiya Janta Party,434003,151008,34.80%,35494,23.50%,FATEH CHANDRA,male,72.0,RJ2023AC54
+Sanganer,55,GEN,Jaipur,Bhajan Lal Sharma,Bharatiya Janta Party,700515,247116,35.30%,48081,19.50%,Kishan Swaroop Sharma,male,56.0,RJ2023AC55
+Bagru,56,SC,Jaipur,Kailash Chand Verma,Bharatiya Janta Party,705258,254341,36.10%,45250,17.80%,PRABHU DAYAL VERMA,male,38.0,RJ2023AC56
+Bassi,57,ST,Jaipur,Laxman,Indian National Congress,469496,184461,39.30%,6314,3.40%,,,,RJ2023AC57
+Chaksu,58,SC,Jaipur,Ramavtar Bairwa,Bharatiya Janta Party,462174,175410,38.00%,49380,28.20%,GHASIRAM,male,42.0,RJ2023AC58
+Tijara,59,GEN,Alwar,Mahant Balak Nath,Bharatiya Janta Party,525454,224017,42.60%,6173,2.80%,MAHANT CHANDNATH,male,39.0,RJ2023AC59
+Kishangarh Bas,60,GEN,Alwar,Deepchand Khairiya,Indian National Congress,513552,201052,39.10%,10496,5.20%,BADALU RAM,male,83.0,RJ2023AC60
+Mundawar,61,GEN,Alwar,Lalit Yadav,Indian National Congress,483228,182094,37.70%,35624,19.60%,Vidhyasagar,male,34.0,RJ2023AC61
+Behror,62,GEN,Alwar,Dr. Jaswant Singh Yadav,Bharatiya Janta Party,474610,174775,36.80%,17223,9.90%,SURAT SINGH,male,70.0,RJ2023AC62
+Bansur,63,GEN,Alwar,Devi Singh Shekhawat,Bharatiya Janta Party,509502,180403,35.40%,7420,4.10%,Roshan Singh Shekhawat,male,57.0,RJ2023AC63
+Thanagazi,64,GEN,Alwar,Kanti Prasad,Indian National Congress,443221,167711,37.80%,1939,1.20%,MOTI LAL,male,63.0,RJ2023AC64
+Alwar Rural,65,SC,Alwar,Tikaram Jully,Indian National Congress,525391,195428,37.20%,27333,14.00%,Lekhram,male,43.0,RJ2023AC65
+Alwar Urban,66,GEN,Alwar,Sanjay Sharma,Bharatiya Janta Party,527135,174569,33.10%,9087,5.20%,KRISHAN KUMAR,male,54.0,RJ2023AC66
+Ramgarh,67,GEN,Alwar,Zubair Khan,Indian National Congress,543488,210464,38.70%,19696,9.40%,BAGH SINGH,male,61.0,RJ2023AC67
+Rajgarh-Laxmangarh,68,ST,Alwar,Mangelal Meena,Indian National Congress,529686,185572,35.00%,22567,12.20%,KANHAIYA LAL MEENA,male,62.0,RJ2023AC68
+Kathumar,69,SC,Alwar,Ramesh Khinchi,Bharatiya Janta Party,458798,163651,35.70%,409,0.20%,Kishan Lal,male,65.0,RJ2023AC69
+Kaman,70,GEN,Bharatpur,Nauksham,Bharatiya Janta Party,531598,206906,38.90%,13906,6.70%,RAM SINGH CHAUDHARY,female,33.0,RJ2023AC70
+Nagar,71,GEN,Bharatpur,Jawaharsingh Bedham,Bharatiya Janta Party,500294,200868,40.10%,1531,0.80%,SAMANDAR SINGH,male,55.0,RJ2023AC71
+Deeg-Kumher,72,GEN,Bharatpur,Dr. Shailesh Singh,Bharatiya Janta Party,515050,177084,34.40%,7895,4.50%,DR. DIGAMBER SINGH,male,43.0,RJ2023AC72
+Bharatpur,73,GEN,Bharatpur,Dr. Subhash Garg,Rashtriya Lok Dal,558042,187805,33.70%,5387,2.90%,PRABHUDAYAL,male,64.0,RJ2023AC73
+Nadbai,74,GEN,Bharatpur,Jagat Singh,Bharatiya Janta Party,583794,206385,35.40%,15767,7.60%,KU. NATWAR SINGH,male,55.0,RJ2023AC74
+Weir,75,SC,Bharatpur,Bahadur Singh,Bharatiya Janta Party,544754,187963,34.50%,6972,3.70%,SUKHA RAM,male,65.0,RJ2023AC75
+Bayana,76,SC,Bharatpur,Dr. Ritu Banawat,Independent,533018,191492,35.90%,40642,21.20%,RISHI BANSAL,female,39.0,RJ2023AC76
+Baseri,77,SC,Dhaulpur,Sanjay Kumar,Indian National Congress,406452,150311,37.00%,27110,18.00%,SUA LAL,male,35.0,RJ2023AC77
+Bari,78,GEN,Dhaulpur,Jaswant Singh Gurjar,Bahujan Samaj Party,474706,200626,42.30%,27424,13.70%,KAMAL SINGH,male,68.0,RJ2023AC78
+Dholpur,79,GEN,Dhaulpur,Shobharani Kushwah,Indian National Congress,446523,173028,38.80%,16789,9.70%,BANWARI LAL KUSHWAH,female,42.0,RJ2023AC79
+Rajakhera,80,GEN,Dhaulpur,Rohit Bohra,Indian National Congress,429842,165802,38.60%,15557,9.40%,Pradyumn Singh,male,57.0,RJ2023AC80
+Todabhim,81,ST,Karauli,Ghanshyam,Indian National Congress,563288,178954,31.80%,28861,16.10%,,,,RJ2023AC81
+Hindaun,82,SC,Karauli,Anita Jatav,Indian National Congress,553810,185732,33.50%,38276,20.60%,VIKRAM,female,39.0,RJ2023AC82
+Karauli,83,GEN,Karauli,Darshan Singh,Bharatiya Janta Party,513826,193759,37.70%,2183,1.10%,LATE SHREE HANSRAM,male,60.0,RJ2023AC83
+Sapotra,84,ST,Karauli,Hansraj Meena,Bharatiya Janta Party,550008,196408,35.70%,43834,22.30%,,,,RJ2023AC84
+Bandikui,85,GEN,Dausa,Bhagchand Tankda,Bharatiya Janta Party,444774,178586,40.20%,12380,6.90%,BHOLARAM,male,45.0,RJ2023AC85
+Mahuwa,86,GEN,Dausa,Rajendra,Bharatiya Janta Party,442600,158665,35.80%,7917,5.00%,UTTAM SINGH,male,68.0,RJ2023AC86
+Sikrai,87,SC,Dausa,Vikram Bansiwal,Bharatiya Janta Party,526806,182498,34.60%,9428,5.20%,JIYALAL BANSIWAL,male,44.0,RJ2023AC87
+Dausa,88,GEN,Dausa,Murari Lal Meena,Indian National Congress,486966,181200,37.20%,31204,17.20%,NARAYAN,male,65.0,RJ2023AC88
+Lalsot,89,ST,Dausa,Rambilas,Bharatiya Janta Party,510536,196643,38.50%,47068,23.90%,MEDARAM MEENA,male,47.0,RJ2023AC89
+Gangapur,90,GEN,Sawai Madhopur,Ramkesh,Indian National Congress,537212,198848,37.00%,19268,9.70%,MOOLYA,male,66.0,RJ2023AC90
+Bamanwas,91,ST,Sawai Madhopur,Indra,Indian National Congress,487050,157154,32.30%,7865,5.00%,TIKU RAM,male,61.0,RJ2023AC91
+Sawai Madhopur,92,GEN,Sawai Madhopur,Kirodi Lal,Bharatiya Janta Party,513100,182658,35.60%,22510,12.30%,MANOHARI,male,72.0,RJ2023AC92
+Khandar,93,SC,Sawai Madhopur,Jitendra Kumar Gothwal,Bharatiya Janta Party,495658,178197,36.00%,14015,7.90%,GHASIRAM,male,50.0,RJ2023AC93
+Malpura,94,GEN,Tonk,Kanhaiyalal,Bharatiya Janta Party,542716,206615,38.10%,16189,7.80%,,,,RJ2023AC94
+Niwai,95,SC,Tonk,Ram Sahay Varma (REGAR),Bharatiya Janta Party,569972,197413,34.60%,12941,6.60%,SUKHA RAM,male,62.0,RJ2023AC95
+Tonk,96,GEN,Tonk,Sachin Pilot,Indian National Congress,506378,187070,36.90%,29475,15.80%,Rajesh Pilot,male,46.0,RJ2023AC96
+Deoli-Uniara,97,GEN,Tonk,Harish Chandra Meena,Indian National Congress,594630,219634,36.90%,19175,8.70%,Shrinarayan,male,69.0,RJ2023AC97
+Kishangarh,98,GEN,Ajmer,Vikash Choudhary,Indian National Congress,565310,213273,37.70%,3620,1.70%,RAMCHANDRA CHOUDHARY,male,36.0,RJ2023AC98
+Pushkar,99,GEN,Ajmer,Suresh Singh Rawat,Bharatiya Janta Party,503978,188740,37.50%,13869,7.30%,Suraj Singh,male,40.0,RJ2023AC99
+Ajmer North,100,GEN,Ajmer,Vasudev Devnani,Bharatiya Janta Party,419706,141938,33.80%,4644,3.30%,BHAWANDAS,male,75.0,RJ2023AC100
+Ajmer South,101,SC,Ajmer,Anita Bhadel,Bharatiya Janta Party,420574,140330,33.40%,4446,3.20%,BHIM SINGH,female,52.0,RJ2023AC101
+Nasirabad,102,GEN,Ajmer,Ramswaroop Lamba,Bharatiya Janta Party,466642,179938,38.60%,1135,0.60%,SANWAR LAL,male,38.0,RJ2023AC102
+Beawar,103,GEN,Ajmer,Shankersingh Rawat,Bharatiya Janta Party,516862,179959,34.80%,8878,4.90%,LADU SINGH,male,68.0,RJ2023AC103
+Masuda,104,GEN,Ajmer,Virendra Singh,Bharatiya Janta Party,544568,198396,36.40%,26716,13.50%,BHANWAR SINGH,male,58.0,RJ2023AC104
+Kekri,105,GEN,Ajmer,Shatrughan Gautam,Bharatiya Janta Party,523492,198808,38.00%,7542,3.80%,NANDKISHORE SHARMA,male,47.0,RJ2023AC105
+Ladnun,106,GEN,Nagaur,Mukesh Bhakar,Indian National Congress,538508,191241,35.50%,15954,8.30%,SURJARAM,male,35.0,RJ2023AC106
+Deedwana,107,GEN,Nagaur,Yoonus Khan,Independent,531730,194155,36.50%,2392,1.20%,TAJU KHAN,male,59.0,RJ2023AC107
+Jayal,108,SC,Nagaur,Dr. Manju Baghmar,Bharatiya Janta Party,524798,177583,33.80%,1565,0.90%,RUGHA RAM,female,51.0,RJ2023AC108
+Nagaur,109,GEN,Nagaur,Harendra Mirdha,Indian National Congress,541448,186027,34.40%,14620,7.90%,RAMNIWAS,male,74.0,RJ2023AC109
+Khinwsar,110,GEN,Nagaur,Hanuman Beniwal,Rashtriya Loktantrik Party,566104,207231,36.60%,2059,1.00%,RAMDEV,male,51.0,RJ2023AC110
+Merta,111,SC,Nagaur,Laxman Ram,Bharatiya Janta Party,573516,200091,34.90%,17515,8.80%,HARDEEN RAM,male,51.0,RJ2023AC111
+Degana,112,GEN,Nagaur,Ajay Singh,Bharatiya Janta Party,531678,189485,35.60%,7755,4.10%,RAMRAGHUNATH,male,65.0,RJ2023AC112
+Makrana,113,GEN,Nagaur,Jakir Hussain Gesawat,Indian National Congress,543732,204145,37.50%,29314,14.40%,MO RAMJAN,male,53.0,RJ2023AC113
+Parbatsar,114,GEN,Nagaur,Ramniwas Gawriya,Indian National Congress,500858,195429,39.00%,10316,5.30%,RUGHARAM,male,32.0,RJ2023AC114
+Nawan,115,GEN,Nagaur,Vijay Singh,Bharatiya Janta Party,538184,200736,37.30%,23948,11.90%,Kirori Singh Bainsla,male,52.0,RJ2023AC115
+Jaitaran,116,GEN,Pali,Avinash Gehlot,Bharatiya Janta Party,617872,210407,34.10%,13526,6.40%,NATHU RAM,male,41.0,RJ2023AC116
+Sojat,117,SC,Pali,Shobha Chauhan,Bharatiya Janta Party,492463,168081,34.10%,31772,18.90%,RAJESH,female,52.0,RJ2023AC117
+Pali,118,GEN,Pali,Bheem Raj Bhati,Indian National Congress,549296,187496,34.10%,7888,4.20%,POONAM CHAND BHATI,male,75.0,RJ2023AC118
+Marwar Junction,119,GEN,Pali,Kesaram Choudhary,Bharatiya Janta Party,589906,179696,30.50%,33021,18.40%,VANARAM,male,71.0,RJ2023AC119
+Bali,120,GEN,Pali,Pushpendra Singh,Bharatiya Janta Party,665656,218876,32.90%,10493,4.80%,NARENDRA SINGH,male,53.0,RJ2023AC120
+Sumerpur,121,GEN,Pali,Joraram Kumawat,Bharatiya Janta Party,622406,190196,30.60%,27382,14.40%,PURARAM KUMAWAT,male,59.0,RJ2023AC121
+Phalodi,122,GEN,Jodhpur,Pabba Ram Bishnoi,Bharatiya Janta Party,514974,176668,34.30%,10784,6.10%,BARSINGA RAM,male,72.0,RJ2023AC122
+Lohawat,123,GEN,Jodhpur,Gajendra Singh,Bharatiya Janta Party,536478,206575,38.50%,10549,5.10%,ONKAR SINGH,male,65.0,RJ2023AC123
+Shergarh,124,GEN,Jodhpur,Babu Singh Rathor,Bharatiya Janta Party,551748,205574,37.30%,25044,12.20%,CHAIN SINGH RATHOR,male,52.0,RJ2023AC124
+Osian,125,GEN,Jodhpur,Bhera Ram Choudhary (SIYOL),Bharatiya Janta Party,532534,207849,39.00%,2807,1.40%,BHAGWANA RAM CHOUDHARY,male,52.0,RJ2023AC125
+Bhopalgarh,126,SC,Jodhpur,Geeta Barwar,Indian National Congress,610396,200881,32.90%,24298,12.10%,JOGESHWAR PRASAD,female,48.0,RJ2023AC126
+Sardarpura,127,GEN,Jodhpur,Ashok Gehlot,Indian National Congress,515506,169688,32.90%,26396,15.60%,LATE SHRI LAXMANSINGH,male,72.0,RJ2023AC127
+Jodhpur,128,GEN,Jodhpur,Atul Bhansali,Bharatiya Janta Party,399396,131166,32.80%,13525,10.30%,HANWANT,male,53.0,RJ2023AC128
+Soorsagar,129,GEN,Jodhpur,Devendra Joshi,Bharatiya Janta Party,577371,199175,34.50%,38759,19.50%,,,,RJ2023AC129
+Luni,130,GEN,Jodhpur,Jogaram Patel,Bharatiya Janta Party,670336,242238,36.10%,24678,10.20%,RAMARAM,male,68.0,RJ2023AC130
+Bilara,131,SC,Jodhpur,Arjun Lal,Bharatiya Janta Party,580814,194404,33.50%,10424,5.40%,GOKUL RAM,male,65.0,RJ2023AC131
+Jaisalmer,132,GEN,Jaisalmer,Chhotusingh,Bharatiya Janta Party,506830,197237,38.90%,18687,9.50%,KARANSINGH,male,68.0,RJ2023AC132
+Pokaran,133,GEN,Jaisalmer,Pratap Puri,Bharatiya Janta Party,449330,197940,44.10%,35427,17.90%,MOHAN PURI,male,53.0,RJ2023AC133
+Sheo,134,GEN,Barmer,Ravindra Singh Bhati,Independent,601686,249762,41.50%,3950,1.60%,SHAITAN SINGH BHATI,male,25.0,RJ2023AC134
+Barmer,135,GEN,Barmer,Dr. Priyanka Chowdhary,Independent,529724,215357,40.70%,13337,6.20%,LATE NANURAM,female,50.0,RJ2023AC135
+Baytoo,136,GEN,Barmer,Harish Chaudhary,Indian National Congress,504802,211197,41.80%,910,0.40%,MOOLSINGH CHOUDHARY,male,53.0,RJ2023AC136
+Pachpadra,137,GEN,Barmer,Arun Choudhary,Bharatiya Janta Party,505908,184411,36.50%,2529,1.40%,AMRARAM,male,47.0,RJ2023AC137
+Siwana,138,GEN,Barmer,Hameer Singh Bhayal,Bharatiya Janta Party,552498,176443,31.90%,11807,6.70%,DAULAT SINGH,male,65.0,RJ2023AC138
+Gudha Malani,139,GEN,Barmer,Krishan Kumar K.K. Vishnoi,Bharatiya Janta Party,540268,217958,40.30%,15217,7.00%,LADURAM VISHNOI,male,46.0,RJ2023AC139
+Chohtan,140,SC,Barmer,Adu Ram Meghwal,Bharatiya Janta Party,619486,233550,37.70%,1428,0.60%,ANNA RAM,male,57.0,RJ2023AC140
+Ahore,141,GEN,Jalor,Chhagan Singh Rajpurohit,Bharatiya Janta Party,542908,164770,30.30%,11215,6.80%,JUHAR SINGH,male,46.0,RJ2023AC141
+Jalore,142,SC,Jalor,Jogeshwar Garg,Bharatiya Janta Party,575908,178919,31.10%,19536,10.90%,PHUSA RAM,male,68.0,RJ2023AC142
+Bhinmal,143,GEN,Jalor,Samarjit Singh,Indian National Congress,617716,199236,32.30%,1027,0.50%,SURAJPAL SINGH,male,56.0,RJ2023AC143
+Sanchore,144,GEN,Jalor,Jiva Ram Choudhary,Independent,630634,256037,40.60%,4671,1.80%,MOTA RAM,male,62.0,RJ2023AC144
+Raniwara,145,GEN,Jalor,Ratan Devasi,Indian National Congress,543744,210900,38.80%,22362,10.60%,SHANKAR,male,48.0,RJ2023AC145
+Sirohi,146,GEN,Sirohi,Ota Ram Dewasi,Bharatiya Janta Party,608981,200233,32.90%,35805,17.90%,HEMARAM,male,58.0,RJ2023AC146
+Pindwara Abu,147,ST,Sirohi,Samaram,Bharatiya Janta Party,456665,157558,34.50%,13094,8.30%,BHARTARAM,male,55.0,RJ2023AC147
+Reodar,148,SC,Sirohi,Motiram,Indian National Congress,567150,193207,34.10%,3564,1.80%,PUNAMARAM,male,52.0,RJ2023AC148
+Gogunda,149,ST,Udaipur,Pratap Lal Bheel,Bharatiya Janta Party,529618,193470,36.50%,3665,1.90%,Late Bhura Lal Bheel,male,54.0,RJ2023AC149
+Jhadol,150,ST,Udaipur,Babulal Kharadi,Bharatiya Janta Party,546986,212258,38.80%,6488,3.10%,Fagna,male,51.0,RJ2023AC150
+Kherwara,151,ST,Udaipur,Dr. Dayaram Parmar,Indian National Congress,595418,215913,36.30%,17244,8.00%,Danaji,male,78.0,RJ2023AC151
+Udaipur Rural,152,ST,Udaipur,Phool Singh Meena,Bharatiya Janta Party,570429,211842,37.10%,27345,12.90%,Madho Singh Meena,male,64.0,RJ2023AC152
+Udaipur,153,GEN,Udaipur,Tarachand Jain,Bharatiya Janta Party,492862,164370,33.40%,32771,19.90%,Kodarlal Jain,male,70.0,RJ2023AC153
+Mavli,154,GEN,Udaipur,Pushkar Lal Dangi,Indian National Congress,516120,201019,38.90%,1567,0.80%,Mangi Lal Dangi,male,57.0,RJ2023AC154
+Vallabhnagar,155,GEN,Udaipur,Udailal Dangi,Bharatiya Janta Party,529556,201694,38.10%,20060,9.90%,Meghraj,male,51.0,RJ2023AC155
+Salumber,156,ST,Udaipur,Amritlal Meena,Bharatiya Janta Party,590344,209617,35.50%,14691,7.00%,Goma Ji Meena,male,63.0,RJ2023AC156
+Dhariawad,157,ST,Udaipur,Thavar Chand,Bharat Adivasi Party,549510,218787,39.80%,6691,3.10%,SHANKAR LAL,male,28.0,RJ2023AC157
+Dungarpur,158,ST,Dungarpur,Ganesh Ghogra,Indian National Congress,526590,189490,36.00%,19053,10.10%,NATHU LAL GHOGRA,male,44.0,RJ2023AC158
+Aspur,159,ST,Dungarpur,Umesh Meena,Bharat Adivasi Party,540042,197629,36.60%,28940,14.60%,Ratan Lal Meena,male,30.0,RJ2023AC159
+Sagwara,160,ST,Dungarpur,Shankarlal Decha,Bharatiya Janta Party,552090,202778,36.70%,11999,5.90%,Savji,male,59.0,RJ2023AC160
+Chorasi,161,ST,Dungarpur,Rajkumar Roat,Bharat Adivasi Party,500318,202345,40.40%,69166,34.20%,LT. Shankerlal Roat,male,31.0,RJ2023AC161
+Ghatol,162,ST,Banswara,Nanalal Ninama,Indian National Congress,562836,237489,42.20%,3691,1.60%,DELIYA NINAMA,male,69.0,RJ2023AC162
+Garhi,163,ST,Banswara,Kailash Chandra Meena,Bharatiya Janta Party,578710,221324,38.20%,15107,6.80%,GOMNA,male,58.0,RJ2023AC163
+Banswara,164,ST,Banswara,Arjun Singh Bamaniya,Indian National Congress,562016,225924,40.20%,1400,0.60%,PUNJA JI,male,60.0,RJ2023AC164
+Bagidora,165,ST,Banswara,Mahendra Jeet Singh Malviya,Indian National Congress,529486,218545,41.30%,41355,18.90%,POJA,male,62.0,RJ2023AC165
+Kushalgarh,166,ST,Banswara,Ramila Khadiya,Indian National Congress,529742,230569,43.50%,9804,4.30%,HURTING,female,54.0,RJ2023AC166
+Kapasan,167,SC,Chittaurgarh,Arjun Lal Jingar,Bharatiya Janta Party,539448,198913,36.90%,21344,10.70%,NAND LAL,male,63.0,RJ2023AC167
+Begun,168,GEN,Chittaurgarh,Dr. Suresh Dhakar,Bharatiya Janta Party,559146,233588,41.80%,50661,21.70%,BHERULAL,male,45.0,RJ2023AC168
+Chittorgarh,169,GEN,Chittaurgarh,Chandrabhan Singh Chouhan,Independent,540486,215552,39.90%,6823,3.20%,Ram Singh,male,47.0,RJ2023AC169
+Nimbahera,170,GEN,Chittaurgarh,Shrichand Kriplani,Bharatiya Janta Party,552309,235065,42.60%,3845,1.60%,CHETU MAL,male,64.0,RJ2023AC170
+Bari Sadri,171,GEN,Chittaurgarh,Gautam Kumar,Bharatiya Janta Party,549974,215064,39.10%,11832,5.50%,KANAK MAL,male,45.0,RJ2023AC171
+Pratapgarh,172,ST,Chittaurgarh,Hemant Meena,Bharatiya Janta Party,518138,216794,41.80%,25109,11.60%,NANDLAL,male,43.0,RJ2023AC172
+Bhim,173,GEN,Rajsamand,Harisingh Rawat S/o Panna Singh,Bharatiya Janta Party,462364,161880,35.00%,31768,19.60%,Panna Singh,male,68.0,RJ2023AC173
+Kumbhalgarh,174,GEN,Rajsamand,Surendra Singh Rathore,Bharatiya Janta Party,452920,154001,34.00%,22060,14.30%,Late Bhagwat Singh Rathore,male,60.0,RJ2023AC174
+Rajsamand,175,GEN,Rajsamand,Deepti Kiran Maheshwari,Bharatiya Janta Party,464368,174556,37.60%,31962,18.30%,DR. SATYANARAYAN MAHESHWARI,female,36.0,RJ2023AC175
+Nathdwara,176,GEN,Rajsamand,Vishvaraj Singh Mewar,Bharatiya Janta Party,477154,186840,39.20%,7504,4.00%,MAHENDRA SINGH MEWAR,male,54.0,RJ2023AC176
+Asind,177,GEN,Bhilwara,Jabbar Singh Sankhala,Bharatiya Janta Party,593828,219985,37.00%,1526,0.70%,Sambhu Singh Sankhala,male,55.0,RJ2023AC177
+Mandal,178,GEN,Bhilwara,Udai Lal Bhadana,Bharatiya Janta Party,542266,219974,40.60%,35878,16.30%,NARU,male,45.0,RJ2023AC178
+Sahara,179,GEN,Bhilwara,Ladu Lal Pitliya,Bharatiya Janta Party,508526,188180,37.00%,62519,33.20%,DHARMCHAND PITLIYA,male,52.0,RJ2023AC179
+Bhilwara,180,GEN,Bhilwara,Ashok Kumar Kothari,Independent,559787,189830,33.90%,10778,5.70%,Mohan Lal,male,62.0,RJ2023AC180
+Shahpura,181,SC,Bhilwara,Lalaram Bairwa,Bharatiya Janta Party,505732,182155,36.00%,59298,32.60%,RAMNATH DEVTWAL(BAIRWA),male,51.0,RJ2023AC181
+Jahazpur,182,GEN,Bhilwara,Gopichand Meena,Bharatiya Janta Party,495782,197943,39.90%,580,0.30%,JAYKISHAN,male,48.0,RJ2023AC182
+Mandalgarh,183,GEN,Bhilwara,Gopal Lal Sharma,Bharatiya Janta Party,497468,196529,39.50%,8194,4.20%,PRABHU LAL SHARMA,male,63.0,RJ2023AC183
+Hindoli,184,GEN,Bundi,Ashok,Indian National Congress,547162,222130,40.60%,45004,20.30%,LATE SHRI LAXMANSINGH,male,72.0,RJ2023AC184
+Keshoraipatan,185,SC,Bundi,Chunnilal C.L. Premi Bairwa,Indian National Congress,555720,203078,36.50%,17087,8.40%,PANCHU LAL,male,69.0,RJ2023AC185
+Bundi,186,GEN,Bundi,Harimohan Sharma,Indian National Congress,618678,235626,38.10%,18814,8.00%,GULAB SHANKER,male,83.0,RJ2023AC186
+Pipalda,187,GEN,Kota,Chetan Patel Kolana,Indian National Congress,420034,161538,38.50%,21005,13.00%,JUGAL KISHORE,male,32.0,RJ2023AC187
+Sangod,188,GEN,Kota,Heeralal Nagar,Bharatiya Janta Party,419838,166185,39.60%,25586,15.40%,CHANDALAL NAGAR,male,63.0,RJ2023AC188
+Kota North,189,GEN,Kota,Shanti Dhariwal,Indian National Congress,511442,190110,37.20%,2486,1.30%,RIKHAB CHAND DHARIWAL,male,80.0,RJ2023AC189
+Kota South,190,GEN,Kota,Sandeep Sharma,Bharatiya Janta Party,489896,181472,37.00%,11962,6.60%,VIJAY SHANKAR SHARMA,male,55.0,RJ2023AC190
+Ladpura,191,GEN,Kota,Kalpana Devi,Bharatiya Janta Party,580606,220965,38.10%,25522,11.60%,IJYARAJ SINGH,female,54.0,RJ2023AC191
+Ramganj Mandi,192,SC,Kota,Madan Dilawar,Bharatiya Janta Party,496112,193312,39.00%,18422,9.50%,Late Shri Madholal,male,64.0,RJ2023AC192
+Anta,193,GEN,Baran,Kanwarlal,Bharatiya Janta Party,434044,174793,40.30%,5861,3.40%,PURILAL,male,49.0,RJ2023AC193
+Kishanganj,194,ST,Baran,Lalit Meena,Bharatiya Janta Party,463354,188314,40.60%,22281,11.80%,HEMRAJ MEENA,male,36.0,RJ2023AC194
+Baran Atru,195,SC,Baran,Radheyshyam Bairwa,Bharatiya Janta Party,481952,186490,38.70%,19754,10.60%,MADANLAL,male,53.0,RJ2023AC195
+Chhabra,196,GEN,Baran,Pratap Singh Singhvi,Bharatiya Janta Party,489140,195482,40.00%,5108,2.60%,PREM SINGH,male,66.0,RJ2023AC196
+Dag,197,SC,Jhalawar,Kaluram,Bharatiya Janta Party,529376,209941,39.70%,22261,10.60%,,,,RJ2023AC197
+Jhalrapatan,198,GEN,Jhalawar,Vasundhara Raje,Bharatiya Janta Party,595824,230077,38.60%,53193,23.10%,Hemant Singh,female,70.0,RJ2023AC198
+Khanpur,199,GEN,Jhalawar,Suresh Gurjar,Indian National Congress,494308,200958,40.70%,8425,4.20%,MANGILAL GURJAR,male,50.0,RJ2023AC199
+Manohar Thana,200,GEN,Jhalawar,Govind Prasad,Bharatiya Janta Party,533010,222325,41.70%,24865,11.20%,BADRI LAL,male,63.0,RJ2023AC200

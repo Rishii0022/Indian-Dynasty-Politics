@@ -1,0 +1,420 @@
+AC Name,AC No.,Type,Winning Candidate,Party,Total Electors,Total Votes,Poll%,Margin,Margin %
+Uttarkashi,1,SC,Baldeo Singh Arya,Indian National Congress,138874,55258,39.8 %,20000.0,36.2%
+Tehri,2,GEN,Lokendra Dutt Saklani,Indian National Congress,153130,59801,39.1 %,8990.0,15.0%
+Deoprayag,3,GEN,Shurvir Singh Sajwaya,Indian National Congress,135198,47333,35.0 %,17011.0,35.9%
+Lansdowne,4,GEN,Surendra Singh,Indian National Congress,141077,67831,48.1 %,5945.0,8.8%
+Pauri,5,GEN,Pushkar Singh,Indian National Congress,130353,53427,41.0 %,16862.0,31.6%
+Karanprayag,6,GEN,Shiva Nand Nautiyal,Lok Dal,130347,61354,47.1 %,5326.0,8.7%
+Badrikedar,7,GEN,Santan Barthwal,Indian National Congress,155275,71575,46.1 %,4252.0,5.9%
+Didihat,8,GEN,Kashi Singh,Independent,129255,51149,39.6 %,3055.0,6.0%
+Pithoragarh,9,GEN,Kamal Kishan Pandey,Janta Party,133250,42520,31.9 %,2529.0,5.9%
+Almora,10,GEN,Saraswati Devi,Indian National Congress,145713,51534,35.4 %,8393.0,16.3%
+Bageshwar,11,SC,Gopal Ram Das,Indian National Congress,124469,43013,34.6 %,15987.0,37.2%
+Ranikhet,12,GEN,Pooran Singh,Indian National Congress,152612,54021,35.4 %,22807.0,42.2%
+Nainital,13,GEN,Kishan Singh Taragi,Indian National Congress,136659,60963,44.6 %,33718.0,55.3%
+Khatima,14,GEN,Suresh Chandra,Indian National Congress,159735,68397,42.8 %,42528.0,62.2%
+Haldwani,15,GEN,Moti Ram,Indian National Congress,179234,73736,41.1 %,30988.0,42.0%
+Kashipur,16,GEN,Narayan Dutt,Indian National Congress,156361,85471,54.7 %,48808.0,57.1%
+Seohara,17,GEN,Shiv Nath Singh,Indian National Congress,152722,87050,57.0 %,2384.0,2.7%
+Dhampur,18,GEN,Basant Singh,Indian National Congress,150025,64324,42.9 %,3403.0,5.3%
+Afzalgarh,19,GEN,Mohmoodul Hasan Ansari,Indian National Congress,150491,92664,61.6 %,23267.0,25.1%
+Nagina,20,SC,Omwati,Indian National Congress,139939,68343,48.8 %,18984.0,27.8%
+Nazibabad,21,SC,Sukkam Singh,Indian National Congress,146670,61915,42.2 %,9799.0,15.8%
+Bijnor,22,GEN,Azizur Rahman,Indian National Congress,154195,93967,60.9 %,3681.0,3.9%
+Chandpur,23,GEN,Ku. Devendra Singh,Indian National Congress,163379,99437,60.9 %,7889.0,7.9%
+Kanth,24,GEN,Samar Pal Singh,Indian National Congress,134839,76569,56.8 %,11056.0,14.4%
+Amroha,25,GEN,Mohd Hayat,Lok Dal,149231,91558,61.4 %,180.0,0.2%
+Hasanpur,26,GEN,Kaushik Rama Shankar,Indian Congress (J),147178,96682,65.7 %,405.0,0.4%
+Gangeshwari,27,SC,Bhagwan Das,Indian National Congress,140085,65093,46.5 %,350.0,0.5%
+Sambhal,28,GEN,Shafiqur Rehman Warq,Lok Dal,141929,81421,57.4 %,4175.0,5.1%
+Bahjoi,29,GEN,Bijendrapal Singh,Indian National Congress,130715,61282,46.9 %,14003.0,22.9%
+Chandausi,30,SC,Phool Kunwar,Indian National Congress,138201,49016,35.5 %,3463.0,7.1%
+Kundarki,31,GEN,Rina Kumari,Indian National Congress,147498,81751,55.4 %,11327.0,13.9%
+Moradabad West,32,GEN,Mohd. Akil Urf Munna Miya,Indian Congress (J),146600,74651,50.9 %,5417.0,7.3%
+Moradabad,33,GEN,Pushpa Singhal,Indian National Congress,135312,64442,47.6 %,607.0,0.9%
+Moradabad Rural,34,GEN,Mohd. Rizwanul Haq,Lok Dal,141338,79422,56.2 %,5515.0,6.9%
+Thakurdwara,35,GEN,Sakhawat Husain,Indian Congress (J),138380,83753,60.5 %,8182.0,9.8%
+Suartanda,36,GEN,Nisar Husain,Indian National Congress,155522,73940,47.5 %,9270.0,12.5%
+Rampur,37,GEN,Mohammad Azam Khan,Lok Dal,149829,84102,56.1 %,17013.0,20.2%
+Bilaspur,38,GEN,Daljit Singh,Indian National Congress,175819,90754,51.6 %,4176.0,4.6%
+Shahabad,39,SC,Jagan Singh,Lok Dal,155048,62504,40.3 %,13287.0,21.3%
+Bisauli,40,GEN,Yogendra Kumar,Independent,136007,76044,55.9 %,18569.0,24.4%
+Gunnaur,41,GEN,Pushpadevi,Indian National Congress,139358,67005,48.1 %,2271.0,3.4%
+Sahaswan,42,GEN,Naresh Pal Singh Yadav,Lok Dal,148399,83831,56.5 %,5187.0,6.2%
+Bilsi,43,SC,Bhola Shanker Maurya,Indian National Congress,135545,61325,45.2 %,4441.0,7.2%
+Budaun,44,GEN,Premila Bhadwar Mehra,Indian National Congress,145497,65009,44.7 %,9645.0,14.8%
+Usehat,45,GEN,Nirottam Singh,Indian National Congress,140137,61858,44.1 %,4527.0,7.3%
+Binawar,46,GEN,Mohd. Abkar Ahmed,Indian National Congress,140282,76874,54.8 %,5517.0,7.2%
+Dataganj,47,GEN,Avneesh Kuamar Singh,Bharatiya Janta Party,135733,73555,54.2 %,13173.0,17.9%
+Aonla,48,GEN,Shyam Bihari Singh,Bharatiya Janta Party,139925,66197,47.3 %,5519.0,8.3%
+Sunha,49,GEN,Rameshwar Nath Chaubey,Indian National Congress,133439,64338,48.2 %,10071.0,15.7%
+Faridpur,50,SC,Nathu Lal Vikal,Indian National Congress,133067,53368,40.1 %,6261.0,11.7%
+Bareilly Cantonment,51,GEN,Raffiq Ahmed Alias Rafian,Indian National Congress,143915,64059,44.5 %,15648.0,24.4%
+Bareilly City,52,GEN,Dinesh Jouhari,Bharatiya Janta Party,132111,56398,42.7 %,14884.0,26.4%
+Nawabganj,53,GEN,Chet Ram Gangwar,Indian National Congress,134752,72556,53.8 %,6880.0,9.5%
+Bhojipura,54,GEN,Narendra Pal Singh,Indian National Congress,137385,74005,53.9 %,3768.0,5.1%
+Kawar,55,GEN,Jaideep Singh,Indian National Congress,133075,75580,56.8 %,5878.0,7.8%
+Baheri,56,GEN,Amba Prasad,Indian National Congress,149659,75980,50.8 %,7095.0,9.3%
+Pilibhit,57,GEN,Seyed Ali Ashrafi,Indian National Congress,139966,69195,49.4 %,9145.0,13.2%
+Barkhera,58,SC,Kishan Lal,Bharatiya Janta Party,132242,54681,41.3 %,2320.0,4.2%
+Bisalpur,59,GEN,Tej Bahadur Gangwar,Indian National Congress,139992,77845,55.6 %,1312.0,1.7%
+Puranpur,60,GEN,Vinod Kumar,Indian National Congress,164774,92671,56.2 %,9005.0,9.7%
+Powayan,61,SC,Chet Ram,Indian National Congress,164783,66062,40.1 %,12099.0,18.3%
+Nigohi,62,GEN,Ahiwaran,Indian National Congress,149660,72182,48.2 %,19194.0,26.6%
+Tilhar,63,GEN,Satya Pal Singh,Lok Dal,156598,86513,55.2 %,20666.0,23.9%
+Jalalabad,64,GEN,Udaivere Singh,Indian National Congress,157958,81005,51.3 %,22442.0,27.7%
+Dadraul,65,GEN,Ram Autar Mishra Alais Nanku,Indian National Congress,149534,78028,52.2 %,4198.0,5.4%
+Shahjahanpur,66,GEN,Nawab Sikander Ali Khan,Indian National Congress,155279,69208,44.6 %,4350.0,6.3%
+Mohammadi,67,SC,Banshi Dhar Raj,Indian National Congress,166160,62758,37.8 %,23087.0,36.8%
+Haiderabad,68,GEN,Ram Bhajan Lal,Indian National Congress,141304,53800,38.1 %,1353.0,2.5%
+Paila,69,SC,Nangaram,Lok Dal,150430,48859,32.5 %,1835.0,3.8%
+Lakhimpur,70,GEN,Kanti Singh Visen,Indian National Congress,148541,71473,48.1 %,9146.0,12.8%
+Srinagar,71,GEN,Kamal Ahmed Rizavi,Indian National Congress,162892,52060,32.0 %,29673.0,57.0%
+Nighasan,72,GEN,Satish Ajmani,Indian National Congress,183686,78661,42.8 %,14221.0,18.1%
+Dhaurehara,73,GEN,Swarswati Pratap Singh,Independent,175483,80342,45.8 %,11276.0,14.0%
+Behta,74,GEN,Ganga Swaroop Bhatnagar,Indian National Congress,159500,80404,50.4 %,3551.0,4.4%
+Biswan,75,GEN,Padma Seth,Indian National Congress,156889,73893,47.1 %,15671.0,21.2%
+Mahmoodabad,76,GEN,Raja Mohd. Amir Mohd. Khan,Indian National Congress,174397,88857,51.0 %,39277.0,44.2%
+Sidhauli,77,SC,Ramlal S/o Laltoo,Indian National Congress,166288,59772,35.9 %,1468.0,2.5%
+Laharpur,78,GEN,Buniyad Husain Absari,Lok Dal,151623,64107,42.3 %,6142.0,9.6%
+Sitapur,79,GEN,Rajendra Gupta,Bharatiya Janta Party,152253,63736,41.9 %,15614.0,24.5%
+Hargaon,80,SC,Ch. Paragilal,Indian National Congress,143558,61605,42.9 %,3731.0,6.1%
+Misrikh,81,GEN,Ram Ratan Singh,Indian National Congress,150813,90969,60.3 %,5719.0,6.3%
+Machhrehta,82,SC,Ram Krishna,Independent,134819,57364,42.5 %,615.0,1.1%
+Beniganj,83,SC,Ram Pal,Independent,130340,53427,41.0 %,6219.0,11.6%
+Sandila,84,GEN,Kudesiya Begum,Indian National Congress,139093,73309,52.7 %,1655.0,2.3%
+Ahirori,85,SC,Parmi Lal,Lok Dal,135276,51854,38.3 %,12097.0,23.3%
+Hardoi,86,GEN,Uma Tripathi,Indian National Congress,142534,64617,45.3 %,5488.0,8.5%
+Bawan,87,SC,Nathhu Lal,Indian National Congress,140610,44346,31.5 %,1640.0,3.7%
+Pihani,88,GEN,Ashok Bajpai,Janta Party,143558,69150,48.2 %,20129.0,29.1%
+Bilgram,90,GEN,Hari Shankar,Indian National Congress,162364,82453,50.8 %,7863.0,9.5%
+Mallawan,91,GEN,Ram Asrey,Independent,153531,88313,57.5 %,11335.0,12.8%
+Bangarmau,92,GEN,Gopi Nath Dikshit,Indian National Congress,148873,78094,52.5 %,450.0,0.6%
+Safipur,93,SC,Sunder Lal,Lok Dal,145008,52591,36.3 %,898.0,1.7%
+Unnao,94,GEN,Manohar Lal,Lok Dal,153129,66879,43.7 %,15192.0,22.7%
+Hadha,95,GEN,Sachidanand Bajpayi,Indian National Congress,141689,70811,50.0 %,12439.0,17.6%
+Bhagwant Nagar,96,GEN,Bhagwati Singh Visarad,Indian National Congress,159696,64340,40.3 %,11341.0,17.6%
+Purwa,97,GEN,Hirday Narayan Dixit,Independent,144273,76722,53.2 %,7658.0,10.0%
+Hasanganj,98,SC,Badri Prasad,Indian National Congress,141258,65550,46.4 %,10386.0,15.8%
+Malihabad,99,SC,Krishna Rawat,Indian National Congress,142056,32374,22.8 %,12576.0,38.8%
+Mohana,100,GEN,Bhagoti Singh,Independent,176270,68132,38.7 %,2740.0,4.0%
+Lucknow East,101,GEN,Swaroop Kumari Bakshi,Indian National Congress,173171,42328,24.4 %,14917.0,35.2%
+Lucknow West,102,GEN,Jafar Ali Naqvi,Indian National Congress,171472,41476,24.2 %,13113.0,31.6%
+Lucknow Central,103,GEN,Naresh Chandra,Indian National Congress,180264,41474,23.0 %,19342.0,46.6%
+Lucknow Cantonment,104,GEN,Premavati Tiwari,Indian National Congress,172911,41353,23.9 %,23785.0,57.5%
+Sarojini Nagar,105,GEN,Sharda Partap,Independent,155192,64711,41.7 %,2010.0,3.1%
+Mohanlalganj,106,SC,Chaudhary Tara Chand Sonkar,Indian National Congress,148788,46335,31.1 %,1705.0,3.7%
+Bachhrawan,107,SC,Shiv Darshan,Indian National Congress,151495,47982,31.7 %,13114.0,27.3%
+Tiloi,108,GEN,Mohammd Wasim,Indian National Congress,155173,69869,45.0 %,3612.0,5.2%
+Rae Bareli,109,GEN,Ramesh Chandra Shukla,Indian National Congress,174422,69346,39.8 %,5522.0,8.0%
+Sataon,110,GEN,Kamal Nayan Verma,Indian National Congress,156589,70795,45.2 %,18367.0,25.9%
+Sareni,111,GEN,Surendra Bahadur Singh,Independent,156696,93613,59.7 %,33354.0,35.6%
+Dalmau,112,GEN,Har Narayan Singh,Indian National Congress,167325,82015,49.0 %,15551.0,19.0%
+Salon,113,SC,Shiv Balak,Indian National Congress,151407,57330,37.9 %,21895.0,38.2%
+Kunda,114,GEN,Niaz Hasan,Indian National Congress,142507,79679,55.9 %,32753.0,41.1%
+Bihar,115,SC,Sarju Prasad Saroj,Indian National Congress,145803,54635,37.5 %,11722.0,21.5%
+Rampurkhas,116,GEN,Pramod Kumar,Indian National Congress,161175,90590,56.2 %,60510.0,66.8%
+Garwara,117,GEN,Ram Naresh Shukla,Indian National Congress,152709,57678,37.8 %,17184.0,29.8%
+Pratapgarh,118,GEN,Lal Pratap Singh,Indian National Congress,156098,56360,36.1 %,6913.0,12.3%
+Birapur,119,GEN,Ram Raj Shukla,Indian National Congress,171760,72894,42.4 %,852.0,1.2%
+Patti,120,GEN,Vasudeo Singh,Indian National Congress,172251,77088,44.8 %,12833.0,16.6%
+Amethi,121,GEN,Raj Kumar Sanjai Singh,Indian National Congress,160788,126649,78.8 %,122352.0,96.6%
+Gauriganj,122,GEN,Rajpati Devi,Indian National Congress,156834,55545,35.4 %,3252.0,5.9%
+Jagdishpur,123,SC,Ram Sevak,Indian National Congress,133939,40173,30.0 %,30331.0,75.5%
+Isauli,124,GEN,Jai Narain Tiwari,Indian National Congress,152617,50645,33.2 %,10623.0,21.0%
+Sultanpur,125,GEN,Muid Ahmad,Indian National Congress,158526,53219,33.6 %,6691.0,12.6%
+Jaisinghpur,126,GEN,Davendra Pandey,Indian National Congress,153847,67429,43.8 %,1140.0,1.7%
+Chanda,127,GEN,Sheo Narain Mishra,Indian National Congress,152056,52951,34.8 %,9846.0,18.6%
+Kadipur,128,SC,Ram Asre,Indian National Congress,162521,53758,33.1 %,4206.0,7.8%
+Katehari,129,GEN,Ravindra Nath Tiwari,Janta Party,162630,76420,47.0 %,5528.0,7.2%
+Akbarpur,130,GEN,Akbar Husain Babar,Communist Party Of India (MARXIST),169403,97618,57.6 %,17852.0,18.3%
+Jalalpur,131,GEN,Sher Bahadur Singh,Independent,157199,90273,57.4 %,965.0,1.1%
+Jahangirganj,132,SC,Krishna Kumar,Indian National Congress,160493,54869,34.2 %,11196.0,20.4%
+Tanda,133,GEN,Jai Ram Verma,Indian National Congress,163613,87215,53.3 %,5115.0,5.9%
+Ayodhya,134,GEN,Surendra Partap Singh,Indian National Congress,163819,66198,40.4 %,7383.0,11.2%
+Bikapur,135,GEN,Sita Ram Nishad,Indian National Congress,161459,77506,48.0 %,8157.0,10.5%
+Milkipur,136,GEN,Mitra Sen,Communist Party Of India,160089,84629,52.9 %,6060.0,7.2%
+Sohawal,137,SC,Audesh Prasad,Lok Dal,147280,59927,40.7 %,9147.0,15.3%
+Rudauli,138,GEN,Margoob Ahmad Khan,Indian National Congress,147825,72227,48.9 %,1817.0,2.5%
+Dariyabad,139,GEN,Rajeev Kumar Singh,Independent,138404,73893,53.4 %,21074.0,28.5%
+Siddhaur,140,GEN,Ram Sagar,Lok Dal,136641,57258,41.9 %,10343.0,18.1%
+Haidergarh,141,GEN,Surendra Nath,Indian National Congress,146613,75244,51.3 %,5076.0,6.7%
+Masauli,142,GEN,Beni Prasad,Lok Dal,139618,71178,51.0 %,4254.0,6.0%
+Fatehpur,144,SC,Nattha Ram,Indian National Congress,146162,45580,31.2 %,6174.0,13.5%
+Ramnagar,145,GEN,Farid Mahfooz Kidwai,Lok Dal,143885,73647,51.2 %,12356.0,16.8%
+Kaiserganj,146,GEN,Eahtisham Wali Khan,Indian National Congress,145165,63945,44.0 %,15781.0,24.7%
+Fakharpur,147,GEN,Mayankar Singh,Bharatiya Janta Party,151196,56031,37.1 %,3412.0,6.1%
+Mahsi,148,GEN,Indra Pratap Singh,Indian National Congress,153566,51418,33.5 %,7111.0,13.8%
+Nanpara,149,GEN,Deota Deen,Indian National Congress,168922,58744,34.8 %,5868.0,10.0%
+Charda,150,SC,Tribhawan Prasad,Indian National Congress,150501,31513,20.9 %,6503.0,20.6%
+Bhinga,151,GEN,Khursed Ahmad,Independent,157888,71050,45.0 %,342.0,0.5%
+Bahraich,152,GEN,Maharan Nath Kaul,Indian National Congress,147907,47014,31.8 %,11654.0,24.8%
+Ikauna,153,SC,Ram Sagar Rao,Indian National Congress,156319,30581,19.6 %,6602.0,21.6%
+Gainsari,154,GEN,Arun Pratap Singh,Indian National Congress,160360,92026,57.4 %,1951.0,2.1%
+Tulsipur,155,GEN,Mangal Deo,Indian National Congress,157714,61139,38.8 %,9918.0,16.2%
+Balrampur,156,GEN,Man Bahadur Singh,Indian National Congress,154831,67336,43.5 %,5675.0,8.4%
+Utraula,157,GEN,Fazlul Bari,Independent,161158,83505,51.8 %,4991.0,6.0%
+Sadullah Nagar,158,GEN,Mohd. Umar,Indian National Congress,161357,82704,51.3 %,716.0,0.9%
+Mankapur,159,SC,Ram Vishun Azad,Indian National Congress,161504,85017,52.6 %,69669.0,81.9%
+Mujehna,160,GEN,Ram Pal Singh,Indian National Congress,155445,61725,39.7 %,16941.0,27.4%
+Gonda,161,GEN,Raghu Prasad Upadhayaya,Indian National Congress,143712,54910,38.2 %,17866.0,32.5%
+Katra Bazar,162,GEN,Fasiurrahman Alias Munnan Khan,Lok Dal,154279,70132,45.5 %,882.0,1.3%
+Colonelganj,163,GEN,Umeshwar Pratap Singh,Indian National Congress,165630,70521,42.6 %,42800.0,60.7%
+Dixir,164,SC,Babu Lal,Indian National Congress,148564,61281,41.2 %,3321.0,5.4%
+Harraiya,165,GEN,Sukhpal Pandey,Lok Dal,171753,80193,46.7 %,6995.0,8.7%
+Captainganj,166,GEN,Ambika Singh,Indian National Congress,171746,90529,52.7 %,6276.0,6.9%
+Nagar East,167,SC,Ram Jiyavan,Indian National Congress,156715,51722,33.0 %,12361.0,23.9%
+Basti,168,GEN,Almelu Ammal,Indian National Congress,165188,74659,45.2 %,3596.0,4.8%
+Domariaganj,170,GEN,Kamal Usuf Malik,Lok Dal,179627,102045,56.8 %,27021.0,26.5%
+Itwa,171,GEN,Mata Prasad Pandey,Lok Dal,166924,83615,50.1 %,15123.0,18.1%
+Shohratgarh,172,GEN,Kamala Sahni,Indian National Congress,167471,82329,49.2 %,10913.0,13.3%
+Naugarh,173,GEN,Dhanraj Yadav,Bharatiya Janta Party,170102,86035,50.6 %,3427.0,4.0%
+Bansi,174,GEN,Harish Chandra(Harishji),Bharatiya Janta Party,162490,87947,54.1 %,1170.0,1.3%
+Khesraha,175,GEN,Diwakar Vikram Singh,Lok Dal,175360,96877,55.2 %,10554.0,10.9%
+Menhdawal,176,GEN,Afsar-U-Ahmad,Indian National Congress,164724,76971,46.7 %,7936.0,10.3%
+Khalilabad,177,GEN,Dwarika,Indian National Congress,167462,65353,39.0 %,12601.0,19.3%
+Hainsarbazar,178,SC,Genda Devi,Indian National Congress,168575,52421,31.1 %,10628.0,20.3%
+Bansgaon,179,SC,Kailash Prasad,Indian National Congress,158895,53540,33.7 %,20575.0,38.4%
+Dhuriapar,180,GEN,Achyuta Nand Tiwari,Independent,157276,76374,48.6 %,3400.0,4.5%
+Chillupar,181,GEN,Hari Shankar Tiwari,Independent,161241,89840,55.7 %,21728.0,24.2%
+Kauriram,182,GEN,Lal Chand Nishad,Indian National Congress,172162,89771,52.1 %,1811.0,2.0%
+Mundera Bazar,183,SC,Sharda Devi,Lok Dal,150942,64843,43.0 %,14445.0,22.3%
+Pipraich,184,GEN,Sayed Javed Ali,Indian National Congress,139649,72959,52.2 %,2837.0,3.9%
+Gorakhpur,185,GEN,Sunil Shastri,Indian National Congress,137133,51364,37.5 %,11053.0,21.5%
+Maniram,186,GEN,Bhrigu Nath Bhatt,Indian National Congress,151577,76225,50.3 %,6799.0,8.9%
+Sahjanwa,187,GEN,Triyugi Narain Mishra,Indian National Congress,156241,70497,45.1 %,9742.0,13.8%
+Paniara,188,GEN,Bir Bahadur Singh,Indian National Congress,159115,98577,62.0 %,42543.0,43.2%
+Pharenda,189,GEN,Hars Bardhan,Janta Party,151133,81390,53.9 %,6379.0,7.8%
+Lakshmipur,190,GEN,Virendra Pratap Shahi,Independent,158614,80967,51.0 %,16838.0,20.8%
+Siswa,191,GEN,Shivendra Singh Urf Shiv Babu,Indian National Congress,150996,75781,50.2 %,19287.0,25.5%
+Maharajganj,192,SC,Ram Lakshan,Indian National Congress,146119,54587,37.4 %,12205.0,22.4%
+Shyamdeurawa,193,GEN,Janardhan Prasad Ojha,Janta Party,150846,78710,52.2 %,122.0,0.2%
+Naurangia,194,SC,Baij Nath,Indian National Congress,150487,39203,26.1 %,14532.0,37.1%
+Ramkola,195,GEN,Sugrive Singh,Indian National Congress,164198,60656,36.9 %,13330.0,22.0%
+Hata,196,SC,Videshi Prasad Bharti,Indian National Congress,161680,56369,34.9 %,21444.0,38.0%
+Padrauna,197,GEN,Baleshwar,Lok Dal,156207,70153,44.9 %,15716.0,22.4%
+Seorahi,198,GEN,Ram Sakal Tiwari,Indian National Congress,164605,64644,39.3 %,5736.0,8.9%
+Fazilnagar,199,GEN,Shashi Sharma,Indian National Congress,170054,69905,41.1 %,4607.0,6.6%
+Kasia,200,GEN,Surya Pratap Shahi,Bharatiya Janta Party,156983,76598,48.8 %,559.0,0.7%
+Gauri Bazar,201,GEN,Ranjit,Janta Party,159391,78760,49.4 %,3783.0,4.8%
+Rudrapur,202,GEN,Gorakh Nath,Indian National Congress,168672,71931,42.6 %,8122.0,11.3%
+Deoria,203,GEN,Fajale Masood,Indian National Congress,166291,72351,43.5 %,15475.0,21.4%
+Bhatpar Rani,204,GEN,Kameshwar Upadhyay,Independent,183671,93052,50.7 %,21827.0,23.5%
+Salempur,205,GEN,Awadhesh Pratap Mall,Indian National Congress,179985,82939,46.1 %,10834.0,13.1%
+Barhaj,206,GEN,Surendra Prasad,Indian National Congress,166523,73418,44.1 %,2600.0,3.5%
+Nathupur,207,GEN,Vishun Deo,Janta Party,167323,75918,45.4 %,6605.0,8.7%
+Ghosi,208,GEN,Phagoo,Lok Dal,164631,84631,51.4 %,6079.0,7.2%
+Sagri,209,GEN,Ram Jaman,Lok Dal,178186,86314,48.4 %,1728.0,2.0%
+Gopalpur,210,GEN,Qazu Kalimur Rahman,Indian Congress (J),156961,65926,42.0 %,3791.0,5.8%
+Azamgarh,211,GEN,Durga Prasad,Independent,157155,70855,45.1 %,19263.0,27.2%
+Nizamabad,212,GEN,Mohd. Masud,Lok Dal,169380,84374,49.8 %,10092.0,12.0%
+Atraulia,213,GEN,Balram,Lok Dal,162353,81909,50.5 %,9789.0,12.0%
+Phulpur,214,GEN,Ramakant,Indian Congress (J),157529,61477,39.0 %,834.0,1.4%
+Saraimir,215,SC,Bhikha Ram,Indian National Congress,166630,59014,35.4 %,6962.0,11.8%
+Mehnagar,216,SC,Deep Narain,Indian National Congress,177810,68839,38.7 %,8608.0,12.5%
+Lalganj,217,GEN,Sri Prakash,Janta Party,175279,92174,52.6 %,13415.0,14.6%
+Mubarakpur,218,GEN,Hafeez Bharti,Independent,164235,83642,50.9 %,812.0,1.0%
+Muhammadabad Gohna,219,SC,Ram Badan,Indian National Congress,166242,55247,33.2 %,6656.0,12.0%
+Mau,220,GEN,Aqbal Ahmad,Communist Party Of India,166701,82456,49.5 %,16204.0,19.7%
+Rasra,221,SC,Har Deo,Indian National Congress,146494,64363,43.9 %,4853.0,7.5%
+Siar,222,GEN,Shardanand Anchal,Lok Dal,152889,81544,53.3 %,3077.0,3.8%
+Chilkahar,223,GEN,Ram Govind Chaudhari,Janta Party,152706,78159,51.2 %,3289.0,4.2%
+Sikanderpur,224,GEN,Sheomangal Singh,Lok Dal,163383,86410,52.9 %,2133.0,2.5%
+Bansdih,225,GEN,Vijay Lakshmi,Janta Party,177738,100041,56.3 %,20902.0,20.9%
+Doaba,226,GEN,Manager Singh,Janta Party,194154,90389,46.6 %,25553.0,28.3%
+Ballia,227,GEN,Vikarmaditya Pandey,Janta Party,166255,72338,43.5 %,1645.0,2.3%
+Kopachit,228,GEN,Gauri Shanker Bhaiya,Janta Party,165221,78431,47.5 %,2665.0,3.4%
+Zahoorabad,229,GEN,Surendra,Indian National Congress,165307,81659,49.4 %,4579.0,5.6%
+Mohammadabad,230,GEN,Afzal Ansari,Communist Party Of India,170900,87384,51.1 %,3064.0,3.5%
+Dildarnagar,231,GEN,Awadhesh Rai Shastri,Indian National Congress,175388,89472,51.0 %,13367.0,14.9%
+Zamania,232,GEN,Chaudhari Lalta Prasad Nishad,Indian National Congress,163403,67582,41.4 %,18437.0,27.3%
+Ghazipur,233,GEN,Amitabh Anil Dubey,Indian National Congress,161834,75160,46.4 %,14167.0,18.8%
+Jakhania,234,SC,Jhilmit Ram,Indian National Congress,168338,62983,37.4 %,1122.0,1.8%
+Sadat,235,SC,Ram Nath Munshi,Indian National Congress,175645,74390,42.4 %,4818.0,6.5%
+Saidpur,236,GEN,Rajit,Lok Dal,173817,79232,45.6 %,5157.0,6.5%
+Dhanapur,237,GEN,Ram Janam,Indian National Congress,165327,66032,39.9 %,3202.0,4.8%
+Chandauli,238,SC,Sankatha Prasad,Indian National Congress,171677,50223,29.3 %,23672.0,47.1%
+Chakiya,239,SC,Kharpat Ram,Indian National Congress,152687,61301,40.1 %,6685.0,10.9%
+Mughalsarai,240,GEN,Ram Chandar,Indian National Congress,158947,75810,47.7 %,7017.0,9.3%
+Varanasi Cantonment,241,GEN,Sharrudh Prakash,Lok Dal,148500,55861,37.6 %,2307.0,4.1%
+Varanasi South,242,GEN,Rajni Kant,Indian National Congress,148847,50516,33.9 %,14761.0,29.2%
+Varanasi North,243,GEN,Mohd. Safiurrahman Ansari S/o Haji Mohammadddin,Indian National Congress,154623,58848,38.1 %,10093.0,17.2%
+Chiraigaon,244,GEN,Sri Nath Singh,Indian National Congress,170526,77898,45.7 %,14132.0,18.1%
+Kolasla,245,GEN,Ramkaran Patel,Indian National Congress,168834,82491,48.9 %,3609.0,4.4%
+Gangapur,246,GEN,Rajkishore,Communist Party Of India (MARXIST),170961,80666,47.2 %,2714.0,3.4%
+Aurai,247,GEN,Nihala Singh,Janta Party,180854,94540,52.3 %,3546.0,3.8%
+Gyanpur,248,GEN,Sharda Prasad Bind,Indian National Congress,172738,68817,39.8 %,207.0,0.3%
+Bhadohi,249,SC,Mulchand,Lok Dal,165269,54989,33.3 %,4526.0,8.2%
+Barsathi,250,GEN,Paras Nath,Lok Dal,159604,64941,40.7 %,6008.0,9.3%
+Mariahu,251,GEN,Doodh Nath,Lok Dal,161546,89414,55.3 %,20874.0,23.3%
+Kerakat,252,SC,Gajraj Ram,Indian National Congress,163864,48287,29.5 %,11541.0,23.9%
+Bayalsi,253,GEN,Raj Bahadur,Janta Party,155383,75789,48.8 %,994.0,1.3%
+Jaunpur,254,GEN,Chandrasen,Lok Dal,154347,66883,43.3 %,8208.0,12.3%
+Rari,255,GEN,Arjun Singh Yadav,Lok Dal,176466,79486,45.0 %,6881.0,8.7%
+Shahganj,256,SC,Deep Chandra,Lok Dal,162899,49444,30.4 %,4522.0,9.1%
+Khutahan,257,GEN,Jang Bahadur,Indian National Congress,159033,63921,40.2 %,3572.0,5.6%
+Machhlishahr,259,GEN,Keshri Prasad,Indian National Congress,152857,63229,41.4 %,2180.0,3.4%
+Dudhi,260,SC,Vijay Singh,Indian National Congress,152940,40411,26.4 %,9097.0,22.5%
+Robertsganj,261,SC,Kallu Ram,Indian National Congress,181570,53882,29.7 %,5009.0,9.3%
+Rajgarh,262,GEN,Narendra Reo,Indian National Congress,176743,78918,44.7 %,1012.0,1.3%
+Chunar,263,GEN,Yadunath Singh,Lok Dal,175664,90250,51.4 %,9822.0,10.9%
+Majhwa,264,GEN,Lokpati Tripathi,Indian National Congress,149342,65315,43.7 %,15100.0,23.1%
+Mirzapur,265,GEN,Asrafiman,Indian National Congress,139242,58699,42.2 %,4189.0,7.1%
+Chhanyey,266,SC,Bhagwati Prasad,Indian National Congress,156994,39022,24.9 %,22807.0,58.4%
+Meja,267,SC,Bishram Das,Indian National Congress,170050,47141,27.7 %,9899.0,21.0%
+Karchana,268,GEN,Raman Singh,Janta Party,168341,84139,50.0 %,6034.0,7.2%
+Bara,269,GEN,Rama Kant Mishra,Indian National Congress,160344,70454,43.9 %,328.0,0.5%
+Jhusi,270,GEN,Mahendra Pratap Singh,Indian National Congress,147310,64894,44.1 %,3280.0,5.1%
+Handia,271,GEN,Rakesh Dhar Tripathi,Janta Party,168354,92019,54.7 %,14212.0,15.4%
+Pratappur,272,GEN,Shyamsurat Upadhayay,Indian National Congress,160714,92937,57.8 %,3980.0,4.3%
+Soraon,273,GEN,Bhola Singh,Indian National Congress,155296,69292,44.6 %,3311.0,4.8%
+Allahabad North,275,GEN,Anugrah Narain Singh,Lok Dal,178355,52631,29.5 %,6815.0,12.9%
+Allahabad South,276,GEN,Satish Chandra Jaiswal,Indian National Congress,157512,48369,30.7 %,9204.0,19.0%
+Allahabad West,277,GEN,Gopal Das Yadav,Lok Dal,153262,49256,32.1 %,2130.0,4.3%
+Chail,278,SC,Shailender Kumar,Indian National Congress,152759,57089,37.4 %,11381.0,19.9%
+Manjhanpur,279,SC,Iswar Sharan Vidharty,Indian National Congress,162598,49244,30.3 %,15526.0,31.5%
+Sirathu,280,SC,Purushottam Lal,Indian National Congress,152370,59379,39.0 %,5600.0,9.4%
+Khaga,281,GEN,Krishna Dutt Alias Balraj,Indian National Congress,156765,77105,49.2 %,1327.0,1.7%
+Kishunpur,282,SC,Inderjit,Indian National Congress,156222,44020,28.2 %,15873.0,36.1%
+Haswa,283,GEN,Amar Nath Singh,Indian National Congress,151483,61294,40.5 %,11878.0,19.4%
+Jahanabad,285,GEN,Prakash Naraian,Indian National Congress,142412,77005,54.1 %,123.0,0.2%
+Bindki,286,GEN,Anchal Singh,Lok Dal,143138,63381,44.3 %,4544.0,7.2%
+Aryanagar,287,GEN,Hafiz Mohammad Umar,Indian National Congress,135196,44714,33.1 %,7862.0,17.6%
+Sisamau,288,SC,Kamla Daryabadi,Indian National Congress,151377,51827,34.2 %,9702.0,18.7%
+Generalganj,289,GEN,Birendra Nath Dixit,Indian National Congress,139378,44859,32.2 %,9018.0,20.1%
+Kanpur Cantonment,290,GEN,Pashupati Nath,Indian National Congress,142089,39664,27.9 %,17990.0,45.4%
+Govind Nagar,291,GEN,Vilayeeti Ram Katyal,Indian National Congress,213858,64549,30.2 %,4224.0,6.5%
+Kalyanpur,292,GEN,R.N.Pathak,Indian National Congress,164292,57403,34.9 %,18356.0,32.0%
+Sarsaul,293,GEN,Jauhari Lal Trivedi,Lok Dal,163400,86634,53.0 %,820.0,0.9%
+Ghatampur,294,GEN,Shivnath Singh Kashuwaha,Indian National Congress,153793,85763,55.8 %,2133.0,2.5%
+Bhognipur,295,SC,Radhy Shyam,Indian National Congress,150403,49112,32.7 %,7787.0,15.9%
+Rajpur,296,GEN,Chowdhry Narender Singh,Indian National Congress,152266,88397,58.1 %,4382.0,5.0%
+Sarvankhera,297,GEN,Ajit Kumar Singh,Indian National Congress,154533,84293,54.5 %,1372.0,1.6%
+Chaubepur,298,GEN,Nekchandra Pandey,Indian National Congress,149477,70901,47.4 %,12093.0,17.1%
+Bilhaur,299,SC,Hanuman Prasad Kureel,Indian National Congress,144216,61450,42.6 %,11726.0,19.1%
+Derapur,300,GEN,Bhagvandin Kushwah,Lok Dal,149710,74659,49.9 %,1391.0,1.9%
+Auraiya,301,GEN,Kamlesh Kumar Patak,Lok Dal,157751,87660,55.6 %,1976.0,2.3%
+Ajitmal,302,SC,Gauri Shanker,Indian National Congress,151540,83972,55.4 %,2014.0,2.4%
+Lakhna,303,SC,Gaya Prasad Verma,Lok Dal,147676,61045,41.3 %,8464.0,13.9%
+Etawah,304,GEN,Sukhda Mishra,Indian National Congress,155313,67627,43.5 %,11134.0,16.5%
+Jaswantnagar,305,GEN,Mulayam Singh Yadav,Lok Dal,150424,87366,58.1 %,25474.0,29.2%
+Bharthana,306,GEN,Ch. Maharaj Singh,Lok Dal,159794,92631,58.0 %,20234.0,21.8%
+Bidhuna,307,GEN,Ausan Singh,Bharatiya Janta Party,156134,95928,61.4 %,12080.0,12.6%
+Kannauj,308,SC,Bihari Lal Dohrey,Indian National Congress,140264,46788,33.4 %,8998.0,19.2%
+Umarda,309,GEN,Rama Nandani Verma,Lok Dal,154886,91573,59.1 %,3613.0,3.9%
+Chhibramau,310,GEN,Santosh,Indian National Congress,165149,83872,50.8 %,36.0,0.0%
+Kamalganj,311,GEN,Maharam Singh,Indian National Congress,164091,76121,46.4 %,17315.0,22.7%
+Farrukhabad,312,GEN,Braham Dutt Devedi,Bharatiya Janta Party,160002,63213,39.5 %,5323.0,8.4%
+Kaimganj,313,GEN,Rajendar Singh,Independent,172238,102825,59.7 %,13000.0,12.6%
+Mohammdabad,314,GEN,Narendar Singh Yadav,Indian National Congress,166602,87068,52.3 %,61950.0,71.2%
+Manikpur,315,SC,Shrimoni Bhai,Indian National Congress,136530,37436,27.4 %,11315.0,30.2%
+Karwi,316,GEN,Ramsajiwan,Communist Party Of India,137014,60705,44.3 %,12581.0,20.7%
+Baberu,317,GEN,Dev Kumar Yadav,Independent,153220,66890,43.7 %,578.0,0.9%
+Tindwari,318,GEN,Arjun Singh,Indian National Congress,147167,56272,38.2 %,25174.0,44.7%
+Banda,319,GEN,Jamuna Prasad Bose,Janta Party,155397,52892,34.0 %,8557.0,16.2%
+Naraini,320,GEN,Shrender Pal Verma,Communist Party Of India,154798,57333,37.0 %,717.0,1.3%
+Hamirpur,321,GEN,Jagdish Narain,Indian National Congress,138176,71082,51.4 %,5277.0,7.4%
+Maudaha,322,GEN,Kunwar Bahadur Misra,Indian National Congress,135121,60489,44.8 %,1663.0,2.7%
+Rath,323,GEN,Doonger Singh,Indian National Congress,151019,65810,43.6 %,18019.0,27.4%
+Charkhari,324,SC,Mihi Lal,Indian National Congress,138150,41478,30.0 %,23139.0,55.8%
+Mahoba,325,GEN,Babu Lal,Indian National Congress,140449,66165,47.1 %,13008.0,19.7%
+Mehroni,326,GEN,Devendra Kumar Singh,Bharatiya Janta Party,158883,83012,52.2 %,1485.0,1.8%
+Lalitpur,327,GEN,Rajesh Kumar Khera,Indian National Congress,167186,77031,46.1 %,1998.0,2.6%
+Jhansi,328,GEN,Om Prakash Richeariya,Indian National Congress,161194,62841,39.0 %,14062.0,22.4%
+Babina,329,SC,Beni Bai,Indian National Congress,162293,72844,44.9 %,25353.0,34.8%
+Mauranipur,330,GEN,Bhagirath Chaudhri,Indian National Congress,159609,58016,36.3 %,10444.0,18.0%
+Garautha,331,GEN,Kanwar Manvendra Singh,Bharatiya Janta Party,161338,107764,66.8 %,9775.0,9.1%
+Konch,332,SC,Ch. Shyam Lal,Indian National Congress,138576,56611,40.9 %,19307.0,34.1%
+Orai,333,GEN,Arvind Tiwari,Indian National Congress,156111,83551,53.5 %,23341.0,27.9%
+Kalpi,334,GEN,Badri Singh,Indian National Congress,150516,79858,53.1 %,3668.0,4.6%
+Madhogarh,335,GEN,Ram Prakash Singh,Indian National Congress,160400,68935,43.0 %,7171.0,10.4%
+Bhongaon,336,GEN,Shiv Bachh Singh,Indian National Congress,148189,76063,51.3 %,9735.0,12.8%
+Kishni,337,SC,Ram Singh S/o Sh. Gulzari Lal,Indian National Congress,151203,56605,37.4 %,1387.0,2.5%
+Karhal,338,GEN,Babu Ram Yadav,Lok Dal,151168,84436,55.9 %,19027.0,22.5%
+Shikohabad,339,GEN,Ram Naresh,Independent,145265,72905,50.2 %,29754.0,40.8%
+Jasrana,340,GEN,Balvir Singh,Lok Dal,144694,74862,51.7 %,933.0,1.2%
+Ghiror,341,GEN,Jag Mohan Singh,Lok Dal,134636,62183,46.2 %,9539.0,15.3%
+Mainpuri,342,GEN,Raghubir Singh Yadav,Indian National Congress,142197,64729,45.5 %,1374.0,2.1%
+Aliganj,343,GEN,Udaivir Singh Rathore,Indian National Congress,149747,100144,66.9 %,341.0,0.3%
+Patiyali,344,GEN,Rajindra Singh,Indian National Congress,140711,83342,59.2 %,5765.0,6.9%
+Sakeet,345,GEN,Virender Singh,Janta Party,134882,60752,45.0 %,2237.0,3.7%
+Soron,346,GEN,Urmila Agnihotri,Indian National Congress,126438,63926,50.6 %,21825.0,34.1%
+Kasganj,347,GEN,Manpal Singh,Indian National Congress,141209,70984,50.3 %,8532.0,12.0%
+Etah,348,GEN,Atar Singh Yadav,Lok Dal,126735,72775,57.4 %,2632.0,3.6%
+Nidhauli Kalan,349,GEN,Ramesh Chandra Urf Ramesh Yadav,Lok Dal,123398,69668,56.5 %,7412.0,10.6%
+Jalesar,350,SC,Prem Pal Singh,Indian National Congress,131269,55083,42.0 %,13228.0,24.0%
+Firozabad,351,GEN,Raghubar Dayal Verma,Janta Party,148583,69691,46.9 %,313.0,0.4%
+Bah,352,GEN,Amar Chand,Indian National Congress,159410,66419,41.7 %,13249.0,19.9%
+Fatehabad,353,GEN,Amitab Lavania,Indian National Congress,138412,55617,40.2 %,1074.0,1.9%
+Tundla,354,SC,Ashok Sehra,Indian National Congress,148069,47943,32.4 %,1860.0,3.9%
+Etmadpur,355,SC,Chandra Bhan,Lok Dal,151222,36381,24.1 %,1320.0,3.6%
+Dayalbagh,356,GEN,Vijay Singh Rana,Lok Dal,143660,59188,41.2 %,3786.0,6.4%
+Agra Cantonment,357,GEN,Krishan Vir Singh Kaushal,Indian National Congress,140818,60688,43.1 %,80.0,0.1%
+Agra East,358,GEN,Satya Prakash Vikal,Bharatiya Janta Party,137619,54277,39.4 %,145.0,0.3%
+Agra West,359,SC,Virendra Son,Indian National Congress,131698,47541,36.1 %,3537.0,7.4%
+Kheragarh,360,GEN,Bahadur Singh,Indian National Congress,147645,80316,54.4 %,22919.0,28.5%
+Fatehpur Sikri,361,GEN,Badan Singh,Lok Dal,148798,65031,43.7 %,18702.0,28.8%
+Goverdhan,362,SC,Baljeet,Indian National Congress,153794,61620,40.1 %,623.0,1.0%
+Mathura,363,GEN,Pradeep Mathur,Indian National Congress,152797,69215,45.3 %,5440.0,7.9%
+Chhata,364,GEN,Laxmi Narain,Lok Dal,144363,74604,51.7 %,1104.0,1.5%
+Mat,365,GEN,Kushal Pal Singh,Lok Dal,149471,80280,53.7 %,736.0,0.9%
+Gokul,366,GEN,Sardar Singh,Lok Dal,148755,72287,48.6 %,27058.0,37.4%
+Sadabad,367,GEN,Mustmand Ali Khan,Lok Dal,157034,86175,54.9 %,27939.0,32.4%
+Hathras,368,GEN,Narain Hari Sharma,Indian National Congress,152164,69108,45.4 %,5619.0,8.1%
+Sasni,369,SC,Bangali Singh,Lok Dal,150561,58844,39.1 %,13886.0,23.6%
+Sikandara Rao,370,GEN,Suresh Pratap Singh,Lok Dal,153689,81536,53.1 %,7431.0,9.1%
+Gangiri,371,GEN,Tilak Singh,Indian National Congress,151261,82063,54.3 %,268.0,0.3%
+Atrauli,372,GEN,Kalyan Singh,Bharatiya Janta Party,160414,106484,66.4 %,19852.0,18.6%
+Aligarh,373,GEN,Baldev Singh,Indian National Congress,148944,67907,45.6 %,3001.0,4.4%
+Koil,374,SC,Kishan Lal Diler,Bharatiya Janta Party,154712,56418,36.5 %,1288.0,2.3%
+Iglas,375,GEN,Rajendra Singh,Lok Dal,153824,74488,48.4 %,11109.0,14.9%
+Barauli,376,GEN,Surendra Singh,Indian National Congress,151592,59164,39.0 %,14459.0,24.4%
+Khair,377,GEN,Jag Vir,Lok Dal,157492,69030,43.8 %,10404.0,15.1%
+Jewar,378,SC,Ratan Swarup,Indian National Congress,144465,52385,36.3 %,3203.0,6.1%
+Khurja,379,GEN,Budhpal Singh Khurja Wala,Indian National Congress,155968,71138,45.6 %,3291.0,4.6%
+Debai,380,GEN,Hitesh Kumari,Indian National Congress,144250,73668,51.1 %,578.0,0.8%
+Anupshahr,381,GEN,Praveen Kumar Sharma,Indian National Congress,158829,77638,48.9 %,1912.0,2.5%
+Siana,382,GEN,Imtiaz Mohammad Khan,Indian National Congress,151576,90367,59.6 %,18861.0,20.9%
+Agota,383,GEN,Kiranpal Singh,Lok Dal,147996,75221,50.8 %,31353.0,41.7%
+Bulandshahr,384,GEN,S. Saidul Hasan,Indian National Congress,161419,75729,46.9 %,16443.0,21.7%
+Shikarpur,385,SC,Trilok Chander,Lok Dal,136122,48912,35.9 %,1345.0,2.7%
+Sikandrabad,386,GEN,Rajendra Singh Solanki,Indian National Congress,144462,71635,49.6 %,17940.0,25.0%
+Dadri,387,GEN,Mahendra Singh Bhati,Lok Dal,148965,77391,52.0 %,1553.0,2.0%
+Ghaziabad,388,GEN,Krishan Kumar Sharma,Indian National Congress,206814,95110,46.0 %,1185.0,1.2%
+Muradnagar,389,GEN,Sakhawat Husain,Lok Dal,143992,67673,47.0 %,3124.0,4.6%
+Modinagar,390,GEN,Vimla Singh,Indian National Congress,180822,84695,46.8 %,14281.0,16.9%
+Hapur,391,SC,Gaj Raj Singh,Indian National Congress,143601,49253,34.3 %,14091.0,28.6%
+Garhmukteshwar,392,GEN,Kanak Singh,Lok Dal,154467,75776,49.1 %,4130.0,5.5%
+Kithore,393,GEN,Prabhu Dayal,Lok Dal,156150,77984,49.9 %,6363.0,8.2%
+Hastinapur,394,SC,Harsharan Singh,Indian National Congress,152788,64201,42.0 %,11045.0,17.2%
+Sardhana,395,GEN,Abdul Wahid Qureshi,Lok Dal,152780,89038,58.3 %,10792.0,12.1%
+Meerut Cantonment,396,GEN,Ajit Singh Sethi,Indian National Congress,146969,60018,40.8 %,14262.0,23.8%
+Meerut,397,GEN,Jai Narain Sharma,Indian National Congress,184576,102577,55.6 %,7598.0,7.4%
+Kharkhauda,398,GEN,Rajendra Sharma,Indian National Congress,147312,77013,52.3 %,14058.0,18.3%
+Siwalkhas,399,SC,Nanak Chand,Indian National Congress,144081,57547,39.9 %,4069.0,7.1%
+Khekra,400,GEN,Richhpal Pal Singh Bansal,Lok Dal,157879,64418,40.8 %,8454.0,13.1%
+Baghpat,401,GEN,Kokab Hameed,Indian National Congress,160176,99580,62.2 %,50919.0,51.1%
+Barnawa,402,GEN,Bhopal Singh,Lok Dal,153181,80043,52.3 %,4765.0,6.0%
+Chhaprauli,403,GEN,Saroj Verma,Lok Dal,159539,78613,49.3 %,4758.0,6.1%
+Kandhla,404,GEN,Virendra Singh,Lok Dal,147059,93115,63.3 %,21123.0,22.7%
+Khatauli,405,GEN,Harender Singh,Lok Dal,152395,91473,60.0 %,19587.0,21.4%
+Jansath,406,SC,Deepak Kumar,Indian National Congress,139269,59938,43.0 %,2242.0,3.7%
+Morna,407,GEN,Sayeeduzzama,Indian National Congress,140004,83717,59.8 %,10025.0,12.0%
+Muzaffarnagar,408,GEN,Charushila,Indian National Congress,160518,76762,47.8 %,18872.0,24.6%
+Charthawal,409,SC,Phool Singh,Indian National Congress,139840,67448,48.2 %,28267.0,41.9%
+Baghra,410,GEN,Babu Singh,Indian National Congress,141812,73261,51.7 %,12978.0,17.7%
+Kairana,411,GEN,Hukum Singh,Indian National Congress,153513,105107,68.5 %,12132.0,11.5%
+Thana Bhawan,412,GEN,Amir Alam Khan,Lok Dal,151436,106496,70.3 %,1695.0,1.6%
+Nakur,413,GEN,Ram Sharan,Lok Dal,169474,116362,68.7 %,9535.0,8.2%
+Sarsawa,414,GEN,Nirbhaypal Sharma,Indian National Congress,149548,102829,68.8 %,27525.0,26.8%
+Nagal,415,SC,Chaman Lal Chaman,Indian National Congress,141464,58814,41.6 %,4146.0,7.0%
+Deoband,416,GEN,Mahavir Singh,Indian National Congress,146680,75376,51.4 %,16764.0,22.2%
+Harora,417,SC,Vimla Rakesh,Lok Dal,142107,75094,52.8 %,5694.0,7.6%
+Saharanpur,418,GEN,Surendra Kapil,Indian National Congress,181156,93128,51.4 %,10785.0,11.6%
+Muzaffarabad,419,GEN,Mohd. Aslam Khan,Indian National Congress,156240,100770,64.5 %,26531.0,26.3%
+Roorkee,420,GEN,Qazi Mohiuddin,Lok Dal,143148,93663,65.4 %,105.0,0.1%
+Lhaksar,421,GEN,Narendra Singh,Lok Dal,139617,81572,58.4 %,9176.0,11.2%
+Hardwar,422,GEN,Mahavir Singh Rana,Indian National Congress,159462,102345,64.2 %,71.0,0.1%
+Mussoorie,423,GEN,Kishori Lal,Indian National Congress,156165,71162,45.6 %,36895.0,51.8%
+Dehra Dun,424,GEN,Hira Singh Bist,Indian National Congress,143263,67573,47.2 %,29390.0,43.5%
+Chakrata,425,ST,Gulab Singh,Indian National Congress,126847,RU,,,

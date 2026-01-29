@@ -1,0 +1,325 @@
+#,AC Name,AC No.,Type,Winning Candidate,Party,Total Electors,Total Votes,Poll%,Margin,Margin %
+1,Dhanaha,1,GEN,Vishnu Pr. Kushwaha,Samata Party,116747,60934,52.2 %,3106,5.1%
+2,Bagha,2,SC,Purnamashi Ram,Janata Dal,202428,115473,57.0 %,39779,34.4%
+3,Ramnagar,3,GEN,Ram Prasad Yadav,Janata Dal,169977,93486,55.0 %,12683,13.6%
+4,Shikarpur,4,SC,Bhola Ram Toofani,Janata Dal,175343,102443,58.4 %,13094,12.8%
+5,Sikta,5,GEN,Deelip Varma,Champaran Vikas Party,160863,102219,63.5 %,18858,18.4%
+6,Lauria,6,GEN,Ran Vijay Shahi,Janata Dal,162540,95508,58.8 %,6396,6.7%
+7,Chanpatia,7,GEN,Birbal Sharma,Communist Party Of India,163483,94147,57.6 %,16039,17.0%
+8,Bettiah,8,GEN,Birval Yadava,Janata Dal,225818,130853,57.9 %,505,0.4%
+9,Nautan,9,GEN,Satan Yadava,Independent,167736,99856,59.5 %,26952,27.0%
+10,Raxaul,10,GEN,Raj Nandan Rai,Janata Dal,166428,101937,61.2 %,7440,7.3%
+11,Sugauli,11,GEN,Chandra Shekhar Dwiwedi,Independent,178965,110802,61.9 %,3940,3.6%
+12,Motihari,12,GEN,Triveni Tiwary,Communist Party Of India,209493,119399,57.0 %,19186,16.1%
+13,Adapur,13,GEN,Braj Bihari Prasad,Janata Dal,180648,112969,62.5 %,32065,28.4%
+14,Dhaka,14,GEN,Awnish Kumar Singh,Bharatiya Janta Party,207377,115655,55.8 %,25164,21.8%
+15,Ghorasahan,15,GEN,Lal Babu Prasad,Janata Dal,173512,101193,58.3 %,19867,19.6%
+16,Madhuban,16,GEN,Sita Ram Singh,Janata Dal,188831,109704,58.1 %,28909,26.4%
+17,Pipra,17,SC,Sahdeo Paswan,Janata Dal,160505,86456,53.9 %,34793,40.2%
+18,Kesariya,18,GEN,Yamuna Yadav,Communist Party Of India,188206,105037,55.8 %,25204,24.0%
+19,Harsidhi,19,GEN,Awadhesh Pra. Kush,Janata Dal,171142,113308,66.2 %,31838,28.1%
+20,Gobindganj,20,GEN,Devendra Nath Dubey,Samata Party,189011,103453,54.7 %,13855,13.4%
+21,Kateya,21,GEN,Sinheshwar Shahi,Janata Dal,196537,112560,57.3 %,22791,20.2%
+22,Bhore,22,SC,Indradeo Manjhi,Janata Dal,197705,111678,56.5 %,18047,16.2%
+23,Mirganj,23,GEN,Vishwanath Singh,Communist Party Of India (MARXIST),188055,106681,56.7 %,21358,20.0%
+24,Gopalganj,24,GEN,Ramawtar,Janata Dal,196663,101666,51.7 %,28905,28.4%
+25,Barauli,25,GEN,M.Nemtullah,Janata Dal,183782,105145,57.2 %,19802,18.8%
+26,Baikunthpur,26,GEN,Lalbabu Pd. Yadav,Janata Dal,191674,105278,54.9 %,7684,7.3%
+27,Basantpur,27,GEN,Manikchand Rai,Janata Dal,178552,118903,66.6 %,11435,9.6%
+28,Goreakothi,28,GEN,Indra Dev Prasad,Janata Dal,159294,101028,63.4 %,40668,40.3%
+29,Siwan,29,GEN,Awadh Bihari Chaudhary,Janata Dal,176112,110394,62.7 %,9962,9.0%
+30,Mairwa,30,SC,Satya Deo Ram,Communist Party Of India (MARXIST-LENINIST) (LIBERATION),147502,93848,63.6 %,1203,1.3%
+31,Darauli,31,GEN,Amar Nath Yadav,Communist Party Of India (MARXIST-LENINIST) (LIBERATION),163434,101291,62.0 %,13688,13.5%
+32,Ziradei,32,GEN,M. Sahabuddin,Janata Dal,158591,99138,62.5 %,14132,14.3%
+33,Maharajganj,33,GEN,Baidya Nath Pande,Janata Dal,153009,94554,61.8 %,16809,17.8%
+34,Raghunathpur,34,GEN,Bikram Kuwar,Janata Dal,174240,98564,56.6 %,8394,8.5%
+35,Manjhi,35,GEN,Budhan Prasad Yadav,Indian National Congress,157863,101962,64.6 %,17114,16.8%
+36,Baniapur,36,GEN,Ram Bahadur Rai,Janata Dal,151520,94556,62.4 %,1277,1.4%
+37,Masrakh,37,GEN,Ashok Singh,Janata Dal,157525,93325,59.2 %,18474,19.8%
+38,Taraiya,38,GEN,Ram Das Rai,Janata Dal,148349,93466,63.0 %,27018,28.9%
+39,Marhaura,39,GEN,Yaduvanshi Rai,Janata Dal,151840,98234,64.7 %,32791,33.4%
+40,Jalalpur,40,GEN,Abhay Raj Kishore,Communist Party Of India,176269,101863,57.8 %,21048,20.7%
+41,Chapra,41,GEN,Udit Rai,Janata Dal,187425,103150,55.0 %,7959,7.7%
+42,Garkha,42,SC,Muneshwar Chaudhari,Janata Dal,162570,97439,59.9 %,16426,16.9%
+43,Parsa,43,GEN,Chandrika Ray,Janata Dal,168796,112495,66.6 %,14588,13.0%
+44,Sonepur,44,GEN,Raj Kumar Rai,Janata Dal,168891,104131,61.7 %,18013,17.3%
+45,Hajipur,45,GEN,Rajendra Rai,Janata Dal,189963,127881,67.3 %,25867,20.2%
+46,Raghopur,46,GEN,Laloo Prasad,Janata Dal,183694,121390,66.1 %,54603,45.0%
+47,Mahnar,47,GEN,Munshi Lal Ray,Janata Dal,165757,106670,64.4 %,9219,8.6%
+48,Jandaha,48,GEN,Tulsi Das Mehta,Janata Dal,174508,117459,67.3 %,37353,31.8%
+49,Patepur,49,SC,Mahendra Baitha,Janata Dal,170597,107500,63.0 %,53847,50.1%
+50,Mahua,50,SC,Munshi Lal Paswan,Janata Dal,166065,105169,63.3 %,38879,37.0%
+51,Lalganj,51,GEN,Yogendra Pd. Sahu,Janata Dal,172270,102084,59.3 %,53635,52.5%
+52,Vaishali,52,GEN,Raj Kishore Sinha,Janata Dal,181892,107062,58.9 %,33286,31.1%
+53,Paru,53,GEN,Mithilesh Prasad Yadav,Janata Dal,180294,110809,61.5 %,48448,43.7%
+54,Sahebganj,54,GEN,Ram Vichar Rai,Janata Dal,171807,105924,61.7 %,29278,27.6%
+55,Baruraj,55,GEN,Shashi Kumar Rai,Janata Dal,178804,106220,59.4 %,45457,42.8%
+56,Kanti,56,GEN,Mufti Mohammad Quasim,Janata Dal,164478,104602,63.6 %,56850,54.3%
+57,Kurhani,57,GEN,Basawan Prasad Bhagat,Janata Dal,173802,114818,66.1 %,40480,35.3%
+58,Sakra,58,SC,Kamal Paswan,Janata Dal,161118,105080,65.2 %,41619,39.6%
+59,Muzaffarpur,59,GEN,Vijendra Chaudhary,Janata Dal,227199,121601,53.5 %,20497,16.9%
+60,Bochaha,60,SC,Ramai Ram,Janata Dal,177658,118843,66.9 %,46126,38.8%
+61,Gaighatti,61,GEN,Maheshwar Pd. Yadva,Janata Dal,150317,100320,66.7 %,22761,22.7%
+62,Aurai,62,GEN,Ganesh Pd. Yadav,Janata Dal,152319,102836,67.5 %,12818,12.5%
+63,Minapur,63,GEN,Hind Keshri Yadav,Janata Dal,159473,107837,67.6 %,19890,18.4%
+64,Runisaidpur,64,GEN,Bhola Ray,Janata Dal,192723,107516,55.8 %,45447,42.3%
+65,Belsand,65,GEN,Raghubansh Prasad Singh,Janata Dal,156724,85634,54.6 %,33310,38.9%
+66,Sheohar,66,GEN,Raghunath Jha,Janata Dal,187177,98265,52.5 %,27598,28.1%
+67,Sitamarhi,67,GEN,Hari Shankar Prasad,Bharatiya Janta Party,209074,122688,58.7 %,1533,1.2%
+68,Bathnaha,68,GEN,Suryadev Rai,Janata Dal,192352,114508,59.5 %,22833,19.9%
+69,Majorganj,69,SC,Surender Ram,Janata Dal,162054,91160,56.3 %,12989,14.2%
+70,Sonbarsa,70,GEN,Ramjiwan Prasad,Janata Dal,178984,119198,66.6 %,139,0.1%
+71,Sursand,71,GEN,Nagendra Prasad Yadav,Janata Dal,177835,105598,59.4 %,42567,40.3%
+72,Pupri,72,GEN,Sitaram Yadav,Janata Dal,198812,106329,53.5 %,18707,17.6%
+73,Benipatti,73,GEN,Shaligram Yadav,Independent,184014,105588,57.4 %,6855,6.5%
+74,Bisfi,74,GEN,Ramchandra Yadav,Communist Party Of India,189381,106460,56.2 %,15976,15.0%
+75,Harlakhi,75,GEN,Ram Naresh Pande,Communist Party Of India,174519,109279,62.6 %,32525,29.8%
+76,Khajauli,76,SC,"Ram Lashan Ram ""raman""",Communist Party Of India,178521,109755,61.5 %,42738,38.9%
+77,Babubarhi,77,GEN,Deo Narayan Yadav,Janata Dal,163920,107599,65.6 %,29218,27.2%
+78,Madhubani,78,GEN,Raj Kumar Mahaseth,Janata Dal,194771,119555,61.4 %,26090,21.8%
+79,Pandaul,79,GEN,Naiyar Azam,Janata Dal,190847,113865,59.7 %,36940,32.4%
+80,Jhanjharpur,80,GEN,Ramawtar Chaudhary,Janata Dal,175609,102784,58.5 %,23029,22.4%
+81,Phulparas,81,GEN,Deo Nath Yadav,Indian National Congress,174673,105615,60.5 %,3344,3.2%
+82,Laukaha,82,GEN,Lal Bihari Yadav,Communist Party Of India,162840,105525,64.8 %,2778,2.6%
+83,Madhepur,83,GEN,Rup Narayan Jha,Janata Dal,182436,110399,60.5 %,30684,27.8%
+84,Manigachhi,84,GEN,Lalit Kumar Yadav,Janata Dal,167102,93254,55.8 %,33005,35.4%
+85,Bahera,85,GEN,Abdul Bari Siddiqui,Janata Dal,165415,105068,63.5 %,34686,33.0%
+86,Ghanshyampur,86,GEN,Mahabir Prasad,Janata Dal,188190,116722,62.0 %,14739,12.6%
+87,Baheri,87,GEN,Ram Lakan Yadav,Janata Dal,182566,117899,64.6 %,39639,33.6%
+88,Darbhanga Rural,88,SC,Mohan Ram,Janata Dal,153299,94120,61.4 %,32208,34.2%
+89,Darbhanga,89,GEN,Shiv Nath Verma,Bharatiya Janta Party,169661,102800,60.6 %,11792,11.5%
+90,Keoti,90,GEN,Gulam Sarvar,Janata Dal,195023,116352,59.7 %,37137,31.9%
+91,Jale,91,GEN,Abdul Salam,Communist Party Of India,175603,97027,55.3 %,13572,14.0%
+92,Hayaghat,92,GEN,Hari Nandan Yadav,Janata Dal,156205,91486,58.6 %,13965,15.3%
+93,Kalyanpur,93,GEN,Sita Sinha,Janata Dal,184136,119030,64.6 %,31178,26.2%
+94,Warisnagar,94,SC,Pitamber Paswan,Janata Dal,161854,106191,65.6 %,27273,25.7%
+95,Samastipur,95,GEN,Ashok Singh,Janata Dal,207949,123035,59.2 %,44185,35.9%
+96,Sarairanjan,96,GEN,Ram Ashray Sahni,Janata Dal,203381,131455,64.6 %,40495,30.8%
+97,Mohiuddin Nagar,97,GEN,Ram Chander Rai,Janata Dal,206151,120510,58.5 %,40225,33.4%
+98,Dalsinghsarai,98,GEN,Ram Lakhan Mahto,Janata Dal,194471,123663,63.6 %,51837,41.9%
+99,Bibhutpur,99,GEN,Ramdev Varma,Communist Party Of India (MARXIST),205908,138372,67.2 %,17607,12.7%
+100,Rosera,100,SC,Gajendra Prasad Singh,Janata Dal,175378,111719,63.7 %,29858,26.7%
+101,Singhia,101,GEN,Jagdish Paswan,Janata Dal,173145,93755,54.1 %,22983,24.5%
+102,Hasanpur,102,GEN,Sunil Kumar Pushpam,Janata Dal,168167,104957,62.4 %,26260,25.0%
+103,Balia,103,GEN,Srinarayan Yadav,Janata Dal,154443,101090,65.5 %,14678,14.5%
+104,Matihani,104,GEN,Rajendra Rajan,Communist Party Of India,168137,107453,63.9 %,19142,17.8%
+105,Begusarai,105,GEN,Rajendra Pd. Singh,Communist Party Of India (MARXIST),182139,120349,66.1 %,13097,10.9%
+106,Barauni,106,GEN,Rajendra Prasad Singh,Communist Party Of India,186732,123296,66.0 %,30919,25.1%
+107,Bachwara,107,GEN,Abdhesh Kumar Roy,Communist Party Of India,168631,110683,65.6 %,22486,20.3%
+108,Cheria Bariarpur,108,GEN,Ram Jeewan Singh,Janata Dal,166218,104390,62.8 %,25683,24.6%
+109,Bakhri,109,SC,Ram Binod Paswan,Communist Party Of India,152151,98873,65.0 %,23685,24.0%
+110,Raghopur,110,GEN,Lakhan Thakur,Janata Dal,185603,120595,65.0 %,1557,1.3%
+111,Kishunpur,111,GEN,Vijay Kumar Gupta,Indian National Congress,163451,102223,62.5 %,7749,7.6%
+112,Supaul,112,GEN,Bijendra Prasad Yadav,Janata Dal,188657,126100,66.8 %,13701,10.9%
+113,Tribeniganj,113,GEN,Vishwa Mohan Kumar,Indian National Congress,148838,106545,71.6 %,5767,5.4%
+114,Chhatapur,114,SC,Bishwa Mohan Bharti,Janata Dal,146415,95281,65.1 %,7319,7.7%
+115,Kumarkhand,115,SC,Upendra Nr. Hazra,Janata Dal,151381,97520,64.4 %,31226,32.0%
+116,Singheshwar,116,GEN,Bam Bhola Yadav,Janata Dal,165086,102925,62.3 %,9946,9.7%
+117,Saharsa,117,GEN,Shankar Prasad Tekriwal,Janata Dal,210998,125482,59.5 %,26950,21.5%
+118,Mahishi,118,GEN,Abdul Gafoor,Janata Dal,197635,117246,59.3 %,15090,12.9%
+119,Simri-Bakhtiarpur,119,GEN,Choudhary Md. Mehboob Ali Kaisher,Indian National Congress,176943,121271,68.5 %,245,0.2%
+120,Madhepura,120,GEN,Parmeshwari Pd. Nirala,Janata Dal,181848,116487,64.1 %,31019,26.6%
+121,Sonbarsa,121,GEN,Ashok Kumar Singh,Janata Dal,193106,113902,59.0 %,28939,25.4%
+122,Kishanganj,122,GEN,Rabindra Charan Yadav,Janata Dal,144357,97520,67.6 %,11556,11.8%
+123,Alamnagar,123,GEN,Narendra Nr. Yadav,Janata Dal,155498,102375,65.8 %,9400,9.2%
+124,Rupauli,124,GEN,Bal Kishor Mandal,Communist Party Of India,160187,91432,57.1 %,8946,9.8%
+125,Dhamdaha,125,GEN,Dilip Kumar Yadav,Janata Dal,187398,116645,62.2 %,8923,7.6%
+126,Banmankhi,126,SC,Chunni Lal Rajbanshi,Janata Dal,174508,107648,61.7 %,10852,10.1%
+127,Raniganj,127,SC,Shanti Devi,Janata Dal,192342,110461,57.4 %,11239,10.2%
+128,Narpatganj,128,GEN,Dayanand Yadav,Janata Dal,192283,85059,44.2 %,4204,4.9%
+129,Forbesganj,129,GEN,Mayanand Thakur,Bharatiya Janta Party,187089,125291,67.0 %,4804,3.8%
+130,Araria,130,GEN,Vijoy Kumar Mandal,Bhartiya Pragatisheel Party,176994,112284,63.4 %,6232,5.6%
+131,Sikti,131,GEN,Rameshwar Yadav,Indian National Congress,207696,143406,69.0 %,8274,5.8%
+132,Jokihat,132,GEN,Taslimuddin,Samajwadi Party,170090,113395,66.7 %,13466,11.9%
+133,Bahadurganj,133,GEN,Awadh Bihari Singh,Bharatiya Janta Party,172133,116396,67.6 %,779,0.7%
+134,Thakurganj,134,GEN,Sikander Singh,Bharatiya Janta Party,198940,120110,60.4 %,7952,6.6%
+135,Kishanganj,135,GEN,Rafique Alam,Indian National Congress,201031,127206,63.3 %,12055,9.5%
+136,Amour,136,GEN,Muzaffar Hussain,Samajwadi Party,176352,122890,69.7 %,755,0.6%
+137,Baisi,137,GEN,Syed Moinuddin,Indian National Congress,156680,108152,69.0 %,4198,3.9%
+138,Kasba,138,GEN,Pradip Ku. Das,Bharatiya Janta Party,191411,123850,64.7 %,4871,3.9%
+139,Purnea,139,GEN,Ajit Sarkar,Communist Party Of India (MARXIST),198416,118504,59.7 %,1615,1.4%
+140,Korha,140,SC,Sitaram Das,Janata Dal,162532,107771,66.3 %,6297,5.8%
+141,Barari,141,GEN,Mansoor Alam,Janata Dal,151778,99311,65.4 %,25377,25.6%
+142,Katihar,142,GEN,Jagbandhu Adhikari,Bharatiya Janta Party,193183,123985,64.2 %,9786,7.9%
+143,Kadwa,143,GEN,Bhola Rai,Bharatiya Janta Party,161289,113524,70.4 %,3168,2.8%
+144,Barsoi,144,GEN,Dulal Chander Goswami,Bharatiya Janta Party,175021,114684,65.5 %,10404,9.1%
+145,Pranpur,145,GEN,Mahendra Nr. Yadav,Janata Dal,152615,110632,72.5 %,11785,10.7%
+146,Manihari,146,GEN,Mubarak Hussain,Indian National Congress,137894,94775,68.7 %,9924,10.5%
+147,Rajmahal,147,GEN,Drub Bhagat,Bharatiya Janta Party,198997,125063,62.8 %,5360,4.3%
+148,Borio,148,ST,Lobin Hembrom,Independent,156067,94697,60.7 %,9603,10.1%
+149,Barhait,149,ST,Hemlal Murmu,Jharkhand Mukti Morcha,140905,95056,67.5 %,6069,6.4%
+150,Litipara,150,ST,Sushila Hasda,Jharkhand Mukti Morcha(SOREN),128955,79918,62.0 %,5517,6.9%
+151,Pakaur,151,GEN,Beni Prasad Gupta,Bharatiya Janta Party,166799,116091,69.6 %,1808,1.6%
+152,Maheshpur,152,ST,Jyotin Soren,Communist Party Of India (MARXIST),139954,89829,64.2 %,12409,13.8%
+153,Sikaripara,153,ST,Nalin Soren,Jharkhand Mukti Morcha(SOREN),151197,101836,67.4 %,16422,16.1%
+154,Nala,154,GEN,Bisheshwar Khan,Communist Party Of India,160031,109887,68.7 %,14656,13.3%
+155,Jamtara,155,GEN,Furkan Ansari,Indian National Congress,159762,113631,71.1 %,11102,9.8%
+156,Sarath,156,GEN,Uday Shankar Singh,Indian National Congress,169780,123355,72.7 %,20663,16.8%
+157,Madhupur,157,GEN,Hussain Ansari,Jharkhand Mukti Morcha,187276,125738,67.1 %,16898,13.4%
+158,Deoghar,158,SC,Suresh Paswan,Janata Dal,212328,130102,61.3 %,18821,14.5%
+159,Jarmundi,159,GEN,Devendra Kuwar,Jharkhand Mukti Morcha(SOREN),150376,104413,69.4 %,10707,10.3%
+160,Dumka,160,ST,Stefan Marandi,Jharkhand Mukti Morcha(SOREN),161105,104135,64.6 %,5887,5.7%
+161,Jama,161,ST,Durga Soren,Jharkhand Mukti Morcha(SOREN),146039,93751,64.2 %,28366,30.3%
+162,Poreyahat,162,GEN,Prashant Kumar,Jharkhand Mukti Morcha(SOREN),183371,122303,66.7 %,10146,8.3%
+163,Godda,163,GEN,Rajnish Anand,Indian National Congress,200556,129905,64.8 %,8546,6.6%
+164,Mahagama,164,GEN,Awadh Bihari Singh,Indian National Congress,202431,130034,64.2 %,495,0.4%
+165,Pirpainti,165,GEN,Ambika Prasad,Communist Party Of India,196352,123535,62.9 %,1237,1.0%
+166,Colgong,166,GEN,Mahesh Prasad Mandal,Janata Dal,213129,132572,62.2 %,7644,5.8%
+167,Nathnagar,167,GEN,Lutfar Rahman,Janata Dal,193880,123115,63.5 %,32812,26.7%
+168,Bhagalpur,168,GEN,Ashwini Choube,Bharatiya Janta Party,192112,109139,56.8 %,4926,4.5%
+169,Gopalpur,169,GEN,Rabindra Kr. Rana,Janata Dal,189177,117678,62.2 %,15623,13.3%
+170,Bihpur,170,GEN,Barhmdeo Mandal,Janata Dal,158473,97960,61.8 %,17153,17.5%
+171,Sultanganj,171,SC,Fanindra Choudhary,Janata Dal,213506,128968,60.4 %,19058,14.8%
+172,Amarpur,172,GEN,Surendra Prasad Singh,Janata Dal,179299,110561,61.7 %,14573,13.2%
+173,Dhuraiya,173,SC,Naresh Das,Communist Party Of India,179989,114876,63.8 %,10652,9.3%
+174,Banka,174,GEN,Javed Iqbal Ansari,Janata Dal,161410,101177,62.7 %,8792,8.7%
+175,Belhar,175,GEN,Ram Dev Yadav,Janata Dal,150478,93256,62.0 %,19780,21.2%
+176,Katoria,176,GEN,Giridhari Yadav,Janata Dal,181016,114043,63.0 %,19620,17.2%
+177,Chakai,177,GEN,Phalguni Prasad Yadav,Bharatiya Janta Party,177005,101468,57.3 %,3193,3.1%
+178,Jhajha,178,GEN,Ravindra Yadav,Indian National Congress,160623,95625,59.5 %,7969,8.3%
+179,Tarapur,179,GEN,Shakuni Choudhary,Samata Party,164879,110129,66.8 %,2450,2.2%
+180,Kharagpur,180,GEN,Jay Prakash Narayan Yadav,Janata Dal,190147,122836,64.6 %,29589,24.1%
+181,Parbatta,181,GEN,Vidya Sagar Nishad,Janata Dal,179848,119759,66.6 %,12887,10.8%
+182,Chautham,182,GEN,Satya Narayan Singh,Communist Party Of India,171344,108723,63.5 %,13323,12.3%
+183,Khagaria,183,GEN,Chandramukhi Devi,Bharatiya Janta Party,168163,106628,63.4 %,9047,8.5%
+184,Alauli,184,SC,Pashupati Kumar Paras,Janata Dal,153205,99234,64.8 %,17357,17.5%
+185,Monghyr,185,GEN,Monazir Hasan,Janata Dal,196943,113315,57.5 %,10910,9.6%
+186,Jamalpur,186,GEN,Upendra Pd. Verma,Janata Dal,186234,104961,56.4 %,7327,7.0%
+187,Surajgarha,187,GEN,Prahlad Yadav,Independent,183938,106047,57.7 %,7379,7.0%
+188,Jamui,188,GEN,Arjun Mandal,Janata Dal,199494,112200,56.2 %,7082,6.3%
+189,Sikandra,189,SC,Prayag Choudhary,Communist Party Of India,196181,107786,54.9 %,14155,13.1%
+190,Lakhisarai,190,GEN,Yaduvansh Singh,Janata Dal,194770,106477,54.7 %,998,0.9%
+191,Sheikhpura,191,GEN,Rajo Singh,Indian National Congress,183137,108976,59.5 %,20427,18.7%
+192,Barbigha,192,SC,Mahavir Chaudhary,Indian National Congress,170164,102779,60.4 %,10713,10.4%
+193,Asthawan,193,GEN,Satish Kumar,Independent,174525,109881,63.0 %,8194,7.5%
+194,Bihar,194,GEN,Deo Nath Prasad,Janata Dal,235017,136715,58.2 %,4973,3.6%
+195,Rajgir,195,SC,Satyadeo Narayan Arya,Bharatiya Janta Party,188041,121779,64.8 %,4833,4.0%
+196,Nalanda,196,GEN,Shrawon Kumar,Samata Party,180195,120070,66.6 %,22863,19.0%
+197,Islampur,197,GEN,Krishna Ballabh Prasad,Communist Party Of India,191853,127834,66.6 %,10244,8.0%
+198,Hilsa,198,GEN,Vaiju Prasad,Janata Dal,180538,130846,72.5 %,4900,3.7%
+199,Chandi,199,GEN,Anil Singh,Samata Party,152538,104904,68.8 %,2955,2.8%
+200,Harnaut,200,GEN,Nitish Kumar,Samata Party,163304,106360,65.1 %,12242,11.5%
+201,Mokameh,201,GEN,Dilip Kumar Singh,Janata Dal,194075,106194,54.7 %,6947,6.5%
+202,Barh,202,GEN,Vijay Krishna,Janata Dal,190375,111842,58.7 %,3816,3.4%
+203,Bakhtiarpur,203,GEN,Brajnandan Yadav,Janata Dal,185504,106182,57.2 %,13580,12.8%
+204,Fatwa,204,SC,Punit Rai,Janata Dal,184533,109561,59.4 %,14527,13.3%
+205,Masaurhi,205,GEN,Ganesh Pr. Singh,Janata Dal,196584,131694,67.0 %,22230,16.9%
+206,Patna West,206,GEN,Navin Kishore Prasad Sinha,Bharatiya Janta Party,325538,162138,49.8 %,5584,3.4%
+207,Patna Central,207,GEN,Sushil Kumar Modi,Bharatiya Janta Party,277918,125048,45.0 %,32099,25.7%
+208,Patna East,208,GEN,Nand Kishore Yadav,Bharatiya Janta Party,218880,118972,54.4 %,6430,5.4%
+209,Dinapur,209,GEN,Laloo Prasad,Janata Dal,191915,103860,54.1 %,23860,23.0%
+210,Maner,210,GEN,Srikant Nirala,Janata Dal,184613,116728,63.2 %,2678,2.3%
+211,Phulwari,211,SC,Shyam Rajak,Janata Dal,225805,137067,60.7 %,24319,17.7%
+212,Bikram,212,GEN,Ramnath Yadava,Communist Party Of India,189568,123335,65.1 %,336,0.3%
+213,Paliganj,213,GEN,Chandradeo Prasad Verma,Janata Dal,211554,129130,61.0 %,17872,13.8%
+214,Sandesh,214,GEN,Rameshwar Prasad,Communist Party Of India (MARXIST-LENINIST) (LIBERATION),161530,110370,68.3 %,15737,14.3%
+215,Barhara,215,GEN,Raghwendra Pratap Singh,Janata Dal,182566,105689,57.9 %,10016,9.5%
+216,Arrah,216,GEN,Abdul Malik,Janata Dal,185269,111605,60.2 %,4637,4.2%
+217,Shahpur,217,GEN,Dharampal Singh,Janata Dal,175760,93160,53.0 %,16695,17.9%
+218,Brahmpur,218,GEN,Ajit Choudhary,Janata Dal,184079,112435,61.1 %,26490,23.6%
+219,Buxar,219,GEN,Manju Prakash,Communist Party Of India (MARXIST),156196,104000,66.6 %,22507,21.6%
+220,Rajpur,220,SC,Arjoon Ram,Communist Party Of India,145985,98908,67.8 %,24196,24.5%
+221,Dumraon,221,GEN,Basant Singh,Janata Dal,173191,114670,66.2 %,22621,19.7%
+222,Jagdishpur,222,GEN,Hari Narain Singh,Janata Dal,172560,104784,60.7 %,10203,9.7%
+223,Piro,223,GEN,Kanti Singh,Janata Dal,162830,104499,64.2 %,12704,12.2%
+224,Sahar,224,SC,Parasnath,Communist Party Of India (MARXIST-LENINIST) (LIBERATION),169734,109013,64.2 %,20549,18.9%
+225,Karakat,225,GEN,Tulsi Singh,Janata Dal,185513,113596,61.2 %,6897,6.1%
+226,Bikramganj,226,GEN,Dr. Surya Deo Singh,Janata Dal,191460,116717,61.0 %,25092,21.5%
+227,Dinara,227,GEN,Ram Dhani Singh,Janata Dal,177867,123384,69.4 %,22934,18.6%
+228,Ramgarh,228,GEN,Jagda Nand Singh,Janata Dal,164084,115572,70.4 %,18650,16.1%
+229,Mohania,229,SC,Suresh Pasi,Bahujan Samaj Party,183015,123273,67.4 %,21977,17.8%
+230,Bhabhua,230,GEN,Ram Lal Singh,Communist Party Of India,201919,131659,65.2 %,33838,25.7%
+231,Chainpur,231,GEN,Mahabali Singh,Bahujan Samaj Party,161889,113118,69.9 %,11997,10.6%
+232,Sasaram,232,GEN,Jawahir Prasad,Bharatiya Janta Party,214371,125875,58.7 %,7594,6.0%
+233,Chenari,233,SC,Jawahar Paswan,Janata Dal,193522,125034,64.6 %,16798,13.4%
+234,Nokha,234,GEN,Anand Mohan Singh,Janata Dal,175112,112484,64.2 %,21081,18.7%
+235,Dehri,235,GEN,Md. Ilyas Hussain,Janata Dal,194999,119073,61.1 %,10056,8.4%
+236,Nabinagar,236,GEN,Virendra Kumar Singh,Janata Dal,182922,105069,57.4 %,12917,12.3%
+237,Deo,237,SC,Suresh Paswan,Janata Dal,167075,99341,59.5 %,18666,18.8%
+238,Aurangabad,238,GEN,Ramadhar Singh,Bharatiya Janta Party,198966,110791,55.7 %,3853,3.5%
+239,Rafiganj,239,GEN,Ram Chandra Singh,Communist Party Of India,171347,93668,54.7 %,24534,26.2%
+240,Obra,240,GEN,Raja Ram Singh,Communist Party Of India (MARXIST-LENINIST) (LIBERATION),183850,121063,65.8 %,20379,16.8%
+241,Goh,241,GEN,Ram Sharan Yadav,Communist Party Of India,176352,108823,61.7 %,12496,11.5%
+242,Arwal,242,GEN,Ravindra Singh,Janata Dal,173990,108051,62.1 %,29534,27.3%
+243,Kurtha,243,GEN,Sahdev Prasad Yadav,Janata Dal,173259,125687,72.5 %,33952,27.0%
+244,Makhdumpur,244,GEN,Bagi Kumar Verma,Janata Dal,168237,125920,74.8 %,24893,19.8%
+245,Jahanabad,245,GEN,Mundrika Singh Yadav,Janata Dal,176777,133173,75.3 %,22268,16.7%
+246,Ghosi,246,GEN,Jagdish Sharma,Indian National Congress,172556,132181,76.6 %,33334,25.2%
+247,Belaganj,247,GEN,Surendra Prasad Yadav,Janata Dal,177549,108852,61.3 %,28715,26.4%
+248,Konch,248,GEN,Shiv Bachan Yadav,Janata Dal,182341,85795,47.1 %,21727,25.3%
+249,Gaya Mufassil,249,GEN,Vinod Kumar Yadvindu,Janata Dal,169660,99761,58.8 %,24681,24.7%
+250,Gaya Town,250,GEN,Prem Kumar,Bharatiya Janta Party,202944,93810,46.2 %,7111,7.6%
+251,Imamganj,251,SC,Ramswaroop Paswan,Samata Party,161218,87628,54.4 %,120,0.1%
+252,Gurua,252,GEN,Ramchandra Singh,Independent,164813,99928,60.6 %,13560,13.6%
+253,Bodh Gaya,253,SC,Malti Devi,Independent,154073,99633,64.7 %,11139,11.2%
+254,Barachatti,254,SC,Bhagwati Devi,Janata Dal,168383,97291,57.8 %,24999,25.7%
+255,Fatehpur,255,SC,Ram Naresh Prasad,Janata Dal,179613,117034,65.2 %,7021,6.0%
+256,Atri,256,GEN,Rajender Prasad Yadav,Janata Dal,178504,134326,75.3 %,55665,41.4%
+257,Nawada,257,GEN,Raj Ballabh Prasad,Independent,232287,138143,59.5 %,27357,19.8%
+258,Rajauli,258,SC,Babu Lal,Janata Dal,200733,121810,60.7 %,7684,6.3%
+259,Gobindpur,259,GEN,K.B. Prasad,Janata Dal,184819,105427,57.0 %,24244,23.0%
+260,Warsaliganj,260,GEN,Ramashray Prasad Singh,Indian National Congress,191160,114831,60.1 %,12268,10.7%
+261,Hisua,261,GEN,Aditya Singh,Indian National Congress,170940,98468,57.6 %,12524,12.7%
+262,Kodarma,262,GEN,Ramesh Prasad Yadav,Janata Dal,197708,130089,65.8 %,19975,15.4%
+263,Barhi,263,GEN,Manoj Kr. Yadav,Indian National Congress,153229,94829,61.9 %,23643,24.9%
+264,Chatra,264,SC,Janardan Paswan,Janata Dal,195965,82558,42.1 %,19455,23.6%
+265,Simaria,265,SC,Upendra Nath Das,Bharatiya Janta Party,178466,81895,45.9 %,2134,2.6%
+266,Barkagaon,266,GEN,Lok Nath Mahto,Bharatiya Janta Party,234071,140896,60.2 %,17136,12.2%
+267,Ramgarh,267,GEN,Shankar Choudhary,Bharatiya Janta Party,192620,138106,71.7 %,1644,1.2%
+268,Mandu,268,GEN,Teklal Mahto,Jharkhand Mukti Morcha (MARDI),237651,149742,63.0 %,19043,12.7%
+269,Hazaribagh,269,GEN,Deo Dayal,Bharatiya Janta Party,205926,125937,61.2 %,27345,21.7%
+270,Barkatha,270,GEN,Khagendra Prasad,Bharatiya Janta Party,189618,120444,63.5 %,18124,15.0%
+271,Dhanwar,271,GEN,Guru Sahay Mahto,Janata Dal,189422,122931,64.9 %,15622,12.7%
+272,Bagodar,272,GEN,Mahendra Prasad Singh,Communist Party Of India (MARXIST-LENINIST) (LIBERATION),188108,119600,63.6 %,9979,8.3%
+273,Jamua,273,SC,Sukar Rabidas,Bharatiya Janta Party,183197,112856,61.6 %,17936,15.9%
+274,Gandey,274,GEN,Laxaman Swarnkar,Bharatiya Janta Party,157921,110971,70.3 %,10758,9.7%
+275,Giridih,275,GEN,Chandra Mohan Prasad,Bharatiya Janta Party,170731,92315,54.1 %,5264,5.7%
+276,Dumri,276,GEN,Shiva Mahto,Jharkhand Mukti Morcha (MARDI),164555,109964,66.8 %,12986,11.8%
+277,Gomia,277,GEN,Chhatru Ram Mahto,Bharatiya Janta Party,176612,120958,68.5 %,4176,3.5%
+278,Bermo,278,GEN,Rajendra Prasad Singh,Indian National Congress,217175,142557,65.6 %,811,0.6%
+279,Bokaro,279,GEN,Aklu Ram Mahto,Janata Dal,353142,217972,61.7 %,30315,13.9%
+280,Tundi,280,GEN,Saba Ahmad,Jharkhand Mukti Morcha (MARDI),171415,110739,64.6 %,2333,2.1%
+281,Baghmara,281,GEN,Om Prakas Lal,Indian National Congress,196865,127547,64.8 %,1205,0.9%
+282,Sindri,282,GEN,Anand Mahto,Marxist Co-Ordination,197623,134451,68.0 %,5268,3.9%
+283,Nirsa,283,GEN,Gurudas Chatterji,Marxist Co-Ordination,202892,134101,66.1 %,16244,12.1%
+284,Dhanbad,284,GEN,Pasupatinath Singh,Bharatiya Janta Party,270031,160187,59.3 %,4006,2.5%
+285,Jharia,285,GEN,Abo Devi,Janata Dal,231011,140602,60.9 %,3847,2.7%
+286,Chandankiyari,286,SC,Gaur Harijan,Independent,157770,97957,62.1 %,174,0.2%
+287,Baharagora,287,GEN,Devipada Upadhayay,Communist Party Of India,156833,120687,77.0 %,4118,3.4%
+288,Ghatsila,288,ST,Pradeep Kumar Balmuchu,Indian National Congress,167602,121317,72.4 %,15730,13.0%
+289,Potka,289,ST,Hari Ram Sardar,Jharkhand Mukti Morcha,185313,121503,65.6 %,4744,3.9%
+290,Jugsalai,290,SC,Dulal Bhuiyan,Jharkhand Mukti Morcha,198632,134964,67.9 %,16486,12.2%
+291,Jamshedpur East,291,GEN,Raghuwar Das,Bharatiya Janta Party,195310,123560,63.3 %,1101,0.9%
+292,Jamshedpur West,292,GEN,Mrigendra Pratap Singh,Bharatiya Janta Party,207373,129732,62.6 %,3997,3.1%
+293,Ichagarh,293,GEN,Arvind Kumar Singh,Independent,160944,112633,70.0 %,16305,14.5%
+294,Seraikella,294,ST,Champai Soren,Jharkhand Mukti Morcha,186429,120084,64.4 %,15680,13.1%
+295,Chaibasa,295,ST,Jawaharlal Banra,Bharatiya Janta Party,134469,84705,63.0 %,1418,1.7%
+296,Majhgaon,296,ST,Gobardhan Nayak,Janata Dal,124795,61998,49.7 %,761,1.2%
+297,Jaganathpur,297,ST,Mangal Singh Bobonga,Jammu & Kashmir Panthers Party,120429,67756,56.3 %,7004,10.3%
+298,Manoharpur,298,ST,Joba Majhi,Jammu & Kashmir Panthers Party,127989,74423,58.1 %,5691,7.6%
+299,Chakradharpur,299,ST,Laxman Giluwa,Bharatiya Janta Party,126928,86029,67.8 %,1746,2.0%
+300,Kharasawan,300,ST,Arjun Munda,Jharkhand Mukti Morcha,134775,83323,61.8 %,5166,6.2%
+301,Tamar,301,ST,Kali Charan Munda,Indian National Congress,150653,94592,62.8 %,5594,5.9%
+302,Torpa,302,ST,N.E. Horo,Jharkhand Party,118816,76092,64.0 %,7842,10.3%
+303,Khunti,303,ST,Sushila Kerketta,Indian National Congress,127354,77394,60.8 %,11718,15.1%
+304,Silli,304,GEN,Keshavmahto Kamlesh,Indian National Congress,143017,101103,70.7 %,16726,16.5%
+305,Khijri,305,ST,Duti Pahan,Bharatiya Janta Party,185245,120183,64.9 %,93,0.1%
+306,Ranchi,306,GEN,Yaswant Sinha,Bharatiya Janta Party,200610,121604,60.6 %,20143,16.6%
+307,Hatia,307,GEN,Ramji Lal Sharda,Bharatiya Janta Party,207904,125944,60.6 %,13176,10.5%
+308,Kanke,308,SC,Ram Chandra Baitha,Bharatiya Janta Party,208216,122606,58.9 %,12004,9.8%
+309,Mandar,309,ST,Vishwanath Bhagat,Jharkhand Mukti Morcha,195296,117668,60.3 %,9262,7.9%
+310,Sisai,310,ST,Bandi Oraon,Indian National Congress,157637,91512,58.1 %,12228,13.4%
+311,Kolebira,311,ST,Basant Kumar Longa,Jharkhand Mukti Morcha,134318,94143,70.1 %,11695,12.4%
+312,Simdega,312,ST,Neil Tirkey,Jharkhand Mukti Morcha,150057,95923,63.9 %,8081,8.4%
+313,Gumla,313,ST,Bernard Minj,Jharkhand Mukti Morcha,145189,94936,65.4 %,15089,15.9%
+314,Bishnupur,314,ST,Bhukhla Bhagat,Indian National Congress,157958,88644,56.1 %,15141,17.1%
+315,Lohardaga,315,ST,Sadhnu Bhagat,Bharatiya Janta Party,145610,94761,65.1 %,2558,2.7%
+316,Latehar,316,SC,Baljit Ram,Janata Dal,146950,56448,38.4 %,1042,1.8%
+317,Manika,317,ST,Ram Chandra Singh (MONGRA),Janata Dal,128790,71216,55.3 %,947,1.3%
+318,Panki,318,GEN,Sankteshwar Singh,Independent,153875,91592,59.5 %,10406,11.4%
+319,Daltonganj,319,GEN,Inder Singh Namdhari,Janata Dal,197928,112521,56.8 %,20676,18.4%
+320,Garhwa,320,GEN,Girinath Singh,Janata Dal,184455,109093,59.1 %,8470,7.8%
+321,Bhawanathpur,321,GEN,Giriwar Pandey,Janata Dal,195950,125837,64.2 %,10041,8.0%
+322,Bishrampur,322,GEN,Ramchander Chandervanshi,Janata Dal,175204,98782,56.4 %,8475,8.6%
+323,Chhatarpur,323,SC,Radha Krishna Kishore,Indian National Congress,149652,76570,51.2 %,5476,7.2%
+324,Hussainabad,324,GEN,Awadesh Kr. Singh,Janata Dal,159727,88582,55.5 %,13802,15.6%

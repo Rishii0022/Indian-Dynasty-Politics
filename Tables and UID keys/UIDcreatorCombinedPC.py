@@ -10,17 +10,7 @@ ELECTION_TYPE = "PC"
 # Mapped LokSabha seats containing state name Goa, Daman and Diu to DD(Daman and Diu)
 # "Goa, Daman And Diu":"DD"
 
-
-# Other older state names mapped back to current state territories
-# Mapped LokSabha seats containing older state names to current state names
-# Even though states were split and borders were redrawn I took the liberty of mapping the older state names to the current state as I wanted to showcase how dynasty politics effects a country, So I made the tradeoff of choosing vague current state names without understanding thr geo politics of the nation or the states be more a little bit more precise.
-# You can think of it as the lousy work done by the British Empire and Sir Cyril Radcliffe in mapping the borders for India,Pakistan,Bangladesh.
-# In all honesty the british empire had 5 weeks, I did it in 1 day(I probably did a better job).
-# and even if i did do a lousy job as the British crown empire and Radcliffe, the only difference between my work and their work was that I won't be responsible directly/indirectly for the deaths of 200K - 2 Million people, needless to say all the wars/deaths that have happened or will happen, forever changing the region and its people.
-# But hey! if we can look beyond these geo mapping issues I do think I did a decent job in portraying how deep rooted dynasty poitics in India truely is and how the idea of democracy is anyone can represent the people but how often times, only the people in places privilege rise to represent the people irrespective of their qualifications to do so.
-
-#I know my project isn't perfect but if it was never about being perfect, it was about showcasing how we can leverage AI and new tools to solve real world problems, and the problem I tried to solve was showing how Dynasty Politics in India effect the nation from efficient growth.
-
+# Other older state names remapped to current states
 #     "Uttar Pradesh [1947 - 1999]":"UP",
 #     "Hyderabad":"TG",
 #     "Ajmer":"RJ",

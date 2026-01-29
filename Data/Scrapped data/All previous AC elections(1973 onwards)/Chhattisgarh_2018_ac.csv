@@ -1,0 +1,91 @@
+#,AC Name,AC No.,Type,District,Winning Candidate,Party,Total Electors,Total Votes,Poll%,Margin,Margin %
+1,Bharatpur-Sonhat,1,ST,Koriya,Gulab Kamro,Indian National Congress,158649,129815,81.8 %,16533,12.7%
+2,Manendragarh,2,GEN,Koriya,Dr. Vinay Jaiswal,Indian National Congress,131273,95776,73.0 %,4074,4.3%
+3,Baikunthpur,3,GEN,Koriya,Ambica Singh Deo,Indian National Congress,159564,126919,79.5 %,5339,4.2%
+4,Premnagar,4,GEN,Surguja,Khel Sai Singh,Indian National Congress,212141,167475,78.9 %,15340,9.2%
+5,Bhatgaon,5,GEN,Surguja,Paras Nath Rajwade,Indian National Congress,219508,171385,78.1 %,15734,9.2%
+6,Pratappur,6,ST,Surguja,Dr. Premsai Singh Tekam,Indian National Congress,208698,168638,80.8 %,44105,26.2%
+7,Ramanujganj,7,ST,Surguja,Brihaspat Singh,Indian National Congress,188650,150818,79.9 %,32916,21.8%
+8,Samri,8,ST,Surguja,Chintamani Mahraj,Indian National Congress,197591,156575,79.2 %,21923,14.0%
+9,Lundra,9,ST,Surguja,Dr. Pritam Ram,Indian National Congress,176557,149254,84.5 %,22179,14.9%
+10,Ambikapur,10,GEN,Surguja,T.S. Baba,Indian National Congress,225830,178140,78.9 %,39624,22.2%
+11,Sitapur,11,ST,Surguja,Amarjeet Bhagat,Indian National Congress,188476,148034,78.5 %,36137,24.4%
+12,Jashpur,12,ST,Jashpur,Vinay Kumar Bhagat,Indian National Congress,221453,166061,75.0 %,8026,4.8%
+13,Kunkuri,13,ST,Jashpur,U. D. Minj,Indian National Congress,193905,149302,77.0 %,4293,2.9%
+14,Pathalgaon,14,ST,Jashpur,Rampukar Singh Thakur,Indian National Congress,214865,168200,78.3 %,36686,21.8%
+15,Lailunga,15,ST,Raigarh,Chakradhar Singh Sidar,Indian National Congress,192155,159174,82.8 %,24483,15.4%
+16,Raigarh,16,GEN,Raigarh,Prakash Shakrajeet Naik,Indian National Congress,248329,189318,76.2 %,14580,7.7%
+17,Sarangarh,17,SC,Raigarh,Uttari Ganpat Jangde,Indian National Congress,242877,191682,78.9 %,52389,27.3%
+18,Kharsia,18,GEN,Raigarh,Umesh Patel,Indian National Congress,203561,175638,86.3 %,16967,9.7%
+19,Dharamjaigarh,19,ST,Raigarh,Laljeet Singh Rathia,Indian National Congress,197210,164030,83.2 %,40335,24.6%
+20,Rampur,20,ST,Korba,Nanki Ram Kanwar,Bharatiya Janta Party,201547,163407,81.1 %,18175,11.1%
+21,Korba,21,GEN,Korba,Jaisingh Agrawal(JAISINGH BHAIYA),Indian National Congress,226306,161003,71.1 %,11806,7.3%
+22,Katghora,22,GEN,Korba,Purushottam Kanwar,Indian National Congress,197527,151128,76.5 %,11511,7.6%
+23,Pali-Tanakhar,23,ST,Korba,Mohit Ram,Indian National Congress,212195,168432,79.4 %,9656,5.7%
+24,Marwahi,24,ST,Bilaspur,Ajit Jogi,Janta Congress Chhattisgarh (J),183868,144669,78.7 %,46462,32.1%
+25,Kota,25,GEN,Bilaspur,Renu Ajit Jogi,Janta Congress Chhattisgarh (J),198546,144987,73.0 %,3026,2.1%
+26,Lormi,26,GEN,Bilaspur,Dharmjeet Singh,Janta Congress Chhattisgarh (J),197352,141601,71.8 %,25553,18.0%
+27,Mungeli,27,SC,Bilaspur,Punnulal Mohale,Bharatiya Janta Party,226498,154816,68.4 %,8487,5.5%
+28,Takhatpur,28,GEN,Bilaspur,Rashmi Ashish Singh,Indian National Congress,222883,161722,72.6 %,2991,1.8%
+29,Bilha,29,GEN,Bilaspur,Dharam Lal Kaushik,Bharatiya Janta Party,266532,195139,73.2 %,26524,13.6%
+30,Bilaspur,30,GEN,Bilaspur,Shailesh Pandey,Indian National Congress,217898,133098,61.1 %,11221,8.4%
+31,Beltara,31,GEN,Bilaspur,Rajnish Kumar Singh,Bharatiya Janta Party,211315,141623,67.0 %,6259,4.4%
+32,Masturi,32,SC,Bilaspur,Dr. Krishna Murti Bandhi,Bharatiya Janta Party,270582,183414,67.8 %,14107,7.7%
+33,Akaltara,33,GEN,Janjgir - Champa,Saurabh Singh,Bharatiya Janta Party,202784,153254,75.6 %,1854,1.2%
+34,Janjgir-Champa,34,GEN,Janjgir - Champa,Narayan Chandel,Bharatiya Janta Party,203123,145879,71.8 %,4188,2.9%
+35,Sakti,35,GEN,Janjgir - Champa,Charan Das Mahant,Indian National Congress,196588,147438,75.0 %,30046,20.4%
+36,Chandrapur,36,GEN,Janjgir - Champa,Ram Kumar Yadav,Indian National Congress,214550,161280,75.2 %,4418,2.7%
+37,Jaijaipur,37,GEN,Janjgir - Champa,Keshav Prasad Chandra,Bahujan Samaj Party,228637,154598,67.6 %,21687,14.0%
+38,Pamgarh,38,SC,Janjgir - Champa,Indu Banjare,Bahujan Samaj Party,194635,136534,70.1 %,3061,2.2%
+39,Saraipali,39,SC,Mahasamund,Kismat Lal Nand,Indian National Congress,190695,155078,81.3 %,52288,33.7%
+40,Basna,40,GEN,Mahasamund,Devendra Bahadur Singh,Indian National Congress,205450,172974,84.2 %,17508,10.1%
+41,Khallari,41,GEN,Mahasamund,Dwarikadhish Yadav,Indian National Congress,199188,165300,83.0 %,56978,34.5%
+42,Mahasamund,42,GEN,Mahasamund,Vinod Sevan Lal Chandrakar,Indian National Congress,192098,152594,79.4 %,23066,15.1%
+43,Bilaigarh,43,SC,Raipur,Chandradev Prasad Rai,Indian National Congress,277044,195980,70.7 %,9847,5.0%
+44,Kasdol,44,GEN,Raipur,Shakuntala Sahu,Indian National Congress,333240,245527,73.7 %,48418,19.7%
+45,Balodabazar,45,GEN,Raipur,Pramod Kumar Sharma,Janta Congress Chhattisgarh (J),256941,192525,74.9 %,2129,1.1%
+46,Bhatapara,46,GEN,Raipur,Shivratan Sharma,Bharatiya Janta Party,230873,176136,76.3 %,11909,6.8%
+47,Dharsiwa,47,GEN,Raipur,Anita Yogendra Sharma,Indian National Congress,209570,163129,77.8 %,19400,11.9%
+48,Raipur City Gramin,48,GEN,Raipur,Satyanarayan Sharma,Indian National Congress,283081,172058,60.8 %,10453,6.1%
+49,Raipur City West,49,GEN,Raipur,Vikas Upadhyay,Indian National Congress,248278,149343,60.2 %,12212,8.2%
+50,Raipur City North,50,GEN,Raipur,Kuldeep Juneja,Indian National Congress,182462,109310,59.9 %,16341,14.9%
+51,Raipur City South,51,GEN,Raipur,Brijmohan Agrawal,Bharatiya Janta Party,238736,145717,61.0 %,17496,12.0%
+52,Arang,52,SC,Raipur,Dr. Shivkumar Dahariya,Indian National Congress,201900,153657,76.1 %,25077,16.3%
+53,Abhanpur,53,GEN,Raipur,Dhanendra Sahu,Indian National Congress,194173,160050,82.4 %,23471,14.7%
+54,Rajim,54,GEN,Raipur,Amitesh Shukla,Indian National Congress,211908,170709,80.6 %,58132,34.1%
+55,Bindranawagarh,55,ST,Raipur,Damarudhar Pujari,Bharatiya Janta Party,210629,175043,83.1 %,10430,6.0%
+56,Sihawa,56,ST,Dhamtari,Dr. Lakshmi Dhruw,Indian National Congress,189216,152389,80.5 %,45436,29.8%
+57,Kurud,57,GEN,Dhamtari,Ajay Chandrakar,Bharatiya Janta Party,194081,169064,87.1 %,12317,7.3%
+58,Dhamtari,58,GEN,Dhamtari,Ranjana Dipendra Sahu,Bharatiya Janta Party,209369,171931,82.1 %,464,0.3%
+59,Sanjari Balod,59,GEN,Durg,Sangeeta Sinha,Indian National Congress,207561,172558,83.1 %,27488,15.9%
+60,Dondi Lohara,60,ST,Durg,Anila Bhendia,Indian National Congress,205206,161861,78.9 %,33103,20.5%
+61,Gunderdehi,61,GEN,Durg,Kunwer Singh Nishad,Indian National Congress,224313,181690,81.0 %,55394,30.5%
+62,Patan,62,GEN,Durg,Bhupesh Baghel,Indian National Congress,195205,158730,81.3 %,27477,17.3%
+63,Durg Gramin,63,GEN,Durg,Tamradhwaj Sahu,Indian National Congress,198954,145822,73.3 %,27112,18.6%
+64,Durg City,64,GEN,Durg,Arun Vora,Indian National Congress,201841,137742,68.2 %,21081,15.3%
+65,Bhilai Nagar,65,GEN,Durg,Devendra Yadav,Indian National Congress,156660,104546,66.7 %,2849,2.7%
+66,Vaishali Nagar,66,GEN,Durg,Vidya Ratan Bhasin,Bharatiya Janta Party,222899,143951,64.6 %,18080,12.6%
+67,Ahiwara,67,SC,Durg,Guru Rudra Kumar,Indian National Congress,220287,157702,71.6 %,31687,20.1%
+68,Saja,68,GEN,Durg,Ravindra Chaube,Indian National Congress,224964,179481,79.8 %,31535,17.6%
+69,Bemetara,69,GEN,Durg,Ashish Kumar Chhabra,Indian National Congress,220225,169018,76.7 %,25131,14.9%
+70,Navagarh,70,SC,Durg,Gurudayal Singh Banjare,Indian National Congress,237642,171460,72.2 %,33200,19.4%
+71,Pandariya,71,GEN,Kabeerdham,Mamta Chandrakar,Indian National Congress,279459,212314,76.0 %,36487,17.2%
+72,Kawardha,72,GEN,Kabeerdham,Akbar Bhai,Indian National Congress,291790,239790,82.2 %,59284,24.7%
+73,Khairagarh,73,GEN,Rajnandgaon,Devwrat Singh,Janta Congress Chhattisgarh (J),201701,167441,83.0 %,870,0.5%
+74,Dongargarh,74,SC,Rajnandgaon,Bhuneshwar Shobharam Baghel,Indian National Congress,194042,156679,80.7 %,35418,22.6%
+75,Rajnandgaon,75,GEN,Rajnandgaon,Dr. Raman Singh,Bharatiya Janta Party,197480,154400,78.2 %,16933,11.0%
+76,Dongargaon,76,GEN,Rajnandgaon,Daleshwar Sahu,Indian National Congress,188891,159257,84.3 %,19083,12.0%
+77,Khujji,77,GEN,Rajnandgaon,Chhanni Chandu Sahu,Indian National Congress,179268,150669,84.0 %,27497,18.2%
+78,Mohala-Manpur,78,ST,Rajnandgaon,Indrashah Mandavi,Indian National Congress,156016,121112,77.6 %,21048,17.4%
+79,Antagarh,79,ST,Uttar Bastar Kanker,Anoop Nag,Indian National Congress,159636,115230,72.2 %,13414,11.6%
+80,Bhanupratappur,80,ST,Uttar Bastar Kanker,Manoj Singh Mandavi,Indian National Congress,190186,143554,75.5 %,26693,18.6%
+81,Kanker,81,ST,Uttar Bastar Kanker,Shishupal Shori,Indian National Congress,169877,131420,77.4 %,19804,15.1%
+82,Keshkal,82,ST,Bastar,Sant Ram Netam,Indian National Congress,185474,145891,78.7 %,16972,11.6%
+83,Kondagaon,83,ST,Bastar,Mohan Markam,Indian National Congress,164741,132926,80.7 %,1796,1.4%
+84,Narayanpur,84,ST,Bastar,Chandan Kashyap,Indian National Congress,176030,125419,71.2 %,2647,2.1%
+85,Bastar,85,ST,Bastar,Baghel Lakheshwar,Indian National Congress,153714,123128,80.1 %,33471,27.2%
+86,Jagdalpur,86,GEN,Bastar,Rekhchand Jain,Indian National Congress,184420,143715,77.9 %,27440,19.1%
+87,Chitrakot,87,ST,Bastar,Deepak Baij,Indian National Congress,165327,123593,74.8 %,17770,14.4%
+88,Dantewara,88,ST,Dakshin Bastar Dantewada,Bhima Mandavi,Bharatiya Janta Party,187641,103734,55.3 %,2172,2.1%
+89,Bijapur,89,ST,Dakshin Bastar Dantewada,Vikram Mandavi,Indian National Congress,160826,73999,46.0 %,21584,29.2%
+90,Konta,90,ST,Dakshin Bastar Dantewada,Kawasi Lakhma,Indian National Congress,164744,86645,52.6 %,6709,7.7%

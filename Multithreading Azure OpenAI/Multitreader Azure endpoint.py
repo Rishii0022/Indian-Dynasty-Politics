@@ -10,11 +10,11 @@ load_dotenv()
 subscription_key = os.getenv("AZURE_OPENAI_API_KEY")
 
 
-endpoint = "https://apitest-resource.openai.azure.com/"
-model_name = "gpt-4.1"
-deployment = "gpt-4.1"
+endpoint = "API_endpoint"
+model_name = "API_model"
+deployment = "API_model"
 
-api_version = "2025-03-01-preview"
+api_version = "API_version"
 
 client = AzureOpenAI(
     api_version=api_version,

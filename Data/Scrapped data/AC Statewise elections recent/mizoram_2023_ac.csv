@@ -1,0 +1,41 @@
+ac name,ac no,type,district,winning candidate,party,total electors,total votes,poll%,margin,margin %,father/husband name,gender,age,UID
+Hachhek,1,ST,Mamit,Robert Romawia Royte,Mizo National Front,42320,17468,41.30%,306,1.80%,THAN THUAMA ROYTE (L),male,56.0,MZ2023AC01
+Dampa,2,ST,Mamit,Lalrintluanga Sailo,Mizo National Front,40180,17401,43.30%,292,1.70%,LALNGUAUVA SAILO (L),male,63.0,MZ2023AC02
+Mamit,3,ST,Mamit,H. Lalzirliana,Mizo National Front,47864,20442,42.70%,1792,8.80%,H. THANZAUVA (L),male,53.0,MZ2023AC03
+Tuirial,4,ST,Kolasib,K. Laldawngliana,Mizo National Front,36996,15783,42.70%,13,0.10%,K NGURKHUMA (L),male,51.0,MZ2023AC04
+Kolasib,5,ST,Kolasib,Lalfamkima,Zoram People's Movement,48192,19581,40.60%,1169,6.00%,,,,MZ2023AC05
+Serlui,6,ST,Kolasib,Lalrinsanga Ralte,Mizo National Front,42530,18172,42.70%,906,5.00%,ROSANGA RALTE,male,45.0,MZ2023AC06
+Tuivawl,7,ST,Aizawl,Lalchhandama Ralte,Mizo National Front,35994,14655,40.70%,2019,13.80%,RB Laitawia (L),male,51.0,MZ2023AC07
+Chalfilh,8,ST,Aizawl,Lalbiakzama,Zoram People's Movement,40266,15269,37.90%,1833,12.00%,L.T. ZAUVA (L),male,58.0,MZ2023AC08
+Tawi,9,ST,Aizawl,Prof. Lalnilawma,Zoram People's Movement,34600,14670,42.40%,1552,10.60%,Thankhuma (L),male,54.0,MZ2023AC09
+Aizawl North-I,10,ST,Aizawl,Vanlalhlana,Zoram People's Movement,54018,20959,38.80%,5485,26.20%,Thanzama (L),male,62.0,MZ2023AC10
+Aizawl North-Ii,11,ST,Aizawl,Dr. Vanlalthlana,Zoram People's Movement,49250,19696,40.00%,6507,33.00%,C. BIAKMAWIA,male,44.0,MZ2023AC11
+Aizawl North-Iii,12,ST,Aizawl,K. Sapdanga,Zoram People's Movement,41138,16067,39.10%,1870,11.60%,CHALTHUAMA (L),male,65.0,MZ2023AC12
+Aizawl East-I,13,GEN,Aizawl,Lalthansanga,Zoram People's Movement,58088,22314,38.40%,2101,9.40%,LIANZAMA (L),male,60.0,MZ2023AC13
+Aizawl East-Ii,14,ST,Aizawl,B. Lalchhanzova,Zoram People's Movement,38332,15003,39.10%,2756,18.40%,B. LALTHUAMLIANA,male,47.0,MZ2023AC14
+Aizawl West-I,15,ST,Aizawl,Tbc Lalvenchhunga,Zoram People's Movement,59864,23830,39.80%,4667,19.60%,TBC Lalthangliana,male,41.0,MZ2023AC15
+Aizawl West-Ii,16,ST,Aizawl,Lalnghinglova Hmar,Zoram People's Movement,45800,17604,38.40%,4819,27.40%,H. Lalchhuanliana,male,46.0,MZ2023AC16
+Aizawl West-Iii,17,ST,Aizawl,V. L. Zaithanzama,Zoram People's Movement,47354,18562,39.20%,4582,24.70%,V. L. SIAMA (L),male,65.0,MZ2023AC17
+Aizawl South-I,18,ST,Aizawl,C. Lalsawivunga,Zoram People's Movement,46132,18168,39.40%,3625,20.00%,C. LALSAILOVA (L),male,61.0,MZ2023AC18
+Aizawl South-Ii,19,ST,Aizawl,Lalchhuanthanga,Zoram People's Movement,55866,22078,39.50%,1639,7.40%,D. Buanga,male,66.0,MZ2023AC19
+Aizawl South-Iii,20,ST,Aizawl,Baryl Vanneihsangi,Zoram People's Movement,45262,19600,43.30%,1414,7.20%,Vanrochhuanga,female,32.0,MZ2023AC20
+Lengteng,21,ST,Champhai,F.Rodingliana,Zoram People's Movement,37534,14791,39.40%,47,0.30%,F.KAPSANGA (L),male,59.0,MZ2023AC21
+Tuichang,22,ST,Champhai,W Chhuanawma,Zoram People's Movement,35210,14808,42.10%,909,6.10%,RINAWMA (L),male,63.0,MZ2023AC22
+Champhai North,23,ST,Champhai,H. Ginzalala,Zoram People's Movement,40440,16278,40.30%,710,4.40%,H. CHINZAPAU (L),male,50.0,MZ2023AC23
+Champhai South,24,ST,Champhai,Lt Col. Clement Lalhmingthanga,Zoram People's Movement,43062,17273,40.10%,329,1.90%,Thanzauva (L),male,58.0,MZ2023AC24
+East Tuipui,25,ST,Champhai,Ramthanmawia,Mizo National Front,31820,12859,40.40%,160,1.20%,Sena (L),male,66.0,MZ2023AC25
+Serchhip,26,ST,Serchhip,Lalduhoma,Zoram People's Movement,41688,18074,43.40%,2982,16.50%,VAISANGA (L),male,73.0,MZ2023AC26
+Tuikum,27,ST,Serchhip,P.C. Vanlalruata,Zoram People's Movement,34110,14955,43.80%,2161,14.50%,P.C. RINTHANGA,male,50.0,MZ2023AC27
+Hrangturzo,28,ST,Serchhip,Lalmuanpuia Punte,Zoram People's Movement,33560,13944,41.50%,1255,9.00%,THANZAMA,male,56.0,MZ2023AC28
+South Tuipui,29,ST,Lunglei,Jeje Lalpekhlua,Zoram People's Movement,32696,13759,42.10%,135,1.00%,F. Liankima,male,32.0,MZ2023AC29
+Lunglei North,30,ST,Lunglei,V. Malsawmtluanga,Zoram People's Movement,35734,15289,42.80%,1975,12.90%,V. LALRINMAWIA,male,34.0,MZ2023AC30
+Lunglei East,31,ST,Lunglei,Lalrinpuii,Zoram People's Movement,32654,13536,41.50%,1646,12.20%,SAPTHANGA KHAWLHRING,female,61.0,MZ2023AC31
+Lunglei West,32,ST,Lunglei,T. Lalhlimpuia,Zoram People's Movement,31372,12989,41.40%,1282,9.90%,HRANGVUNGA (L),male,46.0,MZ2023AC32
+Lunglei South,33,ST,Lunglei,Lalramliana Papuia,Zoram People's Movement,38100,15936,41.80%,1226,7.70%,ZAIREMKUNGA (L),male,49.0,MZ2023AC33
+Thorang,34,ST,Lunglei,R. Rohmingliana,Mizo National Front,29910,13138,43.90%,62,0.50%,R. Lalruala,male,51.0,MZ2023AC34
+West Tuipui,35,ST,Lunglei,Prova Chakma,Mizo National Front,33586,14662,43.70%,711,4.80%,RANJIT KUMAR CHAKMA,female,48.0,MZ2023AC35
+Tuichawng,36,ST,Lawngtlai,Rasik Mohan Chakma,Mizo National Front,72382,29696,41.00%,651,2.20%,Sukra Moni Chakma,male,60.0,MZ2023AC36
+Lawngtlai West,37,ST,Lawngtlai,C. Ngunlianchunga,Indian National Congress,59084,24856,42.10%,432,1.70%,C. Thathmunga(L),male,63.0,MZ2023AC37
+Lawngtlai East,38,ST,Lawngtlai,Dr. Lorrain Lalpekliana Chinzah,Zoram People's Movement,51874,20172,38.90%,2101,10.40%,Rev C. Vanlawma,male,42.0,MZ2023AC38
+Saiha,39,ST,Saiha,Dr. K. Beichhua,Bharatiya Janta Party,48394,18763,38.80%,616,3.30%,K. Thacho (L),male,56.0,MZ2023AC39
+Palak,40,ST,Saiha,K. Hrahmo,Bharatiya Janta Party,40870,15994,39.10%,1241,7.80%,KIHLY 'L',male,63.0,MZ2023AC40
