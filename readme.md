@@ -97,10 +97,10 @@ pip install pandas selenium beautifulsoup4 requests openai pydantic python-doten
 ## References
 
 ### API Keys Documentation
-- [OpenAI Documentation](REFERENCES.md#1-openai-documentation)
-- [Azure OpenAI Documentation](REFERENCES.md#2-azure-openai-documentation)
-- [AI Related Articles](REFERENCES.md#3-ai-related-articles)
-- [Research Papers](REFERENCES.md#4-research-papers)
+- [OpenAI Documentation](Docs/REFERENCES.md#1-openai-documentation)
+- [Azure OpenAI Documentation](Docs/REFERENCES.md#2-azure-openai-documentation)
+- [AI Related Articles](Docs/REFERENCES.md#3-ai-related-articles)
+- [Research Papers](Docs/REFERENCES.md#4-research-papers)
 
 ---
 
