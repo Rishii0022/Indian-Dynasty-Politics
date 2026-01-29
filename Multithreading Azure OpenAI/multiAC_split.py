@@ -19,7 +19,7 @@ STATE_NAME = "Nagaland"
 #Change YEAR AND STATE NAME
 ELECTION_NAME = "Nagaland Assembly Elections 2023"
 
-CSV_FILE = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\ac recent\nagaland_2023_ac.csv"
+CSV_FILE = r"/Scrapped data/AC Statewise recent\nagaland_2023_ac.csv"
 OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputAC_jsonl_batch\sync_output_nagaland.jsonl"
 
 # ======================

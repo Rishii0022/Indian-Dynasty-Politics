@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import re
 
-csv_path = r"C:\Users\Rishi\Desktop\final dashboard\ac recent"
+csv_path = r"file_path"
 ac_no_column = "ac no"
 
 state_map = {

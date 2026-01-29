@@ -4,7 +4,7 @@ import pandas as pd
 
 #Change path in 4 places.
 
-csv_path = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\PC split recent\Andaman & Nicobar Islands.csv"
+csv_path = r"/Scrapped data/PC_elections split 2024\Andaman & Nicobar Islands.csv"
 ac_no_column = "ac no"
 
 state_map = {
@@ -49,10 +49,10 @@ state_map = {
 
 state_map = {k.lower(): v for k, v in state_map.items()}
 
-df = pd.read_csv(r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\PC split recent\Andaman & Nicobar Islands.csv")
+df = pd.read_csv(r"/Scrapped data/PC_elections split 2024\Andaman & Nicobar Islands.csv")
 
 # ---- PARSE FILE NAME ----
-filename = os.path.basename(r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\PC split recent\Andaman & Nicobar Islands.csv").lower()
+filename = os.path.basename(r"/Scrapped data/PC_elections split 2024\Andaman & Nicobar Islands.csv").lower()
 
 # state code
 state_key = filename.split("_")[0]

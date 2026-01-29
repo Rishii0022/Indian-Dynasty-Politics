@@ -3,9 +3,9 @@ import os
 import re
 
 # ---- CONFIG ----
-folder_path = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\PC split recent"
+folder_path = r"folder_path"
 pc_no_column = "No"
-YEAR = "2024"
+YEAR = "add year" # replace as required in the UID
 ELECTION_TYPE = "PC"
 
 state_map = {

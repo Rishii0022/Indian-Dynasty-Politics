@@ -9,17 +9,14 @@ from itertools import cycle
 from batch_promptsPC_template import input1, tools1
 from StructuredOutputSyncAC import RelativesnSource
 
-# ======================
-# CONSTANTS
-# ======================
 
+# CONSTANTS
 Missing = "unknown"
 YEAR = "2024"
 
 INPUT_FOLDER = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\PC split recent"
 OUTPUT_FILE = r"C:\Users\Rishi\Desktop\final dashboard\outputPC_jsonl_batch\sync_output_LokSabha2024.jsonl"
 
-# ======================
 
 load_dotenv()
 
@@ -60,10 +57,7 @@ clients = [
 
 client_cycle = cycle(clients)
 
-# ======================
-# HELPERS
-# ======================
-
+# Prompt creation boiler plate
 def clean_state_name(filename):
     return os.path.splitext(filename)[0].strip()
 
@@ -83,10 +77,7 @@ def build_prompt(row, STATE_NAME, ELECTION_NAME):
     return prompt
 
 
-# ======================
 # MAIN LOOP
-# ======================
-
 with open(OUTPUT_FILE, "a", encoding="utf-8") as outfile:
 
     for file in os.listdir(INPUT_FOLDER):
@@ -128,7 +119,7 @@ with open(OUTPUT_FILE, "a", encoding="utf-8") as outfile:
                         ) + "\n"
                     )
 
-                    print(f"✅ {STATE_NAME} | {index} | {row['winning candidate']}")
+                    print(f"{STATE_NAME} | {index} | {row['winning candidate']}")
 
                 except Exception as e:
                     print("ERROR:", repr(e))

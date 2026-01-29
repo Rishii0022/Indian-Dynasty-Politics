@@ -2,11 +2,8 @@ import pandas as pd
 import os
 import re
 
-# --------------------
-# CONFIG
-# --------------------
-
-folder_path = r"C:\Users\Rishi\Desktop\final dashboard\Scrapped data\all PC elections"
+# Add folder path for input data
+folder_path = r"folder_path"
 ELECTION_TYPE = "PC"
 
 # Goa, Daman and Diu held the same Lok Sabha elections as part of a single Union Territory from their liberation in 1961 until May 1987
