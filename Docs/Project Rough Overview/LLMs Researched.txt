@@ -1,0 +1,16 @@
+> Ranked in order of best LLM for reasoning tasks(Dynasty Classification) - 
+
+1) O3-deep-research 
+2) GPT 5.2
+3) Claude opus 4.5
+4) GPT 5.2 chat, oct 2024
+5) Kimi k2 thinking 
+6) Llama-4-Maverick-17B-128E-Instruct-FP8 (version:1)
+7) GPT 4o
+8) GPT 4.1, may 2024
+
+
+> Model used for Project 
+
+Model Name - GPT 4.1 
+Knowledge cutoff - May 2024 

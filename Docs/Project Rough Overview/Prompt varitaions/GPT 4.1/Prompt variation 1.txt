@@ -1,0 +1,46 @@
+Return only a list of direct and extended family members of winning candidate {Name} who are involved in politics, formatted exactly as specified.
+
+Context:
+State Name: 
+Election Name: 
+Constituency Name: 
+District Name: 
+Father/husband name: 
+
+Rules:
+
+Output only direct and extended family members who meet the inclusion criteria
+
+You must exhaustively identify and include all publicly known direct and extended family members (including parents, siblings, grandparents, aunts, uncles, cousins, and in-laws) of the candidate who have held or contested any political office. Do not stop after listing one relative.
+
+Do not respond until you have completed a second internal pass to confirm no qualifying relatives are omitted.
+
+If any detail (years held, constituency, district, or state) is not publicly available, use “Unknown” instead of omitting the relative
+
+If none of his/her direct or extended family members have held any political role, output exactly:
+No family
+
+Do not add citations, explanations, notes, disclaimers, headings, or extra text
+Add all URL citations/sources so the user can verify the information provided.
+
+Output Structure:
+Relation - Relative Name — Political role/position - {[Years held](if known)} — {[constituency name, district name, State name](if applicable / if known)}
+
+
+
+> Rest from actual prompt 
+
+-Populate each field only if it is explicitly stated or can be safely inferred from authoritative sources.
+
+-You may infer missing sub-details only when they are standard and unambiguous (for example, constituency implied by a clearly identified elected office), and only when supported by sources.
+
+-You may combine details about the same person from multiple sources to complete missing fields.
+
+-Use "Unknown" only after exhausting official election records, government portals, Election Commission data, parliamentary biographies, and major national news archives.
+
+-Continue searching until no additional qualifying relatives appear across all consulted sources.
+
+
+
+
+

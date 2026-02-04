@@ -1,0 +1,378 @@
+JSON prompt
+URL citations and RelativeNames(w/o pydantic) unknown og prompt
+
+C:\Users\Rishi\AppData\Local\Programs\Python\Python314\python.exe "C:\Users\Rishi\Desktop\final dashboard\api key\LLMprompt.py" 
+{
+  "candidate_key": "Chittem Parnika Reddy_Narayanpet_Mahbubnagar_Telangana Assembly Elections 2023",
+  "family": [
+    {
+      "Relation": "Father",
+      "Name": "Chittem Venkateshwar Reddy",
+      "PoliticalRole": "Contested MLA, Makthal constituency, Andhra Pradesh Legislative Assembly",
+      "YearsHeld": "Unknown",
+      "ConstituencyName": "Makthal",
+      "DistrictName": "Mahbubnagar",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Grandfather",
+      "Name": "Chittem Narsi Reddy",
+      "PoliticalRole": "MLA, Makthal constituency, Andhra Pradesh Legislative Assembly",
+      "YearsHeld": "Unknown",
+      "ConstituencyName": "Makthal",
+      "DistrictName": "Mahbubnagar",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Aunt",
+      "Name": "DK Aruna",
+      "PoliticalRole": "Member of Parliament, Mahabubnagar; Former Minister, Andhra Pradesh",
+      "YearsHeld": "MP (2019-present); Minister (2004-2014)",
+      "ConstituencyName": "Mahabubnagar",
+      "DistrictName": "Mahabubnagar",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Uncle",
+      "Name": "C. Ram Mohan Reddy",
+      "PoliticalRole": "Contested MLA, Makthal constituency (BRS candidate)",
+      "YearsHeld": "Contested 2023",
+      "ConstituencyName": "Makthal",
+      "DistrictName": "Mahbubnagar",
+      "StateName": "Telangana"
+    }
+  ]
+}
+
+Sources:
+- [Chittem Parnika Reddy - Wikipedia](https://en.wikipedia.org/wiki/Chittem_Parnika_Reddy)
+- [Bloodline and ballot: When family ties cut through party lines in Telangana - The Hindu](https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece)
+- [Get to Know Your MLA: A Beacon of Hope and Progress - Telangana Tribune](https://www.telanganatribune.com/get-to-know-your-mla-a-beacon-of-hope-and-progress/)
+- [Know Your MLA: A beacon of hope and progress - The Hans India](https://www.thehansindia.com/telangana/know-your-mla-a-beacon-of-hope-and-progress-893852)
+- [KCR: Telangana polls: All in the family - ap7am.com](https://www.ap7am.com/en/69961/telangana-polls-all-in-the-family)
+{
+  "id": "resp_0356ce5946bba7bf006960be5eb6cc819794a1aa4dba67aa62",
+  "created_at": 1767947870.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "gpt-4.1",
+  "object": "response",
+  "output": [
+    {
+      "id": "ws_0356ce5946bba7bf006960be5f50408197a6857f6d9285d71e",
+      "action": {
+        "query": "Chittem Parnika Reddy family members in politics",
+        "type": "search",
+        "sources": null
+      },
+      "status": "searching",
+      "type": "web_search_call"
+    },
+    {
+      "id": "msg_0356ce5946bba7bf006960be6095c8819784a8b73722b1c445",
+      "content": [
+        {
+          "annotations": [
+            {
+              "end_index": 1476,
+              "start_index": 1388,
+              "title": "Chittem Parnika Reddy - Wikipedia",
+              "type": "url_citation",
+              "url": "https://en.wikipedia.org/wiki/Chittem_Parnika_Reddy"
+            },
+            {
+              "end_index": 1705,
+              "start_index": 1479,
+              "title": "Bloodline and ballot: when family ties cut through party lines in ...",
+              "type": "url_citation",
+              "url": "https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece"
+            },
+            {
+              "end_index": 1867,
+              "start_index": 1708,
+              "title": "Get to Know Your MLA: A Beacon of Hope and Progress",
+              "type": "url_citation",
+              "url": "https://www.telanganatribune.com/get-to-know-your-mla-a-beacon-of-hope-and-progress/"
+            },
+            {
+              "end_index": 2146,
+              "start_index": 2027,
+              "title": "KCR: Telangana polls: All in the family - ap7am.com",
+              "type": "url_citation",
+              "url": "https://www.ap7am.com/en/69961/telangana-polls-all-in-the-family"
+            },
+            {
+              "end_index": 2024,
+              "start_index": 1870,
+              "title": "Know Your MLA: A beacon of hope and progress - The Hans India",
+              "type": "url_citation",
+              "url": "https://www.thehansindia.com/telangana/know-your-mla-a-beacon-of-hope-and-progress-893852"
+            }
+          ],
+          "text": "{\n  \"candidate_key\": \"Chittem Parnika Reddy_Narayanpet_Mahbubnagar_Telangana Assembly Elections 2023\",\n  \"family\": [\n    {\n      \"Relation\": \"Father\",\n      \"Name\": \"Chittem Venkateshwar Reddy\",\n      \"PoliticalRole\": \"Contested MLA, Makthal constituency, Andhra Pradesh Legislative Assembly\",\n      \"YearsHeld\": \"Unknown\",\n      \"ConstituencyName\": \"Makthal\",\n      \"DistrictName\": \"Mahbubnagar\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Grandfather\",\n      \"Name\": \"Chittem Narsi Reddy\",\n      \"PoliticalRole\": \"MLA, Makthal constituency, Andhra Pradesh Legislative Assembly\",\n      \"YearsHeld\": \"Unknown\",\n      \"ConstituencyName\": \"Makthal\",\n      \"DistrictName\": \"Mahbubnagar\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Aunt\",\n      \"Name\": \"DK Aruna\",\n      \"PoliticalRole\": \"Member of Parliament, Mahabubnagar; Former Minister, Andhra Pradesh\",\n      \"YearsHeld\": \"MP (2019-present); Minister (2004-2014)\",\n      \"ConstituencyName\": \"Mahabubnagar\",\n      \"DistrictName\": \"Mahabubnagar\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Uncle\",\n      \"Name\": \"C. Ram Mohan Reddy\",\n      \"PoliticalRole\": \"Contested MLA, Makthal constituency (BRS candidate)\",\n      \"YearsHeld\": \"Contested 2023\",\n      \"ConstituencyName\": \"Makthal\",\n      \"DistrictName\": \"Mahbubnagar\",\n      \"StateName\": \"Telangana\"\n    }\n  ]\n}\n\nSources:\n- [Chittem Parnika Reddy - Wikipedia](https://en.wikipedia.org/wiki/Chittem_Parnika_Reddy)\n- [Bloodline and ballot: When family ties cut through party lines in Telangana - The Hindu](https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece)\n- [Get to Know Your MLA: A Beacon of Hope and Progress - Telangana Tribune](https://www.telanganatribune.com/get-to-know-your-mla-a-beacon-of-hope-and-progress/)\n- [Know Your MLA: A beacon of hope and progress - The Hans India](https://www.thehansindia.com/telangana/know-your-mla-a-beacon-of-hope-and-progress-893852)\n- [KCR: Telangana polls: All in the family - ap7am.com](https://www.ap7am.com/en/69961/telangana-polls-all-in-the-family)",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 0.55,
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search_preview",
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": null,
+        "country": "IN",
+        "region": null,
+        "timezone": null
+      }
+    }
+  ],
+  "top_p": 1.0,
+  "background": false,
+  "conversation": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "generate_summary": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 7218,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 639,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 7857
+  },
+  "user": null,
+  "content_filters": null,
+  "store": true
+}
+
+Process finished with exit code 0
+
+
+NLP prompt output
+
+Chittem Narsi Reddy is Chittem Parnika Reddy’s grandfather. He was elected as MLA from Makthal constituency and served in the united Andhra Pradesh Assembly until 2005, when he was killed in a Naxalite attack.  
+Source: [The Hindu](https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece), [Wikipedia](https://en.wikipedia.org/wiki/Chittem_Parnika_Reddy), [The Hans India](https://www.thehansindia.com/telangana/know-your-mla-a-beacon-of-hope-and-progress-893852)
+
+Chittem Venkateshwar Reddy is Chittem Parnika Reddy’s father. He also held political office and was killed in the same Naxalite attack as his father, Chittem Narsi Reddy.  
+Source: [The Hindu](https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece), [Wikipedia](https://en.wikipedia.org/wiki/Chittem_Parnika_Reddy), [The Hans India](https://www.thehansindia.com/telangana/know-your-mla-a-beacon-of-hope-and-progress-893852)
+
+D.K. Aruna is Chittem Parnika Reddy’s paternal aunt. She is a Member of Parliament (MP) from Mahabubnagar, elected on a BJP ticket.  
+Source: [The Hindu](https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece), [The Hans India](https://www.thehansindia.com/telangana/know-your-mla-a-beacon-of-hope-and-progress-893852), [Telangana Tribune](https://www.telanganatribune.com/get-to-know-your-mla-a-beacon-of-hope-and-progress/)
+
+C. Ram Mohan Reddy is Chittem Parnika Reddy’s paternal uncle. He contested the 2023 Telangana Assembly elections from the Makthal constituency on a BRS ticket but was not elected.  
+Source: [The Hindu](https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece), [The Hans India](https://www.thehansindia.com/telangana/know-your-mla-a-beacon-of-hope-and-progress-893852), [AP7AM](https://www.ap7am.com/en/69961/telangana-polls-all-in-the-family)
+
+No other publicly documented direct or extended family members of Chittem Parnika Reddy are reported to have held or contested any political office.
+
+Process finished with exit code 0
+
+
+Final prompt output without Pydantic 
+
+{
+  "candidate_key": "Chittem Parnika Reddy_Narayanpet_Mahbubnagar_Telangana Assembly Elections 2023",
+  "family": [
+    {
+      "Relation": "Father",
+      "Name": "Chittem Venkateshwar Reddy",
+      "PoliticalRole": "Former MLA, Makthal (united Andhra Pradesh Assembly)",
+      "YearsHeld": "Unknown (until 2005, deceased)",
+      "ConstituencyName": "Makthal",
+      "DistrictName": "Mahbubnagar",
+      "StateName": "Andhra Pradesh (now Telangana)"
+    },
+    {
+      "Relation": "Grandfather",
+      "Name": "Chittem Narsi Reddy",
+      "PoliticalRole": "Former MLA, Makthal (united Andhra Pradesh Assembly)",
+      "YearsHeld": "Multiple terms, until 2005 (deceased)",
+      "ConstituencyName": "Makthal",
+      "DistrictName": "Mahbubnagar",
+      "StateName": "Andhra Pradesh (now Telangana)"
+    },
+    {
+      "Relation": "Aunt",
+      "Name": "D.K. Aruna",
+      "PoliticalRole": "Sitting Member of Parliament (BJP), Former MLA, Former Minister",
+      "YearsHeld": "MP (2019–present), MLA/Minister (various terms)",
+      "ConstituencyName": "Mahbubnagar (Lok Sabha), Gadwal (Assembly)",
+      "DistrictName": "Mahbubnagar",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Uncle",
+      "Name": "C. Ram Mohan Reddy",
+      "PoliticalRole": "Contested MLA (BRS), Makthal constituency",
+      "YearsHeld": "2023 (contested, lost)",
+      "ConstituencyName": "Makthal",
+      "DistrictName": "Mahbubnagar",
+      "StateName": "Telangana"
+    }
+  ]
+}
+Sources:
+- [Chittem Parnika Reddy - Wikipedia](https://en.wikipedia.org/wiki/Chittem_Parnika_Reddy)
+- [Bloodline and ballot: when family ties cut through party lines in Telangana - The Hindu](https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece)
+- [Get to Know Your MLA: A Beacon of Hope and Progress - Telangana Tribune](https://www.telanganatribune.com/get-to-know-your-mla-a-beacon-of-hope-and-progress/)
+- [Know Your MLA: A beacon of hope and progress - The Hans India](https://www.thehansindia.com/telangana/know-your-mla-a-beacon-of-hope-and-progress-893852)
+- [Telangana polls: All in the family - The Siasat Daily](https://www.siasat.com/telangana-polls-all-in-the-family-2879595/)
+{
+  "id": "resp_0e79c47d88d5247e006961ed8f65888196ad643f48bf936c00",
+  "created_at": 1768025487.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "gpt-4.1",
+  "object": "response",
+  "output": [
+    {
+      "id": "ws_0e79c47d88d5247e006961ed8fec7c8196b435b32e5a9c06e9",
+      "action": {
+        "query": "Chittem Parnika Reddy family members involved in politics",
+        "type": "search",
+        "sources": null
+      },
+      "status": "searching",
+      "type": "web_search_call"
+    },
+    {
+      "id": "msg_0e79c47d88d5247e006961ed91153c8196ae5ce13c57030457",
+      "content": [
+        {
+          "annotations": [
+            {
+              "end_index": 1573,
+              "start_index": 1485,
+              "title": "Chittem Parnika Reddy - Wikipedia",
+              "type": "url_citation",
+              "url": "https://en.wikipedia.org/wiki/Chittem_Parnika_Reddy"
+            },
+            {
+              "end_index": 1802,
+              "start_index": 1576,
+              "title": "Bloodline and ballot: when family ties cut through party lines in ...",
+              "type": "url_citation",
+              "url": "https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece"
+            },
+            {
+              "end_index": 1964,
+              "start_index": 1805,
+              "title": "Get to Know Your MLA: A Beacon of Hope and Progress",
+              "type": "url_citation",
+              "url": "https://www.telanganatribune.com/get-to-know-your-mla-a-beacon-of-hope-and-progress/"
+            },
+            {
+              "end_index": 2246,
+              "start_index": 2124,
+              "title": "Telangana polls: All in the family - The Siasat Daily",
+              "type": "url_citation",
+              "url": "https://www.siasat.com/telangana-polls-all-in-the-family-2879595/"
+            },
+            {
+              "end_index": 2121,
+              "start_index": 1967,
+              "title": "Know Your MLA: A beacon of hope and progress - The Hans India",
+              "type": "url_citation",
+              "url": "https://www.thehansindia.com/telangana/know-your-mla-a-beacon-of-hope-and-progress-893852"
+            }
+          ],
+          "text": "{\n  \"candidate_key\": \"Chittem Parnika Reddy_Narayanpet_Mahbubnagar_Telangana Assembly Elections 2023\",\n  \"family\": [\n    {\n      \"Relation\": \"Father\",\n      \"Name\": \"Chittem Venkateshwar Reddy\",\n      \"PoliticalRole\": \"Former MLA, Makthal (united Andhra Pradesh Assembly)\",\n      \"YearsHeld\": \"Unknown (until 2005, deceased)\",\n      \"ConstituencyName\": \"Makthal\",\n      \"DistrictName\": \"Mahbubnagar\",\n      \"StateName\": \"Andhra Pradesh (now Telangana)\"\n    },\n    {\n      \"Relation\": \"Grandfather\",\n      \"Name\": \"Chittem Narsi Reddy\",\n      \"PoliticalRole\": \"Former MLA, Makthal (united Andhra Pradesh Assembly)\",\n      \"YearsHeld\": \"Multiple terms, until 2005 (deceased)\",\n      \"ConstituencyName\": \"Makthal\",\n      \"DistrictName\": \"Mahbubnagar\",\n      \"StateName\": \"Andhra Pradesh (now Telangana)\"\n    },\n    {\n      \"Relation\": \"Aunt\",\n      \"Name\": \"D.K. Aruna\",\n      \"PoliticalRole\": \"Sitting Member of Parliament (BJP), Former MLA, Former Minister\",\n      \"YearsHeld\": \"MP (2019\u2013present), MLA/Minister (various terms)\",\n      \"ConstituencyName\": \"Mahbubnagar (Lok Sabha), Gadwal (Assembly)\",\n      \"DistrictName\": \"Mahbubnagar\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Uncle\",\n      \"Name\": \"C. Ram Mohan Reddy\",\n      \"PoliticalRole\": \"Contested MLA (BRS), Makthal constituency\",\n      \"YearsHeld\": \"2023 (contested, lost)\",\n      \"ConstituencyName\": \"Makthal\",\n      \"DistrictName\": \"Mahbubnagar\",\n      \"StateName\": \"Telangana\"\n    }\n  ]\n}\nSources:\n- [Chittem Parnika Reddy - Wikipedia](https://en.wikipedia.org/wiki/Chittem_Parnika_Reddy)\n- [Bloodline and ballot: when family ties cut through party lines in Telangana - The Hindu](https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece)\n- [Get to Know Your MLA: A Beacon of Hope and Progress - Telangana Tribune](https://www.telanganatribune.com/get-to-know-your-mla-a-beacon-of-hope-and-progress/)\n- [Know Your MLA: A beacon of hope and progress - The Hans India](https://www.thehansindia.com/telangana/know-your-mla-a-beacon-of-hope-and-progress-893852)\n- [Telangana polls: All in the family - The Siasat Daily](https://www.siasat.com/telangana-polls-all-in-the-family-2879595/)",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 0.55,
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search_preview",
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": null,
+        "country": "IN",
+        "region": null,
+        "timezone": null
+      }
+    }
+  ],
+  "top_p": 1.0,
+  "background": false,
+  "conversation": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "generate_summary": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 8285,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 673,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 8958
+  },
+  "user": null,
+  "content_filters": null,
+  "store": true
+}

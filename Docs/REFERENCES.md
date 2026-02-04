@@ -48,3 +48,9 @@
 ### 4. Research Papers
 
 - [Research Paper - arXiv:2408.02442v1](https://arxiv.org/pdf/2408.02442v1) - Academic research paper on AI and structured outputs
+- [Like Father, Like Son? The Effect of Political Dynasties on Economic Development](https://economics.yale.edu/sites/default/files/siddharth_george_jmp_15nov2018.pdf) - Study on Dynasty Politics
+
+### 5. Web Scraping sources
+
+- [AC/PC Elections Data](https://www.indiavotes.com/) - All AC/PC elected Indian representatives
+- [Extended Candidate details](https://affidavit.eci.gov.in) - Scrapped columns for recent election cycles contains father/husband name, age, gender 

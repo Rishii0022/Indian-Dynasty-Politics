@@ -1,0 +1,98 @@
+> Without setting system prompt 
+
+PROMPT =
+Return only a list of direct and extended family members of winning candidate Chittem Parnika Reddy who are involved in politics, formatted exactly as specified.
+
+Context:
+State Name: Telangana
+Election Name: Telangana Assembly Elections 2023
+Constituency Name: Narayanpet
+District Name: Mahbubnagar
+Father/husband name: VENKATESHWAR REDDY CHITTEM
+
+Rules:
+
+Output only direct and extended family members who meet the inclusion criteria
+
+You must exhaustively identify and include all publicly known direct and extended family members (including parents, siblings, grandparents, aunts, uncles, cousins, and in-laws) of the candidate who have held or contested any political office. Do not stop after listing one relative.
+
+Before responding, internally verify that no other qualifying relatives are omitted.
+
+use a web search before returning results
+
+If any detail (years held, constituency, district, or state) is not publicly available, use “Unknown” instead of omitting the relative
+
+If none of the candidates direct or extended family members have held any political role, output exactly:
+No family
+
+Do not add citations, explanations, notes, disclaimers, headings, or extra text
+
+Output Structure:
+Relation - Relative Name — Political role/position - {[Years held](if known)} — {[constituency name, district name, State name](if applicable / if known)}
+
+
+> Testing different temperatures 
+
+temp = 0
+Grandfather - Chittem Narsi Reddy — MLA — {Unknown–2005} — {Makthal, Mahbubnagar, Andhra Pradesh (now Telangana)}
+Father - Venkateshwar Reddy Chittem — MLA — {Unknown–2005} — {Unknown, Mahbubnagar, Andhra Pradesh (now Telangana)}
+Aunt - D.K. Aruna — Member of Parliament (Lok Sabha), Former Minister, MLA — {Unknown} — {Mahbubnagar, Telangana}
+Uncle - C. Ram Mohan Reddy — Contested MLA — {2023} — {Makthal, Mahbubnagar, Telangana}
+
+temp = 0.3
+Grandfather - Chittem Narsi Reddy — MLA, Makthal constituency — {Unknown–2005} — {Makthal, Mahbubnagar, Andhra Pradesh (now Telangana)}
+Father - Chittem Venkateshwar Reddy — MLA, Makthal constituency — {Unknown–2005} — {Makthal, Mahbubnagar, Andhra Pradesh (now Telangana)}
+Aunt - D.K. Aruna — Member of Parliament (Lok Sabha), Mahbubnagar — {2019–present} — {Mahbubnagar, Telangana}
+Uncle - C. Ram Mohan Reddy — Contested MLA, Makthal constituency — {Unknown} — {Makthal, Mahbubnagar, Telangana}
+
+
+temp = 0.5
+Grandfather - Chittem Narsi Reddy — MLA, Makthal constituency — {Unknown years held} — {Makthal, Mahbubnagar, Telangana}
+Father - Chittem Venkateshwar Reddy — MLA, Makthal constituency — {Unknown years held} — {Makthal, Mahbubnagar, Telangana}
+Aunt - D.K. Aruna — Member of Parliament (Lok Sabha), Mahabubnagar — {2019–present} — {Mahabubnagar, Telangana}
+Uncle - C. Ram Mohan Reddy — Contested for MLA, Makthal constituency — {Unknown} — {Makthal, Mahbubnagar, Telangana}
+
+temp = 0.7 
+Grandfather - Chittem Narsi Reddy — MLA - {Unknown–2005} — {Makthal, Mahbubnagar, Telangana}
+Father - Chittem Venkateshwar Reddy — MLA - {Unknown–2005} — {Makthal, Mahbubnagar, Telangana}
+Aunt - D.K. Aruna — Member of Parliament (Lok Sabha) - {2019–Present} — {Mahabubnagar, Telangana}
+Uncle - C. Ram Mohan Reddy — Contested MLA - {Unknown} — {Makthal, Mahbubnagar, Telangana}
+
+temp = 1.0
+Grandfather - Chittem Narsi Reddy — MLA - {Unknown–2005} — {Makthal, Mahbubnagar, Andhra Pradesh/Telangana}
+Father - Chittem Venkateshwar Reddy — Political role/position - {Unknown} — {Unknown}
+Aunt - D.K. Aruna — Member of Parliament (Lok Sabha) - {2019–present} — {Mahbubnagar, Mahbubnagar, Telangana}
+Uncle - C. Ram Mohan Reddy — Contested for MLA - {2023} — {Makthal, Mahbubnagar, Telangana}
+
+> Testing different temperatures with locations 
+
+temp = 0, location = approximate, IN
+Grandfather - Chittem Narsi Reddy — MLA, Makthal — {Unknown–2005} — {Makthal, Mahbubnagar, Andhra Pradesh (now Telangana)}
+Father - Chittem Venkateshwar Reddy — MLA, Makthal — {Unknown–2005} — {Makthal, Mahbubnagar, Andhra Pradesh (now Telangana)}
+Aunt - D.K. Aruna — Member of Parliament (Lok Sabha), Mahabubnagar — {2019–present} — {Mahabubnagar, Telangana}
+Uncle - C. Ram Mohan Reddy — Contested MLA, Makthal — {2023} — {Makthal, Mahbubnagar, Telangana}
+
+temp = 0.5, location = approximate, IN
+Grandfather - Chittem Narsi Reddy — MLA, Makthal — {Unknown–2005} — {Makthal, Mahbubnagar, Andhra Pradesh (now Telangana)}
+Aunt - D.K. Aruna — Member of Parliament (Lok Sabha), Mahbubnagar — {2019–present} — {Mahbubnagar, Telangana}
+Uncle - C. Ram Mohan Reddy — Contested MLA, Makthal — {2023} — {Makthal, Narayanpet, Telangana}
+
+temp = 0.55, location = approximate, IN - Winner 
+Grandfather - Chittem Narsi Reddy — MLA, Makthal constituency - {Unknown-2005} — {Makthal, Mahbubnagar, Telangana}
+Father - Chittem Venkateshwar Reddy — Unknown political role (killed in the same attack as grandfather, reported as political figure) - {Unknown} — {Unknown, Mahbubnagar, Telangana}
+Aunt - D.K. Aruna — Member of Parliament (Lok Sabha), Mahabubnagar - {2019-present} — {Mahabubnagar, Telangana}
+Uncle - C. Ram Mohan Reddy — Contested MLA, Makthal constituency - {2023} — {Makthal, Mahbubnagar, Telangana}
+
+
+temp = 0.7, location = approximate, IN
+Grandfather - Chittem Narsi Reddy — MLA, Makthal constituency - {Unknown-2005} — {Makthal, Mahbubnagar, Telangana}
+Father - Chittem Venkateshwar Reddy — Unknown political role/position - {Unknown} — {Unknown}
+Aunt - D.K. Aruna — Member of Parliament (Lok Sabha), Mahabubnagar - {2019-present} — {Mahabubnagar, Telangana}
+Uncle - C. Ram Mohan Reddy — Contested for MLA, Makthal constituency - {2023} — {Makthal, Mahbubnagar, Telangana}
+
+temp = 1.0, location = approximate, IN
+Grandfather - Chittem Narsi Reddy — MLA - {Unknown–2005} — {Makthal, Mahbubnagar, Telangana}
+Father - Chittem Venkateshwar Reddy — Unknown political role/position - {Unknown} — {Unknown}
+Aunt - D.K. Aruna — Member of Parliament - {2019–present} — {Mahabubnagar, Telangana}
+Uncle - C. Ram Mohan Reddy — Candidate (BRS) - {2023} — {Makthal, Mahbubnagar, Telangana}
+

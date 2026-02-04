@@ -1,0 +1,980 @@
+> Prompt 4
+
+ input =[
+        {
+            "role": "system",
+            "content": """
+            You are an AI assistant that helps people find information on political candidates elected in India based on a set of rules.
+            Rules:
+Output only direct and extended family members who meet the inclusion criteria from the user prompt 
+You must exhaustively identify and include all publicly known direct and extended family members (including parents, siblings, spouse, grandparents, aunts, uncles, cousins, and in-laws) of the candidate who have held or contested any political office at any level. Do not stop after listing one relative.
+Before responding, internally verify that no other qualifying relatives are omitted by cross-checking multiple independent credible sources.
+Use a web search before returning results 
+Add all URL citations/sources so the user can verify the information provided.
+
+The JSON MUST follow this schema exactly:
+{
+  "candidate_key": <candidate name>_<constituency>_<district>_<election name>,
+  "family": [
+    {
+      "Relation": "string",
+      "Name": "string",
+      "PoliticalRole": "string",
+      "YearsHeld": "string"
+      "ConstituencyName": "string",
+      "DistrictName": "string",
+      "StateName": "string"
+    }
+  ],
+  "source": [
+    {
+      "url": "string"
+    }
+}
+Rules:
+- Use EXACT key names and capitalization as shown.
+- Do NOT add extra keys.
+- Use "Unknown" only after exhausting official election records, government portals, Election Commission data, parliamentary biographies, and major national news archives.
+- If no family members qualify, return:
+{
+  "candidate_key": "<candidate name>_<constituency>_<district>_<election name>",
+  "family": []
+}
+The response MUST start with '{' and end with '}'.
+Think carefully step by step about what documents are needed to answer the query.
+            """,
+        },
+        {
+            "role": "user",
+            "content":
+                """
+            Return only a list of direct and extended family members of elected political candidate Kalvakuntla Chandrashekar Rao who are involved in politics, The details of Kalvakuntla Chandrashekar Rao are added below as context.
+
+Context:
+State Name: Telangana 
+Election Name: Telangana Assembly Elections 2023 
+Constituency Name: Gajwel 
+District Name: Medak
+Father/husband name: LATE KALVAKUNTLA RAGHAVA RAO
+
+"""
+        }
+    ],
+
+    # tools=[
+    #     {
+    #         "type": "web_search_preview",
+    #         "user_location": {
+    #             "type": "approximate",
+    #             "country": "IN"
+    #         }
+    #     }
+    # ],
+    # include=["web_search_call.action.sources"],
+    temperature=0.55,
+    top_p=1.0,
+)
+
+
+> JSON dumps (Output)
+
+1. Web search with JSON format in prompt 
+
+{
+  "candidate_key": "Kalvakuntla Chandrashekar Rao_Gajwel_Medak_Telangana Assembly Elections 2023",
+  "family": [
+    {
+      "Relation": "Son",
+      "Name": "Kalvakuntla Taraka Rama Rao (K. T. Rama Rao)",
+      "PoliticalRole": "Minister for IT, Municipal Administration & Urban Development; Member of Telangana Legislative Assembly",
+      "YearsHeld": "2014–present",
+      "ConstituencyName": "Sircilla",
+      "DistrictName": "Rajanna‑Sircilla",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Daughter",
+      "Name": "Kalvakuntla Kavitha",
+      "PoliticalRole": "Member of Parliament (Lok Sabha) from Nizamabad (2014–2019); Member of Telangana Legislative Council (MLC)",
+      "YearsHeld": "2014–2019 (MP); 2020–2026 (MLC)",
+      "ConstituencyName": "Nizamabad",
+      "DistrictName": "Nizamabad",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Nephew",
+      "Name": "T. Harish Rao",
+      "PoliticalRole": "Member of Legislative Assembly (MLA); Cabinet Minister (Finance, Irrigation, Health)",
+      "YearsHeld": "Dates vary; active in second assembly onward",
+      "ConstituencyName": "Siddipet",
+      "DistrictName": "Siddipet",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Nephew",
+      "Name": "Joginapally Santosh Kumar",
+      "PoliticalRole": "Member of Parliament, Rajya Sabha",
+      "YearsHeld": "Current (elected to Rajya Sabha, date unspecified)",
+      "ConstituencyName": "Rajya Sabha (represents Telangana)",
+      "DistrictName": "Telangana (statewide seat)",
+      "StateName": "Telangana"
+    }
+  ],
+  "source": [
+    {
+      "url": "turn0search0"
+    },
+    {
+      "url": "turn0search12"
+    },
+    {
+      "url": "turn0search13"
+    },
+    {
+      "url": "turn0search14"
+    },
+    {
+      "url": "turn0search18"
+    },
+    {
+      "url": "turn0search16"
+    }
+  ]
+}
+{
+  "id": "resp_013ac0c7f85b400e00696d96aee20481968ef0659cfc8c49fc",
+  "created_at": 1768789679.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "gpt-4.1-2025-04-14",
+  "object": "response",
+  "output": [
+    {
+      "id": "ws_013ac0c7f85b400e00696d96b0a5548196a3108daefe6d84fd",
+      "action": {
+        "query": "Kalvakuntla Chandrashekar Rao family members in politics",
+        "type": "search",
+        "queries": [
+          "Kalvakuntla Chandrashekar Rao family members in politics"
+        ],
+        "sources": null
+      },
+      "status": "completed",
+      "type": "web_search_call"
+    },
+    {
+      "id": "msg_013ac0c7f85b400e00696d96b2809881968960e7ab54138af6",
+      "content": [
+        {
+          "annotations": [],
+          "text": "{\n  \"candidate_key\": \"Kalvakuntla Chandrashekar Rao_Gajwel_Medak_Telangana Assembly Elections 2023\",\n  \"family\": [\n    {\n      \"Relation\": \"Son\",\n      \"Name\": \"Kalvakuntla Taraka Rama Rao (K. T. Rama Rao)\",\n      \"PoliticalRole\": \"Minister for IT, Municipal Administration & Urban Development; Member of Telangana Legislative Assembly\",\n      \"YearsHeld\": \"2014\u2013present\",\n      \"ConstituencyName\": \"Sircilla\",\n      \"DistrictName\": \"Rajanna\u2011Sircilla\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Daughter\",\n      \"Name\": \"Kalvakuntla Kavitha\",\n      \"PoliticalRole\": \"Member of Parliament (Lok Sabha) from Nizamabad (2014\u20132019); Member of Telangana Legislative Council (MLC)\",\n      \"YearsHeld\": \"2014\u20132019 (MP); 2020\u20132026 (MLC)\",\n      \"ConstituencyName\": \"Nizamabad\",\n      \"DistrictName\": \"Nizamabad\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Nephew\",\n      \"Name\": \"T. Harish Rao\",\n      \"PoliticalRole\": \"Member of Legislative Assembly (MLA); Cabinet Minister (Finance, Irrigation, Health)\",\n      \"YearsHeld\": \"Dates vary; active in second assembly onward\",\n      \"ConstituencyName\": \"Siddipet\",\n      \"DistrictName\": \"Siddipet\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Nephew\",\n      \"Name\": \"Joginapally Santosh Kumar\",\n      \"PoliticalRole\": \"Member of Parliament, Rajya Sabha\",\n      \"YearsHeld\": \"Current (elected to Rajya Sabha, date unspecified)\",\n      \"ConstituencyName\": \"Rajya Sabha (represents Telangana)\",\n      \"DistrictName\": \"Telangana (statewide seat)\",\n      \"StateName\": \"Telangana\"\n    }\n  ],\n  \"source\": [\n    {\n      \"url\": \"turn0search0\"\n    },\n    {\n      \"url\": \"turn0search12\"\n    },\n    {\n      \"url\": \"turn0search13\"\n    },\n    {\n      \"url\": \"turn0search14\"\n    },\n    {\n      \"url\": \"turn0search18\"\n    },\n    {\n      \"url\": \"turn0search16\"\n    }\n  ]\n}",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 0.55,
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search",
+      "filters": null,
+      "search_context_size": "medium",
+      "user_location": {
+        "city": null,
+        "country": "IN",
+        "region": null,
+        "timezone": null,
+        "type": "approximate"
+      }
+    }
+  ],
+  "top_p": 1.0,
+  "background": false,
+  "completed_at": 1768789685.0,
+  "conversation": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "generate_summary": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 17463,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 573,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 18036
+  },
+  "user": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": true
+}
+
+Process finished with exit code 0
+
+
+2.web search with JSON format in prompt and include web search sources 
+
+{
+  "candidate_key": "Kalvakuntla Chandrashekar Rao_Gajwel_Medak_Telangana Assembly Elections 2023",
+  "family": [
+    {
+      "Relation": "Son",
+      "Name": "Kalvakuntla Taraka Rama Rao",
+      "PoliticalRole": "Member of Legislative Assembly; Cabinet Minister for Panchayat Raj, Municipal Administration & Urban Development, Industries, IT & Communications; Working President of BRS",
+      "YearsHeld": "MLA since 2009 (Telangana since 2014); Minister in various portfolios since formation of Telangana; Working President of BRS (date unspecified)",
+      "ConstituencyName": "Sircilla",
+      "DistrictName": "Rajanna Sircilla (formerly Karimnagar)",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Daughter",
+      "Name": "Kalvakuntla Kavitha",
+      "PoliticalRole": "Member of Parliament, Lok Sabha (2014–2019); Member of Telangana Legislative Council (since 2020)",
+      "YearsHeld": "MP: 2014–2019; MLC: 2020–present (term until 2026)",
+      "ConstituencyName": "Nizamabad (Lok Sabha); Nizamabad Local Authorities (MLC)",
+      "DistrictName": "Nizamabad",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Nephew",
+      "Name": "T. Harish Rao",
+      "PoliticalRole": "Member of Legislative Assembly; Cabinet Minister for Finance (and other portfolios)",
+      "YearsHeld": "MLA (dates unspecified, serving in second assembly and beyond); Finance Minister in second Telangana assembly",
+      "ConstituencyName": "Siddipet",
+      "DistrictName": "Siddipet",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Cousin",
+      "Name": "Joginapally Santosh Kumar",
+      "PoliticalRole": "Member of Rajya Sabha (or candidate running for Rajya Sabha); Executive roles in BRS and media",
+      "YearsHeld": "Date unspecified; running for Rajya Sabha as of recent",
+      "ConstituencyName": "Rajya Sabha (state-wide)",
+      "DistrictName": "Telangana (state-wide)",
+      "StateName": "Telangana"
+    }
+  ],
+  "source": [
+    {
+      "url": "turn0search12"
+    },
+    {
+      "url": "turn0search15"
+    },
+    {
+      "url": "turn0search13"
+    },
+    {
+      "url": "turn0search17"
+    },
+    {
+      "url": "turn0search8"
+    }
+  ]
+}
+{
+  "id": "resp_0dd5e50b8305479600696dac66bef88193a1a81f1c3d7a52a5",
+  "created_at": 1768795238.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "gpt-4.1-2025-04-14",
+  "object": "response",
+  "output": [
+    {
+      "id": "ws_0dd5e50b8305479600696dac67c6f48193a0951f29e0618574",
+      "action": {
+        "query": "Kalvakuntla Chandrashekar Rao family members in politics",
+        "type": "search",
+        "queries": [
+          "Kalvakuntla Chandrashekar Rao family members in politics"
+        ],
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/K._Chandrashekar_Rao"
+          },
+          {
+            "type": "url",
+            "url": "https://www.business-standard.com/amp/elections/telangana-elections/telangana-assembly-elections-2023-a-glance-at-k-chandrashekhar-rao-s-life-123100600156_1.html"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Kalvakuntla_Kavitha"
+          },
+          {
+            "type": "url",
+            "url": "https://khammam.telangana.gov.in/kcr-profile/"
+          },
+          {
+            "type": "url",
+            "url": "https://telanganastateinfo.com/kalvakuntla-chandrashekar-rao/"
+          },
+          {
+            "type": "url",
+            "url": "https://justapedia.org/wiki/Kalvakuntla_Chandrashekar_Rao"
+          },
+          {
+            "type": "url",
+            "url": "https://timesofindia.indiatimes.com/elections/lok-sabha-elections-2019/telangana/news/k-chandrashekar-rao-all-you-need-to-know-about-trs-chief-and-telangana-cm/articleshow/68672583.cms"
+          },
+          {
+            "type": "url",
+            "url": "https://aboutthepeople.in/news/2024/01/23/kcrkalvakuntla-chandrashekar-rao/"
+          },
+          {
+            "type": "url",
+            "url": "https://politicaldps.blogspot.com/2016/09/kcr-kalvakuntla-chnadrashekar-rao-dp.html"
+          },
+          {
+            "type": "url",
+            "url": "https://www.indianrajniti.in/telangana-opposition-leader-kcr/"
+          },
+          {
+            "type": "url",
+            "url": "https://en.bharatpedia.org/wiki/List_of_political_families_of_Andhra_Pradesh_and_Telangana"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Political_families_of_India"
+          },
+          {
+            "type": "url",
+            "url": "https://kaweah.freedombox.rocks/kiwix/wikipedia_en_all_maxi_2023-10/A/Kalvakuntla_Chandrashekhar_Rao"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/K._T._Rama_Rao"
+          },
+          {
+            "type": "url",
+            "url": "https://www.veethi.com/india-people/kalvakuntla_chandrashekar_rao-profile-5368-19.htm"
+          },
+          {
+            "type": "url",
+            "url": "https://lawinsider.in/uncategorized/k-chandrashekar-rao"
+          },
+          {
+            "type": "url",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/kcr-family-feud-about-money-not-people-or-ideology-congress/articleshow/121420074.cms"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Joginapally_Santosh_Kumar"
+          },
+          {
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Surabhi_Vani_Devi"
+          },
+          {
+            "type": "url",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/kavitha-fell-into-congress-trap-brs/articleshow/125369840.cms"
+          },
+          {
+            "type": "url",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/brs-secretly-aligning-with-bjp-says-tpcc-chief/articleshow/123873350.cms"
+          },
+          {
+            "type": "url",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/siblings-at-war-to-claim-fathers-throne-in-telangana-kavitha-ktr-rift-deepens-triggering-fresh-split-rumours-within-kcrs-brs/articleshow/121507981.cms"
+          },
+          {
+            "type": "url",
+            "url": "https://m.economictimes.com/news/politics-and-nation/open-challenge-to-kcr-ktr-kavitha-akka-to-begin-four-month-long-yatra-in-telangana/articleshow/124674080.cms"
+          },
+          {
+            "type": "url",
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/power-struggle-within-family-led-to-k-kavithas-dramatic-exit/articleshow/123684267.cms"
+          },
+          {
+            "type": "url",
+            "url": "https://www.business-standard.com/amp/elections/telangana-elections/telangana-assembly-elections-2023-a-glance-at-k-chandrashekhar-rao-s-life-123100600156_1.html?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://khammam.telangana.gov.in/kcr-profile/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://telanganastateinfo.com/kalvakuntla-chandrashekar-rao/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://justapedia.org/wiki/Kalvakuntla_Chandrashekar_Rao?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://timesofindia.indiatimes.com/elections/lok-sabha-elections-2019/telangana/news/k-chandrashekar-rao-all-you-need-to-know-about-trs-chief-and-telangana-cm/articleshow/68672583.cms?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://aboutthepeople.in/news/2024/01/23/kcrkalvakuntla-chandrashekar-rao/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://politicaldps.blogspot.com/2016/09/kcr-kalvakuntla-chnadrashekar-rao-dp.html?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.indianrajniti.in/telangana-opposition-leader-kcr/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://en.bharatpedia.org/wiki/List_of_political_families_of_Andhra_Pradesh_and_Telangana?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://kaweah.freedombox.rocks/kiwix/wikipedia_en_all_maxi_2023-10/A/Kalvakuntla_Chandrashekhar_Rao?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.veethi.com/india-people/kalvakuntla_chandrashekar_rao-profile-5368-19.htm?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://lawinsider.in/uncategorized/k-chandrashekar-rao?utm_source=openai"
+          }
+        ]
+      },
+      "status": "completed",
+      "type": "web_search_call"
+    },
+    {
+      "id": "msg_0dd5e50b8305479600696dac69d22881939dc4b271e268ff82",
+      "content": [
+        {
+          "annotations": [],
+          "text": "{\n  \"candidate_key\": \"Kalvakuntla Chandrashekar Rao_Gajwel_Medak_Telangana Assembly Elections 2023\",\n  \"family\": [\n    {\n      \"Relation\": \"Son\",\n      \"Name\": \"Kalvakuntla Taraka Rama Rao\",\n      \"PoliticalRole\": \"Member of Legislative Assembly; Cabinet Minister for Panchayat Raj, Municipal Administration & Urban Development, Industries, IT & Communications; Working President of BRS\",\n      \"YearsHeld\": \"MLA since 2009 (Telangana since 2014); Minister in various portfolios since formation of Telangana; Working President of BRS (date unspecified)\",\n      \"ConstituencyName\": \"Sircilla\",\n      \"DistrictName\": \"Rajanna Sircilla (formerly Karimnagar)\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Daughter\",\n      \"Name\": \"Kalvakuntla Kavitha\",\n      \"PoliticalRole\": \"Member of Parliament, Lok Sabha (2014\u20132019); Member of Telangana Legislative Council (since 2020)\",\n      \"YearsHeld\": \"MP: 2014\u20132019; MLC: 2020\u2013present (term until 2026)\",\n      \"ConstituencyName\": \"Nizamabad (Lok Sabha); Nizamabad Local Authorities (MLC)\",\n      \"DistrictName\": \"Nizamabad\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Nephew\",\n      \"Name\": \"T. Harish Rao\",\n      \"PoliticalRole\": \"Member of Legislative Assembly; Cabinet Minister for Finance (and other portfolios)\",\n      \"YearsHeld\": \"MLA (dates unspecified, serving in second assembly and beyond); Finance Minister in second Telangana assembly\",\n      \"ConstituencyName\": \"Siddipet\",\n      \"DistrictName\": \"Siddipet\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Cousin\",\n      \"Name\": \"Joginapally Santosh Kumar\",\n      \"PoliticalRole\": \"Member of Rajya Sabha (or candidate running for Rajya Sabha); Executive roles in BRS and media\",\n      \"YearsHeld\": \"Date unspecified; running for Rajya Sabha as of recent\",\n      \"ConstituencyName\": \"Rajya Sabha (state-wide)\",\n      \"DistrictName\": \"Telangana (state-wide)\",\n      \"StateName\": \"Telangana\"\n    }\n  ],\n  \"source\": [\n    {\n      \"url\": \"turn0search12\"\n    },\n    {\n      \"url\": \"turn0search15\"\n    },\n    {\n      \"url\": \"turn0search13\"\n    },\n    {\n      \"url\": \"turn0search17\"\n    },\n    {\n      \"url\": \"turn0search8\"\n    }\n  ]\n}",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 0.55,
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search",
+      "filters": null,
+      "search_context_size": "medium",
+      "user_location": {
+        "city": null,
+        "country": "IN",
+        "region": null,
+        "timezone": null,
+        "type": "approximate"
+      }
+    }
+  ],
+  "top_p": 1.0,
+  "background": false,
+  "completed_at": 1768795244.0,
+  "conversation": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "generate_summary": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 17442,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 632,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 18074
+  },
+  "user": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": true
+}
+
+Process finished with exit code 0
+
+3. web_search_preview with JSON format in prompt.
+
+C:\Users\Rishi\AppData\Local\Programs\Python\Python314\python.exe "C:\Users\Rishi\Desktop\final dashboard\PROMPT api key\OpenAiLLMprompt.py" 
+{
+  "candidate_key": "Kalvakuntla Chandrashekar Rao_Gajwel_Medak_Telangana Assembly Elections 2023",
+  "family": [
+    {
+      "Relation": "Son",
+      "Name": "K. T. Rama Rao",
+      "PoliticalRole": "Member of Legislative Assembly (MLA) from Sircilla; Former Minister for IT, Municipal Administration & Urban Development in Telangana",
+      "YearsHeld": "MLA since 2009; Minister from 2014 to 2023",
+      "ConstituencyName": "Sircilla",
+      "DistrictName": "Rajanna Sircilla",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Daughter",
+      "Name": "K. Kavitha",
+      "PoliticalRole": "Former Member of Parliament (MP) from Nizamabad; Former Member of Legislative Council (MLC) from Nizamabad Local Authorities",
+      "YearsHeld": "MP from 2014 to 2019; MLC from 2020 to 2025",
+      "ConstituencyName": "Nizamabad",
+      "DistrictName": "Nizamabad",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Nephew",
+      "Name": "T. Harish Rao",
+      "PoliticalRole": "Member of Legislative Assembly (MLA) from Siddipet; Former Minister for Finance in Telangana",
+      "YearsHeld": "MLA since 2004; Minister from 2014 to 2023",
+      "ConstituencyName": "Siddipet",
+      "DistrictName": "Siddipet",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Nephew",
+      "Name": "Joginapally Santosh Kumar",
+      "PoliticalRole": "Member of Parliament (MP) in Rajya Sabha",
+      "YearsHeld": "Since 2018",
+      "ConstituencyName": "Telangana",
+      "DistrictName": "N/A",
+      "StateName": "Telangana"
+    }
+  ],
+  "source": [
+    {
+      "url": "https://en.wikipedia.org/wiki/K._Chandrashekar_Rao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/K._T._Rama_Rao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kalvakuntla_Kavitha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/T._Harish_Rao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joginapally_Santosh_Kumar"
+    }
+  ]
+} 
+{
+  "id": "resp_0bae2c8e2347d50e00696dad1da2b48197ac532f8db3925a0b",
+  "created_at": 1768795421.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "gpt-4.1-2025-04-14",
+  "object": "response",
+  "output": [
+    {
+      "id": "ws_0bae2c8e2347d50e00696dad1e1f948197adbf49a76d8f03f4",
+      "action": {
+        "query": "Kalvakuntla Chandrashekar Rao family members in politics",
+        "type": "search",
+        "queries": [
+          "Kalvakuntla Chandrashekar Rao family members in politics"
+        ],
+        "sources": null
+      },
+      "status": "completed",
+      "type": "web_search_call"
+    },
+    {
+      "id": "msg_0bae2c8e2347d50e00696dad1f208c8197ad6a4f23ebaf298b",
+      "content": [
+        {
+          "annotations": [],
+          "text": "{\n  \"candidate_key\": \"Kalvakuntla Chandrashekar Rao_Gajwel_Medak_Telangana Assembly Elections 2023\",\n  \"family\": [\n    {\n      \"Relation\": \"Son\",\n      \"Name\": \"K. T. Rama Rao\",\n      \"PoliticalRole\": \"Member of Legislative Assembly (MLA) from Sircilla; Former Minister for IT, Municipal Administration & Urban Development in Telangana\",\n      \"YearsHeld\": \"MLA since 2009; Minister from 2014 to 2023\",\n      \"ConstituencyName\": \"Sircilla\",\n      \"DistrictName\": \"Rajanna Sircilla\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Daughter\",\n      \"Name\": \"K. Kavitha\",\n      \"PoliticalRole\": \"Former Member of Parliament (MP) from Nizamabad; Former Member of Legislative Council (MLC) from Nizamabad Local Authorities\",\n      \"YearsHeld\": \"MP from 2014 to 2019; MLC from 2020 to 2025\",\n      \"ConstituencyName\": \"Nizamabad\",\n      \"DistrictName\": \"Nizamabad\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Nephew\",\n      \"Name\": \"T. Harish Rao\",\n      \"PoliticalRole\": \"Member of Legislative Assembly (MLA) from Siddipet; Former Minister for Finance in Telangana\",\n      \"YearsHeld\": \"MLA since 2004; Minister from 2014 to 2023\",\n      \"ConstituencyName\": \"Siddipet\",\n      \"DistrictName\": \"Siddipet\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Nephew\",\n      \"Name\": \"Joginapally Santosh Kumar\",\n      \"PoliticalRole\": \"Member of Parliament (MP) in Rajya Sabha\",\n      \"YearsHeld\": \"Since 2018\",\n      \"ConstituencyName\": \"Telangana\",\n      \"DistrictName\": \"N/A\",\n      \"StateName\": \"Telangana\"\n    }\n  ],\n  \"source\": [\n    {\n      \"url\": \"https://en.wikipedia.org/wiki/K._Chandrashekar_Rao\"\n    },\n    {\n      \"url\": \"https://en.wikipedia.org/wiki/K._T._Rama_Rao\"\n    },\n    {\n      \"url\": \"https://en.wikipedia.org/wiki/Kalvakuntla_Kavitha\"\n    },\n    {\n      \"url\": \"https://en.wikipedia.org/wiki/T._Harish_Rao\"\n    },\n    {\n      \"url\": \"https://en.wikipedia.org/wiki/Joginapally_Santosh_Kumar\"\n    }\n  ]\n} ",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 0.55,
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search_preview",
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": null,
+        "country": "IN",
+        "region": null,
+        "timezone": null
+      }
+    }
+  ],
+  "top_p": 1.0,
+  "background": false,
+  "completed_at": 1768795429.0,
+  "conversation": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "generate_summary": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 786,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 609,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 1395
+  },
+  "user": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": true
+}
+
+Process finished with exit code 0
+
+4. web_search_preview with JSON format in prompt and include web search sources 
+
+C:\Users\Rishi\AppData\Local\Programs\Python\Python314\python.exe "C:\Users\Rishi\Desktop\final dashboard\PROMPT api key\OpenAiLLMprompt.py" 
+{
+  "candidate_key": "Kalvakuntla Chandrashekar Rao_Gajwel_Medak_Telangana Assembly Elections 2023",
+  "family": [
+    {
+      "Relation": "Son",
+      "Name": "K. T. Rama Rao",
+      "PoliticalRole": "Member of Legislative Assembly (MLA) from Sircilla; Former Minister for IT, Municipal Administration & Urban Development",
+      "YearsHeld": "MLA since 2009; Minister from 2014 to 2023",
+      "ConstituencyName": "Sircilla",
+      "DistrictName": "Rajanna Sircilla",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Daughter",
+      "Name": "K. Kavitha",
+      "PoliticalRole": "Former Member of Parliament (MP) from Nizamabad; Former Member of Legislative Council (MLC) from Nizamabad Local Authorities",
+      "YearsHeld": "MP from 2014 to 2019; MLC from 2020 to 2025",
+      "ConstituencyName": "Nizamabad",
+      "DistrictName": "Nizamabad",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Nephew",
+      "Name": "T. Harish Rao",
+      "PoliticalRole": "Member of Legislative Assembly (MLA) from Siddipet; Former Minister for Finance",
+      "YearsHeld": "MLA since 2004; Minister from 2014 to 2023",
+      "ConstituencyName": "Siddipet",
+      "DistrictName": "Siddipet",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Nephew",
+      "Name": "Joginapally Santosh Kumar",
+      "PoliticalRole": "Member of Parliament (MP) in Rajya Sabha",
+      "YearsHeld": "Since 2018",
+      "ConstituencyName": "Telangana",
+      "DistrictName": "N/A",
+      "StateName": "Telangana"
+    }
+  ],
+  "source": [
+    {
+      "url": "https://en.wikipedia.org/wiki/K._Chandrashekar_Rao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/K._T._Rama_Rao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kalvakuntla_Kavitha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/T._Harish_Rao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joginapally_Santosh_Kumar"
+    }
+  ]
+} 
+{
+  "id": "resp_00e01ac8132102a200696dad97995881a38c0cb77b4c3bb103",
+  "created_at": 1768795543.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "gpt-4.1-2025-04-14",
+  "object": "response",
+  "output": [
+    {
+      "id": "ws_00e01ac8132102a200696dad991de081a3944b6e4de2bcd487",
+      "action": {
+        "query": "Kalvakuntla Chandrashekar Rao family members in politics",
+        "type": "search",
+        "queries": [
+          "Kalvakuntla Chandrashekar Rao family members in politics"
+        ],
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://justapedia.org/wiki/Kalvakuntla_Chandrashekar_Rao?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://telanganastateinfo.com/kalvakuntla-chandrashekar-rao/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://khammam.telangana.gov.in/kcr-profile/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://en.bharatpedia.org/wiki/List_of_political_families_of_Andhra_Pradesh_and_Telangana?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://aboutthepeople.in/news/2024/01/23/kcrkalvakuntla-chandrashekar-rao/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.wikigraphy.in/k-chandrashekar-rao/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://teluguelectionsonline.wordpress.com/2017/11/01/sri-kalvakuntla-chandrashekar-rao/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://kcrvision.wordpress.com/about/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.xwhos.com/person/k_chandrashekar_rao-whois.html?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://lawinsider.in/uncategorized/k-chandrashekar-rao?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://newstrail.in/kalvakuntla-chandrashekar-rao-telanganas-first-chief-minister/?utm_source=openai"
+          },
+          {
+            "type": "url",
+            "url": "https://www.moneycontrol.com/news/politics/k-chandrashekar-rao-know-the-journey-of-the-architect-of-telangana-movement-3102661.html?utm_source=openai"
+          }
+        ]
+      },
+      "status": "completed",
+      "type": "web_search_call"
+    },
+    {
+      "id": "msg_00e01ac8132102a200696dad9afaec81a3a8c115eeb3b4b044",
+      "content": [
+        {
+          "annotations": [],
+          "text": "{\n  \"candidate_key\": \"Kalvakuntla Chandrashekar Rao_Gajwel_Medak_Telangana Assembly Elections 2023\",\n  \"family\": [\n    {\n      \"Relation\": \"Son\",\n      \"Name\": \"K. T. Rama Rao\",\n      \"PoliticalRole\": \"Member of Legislative Assembly (MLA) from Sircilla; Former Minister for IT, Municipal Administration & Urban Development\",\n      \"YearsHeld\": \"MLA since 2009; Minister from 2014 to 2023\",\n      \"ConstituencyName\": \"Sircilla\",\n      \"DistrictName\": \"Rajanna Sircilla\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Daughter\",\n      \"Name\": \"K. Kavitha\",\n      \"PoliticalRole\": \"Former Member of Parliament (MP) from Nizamabad; Former Member of Legislative Council (MLC) from Nizamabad Local Authorities\",\n      \"YearsHeld\": \"MP from 2014 to 2019; MLC from 2020 to 2025\",\n      \"ConstituencyName\": \"Nizamabad\",\n      \"DistrictName\": \"Nizamabad\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Nephew\",\n      \"Name\": \"T. Harish Rao\",\n      \"PoliticalRole\": \"Member of Legislative Assembly (MLA) from Siddipet; Former Minister for Finance\",\n      \"YearsHeld\": \"MLA since 2004; Minister from 2014 to 2023\",\n      \"ConstituencyName\": \"Siddipet\",\n      \"DistrictName\": \"Siddipet\",\n      \"StateName\": \"Telangana\"\n    },\n    {\n      \"Relation\": \"Nephew\",\n      \"Name\": \"Joginapally Santosh Kumar\",\n      \"PoliticalRole\": \"Member of Parliament (MP) in Rajya Sabha\",\n      \"YearsHeld\": \"Since 2018\",\n      \"ConstituencyName\": \"Telangana\",\n      \"DistrictName\": \"N/A\",\n      \"StateName\": \"Telangana\"\n    }\n  ],\n  \"source\": [\n    {\n      \"url\": \"https://en.wikipedia.org/wiki/K._Chandrashekar_Rao\"\n    },\n    {\n      \"url\": \"https://en.wikipedia.org/wiki/K._T._Rama_Rao\"\n    },\n    {\n      \"url\": \"https://en.wikipedia.org/wiki/Kalvakuntla_Kavitha\"\n    },\n    {\n      \"url\": \"https://en.wikipedia.org/wiki/T._Harish_Rao\"\n    },\n    {\n      \"url\": \"https://en.wikipedia.org/wiki/Joginapally_Santosh_Kumar\"\n    }\n  ]\n} ",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 0.55,
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search_preview",
+      "search_context_size": "medium",
+      "user_location": {
+        "type": "approximate",
+        "city": null,
+        "country": "IN",
+        "region": null,
+        "timezone": null
+      }
+    }
+  ],
+  "top_p": 1.0,
+  "background": false,
+  "completed_at": 1768795553.0,
+  "conversation": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "generate_summary": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 786,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 605,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 1391
+  },
+  "user": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": true
+}
+
+Process finished with exit code 0
+
+
+5. With JSON output in prompt and no web search tool 
+
+C:\Users\Rishi\AppData\Local\Programs\Python\Python314\python.exe "C:\Users\Rishi\Desktop\final dashboard\PROMPT api key\OpenAiLLMprompt.py" 
+{
+  "candidate_key": "Kalvakuntla Chandrashekar Rao_Gajwel_Medak_Telangana Assembly Elections 2023",
+  "family": [
+    {
+      "Relation": "Son",
+      "Name": "Kalvakuntla Taraka Rama Rao",
+      "PoliticalRole": "Minister for Municipal Administration & Urban Development, IT, Electronics and Communications, Telangana; MLA",
+      "YearsHeld": "2014–present",
+      "ConstituencyName": "Sircilla",
+      "DistrictName": "Rajanna Sircilla",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Daughter",
+      "Name": "Kalvakuntla Kavitha",
+      "PoliticalRole": "Member of Legislative Council (MLC), Former Member of Parliament (MP)",
+      "YearsHeld": "MP: 2014–2019; MLC: 2020–present",
+      "ConstituencyName": "Nizamabad (MP); Nizamabad Local Authorities (MLC)",
+      "DistrictName": "Nizamabad",
+      "StateName": "Telangana"
+    },
+    {
+      "Relation": "Nephew",
+      "Name": "Harish Rao Thanneeru",
+      "PoliticalRole": "Minister for Finance, Health, Medical & Family Welfare, Telangana; MLA",
+      "YearsHeld": "2004–present",
+      "ConstituencyName": "Siddipet",
+      "DistrictName": "Siddipet",
+      "StateName": "Telangana"
+    }
+  ],
+  "source": [
+    {
+      "url": "https://en.wikipedia.org/wiki/K._Chandrasekhar_Rao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/K._T._Rama_Rao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/K._Kavitha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/T._Harish_Rao"
+    }
+  ]
+}

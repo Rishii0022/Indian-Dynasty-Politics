@@ -6,6 +6,9 @@ Analysis of dynasty politics in Indian democracy using automated web scraping, A
 ## Problem Statement
 India faces a paradox: the world's largest democracy exhibits high rates of dynasty politics. Representatives are often elected based on family lineage rather than qualifications.
 
+## Tableau Dashboard Link
+https://public.tableau.com/app/profile/rishi0022/viz/IndianDynastyPolitics/DynastyRateOverYears
+
 ---
 
 ## Project Components
@@ -101,6 +104,12 @@ pip install pandas selenium beautifulsoup4 requests openai pydantic python-doten
 - [Azure OpenAI Documentation](Docs/REFERENCES.md#2-azure-openai-documentation)
 - [AI Related Articles](Docs/REFERENCES.md#3-ai-related-articles)
 - [Research Papers](Docs/REFERENCES.md#4-research-papers)
+
+### Project Overview
+- [API Keys Usage](Docs/API KEYS)
+- [Project High Level Overview](Docs/Data Creation Walkthrough)
+- [Project Walkthrough](Docs/Project Rough Overview)
+
 
 ---
 

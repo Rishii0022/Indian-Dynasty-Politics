@@ -1,0 +1,85 @@
+Sub SplitDataBySelectedColumn()
+    Dim ws As Worksheet
+    Dim wsNew As Worksheet
+    Dim rng As Range
+    Dim lastRow As Long
+    Dim lastCol As Long
+    Dim uniqueValues As Collection
+    Dim cell As Range
+    Dim value As Variant
+    Dim colToFilter As Long
+    Dim columnHeader As String
+    Dim headerFound As Boolean
+    Dim i As Long
+    Dim sanitizedValue As String
+    Dim folderPath As String
+    Dim filePath As String
+
+    Set ws = ActiveSheet
+    lastRow = ws.Cells(ws.Rows.Count, 1).End(xlUp).Row
+    lastCol = ws.Cells(1, ws.Columns.Count).End(xlToLeft).Column
+    Set rng = ws.Range(ws.Cells(1, 1), ws.Cells(lastRow, lastCol))
+
+    columnHeader = InputBox("Enter the column header to split the data by (case-insensitive):")
+    If columnHeader = "" Then Exit Sub
+
+    headerFound = False
+    For colToFilter = 1 To lastCol
+        If LCase(ws.Cells(1, colToFilter).value) = LCase(columnHeader) Then
+            headerFound = True
+            Exit For
+        End If
+    Next colToFilter
+    If Not headerFound Then Exit Sub
+
+    Set uniqueValues = New Collection
+    On Error Resume Next
+    For Each cell In ws.Range(ws.Cells(2, colToFilter), ws.Cells(lastRow, colToFilter))
+        uniqueValues.Add cell.value, CStr(cell.value)
+    Next cell
+    On Error GoTo 0
+
+    folderPath = "C:\Users\Rishi\Desktop\lok sabha split\"
+
+    For Each value In uniqueValues
+
+        sanitizedValue = Replace(CStr(value), "/", "_")
+        sanitizedValue = Replace(sanitizedValue, "\", "_")
+        sanitizedValue = Replace(sanitizedValue, "*", "_")
+        sanitizedValue = Replace(sanitizedValue, "[", "_")
+        sanitizedValue = Replace(sanitizedValue, "]", "_")
+        sanitizedValue = Left(sanitizedValue, 31)
+
+        On Error Resume Next
+        Set wsNew = ThisWorkbook.Sheets(sanitizedValue)
+        On Error GoTo 0
+        If wsNew Is Nothing Then
+            Set wsNew = ThisWorkbook.Sheets.Add(After:=ThisWorkbook.Sheets(ThisWorkbook.Sheets.Count))
+            wsNew.Name = sanitizedValue
+        Else
+            Set wsNew = Nothing
+            GoTo NextValue
+        End If
+
+        ws.Rows(1).Copy Destination:=wsNew.Rows(1)
+
+        i = 2
+        For Each cell In ws.Range(ws.Cells(2, colToFilter), ws.Cells(lastRow, colToFilter))
+            If cell.value = value Then
+                cell.EntireRow.Copy wsNew.Rows(i)
+                i = i + 1
+            End If
+        Next cell
+
+        filePath = folderPath & sanitizedValue & ".csv"
+
+        wsNew.Copy
+        ActiveWorkbook.SaveAs Filename:=filePath, FileFormat:=xlCSV
+        ActiveWorkbook.Close SaveChanges:=False
+
+NextValue:
+        Set wsNew = Nothing
+    Next value
+
+End Sub
+

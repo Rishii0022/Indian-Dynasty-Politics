@@ -1,0 +1,98 @@
+> Example 1:
+  GPT 5 nano with Pydantic structure 
+  Chittem parnika, web search  
+
+family=[
+Relatives(Relation='Grandfather', Name='Chittem Narsi Reddy', PoliticalRole='Member of the Legislative Assembly', YearsHeld='1984, 1989', ConstituencyName='Makthal', DistrictName='Mahbubnagar', StateName='Andhra Pradesh'), Relatives
+
+(Relation='Uncle', Name='Chittem Ram Mohan Reddy', PoliticalRole='Member of the Legislative Assembly', YearsHeld='2014-2018', ConstituencyName='Makthal', DistrictName='Mahbubnagar', StateName='Telangana'), 
+
+Relatives(Relation='Aunt', Name='D. K. Aruna', PoliticalRole='Member of Parliament, Lok Sabha', YearsHeld='2024-present; 2004-2014 (MLA Gadwal, AP)\n2014-2018 (MLA Gadwal, TS); 2010-2014 (I&PR Minister, AP)', ConstituencyName='Mahabubnagar (Lok Sabha); Gadwal (AP/TS MLA)', DistrictName='Mahabubnagar (Gadwal in TS/ AP)', StateName='Telangana (andhra pradesh pre-2014)'), 
+
+Relatives(Relation='In-law', Name='D. K. Satya Reddy', PoliticalRole='Member of the Legislative Assembly', YearsHeld='1957; 1978; 1980 (byelection)', ConstituencyName='Gadwal', DistrictName='Gadwal', StateName='Andhra Pradesh'), 
+
+Relatives(Relation='In-law', Name='D. K. Samara Simha Reddy', PoliticalRole='Member of the Legislative Assembly', YearsHeld='1980; 1983; 1985; 1987; 1989; 1994', ConstituencyName='Gadwal', DistrictName='Gadwal', StateName='Andhra Pradesh'), 
+
+Relatives(Relation='Uncle', Name='Kumbham Shiva Kumar Reddy', PoliticalRole='Narayanpet District Congress Committee President', YearsHeld='2019-present', ConstituencyName='N/A', DistrictName='Narayanpet', StateName='Telangana')
+] 
+
+source=[
+Sources(url='https://en.wikipedia.org/wiki/Chittem_Narsi_Reddy'), Sources(url='https://en.wikipedia.org/wiki/Chittem_Rammohan_Reddy'), Sources(url='https://narayanpet.telangana.gov.in/constituency/'), 
+Sources(url='https://en.wikipedia.org/wiki/D._K._Aruna'), Sources(url='https://en.wikipedia.org/wiki/Gadwal_Assembly_constituency'), Sources(url='https://telugupoliticalwiki.com/2023/11/chittem-parnika-reddy.html'), 
+Sources(url='https://www.business-standard.com/elections/telangana-elections/chittem-ram-mohan-reddy-candidate-32676'), Sources(url='https://telanganatoday.com/get-to-know-your-mla-a-beacon-of-hope-and-progress/')
+]
+
+
+> Example 2:
+  Candidate Name{Chittem parnika} GPT nano 5 Pydantic structure, web search preview
+
+ 
+family=[
+Relatives(Relation='Grandfather', Name='Chittem Narsi Reddy', PoliticalRole='Member of Legislative Assembly, Makthal', YearsHeld='1983-1985', ConstituencyName='Makthal', DistrictName='Mahabubnagar (now Narayanpet district)', StateName='Andhra Pradesh'), 
+Relatives(Relation='Uncle', Name='Chittem Ram Mohan Reddy', PoliticalRole='Member of Legislative Assembly, Makthal', YearsHeld='2005-2009 (AP bye-poll); 2014-2018 (Telangana)', ConstituencyName='Makthal', DistrictName='Mahabubnagar (AP) / Narayanpet (TS)', StateName='Andhra Pradesh / Telangana'), 
+Relatives(Relation='Aunt', Name='D. K. Aruna', PoliticalRole='MLA Gadwal (AP, 2004-2014); MLA Gadwal (TS, 2014-2018); Member of Parliament, Lok Sabha (Mahabubnagar, 2024-present)', YearsHeld='2004-2014 (Gadwal MLA, AP); 2014-2018 (Gadwal MLA, TS); 2024-present (MP Mahabubnagar)', ConstituencyName='Gadwal; Mahabubnagar (Lok Sabha)', DistrictName='Gadwal (AP/TS) / Mahabubnagar district', StateName='Andhra Pradesh / Telangana')
+] 
+
+source=[
+Sources(url='https://en.wikipedia.org/wiki/Chittem_Narsi_Reddy'), Sources(url='https://en.wikipedia.org/wiki/Chittem_Rammohan_Reddy'), Sources(url='https://www.rediff.com/news/2005/aug/15jafri.htm'), Sources(url='https://www.thehindu.com/elections/telangana-assembly/bloodline-and-ballot-when-family-ties-cut-through-party-lines/article67584033.ece'), Sources(url='https://timesofindia.indiatimes.com/elections/assembly-elections/telangana/constituency-show/makthal'), Sources(url='https://www.india Today.in/elections/telangana/makthal-constituency-result-29077'), Sources(url='https://results.eci.gov.in/AcResultGenDecNew2023/ConstituencywiseS2977.htm'), Sources(url='https://en.wikipedia.org/wiki/Chittem_Rammohan_Reddy'), Sources(url='https://en.wikipedia.org/wiki/D._K._Aruna'), Sources(url='https://www.thenewsminute.com/telangana/they-control-everything-tracing-dk-aruna-s-political-lineage-telangana-s-gadwal-92819'), 
+Sources(url='https://narayanpet.telangana.gov.in/constituency/'), Sources(url='https://en.wikipedia.org/wiki/Gadwal_Assembly_constituency')]
+
+
+
+> Example 3: 
+  KCR with GPT nano 5 Pydantic structure, web search
+
+family=[
+Relatives(Relation='Daughter', Name='Kalvakuntla Kavitha', PoliticalRole='Member of Parliament, Lok Sabha (Nizamabad)', YearsHeld='2014-2019', ConstituencyName='Nizamabad', DistrictName='Nizamabad', StateName='Telangana'), 
+
+Relatives(Relation='Daughter', Name='Kalvakuntla Kavitha', PoliticalRole='Member of Telangana Legislative Council (Nizamabad Local Authorities)', YearsHeld='2020-2026', ConstituencyName='Nizamabad Local Authorities', DistrictName='Nizamabad', StateName='Telangana'),
+
+Relatives(Relation='Son', Name='Kalvakuntla Taraka Rama Rao', PoliticalRole='Member of Legislative Assembly (MLA) from Sircilla', YearsHeld='2009-present', ConstituencyName='Sircilla', DistrictName='Rajanna-Sircilla', StateName='Telangana'), 
+
+Relatives(Relation='Son', Name='Kalvakuntla Taraka Rama Rao', PoliticalRole='Minister for Panchayat Raj, Municipal Administration & Urban Development, Industries & Information Technology & Communications', YearsHeld='2014-2018; 2019-present', ConstituencyName='Sircilla', DistrictName='Rajanna-Sircilla', StateName='Telangana'), 
+
+Relatives(Relation='Nephew', Name='T. Harish Rao', PoliticalRole='Minister for Irrigation, Marketing & Legislative Affairs', YearsHeld='2014-2018', ConstituencyName='Siddipet', DistrictName='Siddipet', StateName='Telangana'), 
+
+Relatives(Relation='Nephew', Name='T. Harish Rao', PoliticalRole='Minister for Finance', YearsHeld='2019-2023', ConstituencyName='Siddipet', DistrictName='Siddipet', StateName='Telangana'), 
+
+Relatives(Relation='Nephew', Name='Joginapally Santosh Kumar', PoliticalRole='Member of Rajya Sabha, Telangana', YearsHeld='2018-2024', ConstituencyName='Telangana', DistrictName='N/A', StateName='Telangana')] 
+
+source=[
+Sources(url='https://www.indiatoday.in/cities/hyderabad/story/telangana-cm-s-daughter-kavitha-takes-oath-as-nizamabad-mlc-1736234-2020-10-29'), 
+Sources(url='https://www.timesofindia.indiatimes.com/city/hyderabad/kavitha-rules-out-joining-cong-says-no-decision-on-launching-new-party/articleshow/124018846.cms'), 
+Sources(url='https://en.wikipedia.org/wiki/Kalvakuntla_Kavitha'), Sources(url='https://en.wikipedia.org/wiki/K._T._Rama_Rao'), Sources(url='https://www.ktramarao.com/ktrs-portfolio/'), 
+Sources(url='https://www.financialexpress.com/india-news/ktr-sircilla-telangana-election-result-2023-live-updates/3322613/'), Sources(url='https://en.wikipedia.org/wiki/T._Harish_Rao'), 
+Sources(url='https://indianexpress.com/article/political-pulse/kavithas-crosshairs-brs-faces-kcr-nephews-who-are-harish-rao-santosh-kumar-10226406/lite/'), 
+Sources(url='https://www.newindianexpress.com/states/telangana/2018/mar/12/telangana-cm-kcr-picks-nephew-joginpally-santosh-kumar-for-rajya-sabha-1785757.html'), 
+Sources(url='https://www.thenewsminute.com/telangana/hyderabad-cops-book-kcrs-nephew-santosh-land-grabbing-case-1714')
+]
+
+> Example 4:
+  KCR with GPT nano 5 Pydantic structure, web search preview 
+
+family=[
+Relatives(Relation='Son', Name='K. T. Rama Rao', PoliticalRole='Member of Legislative Assembly, Telangana (MLA) from Sircilla; Minister for Industries; Former Minister for Panchayat Raj, Municipal Administration & Urban Development; Working President of Bharat Rashtra Samithi', YearsHeld='2009-2014; 2014-present', ConstituencyName='Sircilla', DistrictName='Karimnagar', StateName='Telangana'), 
+
+Relatives(Relation='Daughter', Name='Kalvakuntla Kavitha', PoliticalRole='Member of Parliament, Lok Sabha (Nizamabad) 2014-2019', YearsHeld='2014-2019', ConstituencyName='Nizamabad', DistrictName='Nizamabad', StateName='Telangana'),
+
+Relatives(Relation='Daughter', Name='Kalvakuntla Kavitha', PoliticalRole='Member of Telangana Legislative Council (Nizamabad Local Authorities) 2020-2026', YearsHeld='2020-2026', ConstituencyName='Nizamabad Local Authorities', DistrictName='Nizamabad', StateName='Telangana'), 
+
+Relatives(Relation='Nephew', Name='T. Harish Rao', PoliticalRole='Minister for Finance, Telangana (2019-2023); Minister for Irrigation (2014-2018); MLA from Siddipet (since 2004)', YearsHeld='2004-present; Irrigation Minister 2014-2018; Finance Minister 2019-2023', ConstituencyName='Siddipet', DistrictName='Siddipet', StateName='Telangana'), 
+
+Relatives(Relation='Nephew', Name='Joginapally Santosh Kumar', PoliticalRole='Member of Parliament, Rajya Sabha (Telangana) 2018-2024; General Secretary of Bharat Rashtra Samithi', YearsHeld='2018-2024', ConstituencyName='Rajya Sabha', DistrictName='Telangana', StateName='Telangana')] 
+
+source=[
+
+Sources(url='https://en.wikipedia.org/wiki/K._Chandrashekar_Rao'), Sources(url='https://en.wikipedia.org/wiki/K._T._Rama_Rao'), Sources(url='https://en.wikipedia.org/wiki/Kalvakuntla_Kavitha'), Sources(url='https://en.wikipedia.org/wiki/T._Harish_Rao'), Sources(url='https://en.wikipedia.org/wiki/Joginapally_Santosh_Kumar'), Sources(url='https://www.newindianexpress.com/states/telangana/2018/mar/12/telangana-cm-kcr-picks-nephew-joginapally-santosh-kumar-for-rajya-sabha-1785757.html'), 
+Sources(url='https://www.livemint.com/elections/assembly-elections/siddipet-telangana-assembly-election-results-live-t-harish-rao-k-chandrashekhar-rao-brs-11701537014681.html'), 
+Sources(url='https://www.business-standard.com/amp/elections/telangana-elections/telangana-assembly-elections-2023-a-glance-at-k-chandrashekhar-rao-s-life-123100600156_1.html')]
+
+
+ "text": {"format": {"type": "json_schema", "name": "CandidateFamilyResponse", "schema": {"type": "object", "properties": {"family": {"type": "array","items": {"type": "object", "properties": {"Relation": { "type": "string" }, "Name": { "type": "string" }, "PoliticalRole": { "type": "string" }, "YearsHeld": { "type":"string" },"ConstituencyName": { "type": "string" }, "DistrictName": { "type": "string" }, "StateName": { "type": "string" }}, "required": ["Relation", "Name", "PoliticalRole", "YearsHeld", "ConstituencyName", "DistrictName", "StateName"],"additionalProperties": False}}, "sources": {"type": "array", "items": {"type": "object", "properties": {"url": { "type": "string" }},"required": ["url"], "additionalProperties": False}}}, "required": ["family", "sources"], "additionalProperties": False},"strict": True}}}}
+
+
+"YearsHeld": { "type":"string" }
+
+"YearsHeld": {"oneOf": [{ "type": "string" },{ "type": "number" }]}
+
+

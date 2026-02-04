@@ -1,0 +1,31 @@
+AndhraPradesh - 1952, 1955, 1962, 1967, 1972
+ArunachalPradesh - 1977
+Assam - 1952, 1957, 1962, 1967, 1972
+Bihar - 1952, 1957, 1962, 1967, 1972
+Chhattisgarh - 
+Delhi - 1952, 1957, 1962, 1967, 1972
+Goa - 1963, 1967, 1972
+Gujarat - 1962, 1967, 1972
+Haryana - 1967, 1972
+HimachalPradesh - 1952, 1957, 1962, 1967, 1972
+Jammu&Kashmir - 1951, 1957, 1962, 1967, 1972
+Jharkhand - 2000, 2019
+Karnataka - 1952, 1957, 1962, 1967, 1972
+Kerala - 1957, 1960, 1965, 1970
+MadhyaPradesh - 1952, 1957, 1962, 1967, 1972
+Maharashtra - 1960, 1962, 1967, 1972
+Manipur - 1972
+Meghalaya - 1972
+Mizoram - 1972
+Nagaland - 1964, 1974
+Odisha - 1952, 1957, 1962, 1967, 1971
+Puducherry - 1964, 1968, 1974
+Punjab - 1952, 1957, 1962, 1967, 1972
+Rajasthan - 1952, 1957, 1962, 1967, 1972
+Sikkim - 1974
+TamilNadu - 1952, 1957, 1962, 1967, 1971
+Telangana - —
+Tripura - 1972
+UttarPradesh - 1952, 1957, 1962, 1967, 1974
+Uttarakhand - —
+WestBengal - 1952, 1957, 1962, 1967, 1972

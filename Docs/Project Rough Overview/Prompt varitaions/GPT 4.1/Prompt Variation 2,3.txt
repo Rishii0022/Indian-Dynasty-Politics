@@ -1,0 +1,59 @@
+> Variation 2 
+
+Return only a list of direct and extended family members of winning candidate {Name} who are involved in politics, formatted exactly as specified.
+
+
+Context:
+State Name: 
+Election Name: 
+Constituency Name: 
+District Name: 
+Father/husband name: 
+
+
+Rules:
+
+If any detail (years held, constituency, district, or state) is not publicly available, use “Unknown” instead of omitting the relative.
+
+Output only direct and extended family members who meet the inclusion criteria
+
+If none of his direct or extended family members have held any political role, output exactly:
+No family
+
+Important: Do not add citations, explanations, notes, disclaimers, headings, or extra text
+
+Output Structure:
+Relation - Relative Name — Political role/position - {[Years held](if known)} — {[constituency name, district name, State name](if applicable / if known)}
+
+
+
+
+> Variation 3 
+
+Return only a list of direct and extended family members of winning candidate {Name} who are involved in politics, formatted exactly as specified.
+
+Context:
+State Name: 
+Election Name: 
+Constituency Name: 
+District Name: 
+Father/husband name:s
+
+
+Rules:
+
+Output only direct and extended family members who meet the inclusion criteria
+
+You must exhaustively identify and include all publicly known direct and extended family members (including parents, siblings, grandparents, aunts, uncles, cousins, and in-laws) of the candidate who have held or contested any political office. Do not stop after listing one relative.
+
+Before responding, internally verify that no other qualifying relatives are omitted.
+
+If any detail (years held, constituency, district, or state) is not publicly available, use “Unknown” instead of omitting the relative
+
+If none of his direct or extended family members have held any political role, output exactly:
+No family
+
+Do not add citations, explanations, notes, disclaimers, headings, or extra text
+
+Output Structure:
+Relation - Relative Name — Political role/position - {[Years held](if known)} — {[constituency name, district name, State name](if applicable / if known)}
