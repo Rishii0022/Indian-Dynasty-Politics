@@ -104,11 +104,12 @@ pip install pandas selenium beautifulsoup4 requests openai pydantic python-doten
 - [Azure OpenAI Documentation](Docs/REFERENCES.md#2-azure-openai-documentation)
 - [AI Related Articles](Docs/REFERENCES.md#3-ai-related-articles)
 - [Research Papers](Docs/REFERENCES.md#4-research-papers)
+- [Sources](Docs/REFERENCES.md#5-web-scraping-sources)
 
-### Project Overview
-- [API Keys Usage](Docs/API KEYS)
-- [Project High Level Overview](Docs/Data Creation Walkthrough)
-- [Project Walkthrough](Docs/Project Rough Overview)
+### Project Overview (Docs Folder)
+- [API Keys Usage](Docs/API%20Keys.md)
+- [Project High Level Overview](Docs/Data%20Creation%20Walkthrough.md)
+- [Project Walkthrough](Docs/Project%20Rough%20Overview.md)
 
 
 ---
